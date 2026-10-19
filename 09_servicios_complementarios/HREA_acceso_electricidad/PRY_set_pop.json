@@ -1,0 +1,68 @@
+{
+  "stac_version": "1.0.0",
+  "stac_extensions": [],
+  "type": "Feature",
+  "id": "PRY_set_pop",
+  "bbox": [
+    -62.64651871000000,
+    -27.60581549960000,
+    -54.25929581680001,
+    -19.29137039000000
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -62.64651871000000,
+          -27.60581549960000
+        ],
+        [
+          -54.25929581680001,
+          -27.60581549960000
+        ],
+        [
+          -54.25929581680001,
+          -19.29137039000000
+        ],
+        [
+          -62.64651871000000,
+          -19.29137039000000
+        ],
+        [
+          -62.64651871000000,
+          -27.60581549960000
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "title": "Settlement population for PRY",
+    "description": "Interpolated population of settlements for Paraguay from Meta's High Resolution Settlement Layer",
+    "datetime": null
+  },
+  "links": [
+    {
+      "rel": "root",
+      "href": "./././catalog.json",
+      "type": "application/json",
+      "title": "HREA Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "./catalog.json",
+      "type": "application/json",
+      "title": "PRY-PRY Catalog"
+    }
+  ],
+  "assets": {
+    "population": {
+      "href": "https://globalnightlight.s3.amazonaws.com/HREAv1.1_COGs/PRY/PRY/PRY_set_pop.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "title": "Settlement population for PRY",
+      "roles": [
+        "data"
+      ]
+    }
+  }
+}

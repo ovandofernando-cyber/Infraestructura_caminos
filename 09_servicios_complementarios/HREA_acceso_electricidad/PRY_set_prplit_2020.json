@@ -1,0 +1,77 @@
+{
+  "stac_version": "1.0.0",
+  "stac_extensions": [],
+  "type": "Feature",
+  "id": "PRY_set_prplit_2020",
+  "bbox": [
+    -62.64651871000000,
+    -27.60581549960000,
+    -54.25929581680001,
+    -19.29137039000000
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -62.64651871000000,
+          -27.60581549960000
+        ],
+        [
+          -54.25929581680001,
+          -27.60581549960000
+        ],
+        [
+          -54.25929581680001,
+          -19.29137039000000
+        ],
+        [
+          -62.64651871000000,
+          -19.29137039000000
+        ],
+        [
+          -62.64651871000000,
+          -27.60581549960000
+        ]
+      ]
+    ]
+  },
+  "properties": {
+    "title": "Proportion of nights settlements lit for PRY, 2020",
+    "description": "Proportion of nights settlements lit in 2020 for Paraguay",
+    "datetime": null,
+    "start_datetime": "2020-01-01T00:00:00.000Z",
+    "end_datetime": "2020-12-31T23:59:59.999Z"
+  },
+  "collection": "PRY-PRY-set_prplit-collection",
+  "links": [
+    {
+      "rel": "collection",
+      "href": "./collection.json",
+      "type": "application/json",
+      "title": "PRY-PRY set_prplit Collection"
+    },
+    {
+      "rel": "root",
+      "href": "././././catalog.json",
+      "type": "application/json",
+      "title": "HREA Catalog"
+    },
+    {
+      "rel": "parent",
+      "href": "./collection.json",
+      "type": "application/json",
+      "title": "PRY-PRY set_prplit Collection"
+    }
+  ],
+  "assets": {
+    "set_prplit": {
+      "href": "https://globalnightlight.s3.amazonaws.com/HREAv1.1_COGs/PRY/PRY/set_prplit/PRY_set_prplit_2020.tif",
+      "type": "image/tiff; application=geotiff; profile=cloud-optimized",
+      "title": "Proportion of nights settlements lit for PRY, 2020",
+      "roles": [
+        "data"
+      ]
+    }
+  }
+}

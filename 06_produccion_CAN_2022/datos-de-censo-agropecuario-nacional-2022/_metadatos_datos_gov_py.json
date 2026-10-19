@@ -1,0 +1,63 @@
+{
+ "id": "2d9a2947-d645-459c-84e1-281b1815a400",
+ "name": "datos-de-censo-agropecuario-nacional-2022",
+ "title": "Datos de Censo Agropecuario Nacional 2022 ",
+ "author": "Dirección de Censos y Estadísticas Agropecuarias ",
+ "author_email": "lourdes.espinola@mag.gov.py",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>Cantidad y superficie de fincas agropecuarias por tamaño de fincas, según departamentos y distritos.</p>\n",
+ "url": "https://www.datos.gov.py/dataset/datos-de-censo-agropecuario-nacional-2022",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Mié, 04/22/2026 - 15:53",
+ "metadata_created": "Mié, 04/22/2026 - 15:05",
+ "metadata_modified": "Mié, 04/22/2026 - 15:53",
+ "creator_user_id": "22b99938-2e26-4ff2-ba88-a2960f520853",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "edc9a489-c25b-4215-895a-438e50f9a898",
+   "revision_id": "",
+   "url": "",
+   "description": "<p>Cantidad y superficie de fincas agropecuarias por tamaño de fincas, según departamentos y distritos.</p>\n",
+   "format": "excel",
+   "state": "Active",
+   "revision_timestamp": "Mié, 04/22/2026 - 15:09",
+   "name": "Datos de Censo Agropecuario Nacional 2022 ",
+   "mimetype": "excel",
+   "size": "",
+   "created": "Mié, 04/22/2026 - 15:09",
+   "resource_group_id": "ba5c0e06-c22b-4942-b826-ce49bf9277bf",
+   "last_modified": "Date changed  Mié, 04/22/2026 - 15:09"
+  }
+ ],
+ "tags": [
+  {
+   "id": "360b699e-87a8-4857-bbc1-8236bff4a48f",
+   "vocabulary_id": "2",
+   "name": "CENSO"
+  },
+  {
+   "id": "0d365fc4-d1b9-4b52-a4ef-55b8e93a9ede",
+   "vocabulary_id": "2",
+   "name": "estadística"
+  },
+  {
+   "id": "6d5b5c53-6022-4596-adfc-23c09775ea10",
+   "vocabulary_id": "2",
+   "name": "agricultura"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>Ministerio de Agricultura y Ganadería</p>\n",
+   "id": "ba5c0e06-c22b-4942-b826-ce49bf9277bf",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/mag.PNG",
+   "title": "Ministerio de Agricultura y Ganadería (MAG)",
+   "name": "group/ministerio-de-agricultura-y-ganadería-mag"
+  }
+ ]
+}

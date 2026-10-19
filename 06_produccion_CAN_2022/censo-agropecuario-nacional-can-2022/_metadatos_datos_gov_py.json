@@ -1,0 +1,63 @@
+{
+ "id": "452e4b53-028d-411a-ac64-bd18c8ba28c3",
+ "name": "censo-agropecuario-nacional-can-2022",
+ "title": "Censo Agropecuario Nacional (CAN) - 2022. ",
+ "author": "Dirección de Censos y Estadsticas Agropecuaria/MAG.",
+ "author_email": "lourdes.espinola@mag.gov.py",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>•   Características de las fincas agropecuarias y del productor/a.<br />\n•   Composición familiar y ocupación.<br />\n•   Trabajadores asalariados no familiares.<br />\n•   Tenencia de la tierra.<br />\n•   Uso de la tierra.<br />\nPrincipales cultivos:<br />\n•   Cultivos Temporales.<br />\n•   Cultivos hortícolas.<br />\n•   Cultivos Permanentes.<br />\n•   Floricultura.<br />\n•   Cultivos Forrajeros.<br />\n•   Plantaciones Forestales.<br />\n•   Piscicultura.<br />\n•   Ganadería.<br />\n•   Disponibilidad de Agua e Infraestructura.<br />\n•   Maquinarias, equipos, implementos y vehículos.<br />\n•   Asistencia técnica, crediticia y tecnología.<br />\n•   Insumos.<br />\n•   Práctica de manejo y conservación de suelo.<br />\n•   Destino de la producción y acceso a la información.<br />\n•   Fincas indígenas.</p>\n",
+ "url": "https://www.datos.gov.py/dataset/censo-agropecuario-nacional-can-2022",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Jue, 08/24/2023 - 11:08",
+ "metadata_created": "Jue, 08/24/2023 - 08:52",
+ "metadata_modified": "Jue, 08/24/2023 - 11:08",
+ "creator_user_id": "22b99938-2e26-4ff2-ba88-a2960f520853",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "40c78b33-a425-427e-8dfd-a7e4bb3eb216",
+   "revision_id": "",
+   "url": "https://www.datos.gov.py/sites/default/files/VOLUMEN%20I%20-%20CAN%202022%20_final.xlsx",
+   "description": "<p>Censo Agropecuario Nacional (CAN) - 2022.</p>\n",
+   "format": "xlsx",
+   "state": "Active",
+   "revision_timestamp": "Jue, 08/24/2023 - 09:00",
+   "name": "CAN 2022",
+   "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+   "size": "4.95 MB",
+   "created": "Jue, 08/24/2023 - 09:00",
+   "resource_group_id": "ba5c0e06-c22b-4942-b826-ce49bf9277bf",
+   "last_modified": "Date changed  Jue, 08/24/2023 - 09:00"
+  }
+ ],
+ "tags": [
+  {
+   "id": "360b699e-87a8-4857-bbc1-8236bff4a48f",
+   "vocabulary_id": "2",
+   "name": "CENSO"
+  },
+  {
+   "id": "6d5b5c53-6022-4596-adfc-23c09775ea10",
+   "vocabulary_id": "2",
+   "name": "agricultura"
+  },
+  {
+   "id": "18fc1a1c-e135-4b35-8aa7-51928d97836f",
+   "vocabulary_id": "2",
+   "name": "ganaderia"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>Ministerio de Agricultura y Ganadería</p>\n",
+   "id": "ba5c0e06-c22b-4942-b826-ce49bf9277bf",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/mag.PNG",
+   "title": "Ministerio de Agricultura y Ganadería (MAG)",
+   "name": "group/ministerio-de-agricultura-y-ganadería-mag"
+  }
+ ]
+}

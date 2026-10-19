@@ -1,0 +1,200 @@
+{
+  "type": "Collection",
+  "id": "hotosm_pry_points_of_interest",
+  "stac_version": "1.1.0",
+  "description": "Points of interest: public-facing amenities, shops, tourist attractions, and landmarks tagged via `amenity`, `shop`, `tourism`, or `man_made`. Useful for general POI reference, urban analysis, and basemap detail.\n\nCoverage reflects where volunteer mappers have been active. Urban areas are usually well represented, remote areas may be sparse. Cross-check critical decisions with local field knowledge.\n\n- Source: [OpenStreetMap](https://www.openstreetmap.org), a free, collaborative world map\n- Tags: [amenity](https://wiki.openstreetmap.org/wiki/Key:amenity), [shop](https://wiki.openstreetmap.org/wiki/Key:shop), [tourism](https://wiki.openstreetmap.org/wiki/Key:tourism), [man_made](https://wiki.openstreetmap.org/wiki/Key:man_made)\n- Part of the [country exports on HDX](https://data.humdata.org/organization/hot/) by [HOT](https://www.hotosm.org/)\n",
+  "links": [
+    {
+      "rel": "license",
+      "href": "https://opendatacommons.org/licenses/odbl/1-0/",
+      "title": "Open Database License (ODC-ODbL)"
+    },
+    {
+      "rel": "item",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/points_of_interest/hotosm_pry_points_of_interest_osm_item.json",
+      "type": "application/json",
+      "title": "Points of Interest of Paraguay"
+    },
+    {
+      "rel": "self",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/points_of_interest/hotosm_pry_points_of_interest_osm_metadata.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "root",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "parent",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/catalog.json",
+      "type": "application/json"
+    },
+    {
+      "rel": "via",
+      "href": "https://data.humdata.org/dataset/hotosm_pry_points_of_interest",
+      "title": "HDX dataset"
+    },
+    {
+      "rel": "alternate",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/points_of_interest/hotosm_pry_points_of_interest_report.html",
+      "type": "text/html",
+      "title": "Dataset page"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/buildings/hotosm_pry_buildings_osm_metadata.json",
+      "type": "application/json",
+      "title": "Buildings"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/roads/hotosm_pry_roads_osm_metadata.json",
+      "type": "application/json",
+      "title": "Roads"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/waterways/hotosm_pry_waterways_osm_metadata.json",
+      "type": "application/json",
+      "title": "Waterways"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/railways/hotosm_pry_railways_osm_metadata.json",
+      "type": "application/json",
+      "title": "Railways"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/education_facilities/hotosm_pry_education_facilities_osm_metadata.json",
+      "type": "application/json",
+      "title": "Education Facilities"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/health_facilities/hotosm_pry_health_facilities_osm_metadata.json",
+      "type": "application/json",
+      "title": "Health Facilities"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/populated_places/hotosm_pry_populated_places_osm_metadata.json",
+      "type": "application/json",
+      "title": "Populated Places"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/financial_services/hotosm_pry_financial_services_osm_metadata.json",
+      "type": "application/json",
+      "title": "Financial Services"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/airports/hotosm_pry_airports_osm_metadata.json",
+      "type": "application/json",
+      "title": "Airports"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/sea_ports/hotosm_pry_sea_ports_osm_metadata.json",
+      "type": "application/json",
+      "title": "Sea Ports"
+    },
+    {
+      "rel": "related",
+      "href": "https://production-raw-data-api.s3.amazonaws.com/ISO3/PRY/cultural_places/hotosm_pry_cultural_places_osm_metadata.json",
+      "type": "application/json",
+      "title": "Cultural Places"
+    }
+  ],
+  "item_assets": {
+    "geojson": {
+      "title": "GeoJSON",
+      "type": "application/zip",
+      "roles": [
+        "data"
+      ]
+    },
+    "gpkg": {
+      "title": "GeoPackage",
+      "type": "application/zip",
+      "roles": [
+        "data"
+      ]
+    },
+    "kml": {
+      "title": "KML",
+      "type": "application/zip",
+      "roles": [
+        "data"
+      ]
+    },
+    "shp": {
+      "title": "Shapefile",
+      "type": "application/zip",
+      "roles": [
+        "data"
+      ]
+    },
+    "geoparquet": {
+      "title": "GeoParquet",
+      "type": "application/vnd.apache.parquet",
+      "roles": [
+        "data"
+      ]
+    },
+    "pmtiles": {
+      "title": "Vector Tiles",
+      "type": "application/vnd.pmtiles",
+      "roles": [
+        "visual",
+        "overview"
+      ]
+    }
+  },
+  "title": "Points of Interest of Paraguay",
+  "extent": {
+    "spatial": {
+      "bbox": [
+        [
+          -62.632525,
+          -27.4829481,
+          -54.2973593,
+          -19.6344056
+        ]
+      ]
+    },
+    "temporal": {
+      "interval": [
+        [
+          "2026-10-07T00:00:00Z",
+          "2026-10-07T00:00:00Z"
+        ]
+      ]
+    }
+  },
+  "license": "ODbL-1.0",
+  "keywords": [
+    "facilities-infrastructure",
+    "geodata",
+    "points of interest-poi"
+  ],
+  "providers": [
+    {
+      "name": "OpenStreetMap (Geofabrik PRY 2026-10-07)",
+      "roles": [
+        "producer",
+        "licensor"
+      ]
+    }
+  ],
+  "summaries": {
+    "oex:category": [
+      "points_of_interest"
+    ],
+    "oex:source": [
+      "osm"
+    ]
+  }
+}
