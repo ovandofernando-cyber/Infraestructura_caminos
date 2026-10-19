@@ -27,6 +27,7 @@ El detalle fuente por fuente (90 fuentes, con URL, licencia y notas de calidad) 
 | | Mapas viales y obras en ejecución | MOPC | Anual | 2026 | Tramo (PDF) | digitalizar | `03_` |
 | | Superficie de caminos (IA Mapillary/Planet), RAI | HeiGIT | Irregular | 2020-2026 | Tramo / distrito | espacial / P-code | `03_` |
 | | Red vial OpenStreetMap | HOT / OSM | Mensual | oct. 2026 | Tramo | espacial | `03_` |
+| | Red vial Overture Maps: km por jerarquía y superficie | Overture Maps (base OSM) | Mensual | release 2026-09-23 | Tramo / distrito | `cod_dist` | `11_` |
 | | Tramos y puentes de programas de caminos vecinales | BID (PR-L1084, PR-L1092) | Única | 2014-2025 | Tramo / punto | nombre o coordenadas → `cod_dist` | `11_` |
 | | Obras viales contratadas | DNCP (OCDS) | Continua | 2018-2026 | Entidad / obra | nombre → `cod_dist` | `08_` |
 | **Servicios e instituciones** | Accesibilidad a salud y educación | HeiGIT | Irregular | 2024-2026 | Distrito | P-code → `cod_dist` | `04_` |
@@ -34,6 +35,7 @@ El detalle fuente por fuente (90 fuentes, con URL, licencia y notas de calidad) 
 | | Electrificación (luces nocturnas HREA) | U. Michigan / Banco Mundial | Anual | 2013, 2020 | Ráster / distrito | `cod_dist` | `09_` |
 | | Conectividad internet (Ookla) | Ookla | Trimestral | 2025T4-2026T3 | Tesela / distrito | `cod_dist` | `09_` |
 | | Instituciones (comisarías, municipios, bancos, mercados) | OSM / HOT | Continua | oct. 2026 | Punto / distrito | `cod_dist` | `09_` |
+| | Lugares (escuelas, salud, bancos, gobierno) e infraestructura (puentes, silos, torres, líneas eléctricas) | Overture Maps | Mensual | release 2026-09-23 | Punto / distrito | `cod_dist` | `09_` |
 | **Producción y economía** | Censo Agropecuario Nacional | MAG | Censal | 2022 | Departamento | `cod_dpto` | `06_` |
 | | Síntesis estadística de producción agrícola | MAG-DCEA | Anual (campaña) | 2017/18, 2020/21 | Departamento | `cod_dpto` | `10_` |
 | | Cuentas regionales (PIB departamental) | BCP | Anual | 2021-2023 | Departamento | `cod_dpto` | `10_` |
@@ -57,18 +59,19 @@ El detalle fuente por fuente (90 fuentes, con URL, licencia y notas de calidad) 
 | Clausuras de rutas MOPC | Diaria (informes en PDF) |
 | Inventario vial MOPC | Irregular, cortes anuales a diciembre |
 | DNCP | Continua (API OCDS) |
-| OSM, Ookla | Mensual y trimestral |
+| OSM, Overture Maps, Ookla | Mensual y trimestral |
 | CHIRPS | Cada 10 días |
 | Royalties y transferencias MEF | Mensual acumulado |
 | Censo de población, CAN | Cada 10 años aproximadamente |
 
 ## 5. Limitaciones y pendientes
 
-- **37 fuentes no se pudieron descargar** desde este entorno, sobre todo porque la red bloquea los sitios `.gov.py` (INE, datos.gov.py, MOPC, MEC, MEF), HDX y otros. Están listadas con su URL en [`_arquitectura/fuentes_pendientes_descarga.csv`](_arquitectura/fuentes_pendientes_descarga.csv). Las de mayor valor: locales escolares del MEC, el tema Transporte de datos.gov.py, la EPHC trimestral, el anexo del PIB departamental del BCP y los precios mayoristas del Mercado de Abasto.
+- **35 fuentes no se pudieron descargar** desde este entorno, sobre todo porque la red bloquea los sitios `.gov.py` (INE, datos.gov.py, MOPC, MEC, MEF), HDX y otros. Están listadas con su URL en [`_arquitectura/fuentes_pendientes_descarga.csv`](_arquitectura/fuentes_pendientes_descarga.csv). Las de mayor valor: locales escolares del MEC, el tema Transporte de datos.gov.py, la EPHC trimestral, el anexo del PIB departamental del BCP y los precios mayoristas del Mercado de Abasto.
 - **El Censo 2022 no tiene microdatos publicados:** solo cuadros y REDATAM en línea. Para localidad o compañía hay que pedirlos al INE por la Ley 5282.
 - **Las tablas de `10_` se transcribieron de PDF** y se verificaron contra los totales del documento. La de crédito del CAH sale de un gráfico: usarla con cautela.
 - **13 distritos nuevos de 2022** no tienen datos de HeiGIT ni CHIRPS (8 están en los departamentos foco).
-- **No existe un inventario oficial georreferenciado de la red vecinal:** la calidad del camino se aproxima con superficie (HeiGIT, OSM), RAI, puentes de madera y clausuras.
+- **No existe un inventario oficial georreferenciado de la red vecinal:** la calidad del camino se aproxima con superficie (HeiGIT, OSM, Overture), RAI, puentes de madera y clausuras.
+- **Overture Maps cuenta más caminos que el MOPC:** su red rural y vecinal suma 142.129 km, entre 2 y 4 veces el km vecinal del inventario MOPC por departamento, porque incluye huellas y caminos privados. En los departamentos foco, cerca de la mitad de esos km no tiene la superficie informada. Sus lugares tienen sesgo urbano y comercial: no reemplazan los registros del MEC y del MSPBS.
 
 ## 6. Cómo se reproduce
 
@@ -76,6 +79,8 @@ El detalle fuente por fuente (90 fuentes, con URL, licencia y notas de calidad) 
 python3 -I _scripts/datos_qc_base_integrada.py .     # control de calidad de 00_base_integrada
 python3 -I _scripts/datos_fuentes_maestro.py .       # catálogo de las carpetas 00-08 y 12
 python3 -I _scripts/arquitectura_unir_fuentes.py .   # suma 09-11 y arma la lista de pendientes
+python3 -I _scripts/overture_recorte_bbox.py places/type=place <salida.parquet>   # recorte Overture (también base/type=infrastructure, transportation/type=segment)
+python3 -I _scripts/overture_distrito.py <dir_extractos> <Distritos.geojson> <dir_09> <dir_11>   # distrito y resúmenes Overture
 ```
 
 Las fichas de cada especialidad del equipo de agentes están en [`_equipo_agentes/`](_equipo_agentes/).

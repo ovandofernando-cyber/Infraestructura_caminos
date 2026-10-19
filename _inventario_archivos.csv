@@ -1457,3 +1457,9 @@ _scripts,_scripts/social_hrea_distrito.py,py,2142,2026-10-19 12:07
 _scripts,_scripts/social_ookla.py,py,2364,2026-10-19 12:01
 _scripts,_scripts/social_poi_distrito.py,py,2206,2026-10-19 12:04
 .,catalogo_bases_caminos_vecinales.xlsx,xlsx,25633,2026-10-19 11:51
+09_servicios_complementarios,09_servicios_complementarios/Overture_Maps_lugares_infraestructura/overture_infraestructura_PRY.csv,csv,9154074,2026-10-19
+09_servicios_complementarios,09_servicios_complementarios/Overture_Maps_lugares_infraestructura/overture_infraestructura_PRY.gpkg,gpkg,20701184,2026-10-19
+09_servicios_complementarios,09_servicios_complementarios/Overture_Maps_lugares_infraestructura/overture_places_PRY.csv,csv,21183620,2026-10-19
+09_servicios_complementarios,09_servicios_complementarios/Overture_Maps_lugares_infraestructura/overture_servicios_infraestructura_por_distrito.csv,csv,35152,2026-10-19
+11_infraestructura_vial_complementaria,11_infraestructura_vial_complementaria/Overture_Maps_red_vial/overture_km_red_vial_por_distrito.csv,csv,64803,2026-10-19
+11_infraestructura_vial_complementaria,11_infraestructura_vial_complementaria/Overture_Maps_red_vial/overture_red_vial_PRY.gpkg.zip,zip,61990639,2026-10-19
