@@ -1,0 +1,151 @@
+{
+ "id": "3d679e98-39d9-42ff-8604-a03b91c14ba7",
+ "name": "base-de-datos-geojson-geoespacial-de-departamentos-distritos-ciudades-y-barrios-de-todo-el",
+ "title": "Base de datos GeoJSON geoespacial de departamentos, distritos, ciudades y barrios de todo el pais ",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>Base de datos GeoJSON geoespacial de departamentos, distritos, ciudades y barrios de todo el pais</p>\n",
+ "url": "https://www.datos.gov.py/dataset/base-de-datos-geojson-geoespacial-de-departamentos-distritos-ciudades-y-barrios-de-todo-el",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Lun, 07/31/2023 - 06:15",
+ "metadata_created": "Lun, 07/31/2023 - 05:59",
+ "metadata_modified": "Lun, 07/31/2023 - 06:15",
+ "creator_user_id": "54cca0b6-6573-47fd-b8db-d827e2552737",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "55493f69-1107-4551-8f53-56d2d4ad7d6a",
+   "revision_id": "",
+   "url": "https://www.datos.gov.py/sites/default/files/DEPARTAMENTOS_PY_CNPV2022.geojson",
+   "description": "",
+   "format": "geojson",
+   "state": "Active",
+   "revision_timestamp": "Lun, 07/31/2023 - 06:02",
+   "name": "Departamentos GEOJSON",
+   "mimetype": "application/octet-stream",
+   "size": "11.87 MB",
+   "created": "Lun, 07/31/2023 - 06:02",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Lun, 07/31/2023 - 06:02"
+  },
+  {
+   "id": "fb752b3a-a47c-49ac-bdcb-4277f338c64a",
+   "revision_id": "",
+   "url": "https://www.datos.gov.py/sites/default/files/DEPARTAMENTOS_PY_CNPV2022.kml",
+   "description": "",
+   "format": "kml",
+   "state": "Active",
+   "revision_timestamp": "Lun, 07/31/2023 - 06:03",
+   "name": "Departamentos KML",
+   "mimetype": "application/vnd.google-earth.kml+xml",
+   "size": "9.28 MB",
+   "created": "Lun, 07/31/2023 - 06:03",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Lun, 07/31/2023 - 06:03"
+  },
+  {
+   "id": "83917ae7-d080-4f98-9a96-2bf3a6e45c8d",
+   "revision_id": "",
+   "url": "https://www.datos.gov.py/sites/default/files/DISTRITOS_PY_CNPV2022.geojson",
+   "description": "",
+   "format": "geojson",
+   "state": "Active",
+   "revision_timestamp": "Lun, 07/31/2023 - 06:03",
+   "name": "Distritos GEOJSON",
+   "mimetype": "application/octet-stream",
+   "size": "44.7 MB",
+   "created": "Lun, 07/31/2023 - 06:03",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Lun, 07/31/2023 - 06:03"
+  },
+  {
+   "id": "c09d1f15-4843-4403-8473-c7b767668e24",
+   "revision_id": "",
+   "url": "https://www.datos.gov.py/sites/default/files/DISTRITOS_PY_CNPV2022.kml",
+   "description": "",
+   "format": "kml",
+   "state": "Active",
+   "revision_timestamp": "Lun, 07/31/2023 - 06:04",
+   "name": "Distritos KML",
+   "mimetype": "application/vnd.google-earth.kml+xml",
+   "size": "35.04 MB",
+   "created": "Lun, 07/31/2023 - 06:04",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Lun, 07/31/2023 - 06:04"
+  },
+  {
+   "id": "6022ea15-45c5-4248-9dc1-e65bbef12ece",
+   "revision_id": "",
+   "url": "https://www.datos.gov.py/sites/default/files/DISTRITOS_PY_CNPV2022.shp",
+   "description": "",
+   "format": "shp",
+   "state": "Active",
+   "revision_timestamp": "Lun, 07/31/2023 - 06:05",
+   "name": "Distritos SHAPEFILE",
+   "mimetype": "application/octet-stream",
+   "size": "15.62 MB",
+   "created": "Lun, 07/31/2023 - 06:05",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Lun, 07/31/2023 - 06:05"
+  },
+  {
+   "id": "cec68203-9581-4624-8e3e-06855d7e366a",
+   "revision_id": "",
+   "url": "https://www.datos.gov.py/sites/default/files/DEPARTAMENTOS_PY_CNPV2022.shp",
+   "description": "",
+   "format": "shp",
+   "state": "Active",
+   "revision_timestamp": "Lun, 07/31/2023 - 06:05",
+   "name": "Departamentos SHAPEFILE",
+   "mimetype": "application/octet-stream",
+   "size": "4.15 MB",
+   "created": "Lun, 07/31/2023 - 06:05",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Lun, 07/31/2023 - 06:05"
+  }
+ ],
+ "tags": [
+  {
+   "id": "7370ec56-1f3f-42f9-9185-ce1cb55c5d24",
+   "vocabulary_id": "2",
+   "name": "ine"
+  },
+  {
+   "id": "851a8695-0de0-4b50-8819-4928ea9589b2",
+   "vocabulary_id": "2",
+   "name": "departamento"
+  },
+  {
+   "id": "97d4205a-4e3e-4a44-8e09-9bf0520bda63",
+   "vocabulary_id": "2",
+   "name": "Paraguay"
+  },
+  {
+   "id": "4a15c54c-1dfb-4cfc-b3d5-4a5258a1acf8",
+   "vocabulary_id": "2",
+   "name": "GEOSPACIAL"
+  },
+  {
+   "id": "fb384b1c-0a6a-4aca-ad38-a05004d54f63",
+   "vocabulary_id": "2",
+   "name": "GEOJSON"
+  },
+  {
+   "id": "44670690-3c27-4b00-8662-413fc37b0ab3",
+   "vocabulary_id": "2",
+   "name": "KML"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>Ley N° 6770 \"Que establece la modernización del Sistema Estadístico Nacional (SISEN) y crea el Instituto Nacional de Estadística (INE)\" la Dirección General de Estadística, Encuestas y Censos pasa a denominarse Instituto Nacional de Estadística (INE) como persona jurídica de derecho público, con carácter autárquico y autónomo</p>\n",
+   "id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/ine.PNG",
+   "title": "INSTITUTO NACIONAL DE ESTADISTICA (INE)",
+   "name": "group/instituto-nacional-de-estadistica-ine"
+  }
+ ]
+}

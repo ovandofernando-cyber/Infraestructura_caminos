@@ -1,0 +1,163 @@
+{
+ "id": "eb59cee3-33f7-4efc-9dd7-7d11c847ada2",
+ "name": "códigos-geográficos-censo-nacional-de-población-y-viviendas-2012-paraguay",
+ "title": "CÓDIGOS GEOGRÁFICOS - CENSO NACIONAL DE POBLACIÓN Y VIVIENDAS 2012 - PARAGUAY",
+ "author": "Dirección de Estadísticas Sociales y Demográficas - Dpto. Demografía",
+ "author_email": "mleiva@dgeec.gov.py",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>Lista de Códigos Geográficos conforme división administrativa de Paraguay, correspondiente a: departamento, distrito y Barrio o localidad, utilizados en el Censo Nacional de Población y Viviendas 2012</p>\n",
+ "url": "https://www.datos.gov.py/dataset/c%C3%B3digos-geogr%C3%A1ficos-censo-nacional-de-poblaci%C3%B3n-y-viviendas-2012-paraguay",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Jue, 05/20/2021 - 12:22",
+ "metadata_created": "Mar, 10/08/2019 - 15:08",
+ "metadata_modified": "Jue, 05/20/2021 - 12:22",
+ "creator_user_id": "b4c41879-2908-4668-882c-baa3ac3a0d26",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "6a1d3c54-722f-4e7c-9b52-01100b28c4ed",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/microdatos/microdatos.php#collapse-10",
+   "description": "<p>Catálogo de código de departamento,conforme división administrativa del Paraguay en 17 departamentos, más Asunción (capital del país) con sus correspondientes niveles de desagregación distrital y barrios/localidades</p>\n",
+   "format": "html",
+   "state": "Active",
+   "revision_timestamp": "Jue, 05/20/2021 - 09:37",
+   "name": "Códigos geográficos del Paraguay CNPV 2012",
+   "mimetype": "html",
+   "size": "",
+   "created": "Mar, 10/08/2019 - 15:11",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Jue, 05/20/2021 - 09:37"
+  },
+  {
+   "id": "0c2760b0-77f3-4db7-a29b-655c70cb6e89",
+   "revision_id": "",
+   "url": "https://www.datos.gov.py/sites/default/files/Departamentos_Paraguay_Codigos_DGEEC_0.csv",
+   "description": "<p>Lista de Códigos Geográficos Departamentos utilizados en el Censo Nacional de Población y Viviendas 2012 - Paraguay</p>\n",
+   "format": "csv",
+   "state": "Active",
+   "revision_timestamp": "Jue, 05/20/2021 - 09:47",
+   "name": "Código de Departamentos CNPV 2012 - CSV",
+   "mimetype": "text/csv",
+   "size": "270 bytes",
+   "created": "Mar, 10/08/2019 - 15:13",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Jue, 05/20/2021 - 09:47"
+  },
+  {
+   "id": "2b033f6f-c7f2-40ec-8e61-b042b98373d1",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/microdatos/register/localidades/Departamentos_Paraguay_Codigos_DGEEC.json",
+   "description": "<p>Lista de Códigos Geográficos Departamentos utilizados en el Censo Nacional de Población y Viviendas 2012 - Paraguay</p>\n",
+   "format": "json",
+   "state": "Active",
+   "revision_timestamp": "Jue, 05/20/2021 - 08:53",
+   "name": "Código de Departamentos CNPV 2012- JSON",
+   "mimetype": "json",
+   "size": "",
+   "created": "Mar, 10/08/2019 - 15:15",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Jue, 05/20/2021 - 08:53"
+  },
+  {
+   "id": "ae07ed7c-a776-4448-a3b8-22e857cc1767",
+   "revision_id": "",
+   "url": "https://www.datos.gov.py/sites/default/files/Distritos_Paraguay_Codigos_DGEEC.csv",
+   "description": "<p>Lista de Códigos Geográficos de Distritos utilizados en el Censo Nacional de Población y Viviendas 2012 - Paraguay</p>\n",
+   "format": "csv",
+   "state": "Active",
+   "revision_timestamp": "Jue, 05/20/2021 - 09:59",
+   "name": "Códigos de Distritos CNPV 2012 - CSV ",
+   "mimetype": "text/csv",
+   "size": "8.18 KB",
+   "created": "Mar, 10/08/2019 - 15:16",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Jue, 05/20/2021 - 09:59"
+  },
+  {
+   "id": "9f9cee98-dd3b-4d61-9d11-cb59e8dd4e1d",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/microdatos/register/localidades/Distritos_Paraguay_Codigos_DGEEC.json",
+   "description": "<p>Lista de Códigos Geográficos de Distritos utilizados en el Censo Nacional de Población y Viviendas 2012 - Paraguay</p>\n",
+   "format": "json",
+   "state": "Active",
+   "revision_timestamp": "Jue, 05/20/2021 - 10:01",
+   "name": "Código de Distritos CNPV 2012 - JSON",
+   "mimetype": "json",
+   "size": "",
+   "created": "Mar, 10/08/2019 - 15:17",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Jue, 05/20/2021 - 10:01"
+  },
+  {
+   "id": "b0c2c582-af56-4229-b664-ecd1e0fc5cd5",
+   "revision_id": "",
+   "url": "https://www.datos.gov.py/sites/default/files/Barrios_Localidades_Paraguay_Codigos_DGEEC.csv",
+   "description": "<p>Lista de Códigos Geográficos de Barrio/Localidad utilizado en el Censo Nacional de Población y Viviendas 2012 - Paraguay</p>\n",
+   "format": "csv",
+   "state": "Active",
+   "revision_timestamp": "Jue, 05/20/2021 - 10:06",
+   "name": "Código de Barrios/Localidad CNPV 2012 - CSV",
+   "mimetype": "text/csv",
+   "size": "464.98 KB",
+   "created": "Mar, 10/08/2019 - 15:47",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Jue, 05/20/2021 - 10:06"
+  },
+  {
+   "id": "a7612953-f0ee-4f58-b211-c7f95c4696a8",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/microdatos/register/localidades/Barrios_Localidades_Paraguay_Codigos_DGEEC.json",
+   "description": "<p>Lista de Códigos Geográficos conforme división administrativa de Paraguay, correspondiente a: departamento, distrito y Barrio o localidad, utilizados en el Censo Nacional de Población y...</p>\n",
+   "format": "json",
+   "state": "Active",
+   "revision_timestamp": "Jue, 05/20/2021 - 10:08",
+   "name": "Código de Barrios/Localidad CNPV 2012 - JSON",
+   "mimetype": "json",
+   "size": "",
+   "created": "Mar, 10/08/2019 - 15:50",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Jue, 05/20/2021 - 10:08"
+  }
+ ],
+ "tags": [
+  {
+   "id": "0e3ba7e8-e68e-4d86-9dc1-699b7b42f6c4",
+   "vocabulary_id": "2",
+   "name": "barrio"
+  },
+  {
+   "id": "b8d6b0aa-0406-4c0b-a77b-7aa50a20ae4c",
+   "vocabulary_id": "2",
+   "name": "código"
+  },
+  {
+   "id": "851a8695-0de0-4b50-8819-4928ea9589b2",
+   "vocabulary_id": "2",
+   "name": "departamento"
+  },
+  {
+   "id": "7f64b4eb-e905-486b-8aef-3bb5f8125a1a",
+   "vocabulary_id": "2",
+   "name": "distritos"
+  },
+  {
+   "id": "b6e8bbb0-d325-4122-9282-1307d94a5bf0",
+   "vocabulary_id": "2",
+   "name": "localidad"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>Ley N° 6770 \"Que establece la modernización del Sistema Estadístico Nacional (SISEN) y crea el Instituto Nacional de Estadística (INE)\" la Dirección General de Estadística, Encuestas y Censos pasa a denominarse Instituto Nacional de Estadística (INE) como persona jurídica de derecho público, con carácter autárquico y autónomo</p>\n",
+   "id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/ine.PNG",
+   "title": "INSTITUTO NACIONAL DE ESTADISTICA (INE)",
+   "name": "group/instituto-nacional-de-estadistica-ine"
+  }
+ ]
+}
