@@ -1,0 +1,443 @@
+{
+    "id": 195,
+    "name": "Paraguay",
+    "code": "PY",
+    "iso3_format": "PRY",
+    "flag": "https://saunigigaweb.blob.core.windows.net/giga-maps-backend-prd-public/images/d73d6ad1-33dc-4f3e-9013-797c0da2a7fa.png",
+    "map_preview": "",
+    "description": "",
+    "data_source": "Paraguay OSM",
+    "data_source_description": "",
+    "health_data_source": "",
+    "date_schools_mapped": null,
+    "admin_metadata": {
+        "id": 187,
+        "layer_name": "adm0",
+        "name": "Paraguay",
+        "name_en": "Paraguay",
+        "description": "state",
+        "description_ui_label": "Admins",
+        "giga_id_admin": "PRY",
+        "mapbox_id": "dXJuOm1ieGJuZDpyeEM2OnY0",
+        "centroid": [
+            -58.4146,
+            -23.4993
+        ],
+        "bbox": [
+            -62.6415,
+            -27.5759,
+            -54.2608,
+            -19.2928
+        ]
+    },
+    "benchmark_metadata": {},
+    "country_disclaimer": "",
+    "date_of_join": null,
+    "statistics": {
+        "schools_total": 3726,
+        "schools_connected": 0,
+        "schools_connectivity_unknown": 3726,
+        "schools_connectivity_no": 0,
+        "schools_connectivity_moderate": 0,
+        "schools_connectivity_good": 0,
+        "schools_coverage_unknown": 3717,
+        "schools_coverage_no": 0,
+        "schools_coverage_moderate": 0,
+        "schools_coverage_good": 0,
+        "connectivity_speed": null,
+        "integration_status": 5,
+        "connectivity_availability": "no_connectivity",
+        "coverage_availability": "no_coverage",
+        "avg_distance_school": 188.21100970655382,
+        "created": "20-11-2022 02:23:28",
+        "modified": "04-12-2025 14:33:45",
+        "global_schools_connectivity_unknown": 0,
+        "global_schools_connectivity_no": 0,
+        "global_schools_connectivity_moderate": 0,
+        "global_schools_connectivity_good": 0
+    },
+    "admin1_metadata": [
+        {
+            "id": 2724,
+            "layer_name": "adm1",
+            "name": "Concepci\u00f3n",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY001",
+            "mapbox_id": "dXJuOm1ieGJuZDpBaEs2OnY0",
+            "centroid": [
+                -57.2682,
+                -22.7959
+            ],
+            "bbox": [
+                -57.9938,
+                -23.5095,
+                -56.1258,
+                -22.0783
+            ]
+        },
+        {
+            "id": 2725,
+            "layer_name": "adm1",
+            "name": "Alto Paran\u00e1",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY002",
+            "mapbox_id": "dXJuOm1ieGJuZDpDeEs2OnY0",
+            "centroid": [
+                -54.7501,
+                -25.37
+            ],
+            "bbox": [
+                -55.5506,
+                -26.2571,
+                -54.3399,
+                -24.4762
+            ]
+        },
+        {
+            "id": 2726,
+            "layer_name": "adm1",
+            "name": "Central",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY003",
+            "mapbox_id": "dXJuOm1ieGJuZDpEQks2OnY0",
+            "centroid": [
+                -57.4518,
+                -25.5617
+            ],
+            "bbox": [
+                -57.8278,
+                -26.0251,
+                -57.193,
+                -25.0965
+            ]
+        },
+        {
+            "id": 2727,
+            "layer_name": "adm1",
+            "name": "\u00d1eembuc\u00fa",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY004",
+            "mapbox_id": "dXJuOm1ieGJuZDpEUks2OnY0",
+            "centroid": [
+                -57.9451,
+                -26.6094
+            ],
+            "bbox": [
+                -58.6646,
+                -27.444,
+                -57.1821,
+                -25.7672
+            ]
+        },
+        {
+            "id": 2728,
+            "layer_name": "adm1",
+            "name": "Amambay",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY005",
+            "mapbox_id": "dXJuOm1ieGJuZDpEaEs2OnY0",
+            "centroid": [
+                -55.9034,
+                -22.9558
+            ],
+            "bbox": [
+                -56.8261,
+                -23.8309,
+                -55.5045,
+                -22.0745
+            ]
+        },
+        {
+            "id": 2729,
+            "layer_name": "adm1",
+            "name": "Canindey\u00fa",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY006",
+            "mapbox_id": "dXJuOm1ieGJuZDpEeEs2OnY0",
+            "centroid": [
+                -55.2497,
+                -24.1556
+            ],
+            "bbox": [
+                -56.1725,
+                -24.784,
+                -54.2608,
+                -23.5237
+            ]
+        },
+        {
+            "id": 2730,
+            "layer_name": "adm1",
+            "name": "Presidente Hayes",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY007",
+            "mapbox_id": "dXJuOm1ieGJuZDpFQks2OnY0",
+            "centroid": [
+                -58.9761,
+                -23.7263
+            ],
+            "bbox": [
+                -60.7854,
+                -25.3541,
+                -57.1493,
+                -22.0762
+            ]
+        },
+        {
+            "id": 2731,
+            "layer_name": "adm1",
+            "name": "Alto Paraguay",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY008",
+            "mapbox_id": "dXJuOm1ieGJuZDpFaEs2OnY0",
+            "centroid": [
+                -58.8609,
+                -20.854
+            ],
+            "bbox": [
+                -61.9146,
+                -22.3992,
+                -57.8171,
+                -19.2928
+            ]
+        },
+        {
+            "id": 2732,
+            "layer_name": "adm1",
+            "name": "Boquer\u00f3n",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY009",
+            "mapbox_id": "dXJuOm1ieGJuZDpFUks2OnY0",
+            "centroid": [
+                -61.2554,
+                -21.9972
+            ],
+            "bbox": [
+                -62.6415,
+                -23.8813,
+                -59.3366,
+                -20.0902
+            ]
+        },
+        {
+            "id": 2733,
+            "layer_name": "adm1",
+            "name": "San Pedro",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY010",
+            "mapbox_id": "dXJuOm1ieGJuZDpBeEs2OnY0",
+            "centroid": [
+                -56.7133,
+                -24.1629
+            ],
+            "bbox": [
+                -57.4735,
+                -25.0193,
+                -55.702,
+                -23.3007
+            ]
+        },
+        {
+            "id": 2734,
+            "layer_name": "adm1",
+            "name": "Cordillera",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY011",
+            "mapbox_id": "dXJuOm1ieGJuZDpCQks2OnY0",
+            "centroid": [
+                -56.9957,
+                -25.2554
+            ],
+            "bbox": [
+                -57.4783,
+                -25.669,
+                -56.5614,
+                -24.8433
+            ]
+        },
+        {
+            "id": 2735,
+            "layer_name": "adm1",
+            "name": "Guair\u00e1",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY012",
+            "mapbox_id": "dXJuOm1ieGJuZDpCUks2OnY0",
+            "centroid": [
+                -56.3253,
+                -25.8815
+            ],
+            "bbox": [
+                -56.7477,
+                -26.1973,
+                -55.6334,
+                -25.5648
+            ]
+        },
+        {
+            "id": 2736,
+            "layer_name": "adm1",
+            "name": "Caaguaz\u00fa",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY013",
+            "mapbox_id": "dXJuOm1ieGJuZDpCaEs2OnY0",
+            "centroid": [
+                -55.8611,
+                -25.0883
+            ],
+            "bbox": [
+                -56.8564,
+                -25.7084,
+                -54.9232,
+                -24.4655
+            ]
+        },
+        {
+            "id": 2737,
+            "layer_name": "adm1",
+            "name": "Caazap\u00e1",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY014",
+            "mapbox_id": "dXJuOm1ieGJuZDpCeEs2OnY0",
+            "centroid": [
+                -55.9464,
+                -26.1607
+            ],
+            "bbox": [
+                -56.8491,
+                -26.7944,
+                -55.2482,
+                -25.5236
+            ]
+        },
+        {
+            "id": 2738,
+            "layer_name": "adm1",
+            "name": "Itap\u00faa",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY015",
+            "mapbox_id": "dXJuOm1ieGJuZDpDQks2OnY0",
+            "centroid": [
+                -55.8722,
+                -26.8362
+            ],
+            "bbox": [
+                -56.8937,
+                -27.5759,
+                -54.6481,
+                -26.0922
+            ]
+        },
+        {
+            "id": 2739,
+            "layer_name": "adm1",
+            "name": "Misiones",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY016",
+            "mapbox_id": "dXJuOm1ieGJuZDpDUks2OnY0",
+            "centroid": [
+                -57.0828,
+                -26.9443
+            ],
+            "bbox": [
+                -57.7431,
+                -27.4929,
+                -56.6259,
+                -26.3761
+            ]
+        },
+        {
+            "id": 2740,
+            "layer_name": "adm1",
+            "name": "Paraguar\u00ed",
+            "name_en": "",
+            "description": "department",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY017",
+            "mapbox_id": "dXJuOm1ieGJuZDpDaEs2OnY0",
+            "centroid": [
+                -57.1033,
+                -26.0124
+            ],
+            "bbox": [
+                -57.7494,
+                -26.6196,
+                -56.6076,
+                -25.4018
+            ]
+        },
+        {
+            "id": 2741,
+            "layer_name": "adm1",
+            "name": "Asunci\u00f3n",
+            "name_en": "",
+            "description": "capital district",
+            "description_ui_label": "department",
+            "giga_id_admin": "PRY018",
+            "mapbox_id": "dXJuOm1ieGJuZDpBUks2OnY0",
+            "centroid": [
+                -57.6102,
+                -25.3018
+            ],
+            "bbox": [
+                -57.6734,
+                -25.379,
+                -57.5251,
+                -25.2245
+            ]
+        }
+    ],
+    "last_weekly_status_id": 6416,
+    "active_layers_list": [],
+    "active_filters_list": [
+        {
+            "advance_filter_id": 9,
+            "is_default": false,
+            "default_filter_values": {},
+            "entity_type": "school"
+        }
+    ],
+    "entity_counts": {
+        "school": 3726,
+        "health": 0
+    },
+    "connected_entities": {
+        "health": {
+            "connected": 0
+        },
+        "school": {
+            "connected": 0
+        }
+    }
+}

@@ -54,7 +54,7 @@ for carpeta, archivo, tema in REGISTROS:
                 "clave_union": x["clave_union"], "n_archivos": n, "tamano_mb": mb,
                 "licencia": x["licencia"], "calidad_notas": f"[{x['estado']}] {x['notas']}".strip(),
             })
-            if x["estado"] != "descargado":
+            if x["estado"] not in ("descargado", "no necesario"):
                 pendientes.append({"id": x["id"], "fuente": x["nombre"], "institucion": x["institucion"],
                                    "url": x["url"], "estado": x["estado"], "carpeta_destino": carpeta,
                                    "motivo": x["notas"]})

@@ -8,7 +8,7 @@
 
 Armado el 17/10/2026 con descargas desde INE, datos.gov.py, MOPC, MAG, DNCP y HDX. El catálogo completo, con el estado de cada fuente, está en `catalogo_bases_caminos_vecinales.xlsx` (en esta misma carpeta). La lista de todos los archivos está en `_inventario_archivos.csv`.
 
-Ampliado el 19/10/2026 por el equipo de agentes (carpetas 09 a 12). **La arquitectura de la base (fuente, periodicidad, nivel, claves) está en [`ARQUITECTURA_BASE_DE_DATOS.md`](ARQUITECTURA_BASE_DE_DATOS.md)** y el catálogo de las 90 fuentes en `_arquitectura/fuentes_maestro.csv`.
+Ampliado el 19/10/2026 por el equipo de agentes (carpetas 09 a 12). **La arquitectura de la base (fuente, periodicidad, nivel, claves) está en [`ARQUITECTURA_BASE_DE_DATOS.md`](ARQUITECTURA_BASE_DE_DATOS.md)** y el catálogo de las 93 fuentes en `_arquitectura/fuentes_maestro.csv`. El 19/10/2026 se sumaron las fuentes que estaban pendientes y ya se podían bajar; las 16 que siguen faltando, con el motivo, están en `_arquitectura/fuentes_pendientes_descarga.csv`.
 
 ## Estructura
 
@@ -23,10 +23,10 @@ Ampliado el 19/10/2026 por el equipo de agentes (carpetas 09 a 12). **La arquite
 | `06_produccion_CAN_2022/` | Tablas del Censo Agropecuario 2022; Atlas de la producción y presentación (geoportal MAG) |
 | `07_clima_y_contexto/` | Lluvia CHIRPS por departamento y distrito 1981-2026; índice de riqueza relativa (Meta); WorldPop 2020 |
 | `08_contrataciones_DNCP/` | Llamados públicos de obras viales 2018-2026 (API OCDS de la DNCP) |
-| `09_servicios_complementarios/` | Conectividad a internet Ookla (trimestral), electrificación HREA 2013/2020 e instituciones OSM (comisarías, municipios, bancos, mercados), todo también por distrito |
-| `10_economia_y_mercados/` | Royalties 2025 y transferencias 2024 a municipios (MEF), producción agrícola por departamento (MAG), PIB departamental (BCP), crédito CAH |
-| `11_infraestructura_vial_complementaria/` | Programas BID de caminos vecinales: tramos mejorados, 169 puentes de madera georreferenciados, informe de cierre, línea de base de la evaluación de impacto |
-| `12_INE_complementario/` | Serie comparable EPH 1997/98-2016 (microdatos SAV, diccionarios, cuestionarios) y EIGyCV 2011/12 (bases DTA de gasto, vivienda y población); registro de bases del INE no descargadas (EPHC trimestral, IPM 2016-2023, transacciones EIGyCV) |
+| `09_servicios_complementarios/` | Conectividad a internet Ookla (trimestral), electrificación HREA 2013/2020 e instituciones OSM (comisarías, municipios, bancos, mercados), todo también por distrito; capas del geoportal del INE (locales educativos, puestos de salud, antenas, tanques y juntas de agua, comunidades indígenas) con conteo por distrito; cobertura de telefonía e internet móvil de CONATEL por localidad 2017-2025 |
+| `10_economia_y_mercados/` | Royalties 2025 y transferencias 2024 a municipios (MEF), producción agrícola por departamento (MAG), PIB departamental 2021-2024 por actividad (BCP, anexo xlsx y tabla larga), crédito CAH; precios mayoristas SIMA-MAG (boletines anuales 2022-2025 y diarios nov. 2025-oct. 2026, con CECOPROA), precios WFP 2010-2022, silos y acopios OSM por distrito, calendario de ferias de la agricultura familiar |
+| `11_infraestructura_vial_complementaria/` | Programas BID de caminos vecinales: tramos mejorados, 169 puentes de madera georreferenciados, informe de cierre, línea de base de la evaluación de impacto, tramos candidatos y megaproyecto de la DCV (PR-L1092); evaluación ex post de CAF; documentos del proyecto de mantenimiento vial del Banco Mundial (P082026); balances anuales de gestión del MOPC 2020-2025; red vial GRIP4 recortada a Paraguay con km por distrito |
+| `12_INE_complementario/` | Serie comparable EPH 1997/98-2016 (microdatos SAV, diccionarios, cuestionarios) y EIGyCV 2011/12 (bases DTA de gasto, vivienda y población); indicadores del Censo 2022 por barrio/localidad (7.995) y por distrito, con diccionarios; registro de bases del INE no descargadas (EPHC trimestral, IPM 2016-2023, transacciones EIGyCV) |
 | `_arquitectura/` | Catálogo maestro de fuentes, claves y uniones, control de calidad y fuentes pendientes |
 | `_equipo_agentes/` | Fichas TLDR de los agentes: ciencia de datos, infraestructura, economía y social |
 | `_scripts/` | Scripts en Python para descargar y procesar (para reproducir el armado). Las rutas de los scripts apuntan a `/home/user/repositorio_caminos_vecinales`: ajustarlas a tu carpeta local |

@@ -1,0 +1,96 @@
+variable,etiqueta
+viv1,Total viviendas
+viv2,Viviendas particulares ocupadas
+viv3,Viviendas colectivas
+viv4,Viviendas particulares con energía eléctrica
+viv5,Viviendas particulares con agua corriente (a)
+viv6,Viviendas particulares con desagüe cloacal
+viv7,Viviendas particulares con recolección de basura
+viv8,Viviendas particulares con desagüe sanitario (b)
+viv9,Tipo de vivienda particular: Casa/Duplex
+viv10,Tipo de vivienda particular: Rancho
+viv11,Tipo de vivienda particular: Departamento o piso
+viv12,Tipo de vivienda particular: Pieza de inquilinato
+viv13,Tipo de vivienda particular: Improvisada
+viv14,Otra vivienda particular
+viv15,Viviendas particulares con paredes de ladrillo
+viv16,Viviendas particulares con paredes de madera
+viv17,Viviendas particulares con paredes de estaqueo
+viv18,Viviendas particulares con paredes de adobe
+viv19,Viviendas particulares con paredes de bloque de cemento
+viv20,Viviendas particulares con paredes de tronco de palma
+viv21,"Viviendas particulares con paredes de cartón, hule, madera de embalaje"
+viv22,Viviendas particulares con paredes de Isopanel
+viv23,Viviendas particulares sin pared
+viv24,Viviendas particulares con otro tipo de pared
+viv25,Viviendas particulares con piso de tierra
+viv26,Viviendas particulares con piso de ladrillo
+viv27,"Viviendas particulares con piso de baldosa común, mosaico, cerámica"
+viv28,Viviendas particulares con piso de cemento (lecherada)
+viv29,"Viviendas particulares con piso de porcelanato, mármol, granito"
+viv30,Viviendas particulares con piso de tablón de madera
+viv31,Viviendas particulares con piso de parquet
+viv32,"Viviendas particulares con piso de alfombra, vinílico"
+viv33,Viviendas particulares con otro tipo de piso
+viv34,Viviendas particulares con techo de teja
+viv35,Viviendas particulares con techo de paja
+viv36,Viviendas particulares con techo de fibrocemento o similar (eternit)
+viv37,Viviendas particulares con techo de chapa de zinc
+viv38,Viviendas particulares con techo de tablilla de madera
+viv39,"Viviendas particulares con techo de hormigón armado, loza o bovedilla"
+viv40,Viviendas particulares con techo de tronco de palma
+viv41,"Viviendas particulares con techo de cartón, hule, madera de embalaje"
+viv42,Viviendas particulares con techo de chapa termoacústica
+viv43,Viviendas particulares con otro tipo de techo
+viv44,Viviendas particulares con teléfono celular con pantalla táctil
+viv45,Viviendas particulares con televisor con pantalla plana
+viv46,"Viviendas particulares con computadora, notebook"
+viv47,Viviendas particulares con tablet o similares
+viv48,Viviendas particulares con conexión a Internet
+viv49,Viviendas particulares con lavarropa automática
+viv50,Viviendas particulares con secarropa
+viv51,Viviendas particulares con ducha eléctrica
+viv52,Viviendas particulares con termocalefón
+viv53,Viviendas particulares con motocicleta
+viv54,Viviendas particulares con automóvil
+viv55,Viviendas particulares con camión
+viv56,Viviendas particulares con camioneta
+viv57,Viviendas particulares con auto/camión o camioneta en el hogar
+viv58,Viviendas particulares con microondas
+viv59,Viviendas particulares con acondicionador de aire
+viv60,Viviendas particulares con ninguno de estos bienes
+viv61,Viviendas particulares que usan leña para cocinar
+viv62,Viviendas particulares que usan gas para cocinar
+viv63,Viviendas particulares que usan carbón para cocinar
+viv64,Viviendas particulares que usan electricidad para cocinar
+viv65,Viviendas particulares que usan otro combustible para cocinar
+viv66,Viviendas particulares con lote o terreno propio
+viv67,Viviendas particulares con lote o terreno pagando en cuotas
+viv68,Viviendas particulares con lote o terreno en condominio
+viv69,Viviendas particulares con lote o terreno fiscal o municipal
+viv70,Viviendas particulares con lote o terreno alquilado
+viv71,Viviendas particulares con lote o terreno cedido
+viv72,Viviendas particulares con lote o terreno ocupada de hecho
+viv73,Viviendas particulares con lote o terreno Otro (*)
+hog1,Total de hogares particulares (sin personas sin vivienda)
+hog2,Hogares particulares con 0 dormitorio
+hog3,Hogares particulares con 1 dormitorio
+hog4,Hogares particulares con 2 dormitorios
+hog5,Hogares particulares con 3 o más dormitorios
+hog6,Tipo de hogar Unipersonal
+hog7,Tipo de hogar Nuclear completo
+hog8,Tipo de hogar Nuclear incompleto
+hog9,Tipo de hogar Extendido
+hog10,Tipo de hogar Compuesto
+hog11,Hogares encabezados por hombres
+hog12,Hogares encabezados por mujeres
+pob1,Población total
+pob2,Hombres
+pob3,Mujeres
+pob4,Población de 0 a 14 años de edad
+pob5,Población de 15 a 64 años de edad
+pob6,Población de 65 años y más de edad
+pob7,Edad mediana
+pob8,Índice de envejecimiento
+pob9,Relación de dependencia demográfica
+pob10,Índice de feminidad

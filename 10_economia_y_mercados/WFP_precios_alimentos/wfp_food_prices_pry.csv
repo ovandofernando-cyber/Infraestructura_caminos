@@ -1,0 +1,804 @@
+date,admin1,admin2,market,market_id,latitude,longitude,category,commodity,commodity_id,unit,priceflag,pricetype,currency,price,usdprice
+2010-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,635,0.14
+2010-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,2714,0.59
+2010-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2714,0.59
+2010-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3786,0.82
+2010-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3150,0.68
+2010-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,26571,5.78
+2010-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,19167,4.17
+2010-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,15333,3.33
+2011-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,967,0.21
+2011-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,2500,0.54
+2011-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2857,0.62
+2011-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4071,0.88
+2011-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3129,0.68
+2011-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,27429,5.94
+2011-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,18167,3.93
+2011-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,15143,3.28
+2011-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,869,0.19
+2011-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,2500,0.55
+2011-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3500,0.77
+2011-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3625,0.8
+2011-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3200,0.7
+2011-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,29154,6.42
+2011-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,15000,3.3
+2011-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18000,3.96
+2011-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,761,0.18
+2011-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3500,0.82
+2011-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3500,0.82
+2011-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3727,0.87
+2011-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3000,0.7
+2011-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,30500,7.16
+2011-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,17200,4.04
+2011-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18500,4.34
+2011-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,584,0.14
+2011-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3400,0.83
+2011-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3500,0.85
+2011-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4091,1
+2011-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3000,0.73
+2011-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,29750,7.24
+2011-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,15773,3.84
+2011-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,20364,4.95
+2011-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,502,0.13
+2011-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3400,0.86
+2011-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3167,0.8
+2011-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3850,0.97
+2011-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3000,0.76
+2011-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,28800,7.27
+2011-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16600,4.19
+2011-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,20100,5.08
+2011-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,552,0.14
+2011-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3450,0.87
+2011-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2500,0.63
+2011-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3750,0.95
+2011-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3000,0.76
+2011-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,27833,7.03
+2011-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16167,4.08
+2011-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,20500,5.18
+2011-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,545,0.14
+2011-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3400,0.86
+2011-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2450,0.62
+2011-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3714,0.94
+2011-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2900,0.74
+2011-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,27143,6.89
+2011-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16000,4.06
+2011-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,546,0.14
+2011-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3808,1
+2011-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2038,0.53
+2011-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3615,0.95
+2011-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3046,0.8
+2011-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,29714,7.78
+2011-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16571,4.34
+2011-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18700,4.9
+2011-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,557,0.14
+2011-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3392,0.86
+2011-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2177,0.55
+2011-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3538,0.89
+2011-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3256,0.82
+2011-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,26417,6.67
+2011-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16692,4.22
+2011-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,629,0.15
+2011-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3231,0.78
+2011-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2231,0.54
+2011-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3375,0.81
+2011-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2713,0.66
+2011-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,17846,4.31
+2011-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16231,3.92
+2011-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,667,0.16
+2011-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3230,0.76
+2011-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2383,0.56
+2011-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3583,0.84
+2011-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2273,0.53
+2011-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,20333,4.77
+2011-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16250,3.81
+2011-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,668,0.15
+2011-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3200,0.73
+2011-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2790,0.63
+2011-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3950,0.9
+2011-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3247,0.74
+2011-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,16700,3.79
+2011-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16750,3.8
+2012-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1188,0.26
+2012-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3338,0.73
+2012-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2500,0.54
+2012-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3545,0.77
+2012-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2744,0.6
+2012-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,25000,5.43
+2012-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,17000,3.7
+2012-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18857,4.1
+2012-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,715,0.17
+2012-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4500,1.04
+2012-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3136,0.73
+2012-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3864,0.89
+2012-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3406,0.79
+2012-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,17900,4.14
+2012-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,15900,3.68
+2012-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,605,0.14
+2012-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4450,1.04
+2012-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3458,0.81
+2012-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3857,0.91
+2012-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.94
+2012-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,22583,5.3
+2012-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,17083,4.01
+2012-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,611,0.14
+2012-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4333,1.01
+2012-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3000,0.7
+2012-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3692,0.86
+2012-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3958,0.92
+2012-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,20167,4.7
+2012-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16750,3.9
+2012-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,19000,4.43
+2012-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,556,0.13
+2012-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4438,1.03
+2012-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3278,0.76
+2012-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3650,0.85
+2012-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3860,0.9
+2012-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,20400,4.73
+2012-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16000,3.71
+2012-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18167,4.22
+2012-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,608,0.14
+2012-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4500,1
+2012-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3375,0.75
+2012-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3750,0.84
+2012-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3975,0.89
+2012-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,20000,4.46
+2012-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16750,3.74
+2012-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,646,0.14
+2012-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4500,1.01
+2012-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3500,0.78
+2012-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3500,0.78
+2012-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.9
+2012-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,22000,4.93
+2012-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16500,3.7
+2012-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,735,0.17
+2012-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4500,1.02
+2012-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4000,0.91
+2012-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3550,0.81
+2012-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.91
+2012-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,22333,5.08
+2012-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,17000,3.87
+2012-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17000,3.87
+2012-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,940,0.21
+2012-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4500,1.02
+2012-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3900,0.89
+2012-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3944,0.9
+2012-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.91
+2012-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,20000,4.55
+2012-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16667,3.79
+2012-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,858,0.19
+2012-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4462,1.01
+2012-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4000,0.9
+2012-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4167,0.94
+2012-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.9
+2012-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,21667,4.89
+2012-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16500,3.72
+2012-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,893,0.2
+2012-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4500,1.01
+2012-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3500,0.79
+2012-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4500,1.01
+2012-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.9
+2012-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,23143,5.2
+2012-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16375,3.68
+2012-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,818,0.19
+2012-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4500,1.05
+2012-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4357,1.02
+2012-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4357,1.02
+2012-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.93
+2012-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,25571,5.97
+2012-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16667,3.89
+2013-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,838,0.2
+2013-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4333.5,1.04
+2013-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3625,0.87
+2013-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4200,1.01
+2013-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,25000,5.99
+2013-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16400,3.93
+2013-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,847,0.21
+2013-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4167,1.05
+2013-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3250,0.82
+2013-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4042,1.02
+2013-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4167,1.05
+2013-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,22667,5.71
+2013-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16182,4.08
+2013-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,15250,3.84
+2013-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,850,0.21
+2013-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4857,1.21
+2013-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,5000,1.25
+2013-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4625,1.15
+2013-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3975,0.99
+2013-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,22938,5.73
+2013-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,18375,4.59
+2013-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17214,4.3
+2013-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,728,0.18
+2013-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3850,0.95
+2013-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3227,0.8
+2013-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3773,0.93
+2013-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4222,1.04
+2013-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,21083,5.21
+2013-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,19000,4.7
+2013-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17222,4.26
+2013-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,644,0.15
+2013-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,2880,0.69
+2013-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3167,0.76
+2013-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3583,0.86
+2013-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4125,0.99
+2013-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,20417,4.9
+2013-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,19833,4.76
+2013-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,16000,3.84
+2013-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,679,0.16
+2013-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,2358,0.54
+2013-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3008,0.69
+2013-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3333,0.77
+2013-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4375,1.01
+2013-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,19455,4.47
+2013-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,19909,4.58
+2013-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,16300,3.75
+2013-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,652,0.15
+2013-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,2607,0.59
+2013-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3000,0.68
+2013-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3357,0.76
+2013-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3893,0.88
+2013-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,19857,4.51
+2013-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,19857,4.51
+2013-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,16071,3.65
+2013-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,776,0.18
+2013-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,2369,0.54
+2013-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3340,0.76
+2013-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3333,0.76
+2013-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3385,0.77
+2013-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,19846,4.51
+2013-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20308,4.62
+2013-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,16462,3.74
+2013-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,862,0.19
+2013-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,2546,0.57
+2013-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3417,0.77
+2013-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3554,0.8
+2013-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3331,0.75
+2013-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,18846,4.25
+2013-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,19538,4.41
+2013-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,15538,3.5
+2013-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,983,0.22
+2013-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,2646,0.6
+2013-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4269,0.96
+2013-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4477,1.01
+2013-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3454,0.78
+2013-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,21192,4.77
+2013-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,4.5
+2013-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,15000,3.37
+2013-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1205,0.27
+2013-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,2658,0.6
+2013-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4571,1.03
+2013-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5929,1.34
+2013-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3546,0.8
+2013-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,22385,5.05
+2013-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,4.51
+2013-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,16308,3.68
+2013-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1358,0.3
+2013-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3563,0.79
+2013-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,6100,1.35
+2013-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5100,1.13
+2013-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4060,0.9
+2013-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,24200,5.35
+2013-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,17333,3.83
+2013-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18450,4.08
+2014-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1209,0.26
+2014-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3923,0.85
+2014-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4036,0.87
+2014-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6500,1.41
+2014-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3617,0.78
+2014-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,22500,4.88
+2014-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,19857,4.3
+2014-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,16286,3.53
+2014-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1189,0.27
+2014-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3518,0.79
+2014-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2409,0.54
+2014-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4909,1.11
+2014-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3770,0.85
+2014-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,25545,5.76
+2014-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,19818,4.47
+2014-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,16000,3.61
+2014-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1001,0.23
+2014-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3500,0.79
+2014-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2000,0.45
+2014-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4714,1.07
+2014-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3800,0.86
+2014-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,25385,5.75
+2014-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,4.53
+2014-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17357,3.93
+2014-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,820,0.19
+2014-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4292,0.98
+2014-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2000,0.46
+2014-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5000,1.14
+2014-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3950,0.9
+2014-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,25833,5.9
+2014-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,4.57
+2014-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17462,3.99
+2014-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,711,0.16
+2014-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3750,0.86
+2014-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2000,0.46
+2014-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4313,0.99
+2014-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3825,0.88
+2014-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,25571,5.85
+2014-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,4.58
+2014-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17429,3.99
+2014-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,725,0.16
+2014-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3545,0.8
+2014-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2000,0.45
+2014-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4458,1.01
+2014-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3758,0.85
+2014-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,26000,5.9
+2014-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20417,4.63
+2014-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17250,3.91
+2014-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,774,0.19
+2014-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3562,0.86
+2014-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2000,0.48
+2014-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4000,0.96
+2014-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3777,0.91
+2014-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,26538,6.38
+2014-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,4.81
+2014-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17923,4.31
+2014-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,823,0.19
+2014-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3591,0.84
+2014-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2682,0.63
+2014-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4000,0.94
+2014-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3736,0.88
+2014-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,26818,6.28
+2014-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,19000,4.45
+2014-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18273,4.28
+2014-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,924,0.22
+2014-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3864,0.91
+2014-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3100,0.73
+2014-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4000,0.94
+2014-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3500,0.82
+2014-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,28000,6.57
+2014-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,15636,3.67
+2014-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18091,4.24
+2014-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,949,0.21
+2014-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4192,0.91
+2014-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3464,0.75
+2014-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4286,0.93
+2014-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3467,0.75
+2014-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,28500,6.21
+2014-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16182,3.52
+2014-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18000,3.92
+2014-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,805,0.17
+2014-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4150,0.89
+2014-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3250,0.7
+2014-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4208,0.9
+2014-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3458,0.74
+2014-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,28400,6.08
+2014-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,15900,3.41
+2014-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17700,3.79
+2014-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,982,0.21
+2014-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4850,1.05
+2014-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4150,0.9
+2014-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4500,0.97
+2014-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3550,0.77
+2014-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,27200,5.89
+2014-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,15444,3.34
+2014-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18111,3.92
+2015-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,841,0.18
+2015-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4056,0.86
+2015-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2722,0.57
+2015-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4111,0.87
+2015-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3333,0.7
+2015-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,27556,5.82
+2015-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16667,3.52
+2015-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18667,3.94
+2015-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,650,0.14
+2015-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4388,0.92
+2015-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3667,0.77
+2015-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4875,1.03
+2015-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3150,0.66
+2015-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,23950,5.04
+2015-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,15818,3.33
+2015-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18400,3.87
+2015-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,668,0.14
+2015-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4591,0.96
+2015-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4273,0.89
+2015-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4773,1
+2015-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3422,0.72
+2015-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,20409,4.27
+2015-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,16000,3.35
+2015-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17875,3.74
+2015-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,632,0.13
+2015-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4636,0.93
+2015-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3000,0.6
+2015-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4727,0.95
+2015-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3433,0.69
+2015-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,23045,4.63
+2015-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,15000,3.02
+2015-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17045,3.43
+2015-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,653,0.13
+2015-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4700,0.93
+2015-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2800,0.55
+2015-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4818,0.95
+2015-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3527,0.7
+2015-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,21400,4.23
+2015-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,15000,2.97
+2015-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18000,3.56
+2015-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,576,0.11
+2015-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4182,0.81
+2015-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3000,0.58
+2015-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4591,0.89
+2015-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3527,0.69
+2015-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,21955,4.27
+2015-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,15455,3
+2015-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18727,3.64
+2015-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,582,0.11
+2015-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3750,0.72
+2015-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3000,0.58
+2015-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3500,0.67
+2015-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3500,0.67
+2015-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,24727,4.76
+2015-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,15000,2.89
+2015-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,19385,3.73
+2015-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,580,0.11
+2015-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3654,0.7
+2015-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3215,0.61
+2015-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,3946,0.75
+2015-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3508,0.67
+2015-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,26462,5.06
+2015-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,17846,3.41
+2015-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,19308,3.69
+2015-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,581,0.1
+2015-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3625,0.65
+2015-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3125,0.56
+2015-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4417,0.79
+2015-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3492,0.63
+2015-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,26750,4.8
+2015-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,19583,3.52
+2015-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18500,3.32
+2015-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,573,0.1
+2015-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3833,0.68
+2015-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3077,0.54
+2015-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4750,0.84
+2015-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3608,0.64
+2015-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,25769,4.55
+2015-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,19583,3.45
+2015-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17846,3.15
+2015-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,610,0.11
+2015-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3769,0.67
+2015-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3038,0.54
+2015-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4462,0.79
+2015-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3485,0.62
+2015-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,26250,4.67
+2015-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,3.55
+2015-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18077,3.21
+2015-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,790,0.14
+2015-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,3875,0.68
+2015-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3542,0.62
+2015-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4292,0.75
+2015-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3483,0.61
+2015-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,24750,4.31
+2015-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,3.48
+2015-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,18083,3.15
+2016-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,963,0.16
+2016-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4227,0.72
+2016-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3909,0.67
+2016-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5818,0.99
+2016-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3500,0.6
+2016-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,24727,4.21
+2016-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,3.4
+2016-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17545,2.99
+2016-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,975,0.17
+2016-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4750,0.82
+2016-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4042,0.7
+2016-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5917,1.02
+2016-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3300,0.57
+2016-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,25083,4.33
+2016-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,3.46
+2016-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17667,3.05
+2016-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,845,0.15
+2016-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4792,0.84
+2016-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3958,0.69
+2016-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6750,1.18
+2016-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3727,0.65
+2016-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,24833,4.33
+2016-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,3.49
+2016-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17333,3.02
+2016-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,824,0.15
+2016-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4846,0.87
+2016-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4308,0.78
+2016-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6385,1.15
+2016-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3892,0.7
+2016-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,24231,4.37
+2016-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20385,3.67
+2016-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17308,3.12
+2016-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,809,0.14
+2016-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4542,0.81
+2016-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4338,0.77
+2016-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6423,1.14
+2016-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3985,0.71
+2016-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,24154,4.31
+2016-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,3.56
+2016-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17615,3.14
+2016-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,795,0.14
+2016-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4308,0.76
+2016-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3846,0.68
+2016-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5923,1.05
+2016-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.71
+2016-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,26077,4.61
+2016-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,3.54
+2016-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17615,3.12
+2016-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,845,0.15
+2016-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4458,0.8
+2016-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4083,0.73
+2016-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6500,1.17
+2016-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.72
+2016-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,25083,4.5
+2016-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,3.59
+2016-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17167,3.08
+2016-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1069,0.19
+2016-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4269,0.77
+2016-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4269,0.77
+2016-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6731,1.22
+2016-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.72
+2016-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,25077,4.53
+2016-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,20000,3.61
+2016-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17462,3.16
+2016-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1076,0.19
+2016-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4538,0.82
+2016-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4346,0.78
+2016-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6923,1.25
+2016-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.72
+2016-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,25000,4.5
+2016-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,21154,3.81
+2016-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17538,3.16
+2016-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1295,0.23
+2016-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,5000,0.89
+2016-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4792,0.86
+2016-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6583,1.18
+2016-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.71
+2016-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,23417,4.18
+2016-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,24583,4.39
+2016-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17000,3.03
+2016-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1381,0.24
+2016-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4708,0.82
+2016-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,5000,0.87
+2016-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6792,1.18
+2016-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4000,0.7
+2016-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,26917,4.69
+2016-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,25000,4.35
+2016-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17000,2.96
+2016-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1643,0.28
+2016-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4692,0.8
+2016-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,5038,0.86
+2016-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6292,1.08
+2016-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4125,0.71
+2016-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (beef),141,KG,actual,Wholesale,PYG,26000,4.46
+2016-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (chicken),94,KG,actual,Wholesale,PYG,25000,4.29
+2016-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,"meat, fish and eggs",Meat (pork),140,KG,actual,Wholesale,PYG,17846,3.06
+2018-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1600,0.29
+2018-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4062.5,0.72
+2018-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2604.38,0.46
+2018-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5041.75,0.9
+2018-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2475,0.44
+2018-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1345.84,0.24
+2018-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4375,0.79
+2018-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2577.92,0.46
+2018-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4916.5,0.88
+2018-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2441.67,0.44
+2018-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1300,0.24
+2018-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4106.09,0.74
+2018-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2575.91,0.47
+2018-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5182,0.94
+2018-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2500,0.45
+2018-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1233.34,0.22
+2018-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4181.91,0.76
+2018-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2667,0.48
+2018-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5136.45,0.93
+2018-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2500,0.45
+2018-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1068.75,0.19
+2018-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.72
+2018-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2667,0.48
+2018-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4133.5,0.74
+2018-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2500,0.45
+2018-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1031.26,0.18
+2018-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4138.75,0.73
+2018-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2416.75,0.43
+2018-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,4888.83,0.86
+2018-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2500,0.44
+2018-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1063.64,0.19
+2018-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4011.13,0.7
+2018-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2644.73,0.46
+2018-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5055.6,0.89
+2018-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2500,0.44
+2018-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1241.27,0.22
+2018-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.7
+2018-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2667,0.47
+2018-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5055.67,0.88
+2018-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2500,0.44
+2018-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1120.84,0.19
+2018-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4071.57,0.7
+2018-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2667,0.46
+2018-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5499.86,0.94
+2018-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2500,0.43
+2018-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1090.48,0.18
+2018-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4023.86,0.68
+2018-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2667,0.45
+2018-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5761.79,0.97
+2018-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2485.71,0.42
+2018-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1066.67,0.18
+2018-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4025.62,0.68
+2018-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2577,0.44
+2018-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5264.17,0.89
+2018-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2500,0.42
+2018-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1169.7,0.2
+2018-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4047.57,0.69
+2018-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2762.14,0.47
+2018-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5238.29,0.89
+2018-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2500,0.42
+2019-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1272.73,0.21
+2019-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.66
+2019-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2615.62,0.43
+2019-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5064.15,0.84
+2019-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,2892.31,0.48
+2019-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,1080.4,0.18
+2019-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4027.83,0.67
+2019-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2550.08,0.42
+2019-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5111.17,0.85
+2019-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3389.08,0.56
+2019-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,987.72,0.16
+2019-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4069.42,0.67
+2019-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2555.58,0.42
+2019-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5305.67,0.87
+2019-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3355.83,0.55
+2019-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,950.88,0.15
+2019-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.65
+2019-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2595.43,0.42
+2019-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5488.21,0.89
+2019-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3452.43,0.56
+2019-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,889.48,0.14
+2019-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.63
+2019-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2611.25,0.41
+2019-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5250.08,0.83
+2019-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3433.42,0.54
+2019-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava,68,KG,actual,Wholesale,PYG,968.42,0.16
+2019-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.65
+2019-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2743.92,0.44
+2019-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5333.38,0.86
+2019-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3489.77,0.56
+2019-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.67
+2019-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2679.77,0.45
+2019-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5833.54,0.98
+2019-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3500,0.59
+2019-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4111.33,0.67
+2019-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2667,0.44
+2019-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5250.17,0.86
+2019-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3500,0.57
+2019-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.63
+2019-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,2667,0.42
+2019-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5381.14,0.85
+2019-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3395.36,0.54
+2019-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.62
+2019-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3770.94,0.59
+2019-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6000.13,0.94
+2019-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3470.88,0.54
+2019-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.62
+2019-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4972.25,0.77
+2019-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5916.67,0.92
+2019-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3500,0.55
+2019-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4357.14,0.68
+2019-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4820.69,0.75
+2019-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6238.07,0.97
+2019-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3500,0.54
+2020-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.62
+2020-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4222.17,0.65
+2020-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6527.75,1
+2020-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3500,0.54
+2020-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.62
+2020-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3833.5,0.59
+2020-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6312.63,0.97
+2020-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3466.75,0.53
+2020-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.61
+2020-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3455.67,0.53
+2020-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6011.13,0.92
+2020-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3375.73,0.52
+2020-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.62
+2020-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3167,0.49
+2020-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6015.18,0.93
+2020-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3451.55,0.53
+2020-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.61
+2020-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3167,0.48
+2020-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5969.73,0.91
+2020-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3279,0.5
+2020-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.6
+2020-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3180.83,0.48
+2020-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,5986.08,0.9
+2020-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3378.08,0.51
+2020-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.58
+2020-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3167,0.46
+2020-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6000,0.87
+2020-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3367,0.49
+2020-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.58
+2020-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3158.63,0.46
+2020-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6000,0.87
+2020-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3391.88,0.49
+2020-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.58
+2020-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3176.5,0.46
+2020-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6000,0.87
+2020-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3367,0.49
+2020-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.57
+2020-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3167,0.45
+2020-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,6272.05,0.89
+2020-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3345.95,0.48
+2021-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.58
+2021-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3167,0.46
+2021-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,8000,1.17
+2021-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3367,0.49
+2021-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.6
+2021-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3167,0.48
+2021-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,7955.53,1.2
+2021-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3367,0.51
+2021-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.6
+2021-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3302.47,0.5
+2021-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,7889,1.19
+2021-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3375.87,0.51
+2021-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4078.95,0.63
+2021-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3231.78,0.5
+2021-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,7377.11,1.15
+2021-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3370.42,0.52
+2021-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4000,0.6
+2021-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,3446.61,0.52
+2021-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,7529.35,1.13
+2021-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3457.61,0.52
+2021-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,4366.6,0.65
+2021-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4404.76,0.66
+2021-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,7261.86,1.08
+2021-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4113.73,0.61
+2021-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,5000,0.73
+2021-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4187,0.61
+2021-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,7059,1.03
+2021-07-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4030,0.59
+2021-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4134,0.6
+2021-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,7483,1.08
+2021-08-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3808,0.55
+2021-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,4682,0.68
+2021-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (yellow),136,KG,actual,Wholesale,PYG,2500,0.36
+2021-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,7333,1.06
+2021-09-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3754,0.55
+2021-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,6600,0.96
+2021-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,5127,0.74
+2021-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (yellow),136,KG,actual,Wholesale,PYG,2500,0.36
+2021-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,7484,1.08
+2021-10-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3937,0.57
+2021-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,6965,1.02
+2021-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,5746,0.84
+2021-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (yellow),136,KG,actual,Wholesale,PYG,2433.33,0.36
+2021-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,8207,1.2
+2021-11-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3580,0.52
+2021-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,6438,0.95
+2021-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,5895,0.87
+2021-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (yellow),136,KG,actual,Wholesale,PYG,2338.89,0.34
+2021-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,8421,1.24
+2021-12-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3623,0.53
+2022-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,5000,0.72
+2022-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,5807,0.83
+2022-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (yellow),136,KG,actual,Wholesale,PYG,3000,0.43
+2022-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,8667,1.24
+2022-01-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3667,0.53
+2022-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,5098,0.73
+2022-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,5636.36,0.81
+2022-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (yellow),136,KG,actual,Wholesale,PYG,2850,0.41
+2022-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,8574,1.24
+2022-02-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3639,0.52
+2022-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,6745,0.97
+2022-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,5852,0.84
+2022-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (yellow),136,KG,actual,Wholesale,PYG,2526,0.36
+2022-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,8574,1.23
+2022-03-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3583,0.52
+2022-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,7130,1.04
+2022-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,5976,0.87
+2022-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (yellow),136,KG,actual,Wholesale,PYG,2624,0.38
+2022-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,9537,1.39
+2022-04-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3776,0.55
+2022-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,7000,1.02
+2022-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,5960,0.87
+2022-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (yellow),136,KG,actual,Wholesale,PYG,2600,0.38
+2022-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,8746,1.28
+2022-05-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,3953,0.58
+2022-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Cassava flour,74,KG,actual,Wholesale,PYG,7333,1.07
+2022-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (white),67,KG,actual,Wholesale,PYG,6016,0.88
+2022-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize (yellow),136,KG,actual,Wholesale,PYG,2556,0.37
+2022-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Maize flour,76,KG,actual,Wholesale,PYG,8794,1.28
+2022-06-15,Asunción,Asunción,Asunción,2565,-25.28,-57.63,cereals and tubers,Rice,52,KG,actual,Wholesale,PYG,4132,0.6
