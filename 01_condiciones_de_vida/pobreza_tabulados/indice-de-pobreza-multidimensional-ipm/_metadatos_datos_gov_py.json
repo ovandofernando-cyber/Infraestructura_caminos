@@ -1,0 +1,101 @@
+{
+ "id": "b8a8ad16-0ac5-4261-945d-6e24885b8392",
+ "name": "indice-de-pobreza-multidimensional-ipm",
+ "title": "Indice de Pobreza Multidimensional (IPM)",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>El Instituto Nacional de Estadística (INE) presenta, por quinto año consecutivo, el Índice de Pobreza Multidimensional (IPM) 2025 para Paraguay, una medición directa de la pobreza basada en el enfoque de derechos humanos y en el enfoque de capacidades desarrollado por el Premio Nobel de Economía, Amartya Sen.<br />\nEl IPM constituye una medida oficial y complementaria a la medición de la pobreza monetaria, la cual se basa en el ingreso de los hogares y es publicada anualmente por el INE.<br />\nEn esta edición se incorpora una actualización de la serie anual correspondiente al período 2022–2025, que incluye los valores absolutos y relativos del IPM. Esta actualización responde a la disponibilidad, en agosto de 2025, de las nuevas proyecciones de población (revisión 2025), elaboradas por el INE con base en los resultados del Censo Nacional de Población y Viviendas 2022. La incorporación de estas nuevas proyecciones permitió ajustar los factores de expansión de la Encuesta Permanente de Hogares Continua (EPHC), dando lugar a una nueva serie de estimaciones para el período 2022–2025, con leves variaciones en los niveles de pobreza multidimensional, tanto en términos relativos como absolutos.<br />\nEl objetivo de esta publicación es presentar de manera detallada la metodología del IPM, las dimensiones que lo componen, los indicadores con sus respectivos umbrales de privación y los principales resultados correspondientes al período 2022–2025.</p>\n",
+ "url": "https://www.datos.gov.py/dataset/indice-de-pobreza-multidimensional-ipm",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Vie, 10/02/2026 - 15:56",
+ "metadata_created": "Vie, 10/02/2026 - 14:08",
+ "metadata_modified": "Vie, 10/02/2026 - 15:56",
+ "creator_user_id": "6e460875-5d75-4a20-b4c0-160a50bb251b",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "e4a054b1-1d24-4e04-b468-6cfd069d4094",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/333/BOLETIN_T%C3%89CNICO_IPM_2025_INE.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Vie, 10/02/2026 - 14:09",
+   "name": "Boletin Tecnico",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Vie, 10/02/2026 - 14:09",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Vie, 10/02/2026 - 14:09"
+  },
+  {
+   "id": "dc1af7b2-d726-457a-a0ee-bb57c5e793e5",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/333/PRESENTACI%C3%93N_IPM_2025_INE.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Vie, 10/02/2026 - 14:09",
+   "name": "Presentacion",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Vie, 10/02/2026 - 14:09",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Vie, 10/02/2026 - 14:09"
+  },
+  {
+   "id": "aba6e351-cf62-4311-95a3-842a03d1c481",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/333/Anexos%20I%20tabulados_IPM_py_2022-2025_INE.xlsx",
+   "description": "",
+   "format": "xlsx",
+   "state": "Active",
+   "revision_timestamp": "Vie, 10/02/2026 - 14:10",
+   "name": "Anexos I",
+   "mimetype": "xlsx",
+   "size": "",
+   "created": "Vie, 10/02/2026 - 14:10",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Vie, 10/02/2026 - 14:10"
+  },
+  {
+   "id": "cdb19b1b-e9ed-42d5-be22-dfaa6a2a0286",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/333/Anexos%20II%20tabulados_IPM%20py_2016_2021_INE.xlsx",
+   "description": "",
+   "format": "xlsx",
+   "state": "Active",
+   "revision_timestamp": "Vie, 10/02/2026 - 14:10",
+   "name": "Anexos II",
+   "mimetype": "xlsx",
+   "size": "",
+   "created": "Vie, 10/02/2026 - 14:10",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Vie, 10/02/2026 - 14:10"
+  }
+ ],
+ "tags": [
+  {
+   "id": "856de8ba-1368-418a-9f6e-31fcf78da520",
+   "vocabulary_id": "2",
+   "name": "pobreza"
+  },
+  {
+   "id": "7330c913-71d0-4984-b09b-9f44262c4a25",
+   "vocabulary_id": "2",
+   "name": "población"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>Ley N° 6770 \"Que establece la modernización del Sistema Estadístico Nacional (SISEN) y crea el Instituto Nacional de Estadística (INE)\" la Dirección General de Estadística, Encuestas y Censos pasa a denominarse Instituto Nacional de Estadística (INE) como persona jurídica de derecho público, con carácter autárquico y autónomo</p>\n",
+   "id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/ine.PNG",
+   "title": "INSTITUTO NACIONAL DE ESTADISTICA (INE)",
+   "name": "group/instituto-nacional-de-estadistica-ine"
+  }
+ ]
+}

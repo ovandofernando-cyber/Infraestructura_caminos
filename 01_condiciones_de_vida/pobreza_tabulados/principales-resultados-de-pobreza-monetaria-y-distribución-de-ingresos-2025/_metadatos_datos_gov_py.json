@@ -1,0 +1,101 @@
+{
+ "id": "18466ec2-be1a-4baf-8f83-1a6269b8de07",
+ "name": "principales-resultados-de-pobreza-monetaria-y-distribución-de-ingresos-2025",
+ "title": "PRINCIPALES RESULTADOS DE POBREZA MONETARIA Y DISTRIBUCIÓN DE INGRESOS 2025",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>El Instituto Nacional de Estadística (INE) presenta los principales Indicadores de Pobreza Monetaria y Distribución de Ingresos, basados en los Resultados Anuales de la Encuesta Permanente de Hogares Continua (EPHC), de los años 2022 al 2025.<br />\nEsta publicación ofrece estimaciones a nivel nacional, por área de residencia (urbana y rural) y para 15 departamentos, incluyendo la capital Asunción, lo que permitirá mejoras en la orientación de las políticas y los programas sociales, a partir de un análisis más preciso y desagregado de la pobreza monetaria en Paraguay.<br />\nEn la presente edición se incorpora una actualización de la serie anual de pobreza monetaria correspondiente al periodo 2022 - 2025. Esta actualización obedece a la disponibilidad, desde agosto de 2025, de las nuevas proyecciones de población derivadas del Censo Nacional de Población y Viviendas 2022. En este marco, los factores de expansión de la EPHC fueron ajustados en función de la nueva estructura poblacional, con el propósito de asegurar que los valores absolutos estimados en la serie resulten consistentes con la nueva realidad demográfica del País. El ajuste señalado contribuye a fortalecer la calidad y precisión de las estimaciones de pobreza y mejorar la representatividad de todos los departamentos del país.<br />\nEn el marco de la revisión de los ponderadores de la EPHC, también se identificó la necesidad de revisar la valorización del almuerzo escolar por las razones expuestas en el presente documento.<br />\nPor tanto, el propósito del presente material es ofrecer información sobre las principales estimaciones de pobreza del año 2025, comparado estrictamente con las incidencias de los años 2022, 2023 y 2024. Se incluye también, información sobre las diferentes fuentes de ingresos, su distribución y los valores actualizados de las líneas de pobreza, tanto para áreas urbanas como rurales.</p>\n",
+ "url": "https://www.datos.gov.py/dataset/principales-resultados-de-pobreza-monetaria-y-distribuci%C3%B3n-de-ingresos-2025",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Jue, 07/09/2026 - 08:59",
+ "metadata_created": "Jue, 07/09/2026 - 08:19",
+ "metadata_modified": "Jue, 07/09/2026 - 08:59",
+ "creator_user_id": "6e460875-5d75-4a20-b4c0-160a50bb251b",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "2d39f338-0807-46a1-b333-4114f53c849d",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/308/Pobreza%20Monetaria_%20EPHC_2025_INE.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Jue, 07/09/2026 - 08:19",
+   "name": "Boletin",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Jue, 07/09/2026 - 08:19",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Jue, 07/09/2026 - 08:19"
+  },
+  {
+   "id": "312de0af-597f-4797-8b49-820e3d44f694",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/308/Presentaci%C3%B3n_pobreza%20monetaria_EPHC_2025%20INE.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Jue, 07/09/2026 - 08:20",
+   "name": "Presentación",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Jue, 07/09/2026 - 08:20",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Jue, 07/09/2026 - 08:20"
+  },
+  {
+   "id": "8140e251-9667-4ac6-a3ab-7baad006aa1c",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/308/Pobreza%20monetaria%20_EPHC_2025%20Cuadros%201%20al%206%20y%20anexos%201%20y%202_INE.xlsx",
+   "description": "",
+   "format": "xlsx",
+   "state": "Active",
+   "revision_timestamp": "Jue, 07/09/2026 - 08:20",
+   "name": "Cuadros-Anexos",
+   "mimetype": "xlsx",
+   "size": "",
+   "created": "Jue, 07/09/2026 - 08:20",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Jue, 07/09/2026 - 08:20"
+  },
+  {
+   "id": "f0bcef78-64ae-4ebc-adce-cb21a152d534",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/308/Presentaci%C3%B3n_Aspectos%20Metodol%C3%B3gicos%20de%20los%20Ajustes_EPHC_2025%20INE.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Jue, 07/09/2026 - 08:21",
+   "name": "Aspectos Metodológicos sobre los ajustes realizados en la Nueva Serie",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Jue, 07/09/2026 - 08:21",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Jue, 07/09/2026 - 08:21"
+  }
+ ],
+ "tags": [
+  {
+   "id": "4152b43a-766a-4e6d-8096-c37e30f5c161",
+   "vocabulary_id": "2",
+   "name": "ingresos"
+  },
+  {
+   "id": "856de8ba-1368-418a-9f6e-31fcf78da520",
+   "vocabulary_id": "2",
+   "name": "pobreza"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>Ley N° 6770 \"Que establece la modernización del Sistema Estadístico Nacional (SISEN) y crea el Instituto Nacional de Estadística (INE)\" la Dirección General de Estadística, Encuestas y Censos pasa a denominarse Instituto Nacional de Estadística (INE) como persona jurídica de derecho público, con carácter autárquico y autónomo</p>\n",
+   "id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/ine.PNG",
+   "title": "INSTITUTO NACIONAL DE ESTADISTICA (INE)",
+   "name": "group/instituto-nacional-de-estadistica-ine"
+  }
+ ]
+}

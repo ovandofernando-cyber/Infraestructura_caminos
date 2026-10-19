@@ -1,0 +1,101 @@
+{
+ "id": "d69c45e5-b1cf-4b3d-b4c1-e95383f948ac",
+ "name": "mapa-de-pobreza-monetaria-distrital",
+ "title": "Mapa de Pobreza Monetaria Distrital",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>El Instituto Nacional de Estadística (INE), en colaboración con el Banco Mundial (BM), presenta el Mapa de Pobreza Monetaria Distrital del Paraguay. Este reporte contiene las primeras estimaciones de pobreza monetaria a nivel distrital y barrial de Paraguay en más de dos décadas. Se dispone de estimaciones para los 263 distritos del país y los 67 barrios poblados de Asunción. Esta herramienta innovadora fue diseñada para fortalecer las políticas públicas y la planificación territorial en el país.</p>\n",
+ "url": "https://www.datos.gov.py/dataset/mapa-de-pobreza-monetaria-distrital",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Lun, 10/06/2025 - 12:18",
+ "metadata_created": "Lun, 10/06/2025 - 10:02",
+ "metadata_modified": "Lun, 10/06/2025 - 12:18",
+ "creator_user_id": "6e460875-5d75-4a20-b4c0-160a50bb251b",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "23d4a77f-9565-49c2-bab8-542cc90199c6",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/295/Resumen%20Ejecutivo%20Mapa%20de%20Pobreza%20Monetaria%20Distrital.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Lun, 10/06/2025 - 10:02",
+   "name": "Resumen Ejecutivo",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Lun, 10/06/2025 - 10:02",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Lun, 10/06/2025 - 10:02"
+  },
+  {
+   "id": "4fec1f33-9d6b-40e4-a5a5-a779418adc5b",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/295/Documento%20metodologico%20mapa%20de%20pobreza%20distrital.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Lun, 10/06/2025 - 10:02",
+   "name": "Documento Metodologico",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Lun, 10/06/2025 - 10:02",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Lun, 10/06/2025 - 10:02"
+  },
+  {
+   "id": "d342ef17-f78f-4cb8-a1ed-05c5c23420eb",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/295/Cuadro_Incidencia_Pobreza_Monetaria_Distrital.xlsx",
+   "description": "",
+   "format": "xlsx",
+   "state": "Active",
+   "revision_timestamp": "Lun, 10/06/2025 - 10:03",
+   "name": "Cuadros en Excel",
+   "mimetype": "xlsx",
+   "size": "",
+   "created": "Lun, 10/06/2025 - 10:03",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Lun, 10/06/2025 - 10:03"
+  },
+  {
+   "id": "53c8aaf8-9f6a-434f-9b88-1421beb41f3b",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/295/Prensentaci%C3%B3n%20Mapas%20de%20pobreza%20monetaria%20distrital.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Lun, 10/06/2025 - 10:03",
+   "name": "Presentacion",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Lun, 10/06/2025 - 10:03",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Lun, 10/06/2025 - 10:03"
+  }
+ ],
+ "tags": [
+  {
+   "id": "856de8ba-1368-418a-9f6e-31fcf78da520",
+   "vocabulary_id": "2",
+   "name": "pobreza"
+  },
+  {
+   "id": "7330c913-71d0-4984-b09b-9f44262c4a25",
+   "vocabulary_id": "2",
+   "name": "población"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>Ley N° 6770 \"Que establece la modernización del Sistema Estadístico Nacional (SISEN) y crea el Instituto Nacional de Estadística (INE)\" la Dirección General de Estadística, Encuestas y Censos pasa a denominarse Instituto Nacional de Estadística (INE) como persona jurídica de derecho público, con carácter autárquico y autónomo</p>\n",
+   "id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/ine.PNG",
+   "title": "INSTITUTO NACIONAL DE ESTADISTICA (INE)",
+   "name": "group/instituto-nacional-de-estadistica-ine"
+  }
+ ]
+}

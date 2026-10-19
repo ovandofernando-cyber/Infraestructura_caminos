@@ -1,0 +1,86 @@
+{
+ "id": "e056d5f7-5b11-4011-8bcf-5f5e3c6aaccd",
+ "name": "indice-de-pobreza-multidimensional-distrital",
+ "title": "Indice de Pobreza Multidimensional Distrital",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>El Instituto Nacional de Estadística (INE) presenta el Índice de Pobreza Multidimensional (IPM) estimado a partir del Censo Nacional de Población y Viviendas 2022 (CNPV 2022). Esta medición mantiene los criterios conceptuales y metodológicos del IPM Nacional basado en la Encuesta Permanente de Hogares Continua (EPHC), adaptados a la información disponible en el censo para asegurar la comparabilidad entre ambas fuentes. Su principal aporte es la generación de estimaciones con mayor desagregación geográfica, permitiendo analizar la pobreza multidimensional a nivel distrital. El documento describe la metodología utilizada para la construcción del índice y las adaptaciones realizadas para estimar sus dimensiones e indicadores a partir de los datos censales.</p>\n",
+ "url": "https://www.datos.gov.py/dataset/indice-de-pobreza-multidimensional-distrital",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Vie, 10/02/2026 - 12:55",
+ "metadata_created": "Vie, 10/02/2026 - 10:40",
+ "metadata_modified": "Vie, 10/02/2026 - 12:55",
+ "creator_user_id": "6e460875-5d75-4a20-b4c0-160a50bb251b",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "55b396fb-8efd-4c30-ad25-38f5f0537bc8",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/330/INFORME%20METODOLOGICO%20IPM%20DISTRITAL.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Vie, 10/02/2026 - 10:41",
+   "name": "Documento metodologico",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Vie, 10/02/2026 - 10:41",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Vie, 10/02/2026 - 10:41"
+  },
+  {
+   "id": "f3f109f8-5de8-4238-8107-8eaaa5052945",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/330/Presentaci%C3%B3n%20IPM%20Distrital.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Vie, 10/02/2026 - 10:41",
+   "name": "Presentacion",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Vie, 10/02/2026 - 10:41",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Vie, 10/02/2026 - 10:41"
+  },
+  {
+   "id": "a854c663-a2fa-4bf8-8346-19c1eb2a379f",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/330/ANEXO%20IPM%20CNPV_2022_INE.xlsx",
+   "description": "",
+   "format": "xlsx",
+   "state": "Active",
+   "revision_timestamp": "Vie, 10/02/2026 - 10:41",
+   "name": "Anexo",
+   "mimetype": "xlsx",
+   "size": "",
+   "created": "Vie, 10/02/2026 - 10:41",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Vie, 10/02/2026 - 10:41"
+  }
+ ],
+ "tags": [
+  {
+   "id": "856de8ba-1368-418a-9f6e-31fcf78da520",
+   "vocabulary_id": "2",
+   "name": "pobreza"
+  },
+  {
+   "id": "7330c913-71d0-4984-b09b-9f44262c4a25",
+   "vocabulary_id": "2",
+   "name": "población"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>Ley N° 6770 \"Que establece la modernización del Sistema Estadístico Nacional (SISEN) y crea el Instituto Nacional de Estadística (INE)\" la Dirección General de Estadística, Encuestas y Censos pasa a denominarse Instituto Nacional de Estadística (INE) como persona jurídica de derecho público, con carácter autárquico y autónomo</p>\n",
+   "id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/ine.PNG",
+   "title": "INSTITUTO NACIONAL DE ESTADISTICA (INE)",
+   "name": "group/instituto-nacional-de-estadistica-ine"
+  }
+ ]
+}
