@@ -18,7 +18,9 @@ El detalle fuente por fuente (90 fuentes, con URL, licencia y notas de calidad) 
 | Dimensión | Fuente principal | Institución | Periodicidad | Período en el repo | Nivel | Clave de unión | Carpeta |
 |---|---|---|---|---|---|---|---|
 | **Condiciones de vida** | EPHC anual (microdatos) | INE | Anual | 2017-2025 | Hogar / persona | `DPTO` × `AREA` (sin distrito) | `01_` |
+| | EPH serie comparable (microdatos, factor revisión 2025) | INE | Anual | 1997/98-2016 | Hogar / persona | `DPTO` × `AREA` | `12_` |
 | | IPM (bases y tabulados) | INE | Anual | 2022, 2024, 2025 | Persona / dpto | `DPTO` × `AREA` | `01_` |
+| | Encuesta de Ingresos y Gastos y Condiciones de Vida (EIGyCV) | INE | Única | 2011/12 | Hogar / persona | `DPTO` × `AREA` | `12_` |
 | | IPM y NBI distrital, mapa de pobreza | INE / Banco Mundial | Censal | 2022 | Distrito | `cod_dist` | `01_` |
 | **Población y vivienda** | Censo 2022: cuadros, indígena, hogares | INE | Censal (10 años) | 2022 | Distrito | nombre → `cod_dist` | `02_` |
 | | Proyecciones de población distrital | INE | Anual | 2000-2035 | Distrito | `cod_dist` | `02_` |
@@ -66,7 +68,8 @@ El detalle fuente por fuente (90 fuentes, con URL, licencia y notas de calidad) 
 
 ## 5. Limitaciones y pendientes
 
-- **35 fuentes no se pudieron descargar** desde este entorno, sobre todo porque la red bloquea los sitios `.gov.py` (INE, datos.gov.py, MOPC, MEC, MEF), HDX y otros. Están listadas con su URL en [`_arquitectura/fuentes_pendientes_descarga.csv`](_arquitectura/fuentes_pendientes_descarga.csv). Las de mayor valor: locales escolares del MEC, el tema Transporte de datos.gov.py, la EPHC trimestral, el anexo del PIB departamental del BCP y los precios mayoristas del Mercado de Abasto.
+- **30 fuentes siguen sin descargar** desde este entorno. Al 19/10/2026 la red ya deja pasar `www.ine.gov.py` (de ahí salieron la serie EPH 1997/98-2016 y la EIGyCV 2011/12), pero sigue bloqueando la mayoría de los sitios `.gov.py` (MEC, MEF, BCP, MAG, ANDE, CONATEL, MDS, INDI, SENASA, ERSSAN), HDX, BID, CAF, Banco Mundial y otros. `datos.gov.py` ya pasa la red, pero el sitio respondía error 502 (caído). Están listadas con su URL en [`_arquitectura/fuentes_pendientes_descarga.csv`](_arquitectura/fuentes_pendientes_descarga.csv). Las de mayor valor: locales escolares del MEC, el tema Transporte de datos.gov.py, el anexo del PIB departamental del BCP y los precios mayoristas del Mercado de Abasto.
+- **El INE no publica para descarga la EPHC trimestral ni las bases IPM 2016-2021 y 2023:** los paneles del portal de microdatos están vacíos. Las bases IPM que hay salieron de datos.gov.py. La base de transacciones de la EIGyCV (746 MB) no entra en GitHub.
 - **El Censo 2022 no tiene microdatos publicados:** solo cuadros y REDATAM en línea. Para localidad o compañía hay que pedirlos al INE por la Ley 5282.
 - **Las tablas de `10_` se transcribieron de PDF** y se verificaron contra los totales del documento. La de crédito del CAH sale de un gráfico: usarla con cautela.
 - **13 distritos nuevos de 2022** no tienen datos de HeiGIT ni CHIRPS (8 están en los departamentos foco).

@@ -26,7 +26,7 @@ Ampliado el 19/10/2026 por el equipo de agentes (carpetas 09 a 12). **La arquite
 | `09_servicios_complementarios/` | Conectividad a internet Ookla (trimestral), electrificación HREA 2013/2020 e instituciones OSM (comisarías, municipios, bancos, mercados), todo también por distrito |
 | `10_economia_y_mercados/` | Royalties 2025 y transferencias 2024 a municipios (MEF), producción agrícola por departamento (MAG), PIB departamental (BCP), crédito CAH |
 | `11_infraestructura_vial_complementaria/` | Programas BID de caminos vecinales: tramos mejorados, 169 puentes de madera georreferenciados, informe de cierre, línea de base de la evaluación de impacto |
-| `12_INE_complementario/` | Registro de bases del INE pendientes de descarga (EPH 1997-2016, EPHC trimestral, EIGyCV) |
+| `12_INE_complementario/` | Serie comparable EPH 1997/98-2016 (microdatos SAV, diccionarios, cuestionarios) y EIGyCV 2011/12 (bases DTA de gasto, vivienda y población); registro de bases del INE no descargadas (EPHC trimestral, IPM 2016-2023, transacciones EIGyCV) |
 | `_arquitectura/` | Catálogo maestro de fuentes, claves y uniones, control de calidad y fuentes pendientes |
 | `_equipo_agentes/` | Fichas TLDR de los agentes: ciencia de datos, infraestructura, economía y social |
 | `_scripts/` | Scripts en Python para descargar y procesar (para reproducir el armado). Las rutas de los scripts apuntan a `/home/user/repositorio_caminos_vecinales`: ajustarlas a tu carpeta local |

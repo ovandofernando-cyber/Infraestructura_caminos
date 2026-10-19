@@ -1463,3 +1463,123 @@ _scripts,_scripts/social_poi_distrito.py,py,2206,2026-10-19 12:04
 09_servicios_complementarios,09_servicios_complementarios/Overture_Maps_lugares_infraestructura/overture_servicios_infraestructura_por_distrito.csv,csv,35152,2026-10-19
 11_infraestructura_vial_complementaria,11_infraestructura_vial_complementaria/Overture_Maps_red_vial/overture_km_red_vial_por_distrito.csv,csv,64803,2026-10-19
 11_infraestructura_vial_complementaria,11_infraestructura_vial_complementaria/Overture_Maps_red_vial/overture_red_vial_PRY.gpkg.zip,zip,61990639,2026-10-19
+12_INE_complementario,12_INE_complementario/EIGH_2011_2012/Bases de datos/Datos de la poblacion reg02t.dta,dta,16127794,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EIGH_2011_2012/Bases de datos/Datos de la vivienda y del Hogar reg01.dta,dta,2574199,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EIGH_2011_2012/Bases de datos/Gastos a nivel de hogar sumaria_hogar.dta,dta,4167456,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EIGH_2011_2012/Cuestionarios/CUESTIONARIO 1  para personas.pdf,pdf,7067410,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EIGH_2011_2012/Cuestionarios/Cuestionario 2 Gastos del hogar.pdf,pdf,150278,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EIGH_2011_2012/Cuestionarios/Cuestionario 3 Activ.Independiente no agrop.pdf,pdf,102956,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EIGH_2011_2012/Cuestionarios/Cuestionario 4 Activ. agropecuaria.pdf,pdf,298294,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EIGH_2011_2012/Diccionarios/Diccionario Agregado.pdf,pdf,472661,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EIGH_2011_2012/Diccionarios/REG02t.pdf,pdf,581214,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EIGH_2011_2012/Diccionarios/diccionario sumaria_hogar .pdf,pdf,439314,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EIGH_2011_2012/Diccionarios/reg01.pdf,pdf,391633,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EIGH_2011_2012/Metodologia EIG y CV.pdf,pdf,200963,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-1997-98/Cuestionario 97-98.pdf,pdf,294831,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-1997-98/INGREFAM EIH 1997-1998.sav,sav,625097,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-1997-98/R01_EIH 1997-1998.sav,sav,343771,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-1997-98/R02_EIH 1997-1998.sav,sav,8652198,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-1997-98/diccionario 1997- 98.xls,xls,244736,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-1997-98/diccionario INGREFAM 1997-1998.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-1999/CUESTIONARIO 99.pdf,pdf,202098,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-1999/INGREFAM EPH 1999.sav,sav,717682,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-1999/R01_EPH1999.sav,sav,360287,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-1999/R02_EPH1999.sav,sav,6306748,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-1999/diccionario 1999.xls,xls,220160,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-1999/diccionario INGREFAM 1999.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2000-01/Cuestionario EIH 2000-2001.pdf,pdf,414282,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2000-01/INGREFAM EIH 2000-2001.sav,sav,1139722,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2000-01/R01_EIH2000-2001.sav,sav,677352,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2000-01/R02_EIH2000-2001.sav,sav,14352936,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2000-01/diccionario 2000-01.xls,xls,252928,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2000-01/diccionario INGREFAM 2000-2001.doc,doc,137216,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2002/Cuestionario 2002.pdf,pdf,1531769,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2002/INGREFAM EPH 2002.sav,sav,549219,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2002/R01_EPH2002.sav,sav,223288,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2002/R02_EPH2002.sav,sav,4985294,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2002/diccionario 2002.xls,xls,221696,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2002/diccionario INGREFAM 2002.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2003/Cuestionario 2003.pdf,pdf,1725527,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2003/INGREFAM EPH 2003.sav,sav,1349522,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2003/R01_EPH2003.sav,sav,646445,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2003/R02_EPH2003.sav,sav,13011614,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2003/diccionario 2003.xls,xls,236544,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2003/diccionario INGREFAM 2003.doc,doc,137216,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2004/Cuestionario 2004.pdf,pdf,1263182,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2004/INGREFAM EPH 2004.sav,sav,1109546,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2004/R01_EPH2004.sav,sav,760123,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2004/R02_EPH2004.sav,sav,12794641,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2004/diccionario 2004.xls,xls,298496,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2004/diccionario INGREFAM 2004.doc,doc,137216,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2005/Cuestionario 2005.pdf,pdf,1554525,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2005/INGREFAM EPH 2005.sav,sav,643475,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2005/R01_EPH2005.SAV,sav,419488,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2005/R02_EPH2005.SAV,sav,6553708,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2005/diccionario 2005.xls,xls,237568,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2005/diccionario INGREFAM 2005.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2006/CUESTIONARIO EPH 2006.pdf,pdf,1334200,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2006/INGREFAM EPH 2006.sav,sav,763475,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2006/R01_EPH2006.sav,sav,502100,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2006/R02_EPH2006.sav,sav,8772376,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2006/diccionario 2006.xls,xls,261632,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2006/diccionario INGREFAM 2006.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2007/Cuestionario EPH2007.pdf,pdf,1524327,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2007/INGREFAM EPH 2007.sav,sav,694211,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2007/R01_EPH2007.sav,sav,444477,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2007/R02_EPH2007.sav,sav,6880276,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2007/diccionario 2007.xls,xls,225792,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2007/diccionario INGREFAM 2007.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2008/Cuestionario-EPH-2008.pdf,pdf,1636321,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2008/INGREFAM-EPH-2008.sav,sav,667131,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2008/R01_EPH2008.SAV,sav,443099,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2008/R02_EPH2008.SAV,sav,7314352,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2008/diccionario-EPH-2008.xls,xls,250368,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2008/diccionario-INGREFAM-2008.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2009/CUESTIONARIO-EPH-2009.pdf,pdf,3549413,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2009/INGREFAM-EPH-2009.sav,sav,643435,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2009/R01_EPH2009.SAV,sav,418887,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2009/R02_EPH2009.SAV,sav,6553446,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2009/diccionario-EPH-2009.xls,xls,241664,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2009/diccionario-INGREFAM-2009.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2010/Cuestionario-EPH2010.pdf,pdf,722050,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2010/INGREFAM-EPH-2010.sav,sav,715243,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2010/R01_EPH2010.sav,sav,469440,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2010/R02_EPH2010.SAV,sav,8026995,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2010/diccionario-EPH-2010.xls,xls,260096,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2010/diccionario-INGREFAM-2010.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2011/CUESTIONARIO-EPH-2011.pdf,pdf,334550,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2011/INGREFAM-EPH-2011.sav,sav,686163,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2011/R01_EPH2011.Sav,sav,599792,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2011/R02_EPH2011.sav,sav,6257994,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2011/diccionario-EPH-2011.xls,xls,259072,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2011/diccionario-INGREFAM-2011.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2012/Cuestionario-EPH-2012.pdf,pdf,909194,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2012/INGREFAM-EPH-2012.sav,sav,758139,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2012/R01_EPH2012.SAV,sav,408843,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2012/R02_EPH2012.SAV,sav,6999648,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2012/diccionario-EPH-2012.xls,xls,233984,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2012/diccionario-INGREFAM-2012.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2013/CUESTIONARIO-EPH-2013.pdf,pdf,1172177,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2013/INGREFAM-EPH-2013.sav,sav,768067,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2013/R01_EPH2013.SAV,sav,418050,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2013/R02_EPH2013.SAV,sav,6944380,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2013/diccionario-EPH-2013.xls,xls,233984,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2013/diccionario-INGREFAM-2013.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2014/CUESTIONARIO-EPH-2014.pdf,pdf,1302365,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2014/INGREFAM-EPH-2014.sav,sav,732067,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2014/R01_EPH2014.SAV,sav,419039,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2014/R02_EPH2014.SAV,sav,6840539,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2014/diccionario-EPH-2014.xls,xls,241152,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2014/diccionario-INGREFAM-2014.doc,doc,136704,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2015/INGREFAM-EPH-2015.sav,sav,1145250,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2015/R01_EPH2015.SAV,sav,655751,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2015/R02_EPH2015.SAV,sav,9869751,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2015/cuestionario2015.pdf,pdf,589489,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2015/diccionario-EPH-2015.xls,xls,242688,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2015/diccionario-INGREFAM-2015.doc,doc,137728,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2016/INGREFAM-EPH-2016.sav,sav,1443742,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2016/R01_EPH2016.sav,sav,840814,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2016/R02_EPH2016.SAV,sav,12941233,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2016/cuestionario-EPH-2016.pdf,pdf,724676,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2016/diccionario-EPH-2016.xls,xls,246784,2026-10-19 13:20
+12_INE_complementario,12_INE_complementario/EPH_serie_1997_2016/EPH-2016/diccionario-INGREFAM-2016.doc,doc,137728,2026-10-19 13:20

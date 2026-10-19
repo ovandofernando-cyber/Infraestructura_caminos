@@ -61,7 +61,7 @@ for carpeta, archivo, tema in REGISTROS:
 
 with open(os.path.join(raiz, "12_INE_complementario", "_registro_INE_no_descargado.csv"), encoding="utf-8-sig") as fh:
     for i, x in enumerate(csv.DictReader(fh), 1):
-        if x["estado"] != "no necesario":
+        if x["estado"] not in ("no necesario", "descargado"):
             pendientes.append({"id": f"INE{i:02d}", "fuente": x["fuente"], "institucion": "INE", "url": x["url"],
                                "estado": x["estado"], "carpeta_destino": "12_INE_complementario/" + x["subcarpeta_destino"],
                                "motivo": f"prioridad {x['prioridad']}; {x['motivo']}"})
