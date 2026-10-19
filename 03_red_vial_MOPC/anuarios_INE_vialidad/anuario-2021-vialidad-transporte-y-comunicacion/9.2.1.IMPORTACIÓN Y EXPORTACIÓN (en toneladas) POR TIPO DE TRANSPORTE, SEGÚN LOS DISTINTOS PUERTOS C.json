@@ -1,0 +1,152 @@
+[
+  {
+    "PUERTOS": "IMPORTACION",
+    "TOTAL": "3.726.244,20",
+    "TIPO DE TRANSPORTE - FLUVIAL": "708.662,70",
+    "TIPO DE TRANSPORTE - TERRESTRE": "3.017.581,50"
+  },
+  {
+    "PUERTOS": "Ita Enramada",
+    "TOTAL": "215.690,60",
+    "TIPO DE TRANSPORTE - FLUVIAL": "215.690,60",
+    "TIPO DE TRANSPORTE - TERRESTRE": "-"
+  },
+  {
+    "PUERTOS": "Chaco'i",
+    "TOTAL": "19.196,90",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "19.196,90"
+  },
+  {
+    "PUERTOS": "Ciudad del Este",
+    "TOTAL": "1.437.424,80",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "1.437.424,80"
+  },
+  {
+    "PUERTOS": "Algesa Km. 12",
+    "TOTAL": "88.386,10",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "88.386,10"
+  },
+  {
+    "PUERTOS": "Encarnacion",
+    "TOTAL": "152.308,50",
+    "TIPO DE TRANSPORTE - FLUVIAL": "152.308,50",
+    "TIPO DE TRANSPORTE - TERRESTRE": "-"
+  },
+  {
+    "PUERTOS": "Villeta",
+    "TOTAL": "302.041,80",
+    "TIPO DE TRANSPORTE - FLUVIAL": "302.041,80",
+    "TIPO DE TRANSPORTE - TERRESTRE": "-"
+  },
+  {
+    "PUERTOS": "Jose Falcon",
+    "TOTAL": "504.551,30",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "504.551,30"
+  },
+  {
+    "PUERTOS": "Pilar",
+    "TOTAL": "1.185,60",
+    "TIPO DE TRANSPORTE - FLUVIAL": "1.185,60",
+    "TIPO DE TRANSPORTE - TERRESTRE": "-"
+  },
+  {
+    "PUERTOS": "Pedro J. Caballero",
+    "TOTAL": "406.055,10",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "406.055,10"
+  },
+  {
+    "PUERTOS": "Salto del Guaira",
+    "TOTAL": "560.546,00",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "560.546,00"
+  },
+  {
+    "PUERTOS": "San Juan del Parana",
+    "TOTAL": "1.421,30",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "1.421,30"
+  },
+  {
+    "PUERTOS": "Concepcion",
+    "TOTAL": "37.436,20",
+    "TIPO DE TRANSPORTE - FLUVIAL": "37.436,20",
+    "TIPO DE TRANSPORTE - TERRESTRE": "-"
+  },
+  {
+    "PUERTOS": "EXPORTACION",
+    "TOTAL": "1.767.817,30",
+    "TIPO DE TRANSPORTE - FLUVIAL": "492.184,20",
+    "TIPO DE TRANSPORTE - TERRESTRE": "1.275.633,10"
+  },
+  {
+    "PUERTOS": "Ita Enramada",
+    "TOTAL": 624,
+    "TIPO DE TRANSPORTE - FLUVIAL": 624,
+    "TIPO DE TRANSPORTE - TERRESTRE": "-"
+  },
+  {
+    "PUERTOS": "Chaco'i",
+    "TOTAL": "394.949,20",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "394.949,20"
+  },
+  {
+    "PUERTOS": "Ciudad del Este",
+    "TOTAL": "629,3",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "629,3"
+  },
+  {
+    "PUERTOS": "Algesa Km. 12",
+    "TOTAL": "471.579,70",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "471.579,70"
+  },
+  {
+    "PUERTOS": "Encarnacion",
+    "TOTAL": "228.371,70",
+    "TIPO DE TRANSPORTE - FLUVIAL": "228.371,70",
+    "TIPO DE TRANSPORTE - TERRESTRE": "-"
+  },
+  {
+    "PUERTOS": "Villeta",
+    "TOTAL": "221.119,90",
+    "TIPO DE TRANSPORTE - FLUVIAL": "221.119,90",
+    "TIPO DE TRANSPORTE - TERRESTRE": "-"
+  },
+  {
+    "PUERTOS": "Pilar",
+    "TOTAL": "2.541,00",
+    "TIPO DE TRANSPORTE - FLUVIAL": "2.541,00",
+    "TIPO DE TRANSPORTE - TERRESTRE": "-"
+  },
+  {
+    "PUERTOS": "Pedro J. Caballero",
+    "TOTAL": "150.177,90",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "150.177,90"
+  },
+  {
+    "PUERTOS": "Salto del Guaira",
+    "TOTAL": "241.154,40",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "241.154,40"
+  },
+  {
+    "PUERTOS": "Concepcion",
+    "TOTAL": "39.527,60",
+    "TIPO DE TRANSPORTE - FLUVIAL": "39.527,60",
+    "TIPO DE TRANSPORTE - TERRESTRE": "-"
+  },
+  {
+    "PUERTOS": "San Juan del Parana",
+    "TOTAL": "17.142,60",
+    "TIPO DE TRANSPORTE - FLUVIAL": "-",
+    "TIPO DE TRANSPORTE - TERRESTRE": "17.142,60"
+  }
+]

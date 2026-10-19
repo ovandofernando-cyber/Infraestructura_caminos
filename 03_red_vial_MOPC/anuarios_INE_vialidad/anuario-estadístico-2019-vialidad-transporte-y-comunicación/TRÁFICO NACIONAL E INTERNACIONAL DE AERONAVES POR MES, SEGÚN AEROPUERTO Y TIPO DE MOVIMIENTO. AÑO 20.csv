@@ -1,0 +1,22 @@
+AEROPUERTO Y TIPO DE MOVIMIENTO;TOTAL;ENE.;FEB.;MAR.;ABR.;MAY.;JUN.;JUL.;AGO.;SET.;OCT.;NOV.;DIC.
+"      AEROPUERTO INTERNACIONAL ""SILVIO PETTIROSSI""";53.353;4.163;3.990;4.118;3.967;3.940;4.842;4.718;5.328;4.599;4.201;4.977;4.510
+           Aviacion General Nacional;23.227;1.746;1.856;1.761;1.586;1.611;2.237;1.976;2.412;2.170;1.858;2.126;1.888
+           Taxis Aereos;1.987;115;95;124;170;179;165;198;232;202;175;177;155
+           Aviacion Regular Internacional;14.417;1.480;1.171;1.244;1.196;1.187;1.178;1.334;1.226;1.066;1.065;1.121;1.149
+           Aviacion  Regular Nacional;1.032;82;75;89;85;76;82;93;90;86;91;84;99
+           Aviacion Militar Nacional;3.552;152;219;291;340;258;365;304;330;327;319;356;291
+           Vuelos Exclusivos de Cargas;1.151;66;69;86;73;69;74;103;99;108;147;122;135
+           Aviacion General Internacional;2.182;190;153;181;152;176;159;157;215;186;159;210;244
+           Escuela de Aviacion Civil ;5.672;327;343;322;338;380;570;546;712;443;383;777;531
+           Aviacion Militar Internacional;130;5;8;20;26;4;12;7;12;11;3;4;18
+           Aviacion de Actividades Agricolas;3; -   ;1; -   ;1; -   ; -   ; -   ; -   ; -   ;1; -   ; -   
+"      AEROPUERTO INTERNACIONAL  ""GUARANI"" (Minga Guazu)";7.002;623;528;596;457;570;607;587;649;601;602;586;596
+           Aviacion General Nacional;3.845;415;262;316;218;361;326;294;340;352;344;277;340
+           Escuela de Aviacion Civil ;884;42;72;60;84;55;115;88;87;57;60;98;66
+           Aviacion Militar Nacional;49; -   ;8;24; -   ; -   ;1;4; -   ; -   ;8;2;2
+           Aviacion General Internacional;253;33;22;28;15;23;17;23;20;15;20;18;19
+           Taxis Aereos;441;28;43;40;32;16;36;48;36;26;44;52;40
+           Vuelos Exclusivos de Cargas;290;23;25;25;25;16;24;26;26;32;22;23;23
+           Aviacion de Actividades Agricolas;1; -   ; -   ; -   ; -   ; -   ;1; -   ; -   ; -   ; -   ; -   ; -   
+           Aviacion Regular Nacional;1.236;82;96;103;83;99;86;104;138;119;104;116;106
+           Aviacion Militar Internacional;3; -   ; -   ; -   ; -   ; -   ;1; -   ;2; -   ; -   ; -   ; -   

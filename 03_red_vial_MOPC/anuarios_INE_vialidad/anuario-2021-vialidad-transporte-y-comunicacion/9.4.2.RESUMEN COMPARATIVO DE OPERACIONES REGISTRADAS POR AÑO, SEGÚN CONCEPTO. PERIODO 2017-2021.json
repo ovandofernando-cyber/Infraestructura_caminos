@@ -1,0 +1,90 @@
+[
+  {
+    "CONCEPTO": "1 Numero de habitantes (en miles)",
+    "ANO 2017": 6.954,
+    "ANO 2018": 7.053,
+    "ANO 2019": 7.153,
+    "ANO 2020": 7.253,
+    "ANO 2021": 7.353
+  },
+  {
+    "CONCEPTO": "2 Capacidad instalada",
+    "ANO 2017": 463.253,
+    "ANO 2018": 463.253,
+    "ANO 2019": 463.253,
+    "ANO 2020": 463.253,
+    "ANO 2021": 472.025
+  },
+  {
+    "CONCEPTO": "3 Numero de abonados",
+    "ANO 2017": 317.405,
+    "ANO 2018": 315.296,
+    "ANO 2019": 287.57,
+    "ANO 2020": 257.037,
+    "ANO 2021": 258.515
+  },
+  {
+    "CONCEPTO": "4 Densidad de capacidad instalada/1000 habitantes",
+    "ANO 2017": 67,
+    "ANO 2018": 66,
+    "ANO 2019": 65,
+    "ANO 2020": 64,
+    "ANO 2021": 64
+  },
+  {
+    "CONCEPTO": "5 Densidad de abonados telefonicos/1000 habitantes",
+    "ANO 2017": 46,
+    "ANO 2018": 45,
+    "ANO 2019": 40,
+    "ANO 2020": 35,
+    "ANO 2021": 35
+  },
+  {
+    "CONCEPTO": "6 Ingresos de operacion (miles de Guaranies)",
+    "ANO 2017": "591.124.079",
+    "ANO 2018": "599.663.885",
+    "ANO 2019": "471.447.502",
+    "ANO 2020": "-",
+    "ANO 2021": "-"
+  },
+  {
+    "CONCEPTO": "7 Gastos de explotacion (miles de Guaranies)",
+    "ANO 2017": "582.637.419",
+    "ANO 2018": "596.213.101",
+    "ANO 2019": "561.276.790",
+    "ANO 2020": "-",
+    "ANO 2021": "-"
+  },
+  {
+    "CONCEPTO": "8 Utilidades (miles de Guaranies)",
+    "ANO 2017": "-8.975.295",
+    "ANO 2018": "-56.182.171",
+    "ANO 2019": "2.950.681",
+    "ANO 2020": "-",
+    "ANO 2021": "-"
+  },
+  {
+    "CONCEPTO": "9 Activo fijo (miles de Guaranies)",
+    "ANO 2017": "371.487.303",
+    "ANO 2018": "337.230.258",
+    "ANO 2019": "299.285.370",
+    "ANO 2020": "-",
+    "ANO 2021": "-"
+  },
+  {
+    "CONCEPTO": "10 Numero de personal",
+    "ANO 2017": 3.726,
+    "ANO 2018": 3.474,
+    "ANO 2019": 3.439,
+    "ANO 2020": "-",
+    "ANO 2021": "-"
+  },
+  {
+    "CONCEPTO": "11 1 U$S = Guaranies",
+    "ANO 2017": 5.591,
+    "ANO 2018": 5.688,
+    "ANO 2019": 6.138,
+    "ANO 2020": 6.78,
+    "ANO 2021": 6.782
+  }
+]

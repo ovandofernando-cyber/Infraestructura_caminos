@@ -1,0 +1,57 @@
+[
+  {
+    "PRODUCTOS": "TOTAL",
+    "TONELADAS": "1.419.905,00",
+    "%": 100
+  },
+  {
+    "PRODUCTOS": "Maiz",
+    "TONELADAS": "595.437,20",
+    "%": "41,9"
+  },
+  {
+    "PRODUCTOS": "Soja",
+    "TONELADAS": "290.434,30",
+    "%": "20,5"
+  },
+  {
+    "PRODUCTOS": "Arroz",
+    "TONELADAS": "174.043,10",
+    "%": "12,3"
+  },
+  {
+    "PRODUCTOS": "Trigo",
+    "TONELADAS": "111.276,20",
+    "%": "7,8"
+  },
+  {
+    "PRODUCTOS": "Productos de la carne",
+    "TONELADAS": "105.872,60",
+    "%": "7,5"
+  },
+  {
+    "PRODUCTOS": "Ladrillos y Tejas",
+    "TONELADAS": "56.568,80",
+    "%": 4
+  },
+  {
+    "PRODUCTOS": "Sub-productos ganaderos",
+    "TONELADAS": "20.387,60",
+    "%": "1,4"
+  },
+  {
+    "PRODUCTOS": "Frutas (jugos de frutas)",
+    "TONELADAS": "33.053,20",
+    "%": "2,3"
+  },
+  {
+    "PRODUCTOS": "Carbon vegetal",
+    "TONELADAS": "18.235,50",
+    "%": "1,3"
+  },
+  {
+    "PRODUCTOS": "Cueros y pieles",
+    "TONELADAS": "14.596,50",
+    "%": 1
+  }
+]

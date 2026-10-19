@@ -1,0 +1,27 @@
+RUTA NRO.;DENOMINACION;TRAYECTO DESDE;TRAYECTO HASTA;LONGITUD EN KILOMETROS
+1;"Ruta Nacional PY01 ""Mariscal Francisco Solano Lopez""";Asuncion;Encarnacion;382
+2;"Ruta Nacional PY02 ""Mariscal Jose Felix Estigarribia""";Asuncion;Ciudad del Este;343
+3;"Ruta Nacional PY03 ""General Elizardo Aquino""";Asuncion;Salto del Guaira;413
+4;"Ruta Nacional PY04 ""General Jose Eduvigis Diaz""";San Ignacio;Itapiru;193
+5;"Ruta Nacional PY05 ""General Bernardino Caballero""";Pedro Juan Caballero;Fortin Pilcomayo (Frontera con Argentina);577
+6;"Ruta Nacional PY06 ""Doctor Juan Leon Mallorquin""";Encarnacion;"Minga Guazu
+(Interceccion PY02)";248
+7;"Ruta Nacional PY07 ""Dr. Jose Gaspar Rodriguez de Francia""";"PY06
+(Cruce Capitan Meza)";Pindoty Pora (Frontera con Brasil);417
+8;"Ruta Nacional PY08 ""Doctor Blas Garay""";Coronel Bogado (Interseccion PY01);Bella Vista Norte;588
+9;"Ruta Nacional PY09 ""Dr. Carlos Antonio Lopez""";Puerto Falcon;"Fortin Sargento Rodriguez; Hito III (Frontera con Bolivia)";780
+10;"Ruta Nacional PY10 ""Las Residentas""";"Naranjal
+(Interseccion PY06)";Paraguari;242
+11;"Ruta Nacional PY11 ""Juana de Lara""";Capitan Bado;Puerto Antequera;227
+12;"Ruta Nacional PY12 ""Vice Presidente Sanchez""";Chaco´i;Pozo Hondo;744
+13;Ruta Nacional PY13;Paso Yobai;Frontera con Brasil (Interseccion PY17);246
+14;Ruta Nacional PY14;Bahia Negra;Fortin Gabino Mendoza;425
+15;"Ruta Nacional PY15 ""Corredor Bioceanico """;Carmelo Peralta;Pozo Hondo;531
+16;Ruta Nacional PY16;Fortin Mayor Avalos Sanchez;"Hito VII
+(Frontera con Bolivia)";497
+17;"Ruta Nacional PY17 ""Ruta de la Soberania""";Salto del Guaira;Pedro Juan Caballero;380
+18;Ruta Nacional PY18;Puerto Mayor Otano;Villeta;358
+19;Ruta Nacional PY19;Pilar;Villeta;202
+20;Ruta Nacional PY20;San Patricio (Intercepcion PY01);Paso de Patria (Intercepcion PY04);230
+21;Ruta Nacional PY21;Puerto Indio;Juan de Mena (Intercepcion PY03);309
+22;Ruta Nacional PY22;San Estanislao (Intercepcion PY03);San Lazaro;435

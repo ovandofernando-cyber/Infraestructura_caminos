@@ -1,0 +1,17 @@
+AEROPUERTO Y TIPO DE MOVIMIENTO;TOTAL;ENE.;FEB.;MAR.;ABR.;MAY.;JUN.;JUL.;AGO.;SET.;OCT.;NOV.;DIC.
+"     AEROPUERTO INTERNACIONAL ""SILVIO PETTIROSSI""";44.389;2.597;3.389;3.390;3.487;3.835;3.373;4.505;4.079;3.959;3.724;3.943;4.108
+          Aviacion General Nacional;24.972;1.389;1.989;1.945;1.894;2.278;2.068;2.505;2.240;2.281;1.978;2.127;2.278
+          Taxis Aereos;1.453;117;119;122;99;124;107;130;135;127;166;109;98
+          Aviacion Regular Internacional;4.369;277;238;328;267;306;369;380;361;340;413;482;608
+          Aviacion Militar Nacional;3.205;127;250;261;306;429;256;261;338;289;229;202;257
+          Vuelos Exclusivos de Cargas;1.285;93;90;106;98;105;114;131;119;116;103;107;103
+          Aviacion General Internacional;2.511;109;113;121;126;114;146;495;270;206;276;226;309
+          Escuela de Aviacion Civil;6.502;473;584;491;694;471;306;597;616;588;548;686;448
+          Aviacion Militar Internacional;92;12;6;16;3;8;7;6;-;12;11;4;7
+"     AEROPUERTO INTERNACIONAL ""GUARANI"" (Minga Guazu)";4.697;259;431;324;344;380;320;427;489;443;390;470;420
+          Aviacion General Nacional;3.192;160;252;226;212;242;210;306;370;329;271;307;307
+          Taxis Aereos;387;42;42;37;32;28;43;44;34;29;24;18;14
+          Aviacion Militar Nacional;52;2;4;-;8;6;4;2;8;2;4;3;9
+          Vuelos Exclusivos de Cargas;253;18;14;18;26;24;22;28;23;26;18;21;15
+          Aviacion General Internacional;136;9;11;8;9;9;6;16;14;14;10;7;23
+          Escuela de Aviacion Civil;677;28;108;35;57;71;35;31;40;43;63;114;52

@@ -1,0 +1,37 @@
+[
+  {
+    "TIPO DE BUQUE": "TOTAL",
+    "ENTRADA - CARGADOS": 15,
+    "ENTRADA - EN LASTRE": 4,
+    "SALIDA - CARGADOS": "-",
+    "SALIDA - EN LASTRE": 7
+  },
+  {
+    "TIPO DE BUQUE": "Chatas",
+    "ENTRADA - CARGADOS": "-",
+    "ENTRADA - EN LASTRE": "-",
+    "SALIDA - CARGADOS": "-",
+    "SALIDA - EN LASTRE": 1
+  },
+  {
+    "TIPO DE BUQUE": "Barcazas",
+    "ENTRADA - CARGADOS": 9,
+    "ENTRADA - EN LASTRE": 1,
+    "SALIDA - CARGADOS": "-",
+    "SALIDA - EN LASTRE": 3
+  },
+  {
+    "TIPO DE BUQUE": "Cargueros",
+    "ENTRADA - CARGADOS": 6,
+    "ENTRADA - EN LASTRE": 1,
+    "SALIDA - CARGADOS": "-",
+    "SALIDA - EN LASTRE": 1
+  },
+  {
+    "TIPO DE BUQUE": "Remolcador",
+    "ENTRADA - CARGADOS": "-",
+    "ENTRADA - EN LASTRE": 2,
+    "SALIDA - CARGADOS": "-",
+    "SALIDA - EN LASTRE": 2
+  }
+]
