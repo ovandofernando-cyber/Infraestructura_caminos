@@ -1,0 +1,98 @@
+[
+  {
+    "Distrito": "Total",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 33.89,
+    "Acceso a TIC - Televisor con pantalla plana": 23.996,
+    "Acceso a TIC - Computadora o notebook": 6.153,
+    "Acceso a TIC - Tablet o similares": 1.391,
+    "Acceso a TIC - Conexion a Internet": 15.031
+  },
+  {
+    "Distrito": "Caazapa",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 6.537,
+    "Acceso a TIC - Televisor con pantalla plana": 5.028,
+    "Acceso a TIC - Computadora o notebook": 1.891,
+    "Acceso a TIC - Tablet o similares": 450,
+    "Acceso a TIC - Conexion a Internet": 3.72
+  },
+  {
+    "Distrito": "Abai",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 4.923,
+    "Acceso a TIC - Televisor con pantalla plana": 3.611,
+    "Acceso a TIC - Computadora o notebook": 669,
+    "Acceso a TIC - Tablet o similares": 132,
+    "Acceso a TIC - Conexion a Internet": 1.853
+  },
+  {
+    "Distrito": "Buena Vista",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.057,
+    "Acceso a TIC - Televisor con pantalla plana": 715,
+    "Acceso a TIC - Computadora o notebook": 159,
+    "Acceso a TIC - Tablet o similares": 38,
+    "Acceso a TIC - Conexion a Internet": 562
+  },
+  {
+    "Distrito": "Dr. Moises S. Bertoni",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 793,
+    "Acceso a TIC - Televisor con pantalla plana": 595,
+    "Acceso a TIC - Computadora o notebook": 103,
+    "Acceso a TIC - Tablet o similares": 22,
+    "Acceso a TIC - Conexion a Internet": 529
+  },
+  {
+    "Distrito": "Gral. Higinio Morinigo",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.156,
+    "Acceso a TIC - Televisor con pantalla plana": 745,
+    "Acceso a TIC - Computadora o notebook": 157,
+    "Acceso a TIC - Tablet o similares": 23,
+    "Acceso a TIC - Conexion a Internet": 420
+  },
+  {
+    "Distrito": "Maciel",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 861,
+    "Acceso a TIC - Televisor con pantalla plana": 652,
+    "Acceso a TIC - Computadora o notebook": 126,
+    "Acceso a TIC - Tablet o similares": 28,
+    "Acceso a TIC - Conexion a Internet": 538
+  },
+  {
+    "Distrito": "San Juan Nepomuceno",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 6.908,
+    "Acceso a TIC - Televisor con pantalla plana": 4.484,
+    "Acceso a TIC - Computadora o notebook": 1.339,
+    "Acceso a TIC - Tablet o similares": 323,
+    "Acceso a TIC - Conexion a Internet": 2.784
+  },
+  {
+    "Distrito": "Tavai",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 3.606,
+    "Acceso a TIC - Televisor con pantalla plana": 2.242,
+    "Acceso a TIC - Computadora o notebook": 411,
+    "Acceso a TIC - Tablet o similares": 89,
+    "Acceso a TIC - Conexion a Internet": 1.882
+  },
+  {
+    "Distrito": "Yegros",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.336,
+    "Acceso a TIC - Televisor con pantalla plana": 1.081,
+    "Acceso a TIC - Computadora o notebook": 261,
+    "Acceso a TIC - Tablet o similares": 61,
+    "Acceso a TIC - Conexion a Internet": 283
+  },
+  {
+    "Distrito": "Yuty",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 3.792,
+    "Acceso a TIC - Televisor con pantalla plana": 2.813,
+    "Acceso a TIC - Computadora o notebook": 729,
+    "Acceso a TIC - Tablet o similares": 164,
+    "Acceso a TIC - Conexion a Internet": 907
+  },
+  {
+    "Distrito": "3 de Mayo",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.921,
+    "Acceso a TIC - Televisor con pantalla plana": 2.03,
+    "Acceso a TIC - Computadora o notebook": 308,
+    "Acceso a TIC - Tablet o similares": 61,
+    "Acceso a TIC - Conexion a Internet": 1.553
+  }
+]

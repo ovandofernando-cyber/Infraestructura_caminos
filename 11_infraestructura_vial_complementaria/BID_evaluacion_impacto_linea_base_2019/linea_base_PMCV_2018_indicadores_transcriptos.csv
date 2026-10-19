@@ -1,0 +1,23 @@
+indicador,unidad,control,tratamiento,diferencia,significancia,fuente_nota
+Hogares que usaron transporte publico para salir de la comunidad (ult. 3 meses),%,21.87,26.87,-5.00,***,BID IDB-TN-1732 (2019) linea de base abr-jun 2018; muestra rural; transcripcion via lectura automatica del PDF - verificar contra el original
+Costo por minuto transporte colectivo fuera de la comunidad,Gs,282.07,390.37,-108.3,*,idem
+Tiempo de viaje en transporte colectivo fuera de la comunidad,min,25.38,46.41,-21.03,***,idem
+Visitas al mercado por mes,n,3.82,4.34,-0.52,*,idem
+Visitas por mes a la ruta pavimentada principal,n,6.73,6.63,0.10,n.s.,idem
+Personas que visitaron un centro de salud,%,41.44,47.40,-5.96,***,idem
+Tiempo al centro de salud motorizado,min,62.78,61.17,1.62,n.s.,idem
+Tiempo al centro de salud a pie,min,32.74,27.33,5.41,n.s.,idem
+Hogares con actividad agricola,%,53.53,48.27,5.27,***,idem
+Hogares productores que venden parte de la produccion,%,39,45,-6,**,idem
+Hectareas de mandioca maiz poroto y mani,ha,53.76,10.96,42.8,**,idem
+Precio del maiz por kg (n=185),Gs,1126.68,1041.60,85.08,n.s.,idem
+Precio de la mandioca por kg (n=192),Gs,645.79,1093.71,-447.92,n.s.,idem
+Ocupados 18-64,%,63.53,67.08,-3.55,***,idem
+Mujeres ocupadas 18-64,%,36.16,43.90,-7.74,***,idem
+Ocupados en agricultura,%,58.08,50.29,7.79,***,idem
+Horas trabajadas por semana,h,47.49,45.76,1.73,**,idem
+Diferencia tiempo de viaje epoca lluviosa vs seca (muestra total),min,,,25,,idem (tratamiento: 46 min; DiD 21 min p<0.01)
+Comunidades en muestra Alto Parana,n,8,0,,,Cuadro 3
+Comunidades en muestra Caaguazu,n,7,2,,,Cuadro 3
+Comunidades en muestra Canindeyu,n,39,41,,,Cuadro 3
+Comunidades en muestra San Pedro,n,60,22,,,Cuadro 3

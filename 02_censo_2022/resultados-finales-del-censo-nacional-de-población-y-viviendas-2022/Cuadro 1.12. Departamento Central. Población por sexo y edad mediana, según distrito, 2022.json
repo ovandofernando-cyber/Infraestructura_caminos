@@ -1,0 +1,142 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": "1.883.927",
+    "Sexo - Hombres": 933.196,
+    "Sexo - Mujeres": 950.731,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Aregua",
+    "Total": 70.298,
+    "Sexo - Hombres": 35.254,
+    "Sexo - Mujeres": 35.044,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Capiata",
+    "Total": 236.999,
+    "Sexo - Hombres": 118.32,
+    "Sexo - Mujeres": 118.679,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Fernando de la Mora",
+    "Total": 110.255,
+    "Sexo - Hombres": 52.824,
+    "Sexo - Mujeres": 57.431,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Guarambare",
+    "Total": 27.695,
+    "Sexo - Hombres": 13.891,
+    "Sexo - Mujeres": 13.804,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Ita",
+    "Total": 69.049,
+    "Sexo - Hombres": 34.768,
+    "Sexo - Mujeres": 34.281,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Itaugua",
+    "Total": 93.213,
+    "Sexo - Hombres": 46.749,
+    "Sexo - Mujeres": 46.464,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Lambare",
+    "Total": 127.15,
+    "Sexo - Hombres": 61.351,
+    "Sexo - Mujeres": 65.799,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Limpio",
+    "Total": 139.652,
+    "Sexo - Hombres": 70.152,
+    "Sexo - Mujeres": 69.5,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Luque",
+    "Total": 259.705,
+    "Sexo - Hombres": 128.314,
+    "Sexo - Mujeres": 131.391,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Mariano Roque Alonso",
+    "Total": 85.133,
+    "Sexo - Hombres": 42.043,
+    "Sexo - Mujeres": 43.09,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Nueva Italia",
+    "Total": 9.941,
+    "Sexo - Hombres": 5.132,
+    "Sexo - Mujeres": 4.809,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Nemby",
+    "Total": 116.383,
+    "Sexo - Hombres": 57.887,
+    "Sexo - Mujeres": 58.496,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "San Antonio",
+    "Total": 57.843,
+    "Sexo - Hombres": 28.778,
+    "Sexo - Mujeres": 29.065,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "San Lorenzo",
+    "Total": 225.395,
+    "Sexo - Hombres": 110.085,
+    "Sexo - Mujeres": 115.31,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Villa Elisa",
+    "Total": 71.383,
+    "Sexo - Hombres": 35.169,
+    "Sexo - Mujeres": 36.214,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Villeta",
+    "Total": 35.941,
+    "Sexo - Hombres": 18.22,
+    "Sexo - Mujeres": 17.721,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Ypacarai",
+    "Total": 21.03,
+    "Sexo - Hombres": 10.446,
+    "Sexo - Mujeres": 10.584,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Ypane",
+    "Total": 66.7,
+    "Sexo - Hombres": 33.665,
+    "Sexo - Mujeres": 33.035,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "J. Augusto Saldivar",
+    "Total": 60.162,
+    "Sexo - Hombres": 30.148,
+    "Sexo - Mujeres": 30.014,
+    "Edad mediana": 28
+  }
+]

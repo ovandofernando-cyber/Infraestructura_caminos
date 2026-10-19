@@ -1,0 +1,232 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 217.289,
+    "Tipo de vivienda - Casa": 176.862,
+    "Tipo de vivienda - Rancho": 16.795,
+    "Tipo de vivienda - Departamento o piso": 7.776,
+    "Tipo de vivienda - Pieza de inquilinato": 13.685,
+    "Tipo de vivienda - Improvisada": 561,
+    "Tipo de vivienda - Otro": 1.61
+  },
+  {
+    "Distrito": "Ciudad del Este",
+    "Total": 91.335,
+    "Tipo de vivienda - Casa": 71.699,
+    "Tipo de vivienda - Rancho": 4.712,
+    "Tipo de vivienda - Departamento o piso": 6.194,
+    "Tipo de vivienda - Pieza de inquilinato": 7.818,
+    "Tipo de vivienda - Improvisada": 173,
+    "Tipo de vivienda - Otro": 739
+  },
+  {
+    "Distrito": "Presidente Franco",
+    "Total": 23.779,
+    "Tipo de vivienda - Casa": 19.867,
+    "Tipo de vivienda - Rancho": 1.753,
+    "Tipo de vivienda - Departamento o piso": 487,
+    "Tipo de vivienda - Pieza de inquilinato": 1.39,
+    "Tipo de vivienda - Improvisada": 73,
+    "Tipo de vivienda - Otro": 209
+  },
+  {
+    "Distrito": "Domingo Martinez de Irala",
+    "Total": 1.447,
+    "Tipo de vivienda - Casa": 1.273,
+    "Tipo de vivienda - Rancho": 158,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 11,
+    "Tipo de vivienda - Improvisada": 1,
+    "Tipo de vivienda - Otro": 4
+  },
+  {
+    "Distrito": "Dr. Juan Leon Mallorquin",
+    "Total": 4.57,
+    "Tipo de vivienda - Casa": 4.107,
+    "Tipo de vivienda - Rancho": 367,
+    "Tipo de vivienda - Departamento o piso": 7,
+    "Tipo de vivienda - Pieza de inquilinato": 79,
+    "Tipo de vivienda - Improvisada": 6,
+    "Tipo de vivienda - Otro": 4
+  },
+  {
+    "Distrito": "Hernandarias",
+    "Total": 23.217,
+    "Tipo de vivienda - Casa": 19.52,
+    "Tipo de vivienda - Rancho": 1.755,
+    "Tipo de vivienda - Departamento o piso": 503,
+    "Tipo de vivienda - Pieza de inquilinato": 1.201,
+    "Tipo de vivienda - Improvisada": 21,
+    "Tipo de vivienda - Otro": 217
+  },
+  {
+    "Distrito": "Itakyry",
+    "Total": 7.913,
+    "Tipo de vivienda - Casa": 5.548,
+    "Tipo de vivienda - Rancho": 2.103,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 84,
+    "Tipo de vivienda - Improvisada": 151,
+    "Tipo de vivienda - Otro": 27
+  },
+  {
+    "Distrito": "Juan E. Oleary",
+    "Total": 4.756,
+    "Tipo de vivienda - Casa": 4.207,
+    "Tipo de vivienda - Rancho": 466,
+    "Tipo de vivienda - Departamento o piso": 2,
+    "Tipo de vivienda - Pieza de inquilinato": 66,
+    "Tipo de vivienda - Improvisada": 6,
+    "Tipo de vivienda - Otro": 9
+  },
+  {
+    "Distrito": "Nacunday",
+    "Total": 1.811,
+    "Tipo de vivienda - Casa": 1.334,
+    "Tipo de vivienda - Rancho": 444,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 21,
+    "Tipo de vivienda - Improvisada": 5,
+    "Tipo de vivienda - Otro": 7
+  },
+  {
+    "Distrito": "Yguazu",
+    "Total": 2.413,
+    "Tipo de vivienda - Casa": 2.089,
+    "Tipo de vivienda - Rancho": 244,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 51,
+    "Tipo de vivienda - Improvisada": 6,
+    "Tipo de vivienda - Otro": 23
+  },
+  {
+    "Distrito": "Los Cedrales",
+    "Total": 2.115,
+    "Tipo de vivienda - Casa": 1.798,
+    "Tipo de vivienda - Rancho": 257,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 32,
+    "Tipo de vivienda - Improvisada": 5,
+    "Tipo de vivienda - Otro": 23
+  },
+  {
+    "Distrito": "Minga Guazu",
+    "Total": 22.674,
+    "Tipo de vivienda - Casa": 19.618,
+    "Tipo de vivienda - Rancho": 1.649,
+    "Tipo de vivienda - Departamento o piso": 94,
+    "Tipo de vivienda - Pieza de inquilinato": 1.092,
+    "Tipo de vivienda - Improvisada": 40,
+    "Tipo de vivienda - Otro": 181
+  },
+  {
+    "Distrito": "San Cristobal",
+    "Total": 2.654,
+    "Tipo de vivienda - Casa": 2.188,
+    "Tipo de vivienda - Rancho": 345,
+    "Tipo de vivienda - Departamento o piso": 18,
+    "Tipo de vivienda - Pieza de inquilinato": 92,
+    "Tipo de vivienda - Improvisada": 1,
+    "Tipo de vivienda - Otro": 10
+  },
+  {
+    "Distrito": "Santa Rita",
+    "Total": 8.872,
+    "Tipo de vivienda - Casa": 7.026,
+    "Tipo de vivienda - Rancho": 328,
+    "Tipo de vivienda - Departamento o piso": 393,
+    "Tipo de vivienda - Pieza de inquilinato": 1.099,
+    "Tipo de vivienda - Improvisada": 13,
+    "Tipo de vivienda - Otro": 13
+  },
+  {
+    "Distrito": "Naranjal",
+    "Total": 2.174,
+    "Tipo de vivienda - Casa": 1.863,
+    "Tipo de vivienda - Rancho": 166,
+    "Tipo de vivienda - Departamento o piso": 6,
+    "Tipo de vivienda - Pieza de inquilinato": 126,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": 13
+  },
+  {
+    "Distrito": "Santa Rosa del Monday",
+    "Total": 1.924,
+    "Tipo de vivienda - Casa": 1.718,
+    "Tipo de vivienda - Rancho": 130,
+    "Tipo de vivienda - Departamento o piso": 5,
+    "Tipo de vivienda - Pieza de inquilinato": 63,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": 8
+  },
+  {
+    "Distrito": "Minga Pora",
+    "Total": 3.658,
+    "Tipo de vivienda - Casa": 2.964,
+    "Tipo de vivienda - Rancho": 536,
+    "Tipo de vivienda - Departamento o piso": 1,
+    "Tipo de vivienda - Pieza de inquilinato": 100,
+    "Tipo de vivienda - Improvisada": 45,
+    "Tipo de vivienda - Otro": 12
+  },
+  {
+    "Distrito": "Mbaracayu",
+    "Total": 2.032,
+    "Tipo de vivienda - Casa": 1.655,
+    "Tipo de vivienda - Rancho": 334,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 25,
+    "Tipo de vivienda - Improvisada": 7,
+    "Tipo de vivienda - Otro": 11
+  },
+  {
+    "Distrito": "San Alberto",
+    "Total": 3.765,
+    "Tipo de vivienda - Casa": 3.149,
+    "Tipo de vivienda - Rancho": 290,
+    "Tipo de vivienda - Departamento o piso": 57,
+    "Tipo de vivienda - Pieza de inquilinato": 235,
+    "Tipo de vivienda - Improvisada": 2,
+    "Tipo de vivienda - Otro": 32
+  },
+  {
+    "Distrito": "Iruna",
+    "Total": 1.258,
+    "Tipo de vivienda - Casa": 1.061,
+    "Tipo de vivienda - Rancho": 176,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 18,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": 3
+  },
+  {
+    "Distrito": "Santa Fe del Parana",
+    "Total": 1.214,
+    "Tipo de vivienda - Casa": 1.057,
+    "Tipo de vivienda - Rancho": 110,
+    "Tipo de vivienda - Departamento o piso": 2,
+    "Tipo de vivienda - Pieza de inquilinato": 23,
+    "Tipo de vivienda - Improvisada": 5,
+    "Tipo de vivienda - Otro": 17
+  },
+  {
+    "Distrito": "Tavapy",
+    "Total": 2,
+    "Tipo de vivienda - Casa": 1.603,
+    "Tipo de vivienda - Rancho": 305,
+    "Tipo de vivienda - Departamento o piso": 1,
+    "Tipo de vivienda - Pieza de inquilinato": 46,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": 45
+  },
+  {
+    "Distrito": "Dr. Raul Pena",
+    "Total": 1.708,
+    "Tipo de vivienda - Casa": 1.518,
+    "Tipo de vivienda - Rancho": 167,
+    "Tipo de vivienda - Departamento o piso": 6,
+    "Tipo de vivienda - Pieza de inquilinato": 13,
+    "Tipo de vivienda - Improvisada": 1,
+    "Tipo de vivienda - Otro": 3
+  }
+]

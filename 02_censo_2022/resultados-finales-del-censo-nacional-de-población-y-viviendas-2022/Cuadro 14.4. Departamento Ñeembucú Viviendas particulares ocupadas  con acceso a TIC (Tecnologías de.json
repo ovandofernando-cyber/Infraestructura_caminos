@@ -1,0 +1,138 @@
+[
+  {
+    "Distrito": "Total",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 21.727,
+    "Acceso a TIC - Televisor con pantalla plana": 16.749,
+    "Acceso a TIC - Computadora o notebook": 6.464,
+    "Acceso a TIC - Tablet o similares": 1.736,
+    "Acceso a TIC - Conexion a Internet": 14.818
+  },
+  {
+    "Distrito": "Pilar",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 10.376,
+    "Acceso a TIC - Televisor con pantalla plana": 8.606,
+    "Acceso a TIC - Computadora o notebook": 4.561,
+    "Acceso a TIC - Tablet o similares": 1.238,
+    "Acceso a TIC - Conexion a Internet": 7.489
+  },
+  {
+    "Distrito": "Alberdi",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.927,
+    "Acceso a TIC - Televisor con pantalla plana": 1.644,
+    "Acceso a TIC - Computadora o notebook": 474,
+    "Acceso a TIC - Tablet o similares": 167,
+    "Acceso a TIC - Conexion a Internet": 1.571
+  },
+  {
+    "Distrito": "Cerrito",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.108,
+    "Acceso a TIC - Televisor con pantalla plana": 658,
+    "Acceso a TIC - Computadora o notebook": 149,
+    "Acceso a TIC - Tablet o similares": 29,
+    "Acceso a TIC - Conexion a Internet": 612
+  },
+  {
+    "Distrito": "Desmochados",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 341,
+    "Acceso a TIC - Televisor con pantalla plana": 241,
+    "Acceso a TIC - Computadora o notebook": 57,
+    "Acceso a TIC - Tablet o similares": 6,
+    "Acceso a TIC - Conexion a Internet": 131
+  },
+  {
+    "Distrito": "Gral. Jose Eduvigis Diaz",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 939,
+    "Acceso a TIC - Televisor con pantalla plana": 661,
+    "Acceso a TIC - Computadora o notebook": 169,
+    "Acceso a TIC - Tablet o similares": 35,
+    "Acceso a TIC - Conexion a Internet": 512
+  },
+  {
+    "Distrito": "Guazu-Cua",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 400,
+    "Acceso a TIC - Televisor con pantalla plana": 240,
+    "Acceso a TIC - Computadora o notebook": 69,
+    "Acceso a TIC - Tablet o similares": 15,
+    "Acceso a TIC - Conexion a Internet": 325
+  },
+  {
+    "Distrito": "Humaita",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 684,
+    "Acceso a TIC - Televisor con pantalla plana": 555,
+    "Acceso a TIC - Computadora o notebook": 110,
+    "Acceso a TIC - Tablet o similares": 27,
+    "Acceso a TIC - Conexion a Internet": 575
+  },
+  {
+    "Distrito": "Isla Umbu",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 637,
+    "Acceso a TIC - Televisor con pantalla plana": 454,
+    "Acceso a TIC - Computadora o notebook": 101,
+    "Acceso a TIC - Tablet o similares": 14,
+    "Acceso a TIC - Conexion a Internet": 485
+  },
+  {
+    "Distrito": "Laureles",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 678,
+    "Acceso a TIC - Televisor con pantalla plana": 398,
+    "Acceso a TIC - Computadora o notebook": 97,
+    "Acceso a TIC - Tablet o similares": 52,
+    "Acceso a TIC - Conexion a Internet": 484
+  },
+  {
+    "Distrito": "Mayor Jose Dejesus Martinez",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 941,
+    "Acceso a TIC - Televisor con pantalla plana": 704,
+    "Acceso a TIC - Computadora o notebook": 129,
+    "Acceso a TIC - Tablet o similares": 14,
+    "Acceso a TIC - Conexion a Internet": 371
+  },
+  {
+    "Distrito": "Paso de Patria",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 506,
+    "Acceso a TIC - Televisor con pantalla plana": 392,
+    "Acceso a TIC - Computadora o notebook": 90,
+    "Acceso a TIC - Tablet o similares": 30,
+    "Acceso a TIC - Conexion a Internet": 361
+  },
+  {
+    "Distrito": "San Juan Bautista de Neembucu",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 941,
+    "Acceso a TIC - Televisor con pantalla plana": 657,
+    "Acceso a TIC - Computadora o notebook": 127,
+    "Acceso a TIC - Tablet o similares": 27,
+    "Acceso a TIC - Conexion a Internet": 712
+  },
+  {
+    "Distrito": "Tacuaras",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 726,
+    "Acceso a TIC - Televisor con pantalla plana": 480,
+    "Acceso a TIC - Computadora o notebook": 72,
+    "Acceso a TIC - Tablet o similares": 22,
+    "Acceso a TIC - Conexion a Internet": 510
+  },
+  {
+    "Distrito": "Villa Franca",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 267,
+    "Acceso a TIC - Televisor con pantalla plana": 217,
+    "Acceso a TIC - Computadora o notebook": 48,
+    "Acceso a TIC - Tablet o similares": 5,
+    "Acceso a TIC - Conexion a Internet": 230
+  },
+  {
+    "Distrito": "Villa Oliva",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 789,
+    "Acceso a TIC - Televisor con pantalla plana": 547,
+    "Acceso a TIC - Computadora o notebook": 127,
+    "Acceso a TIC - Tablet o similares": 43,
+    "Acceso a TIC - Conexion a Internet": 167
+  },
+  {
+    "Distrito": "Villalbin",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 467,
+    "Acceso a TIC - Televisor con pantalla plana": 295,
+    "Acceso a TIC - Computadora o notebook": 84,
+    "Acceso a TIC - Tablet o similares": 12,
+    "Acceso a TIC - Conexion a Internet": 283
+  }
+]

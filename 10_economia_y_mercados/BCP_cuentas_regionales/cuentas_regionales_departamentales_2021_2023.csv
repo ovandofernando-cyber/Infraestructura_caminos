@@ -1,0 +1,176 @@
+cod_dpto,departamento,indicador,periodo,valor,unidad,documento_fuente
+00,Asunción,crecimiento_PIB_real,2022,2.0,% var. interanual,Informe CRA 2021-2023 (texto)
+00,Asunción,crecimiento_PIB_real,2023,2.1,% var. interanual,Informe CRA 2021-2023 (texto)
+00,Asunción,participacion_VAB_servicios,promedio 2021-2023,70.8,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+00,Asunción,participacion_VAB_manufactura,promedio 2021-2023,10.9,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+01,Concepción,crecimiento_PIB_real,2022,1.9,% var. interanual,Informe CRA 2021-2023 (texto)
+01,Concepción,crecimiento_PIB_real,2023,2.3,% var. interanual,Informe CRA 2021-2023 (texto)
+01,Concepción,participacion_VAB_servicios,promedio 2021-2023,36.3,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+01,Concepción,participacion_VAB_manufactura,promedio 2021-2023,32.8,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+01,Concepción,participacion_VAB_agricultura,promedio 2021-2023,3.1,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+01,Concepción,participacion_VAB_electricidad_y_agua,promedio 2021-2023,2.7,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+02,San Pedro,crecimiento_PIB_real,2022,-0.9,% var. interanual,Informe CRA 2021-2023 (texto)
+02,San Pedro,crecimiento_PIB_real,2023,7.5,% var. interanual,Informe CRA 2021-2023 (texto)
+02,San Pedro,participacion_VAB_servicios,promedio 2021-2023,41.7,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+02,San Pedro,participacion_VAB_agricultura,promedio 2021-2023,20.3,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+03,Cordillera,crecimiento_PIB_real,2022,4.9,% var. interanual,Informe CRA 2021-2023 (texto)
+03,Cordillera,crecimiento_PIB_real,2023,0.7,% var. interanual,Informe CRA 2021-2023 (texto)
+03,Cordillera,participacion_VAB_servicios,promedio 2021-2023,56.4,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+03,Cordillera,participacion_VAB_construcción,promedio 2021-2023,13.6,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+03,Cordillera,participacion_VAB_ganadería_forestal_pesca_y_minería,promedio 2021-2023,4.6,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+03,Cordillera,participacion_VAB_agricultura,promedio 2021-2023,2.4,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+04,Guairá,crecimiento_PIB_real,2022,2.6,% var. interanual,Informe CRA 2021-2023 (texto)
+04,Guairá,crecimiento_PIB_real,2023,4.2,% var. interanual,Informe CRA 2021-2023 (texto)
+04,Guairá,participacion_VAB_servicios,promedio 2021-2023,51.4,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+04,Guairá,participacion_VAB_manufactura,promedio 2021-2023,16.0,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+05,Caaguazú,crecimiento_PIB_real,2022,-1.8,% var. interanual,Informe CRA 2021-2023 (texto)
+05,Caaguazú,crecimiento_PIB_real,2023,8.7,% var. interanual,Informe CRA 2021-2023 (texto)
+05,Caaguazú,participacion_VAB_servicios,promedio 2021-2023,38.4,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+05,Caaguazú,participacion_VAB_manufactura,promedio 2021-2023,21.7,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+06,Caazapá,crecimiento_PIB_real,2022,-4.0,% var. interanual,Informe CRA 2021-2023 (texto)
+06,Caazapá,crecimiento_PIB_real,2023,8.9,% var. interanual,Informe CRA 2021-2023 (texto)
+06,Caazapá,participacion_VAB_servicios,promedio 2021-2023,40.7,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+06,Caazapá,participacion_VAB_agricultura,promedio 2021-2023,23.5,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+07,Itapúa,crecimiento_PIB_real,2022,-5.2,% var. interanual,Informe CRA 2021-2023 (texto)
+07,Itapúa,crecimiento_PIB_real,2023,10.3,% var. interanual,Informe CRA 2021-2023 (texto)
+07,Itapúa,participacion_VAB_servicios,promedio 2021-2023,41.6,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+07,Itapúa,participacion_VAB_agricultura,promedio 2021-2023,19.7,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+08,Misiones,crecimiento_PIB_real,2022,4.9,% var. interanual,Informe CRA 2021-2023 (texto)
+08,Misiones,crecimiento_PIB_real,2023,12.7,% var. interanual,Informe CRA 2021-2023 (texto)
+08,Misiones,participacion_VAB_electricidad_y_agua,promedio 2021-2023,38.2,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+08,Misiones,participacion_VAB_servicios,promedio 2021-2023,29.5,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+09,Paraguarí,crecimiento_PIB_real,2022,-1.5,% var. interanual,Informe CRA 2021-2023 (texto)
+09,Paraguarí,crecimiento_PIB_real,2023,3.8,% var. interanual,Informe CRA 2021-2023 (texto)
+09,Paraguarí,participacion_VAB_servicios,promedio 2021-2023,53.3,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+09,Paraguarí,participacion_VAB_construcción,promedio 2021-2023,12.2,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+09,Paraguarí,participacion_VAB_manufactura,promedio 2021-2023,11.0,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+10,Alto Paraná,crecimiento_PIB_real,2022,1.2,% var. interanual,Informe CRA 2021-2023 (texto)
+10,Alto Paraná,crecimiento_PIB_real,2023,10.6,% var. interanual,Informe CRA 2021-2023 (texto)
+10,Alto Paraná,participacion_VAB_servicios,promedio 2021-2023,38.4,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+10,Alto Paraná,participacion_VAB_electricidad_y_agua,promedio 2021-2023,21.0,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+11,Central,crecimiento_PIB_real,2022,-0.002,% var. interanual,Informe CRA 2021-2023 (texto)
+11,Central,crecimiento_PIB_real,2023,2.9,% var. interanual,Informe CRA 2021-2023 (texto)
+11,Central,participacion_VAB_servicios,promedio 2021-2023,53.4,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+11,Central,participacion_VAB_manufactura,promedio 2021-2023,29.7,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+12,Ñeembucú,crecimiento_PIB_real,2022,-3.6,% var. interanual,Informe CRA 2021-2023 (texto)
+12,Ñeembucú,crecimiento_PIB_real,2023,0.1,% var. interanual,Informe CRA 2021-2023 (texto)
+12,Ñeembucú,participacion_VAB_servicios,promedio 2021-2023,48.8,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+12,Ñeembucú,participacion_VAB_construcción,promedio 2021-2023,16.2,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+13,Amambay,crecimiento_PIB_real,2022,-7.3,% var. interanual,Informe CRA 2021-2023 (texto)
+13,Amambay,crecimiento_PIB_real,2023,8.2,% var. interanual,Informe CRA 2021-2023 (texto)
+13,Amambay,participacion_VAB_servicios,promedio 2021-2023,43.2,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+13,Amambay,participacion_VAB_agricultura,promedio 2021-2023,16.8,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+14,Canindeyú,crecimiento_PIB_real,2022,-0.01,% var. interanual,Informe CRA 2021-2023 (texto)
+14,Canindeyú,crecimiento_PIB_real,2023,11.3,% var. interanual,Informe CRA 2021-2023 (texto)
+14,Canindeyú,participacion_VAB_servicios,promedio 2021-2023,38.5,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+14,Canindeyú,participacion_VAB_agricultura,promedio 2021-2023,22.3,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+15,Presidente Hayes,crecimiento_PIB_real,2022,6.2,% var. interanual,Informe CRA 2021-2023 (texto)
+15,Presidente Hayes,crecimiento_PIB_real,2023,-12.4,% var. interanual,Informe CRA 2021-2023 (texto)
+15,Presidente Hayes,participacion_VAB_servicios,promedio 2021-2023,30.5,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+15,Presidente Hayes,participacion_VAB_manufactura,promedio 2021-2023,24.2,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+16,Boquerón,crecimiento_PIB_real,2022,2.8,% var. interanual,Informe CRA 2021-2023 (texto)
+16,Boquerón,crecimiento_PIB_real,2023,2.7,% var. interanual,Informe CRA 2021-2023 (texto)
+16,Boquerón,participacion_VAB_manufactura,promedio 2021-2023,31.0,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+16,Boquerón,participacion_VAB_servicios,promedio 2021-2023,25.3,% del VAB departamental,Informe CRA 2021-2023 (texto; solo sectores citados)
+17,Alto Paraguay,crecimiento_PIB_real,2022,-14.4,% var. interanual,Informe CRA 2021-2023 (texto)
+17,Alto Paraguay,crecimiento_PIB_real,2023,-10.4,% var. interanual,Informe CRA 2021-2023 (texto)
+00,Asunción,participacion_PIB_nacional,2023,17.1,% del PIB nacional,Presentación CRA 2021-2023
+01,Concepción,participacion_PIB_nacional,2023,2.8,% del PIB nacional,Presentación CRA 2021-2023
+02,San Pedro,participacion_PIB_nacional,2023,3.8,% del PIB nacional,Presentación CRA 2021-2023
+03,Cordillera,participacion_PIB_nacional,2023,2.4,% del PIB nacional,Presentación CRA 2021-2023
+04,Guairá,participacion_PIB_nacional,2023,2.0,% del PIB nacional,Presentación CRA 2021-2023
+05,Caaguazú,participacion_PIB_nacional,2023,5.9,% del PIB nacional,Presentación CRA 2021-2023
+06,Caazapá,participacion_PIB_nacional,2023,1.5,% del PIB nacional,Presentación CRA 2021-2023
+07,Itapúa,participacion_PIB_nacional,2023,6.4,% del PIB nacional,Presentación CRA 2021-2023
+08,Misiones,participacion_PIB_nacional,2023,2.1,% del PIB nacional,Presentación CRA 2021-2023
+09,Paraguarí,participacion_PIB_nacional,2023,1.7,% del PIB nacional,Presentación CRA 2021-2023
+10,Alto Paraná,participacion_PIB_nacional,2023,15.4,% del PIB nacional,Presentación CRA 2021-2023
+11,Central,participacion_PIB_nacional,2023,28.5,% del PIB nacional,Presentación CRA 2021-2023
+12,Ñeembucú,participacion_PIB_nacional,2023,0.8,% del PIB nacional,Presentación CRA 2021-2023
+13,Amambay,participacion_PIB_nacional,2023,2.1,% del PIB nacional,Presentación CRA 2021-2023
+14,Canindeyú,participacion_PIB_nacional,2023,3.1,% del PIB nacional,Presentación CRA 2021-2023
+15,Presidente Hayes,participacion_PIB_nacional,2023,2.0,% del PIB nacional,Presentación CRA 2021-2023
+16,Boquerón,participacion_PIB_nacional,2023,1.9,% del PIB nacional,Presentación CRA 2021-2023
+17,Alto Paraguay,participacion_PIB_nacional,2023,0.4,% del PIB nacional,Presentación CRA 2021-2023
+00,Asunción,PIB_per_capita,2023,15255,USD corrientes,Presentación CRA 2021-2023
+16,Boquerón,PIB_per_capita,2023,10903,USD corrientes,Presentación CRA 2021-2023
+17,Alto Paraguay,PIB_per_capita,2023,10225,USD corrientes,Presentación CRA 2021-2023
+08,Misiones,PIB_per_capita,2023,9136,USD corrientes,Presentación CRA 2021-2023
+10,Alto Paraná,PIB_per_capita,2023,8366,USD corrientes,Presentación CRA 2021-2023
+15,Presidente Hayes,PIB_per_capita,2023,7068,USD corrientes,Presentación CRA 2021-2023
+14,Canindeyú,PIB_per_capita,2023,6880,USD corrientes,Presentación CRA 2021-2023
+07,Itapúa,PIB_per_capita,2023,6261,USD corrientes,Presentación CRA 2021-2023
+11,Central,PIB_per_capita,2023,6139,USD corrientes,Presentación CRA 2021-2023
+01,Concepción,PIB_per_capita,2023,5995,USD corrientes,Presentación CRA 2021-2023
+05,Caaguazú,PIB_per_capita,2023,5814,USD corrientes,Presentación CRA 2021-2023
+13,Amambay,PIB_per_capita,2023,5370,USD corrientes,Presentación CRA 2021-2023
+12,Ñeembucú,PIB_per_capita,2023,4788,USD corrientes,Presentación CRA 2021-2023
+02,San Pedro,PIB_per_capita,2023,4605,USD corrientes,Presentación CRA 2021-2023
+06,Caazapá,PIB_per_capita,2023,4550,USD corrientes,Presentación CRA 2021-2023
+04,Guairá,PIB_per_capita,2023,4538,USD corrientes,Presentación CRA 2021-2023
+03,Cordillera,PIB_per_capita,2023,3636,USD corrientes,Presentación CRA 2021-2023
+09,Paraguarí,PIB_per_capita,2023,3394,USD corrientes,Presentación CRA 2021-2023
+01,Concepción,participacion_VAB_agricultura,2023 (gráfico),3.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+01,Concepción,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),10.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+01,Concepción,participacion_VAB_manufactura,2023 (gráfico),33.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+01,Concepción,participacion_VAB_servicios,2023 (gráfico),37.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+02,San Pedro,participacion_VAB_agricultura,2023 (gráfico),21.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+02,San Pedro,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),8.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+02,San Pedro,participacion_VAB_manufactura,2023 (gráfico),10.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+02,San Pedro,participacion_VAB_servicios,2023 (gráfico),41.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+03,Cordillera,participacion_VAB_agricultura,2023 (gráfico),2.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+03,Cordillera,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),5.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+03,Cordillera,participacion_VAB_manufactura,2023 (gráfico),11.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+03,Cordillera,participacion_VAB_servicios,2023 (gráfico),56.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+04,Guairá,participacion_VAB_agricultura,2023 (gráfico),7.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+04,Guairá,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),4.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+04,Guairá,participacion_VAB_manufactura,2023 (gráfico),16.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+04,Guairá,participacion_VAB_servicios,2023 (gráfico),52.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+05,Caaguazú,participacion_VAB_agricultura,2023 (gráfico),16.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+05,Caaguazú,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),7.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+05,Caaguazú,participacion_VAB_manufactura,2023 (gráfico),22.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+05,Caaguazú,participacion_VAB_servicios,2023 (gráfico),38.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+06,Caazapá,participacion_VAB_agricultura,2023 (gráfico),25.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+06,Caazapá,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),10.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+06,Caazapá,participacion_VAB_manufactura,2023 (gráfico),6.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+06,Caazapá,participacion_VAB_servicios,2023 (gráfico),40.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+07,Itapúa,participacion_VAB_agricultura,2023 (gráfico),20.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+07,Itapúa,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),3.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+07,Itapúa,participacion_VAB_manufactura,2023 (gráfico),18.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+07,Itapúa,participacion_VAB_servicios,2023 (gráfico),41.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+09,Paraguarí,participacion_VAB_agricultura,2023 (gráfico),4.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+09,Paraguarí,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),8.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+09,Paraguarí,participacion_VAB_manufactura,2023 (gráfico),11.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+09,Paraguarí,participacion_VAB_servicios,2023 (gráfico),55.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+10,Alto Paraná,participacion_VAB_agricultura,2023 (gráfico),11.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+10,Alto Paraná,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),1.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+10,Alto Paraná,participacion_VAB_manufactura,2023 (gráfico),15.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+10,Alto Paraná,participacion_VAB_servicios,2023 (gráfico),38.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+11,Central,participacion_VAB_agricultura,2023 (gráfico),0.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+11,Central,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),1.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+11,Central,participacion_VAB_manufactura,2023 (gráfico),30.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+11,Central,participacion_VAB_servicios,2023 (gráfico),53.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+12,Ñeembucú,participacion_VAB_agricultura,2023 (gráfico),5.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+12,Ñeembucú,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),11.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+12,Ñeembucú,participacion_VAB_manufactura,2023 (gráfico),8.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+12,Ñeembucú,participacion_VAB_servicios,2023 (gráfico),48.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+13,Amambay,participacion_VAB_agricultura,2023 (gráfico),19.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+13,Amambay,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),5.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+13,Amambay,participacion_VAB_manufactura,2023 (gráfico),15.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+13,Amambay,participacion_VAB_servicios,2023 (gráfico),42.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+14,Canindeyú,participacion_VAB_agricultura,2023 (gráfico),23.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+14,Canindeyú,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),5.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+14,Canindeyú,participacion_VAB_manufactura,2023 (gráfico),17.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+14,Canindeyú,participacion_VAB_servicios,2023 (gráfico),39.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+15,Presidente Hayes,participacion_VAB_agricultura,2023 (gráfico),1.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+15,Presidente Hayes,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),15.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+15,Presidente Hayes,participacion_VAB_manufactura,2023 (gráfico),24.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+15,Presidente Hayes,participacion_VAB_servicios,2023 (gráfico),32.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+16,Boquerón,participacion_VAB_agricultura,2023 (gráfico),6.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+16,Boquerón,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),14.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+16,Boquerón,participacion_VAB_manufactura,2023 (gráfico),31.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+16,Boquerón,participacion_VAB_servicios,2023 (gráfico),25.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+17,Alto Paraguay,participacion_VAB_agricultura,2023 (gráfico),11.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+17,Alto Paraguay,participacion_VAB_ganaderia_forestal_pesca_mineria,2023 (gráfico),48.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+17,Alto Paraguay,participacion_VAB_manufactura,2023 (gráfico),1.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023
+17,Alto Paraguay,participacion_VAB_servicios,2023 (gráfico),21.0,"% (redondeado, leído de gráfico)",Presentación CRA 2021-2023

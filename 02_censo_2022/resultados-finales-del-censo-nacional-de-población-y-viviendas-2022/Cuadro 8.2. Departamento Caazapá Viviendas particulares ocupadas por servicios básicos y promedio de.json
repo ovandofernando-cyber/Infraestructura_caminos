@@ -1,0 +1,110 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 43.281,
+    "Servicios basicos - Agua corriente (a)": 35.22,
+    "Servicios basicos - Desague sanitario (b)": 28.071,
+    "Servicios basicos - Recoleccion de basura (c)": 7.594,
+    "Servicios basicos - Energia electrica": 42.227,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Caazapa",
+    "Viviendas particulares": 7.776,
+    "Servicios basicos - Agua corriente (a)": 7.225,
+    "Servicios basicos - Desague sanitario (b)": 6.248,
+    "Servicios basicos - Recoleccion de basura (c)": 2.962,
+    "Servicios basicos - Energia electrica": 7.736,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "Abai",
+    "Viviendas particulares": 6.603,
+    "Servicios basicos - Agua corriente (a)": 4.154,
+    "Servicios basicos - Desague sanitario (b)": 3.712,
+    "Servicios basicos - Recoleccion de basura (c)": 275,
+    "Servicios basicos - Energia electrica": 6.374,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Buena Vista",
+    "Viviendas particulares": 1.365,
+    "Servicios basicos - Agua corriente (a)": 1.303,
+    "Servicios basicos - Desague sanitario (b)": 893,
+    "Servicios basicos - Recoleccion de basura (c)": 256,
+    "Servicios basicos - Energia electrica": 1.355,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Dr. Moises S. Bertoni",
+    "Viviendas particulares": 1.095,
+    "Servicios basicos - Agua corriente (a)": 1.001,
+    "Servicios basicos - Desague sanitario (b)": 641,
+    "Servicios basicos - Recoleccion de basura (c)": 96,
+    "Servicios basicos - Energia electrica": 1.085,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Gral. Higinio Morinigo",
+    "Viviendas particulares": 1.531,
+    "Servicios basicos - Agua corriente (a)": 1.365,
+    "Servicios basicos - Desague sanitario (b)": 970,
+    "Servicios basicos - Recoleccion de basura (c)": 43,
+    "Servicios basicos - Energia electrica": 1.52,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Maciel",
+    "Viviendas particulares": 1.112,
+    "Servicios basicos - Agua corriente (a)": 1.033,
+    "Servicios basicos - Desague sanitario (b)": 849,
+    "Servicios basicos - Recoleccion de basura (c)": 34,
+    "Servicios basicos - Energia electrica": 1.107,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "San Juan Nepomuceno",
+    "Viviendas particulares": 8.656,
+    "Servicios basicos - Agua corriente (a)": 7.206,
+    "Servicios basicos - Desague sanitario (b)": 5.674,
+    "Servicios basicos - Recoleccion de basura (c)": 2.432,
+    "Servicios basicos - Energia electrica": 8.527,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Tavai",
+    "Viviendas particulares": 4.929,
+    "Servicios basicos - Agua corriente (a)": 3.046,
+    "Servicios basicos - Desague sanitario (b)": 2.471,
+    "Servicios basicos - Recoleccion de basura (c)": 193,
+    "Servicios basicos - Energia electrica": 4.465,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Yegros",
+    "Viviendas particulares": 1.686,
+    "Servicios basicos - Agua corriente (a)": 1.585,
+    "Servicios basicos - Desague sanitario (b)": 1.389,
+    "Servicios basicos - Recoleccion de basura (c)": 423,
+    "Servicios basicos - Energia electrica": 1.656,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "Yuty",
+    "Viviendas particulares": 4.764,
+    "Servicios basicos - Agua corriente (a)": 4.204,
+    "Servicios basicos - Desague sanitario (b)": 3.162,
+    "Servicios basicos - Recoleccion de basura (c)": 867,
+    "Servicios basicos - Energia electrica": 4.669,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "3 de Mayo",
+    "Viviendas particulares": 3.764,
+    "Servicios basicos - Agua corriente (a)": 3.098,
+    "Servicios basicos - Desague sanitario (b)": 2.062,
+    "Servicios basicos - Recoleccion de basura (c)": 13,
+    "Servicios basicos - Energia electrica": 3.733,
+    "Promedio de personas por vivienda": "3,4"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "Distrito": "Total",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 28.872,
+    "Acceso a TIC - Televisor con pantalla plana": 23.283,
+    "Acceso a TIC - Computadora o notebook": 8.34,
+    "Acceso a TIC - Tablet o similares": 2.573,
+    "Acceso a TIC - Conexion a Internet": 16.221
+  },
+  {
+    "Distrito": "San Juan Bautista de las Misiones",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 5.122,
+    "Acceso a TIC - Televisor con pantalla plana": 4.525,
+    "Acceso a TIC - Computadora o notebook": 1.987,
+    "Acceso a TIC - Tablet o similares": 628,
+    "Acceso a TIC - Conexion a Internet": 3.031
+  },
+  {
+    "Distrito": "Ayolas",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 4.67,
+    "Acceso a TIC - Televisor con pantalla plana": 3.796,
+    "Acceso a TIC - Computadora o notebook": 1.721,
+    "Acceso a TIC - Tablet o similares": 606,
+    "Acceso a TIC - Conexion a Internet": 2.54
+  },
+  {
+    "Distrito": "San Ignacio",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 7.712,
+    "Acceso a TIC - Televisor con pantalla plana": 6.235,
+    "Acceso a TIC - Computadora o notebook": 2.304,
+    "Acceso a TIC - Tablet o similares": 722,
+    "Acceso a TIC - Conexion a Internet": 4.757
+  },
+  {
+    "Distrito": "San Miguel",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.3,
+    "Acceso a TIC - Televisor con pantalla plana": 1.066,
+    "Acceso a TIC - Computadora o notebook": 228,
+    "Acceso a TIC - Tablet o similares": 50,
+    "Acceso a TIC - Conexion a Internet": 734
+  },
+  {
+    "Distrito": "San Patricio",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 854,
+    "Acceso a TIC - Televisor con pantalla plana": 610,
+    "Acceso a TIC - Computadora o notebook": 170,
+    "Acceso a TIC - Tablet o similares": 38,
+    "Acceso a TIC - Conexion a Internet": 336
+  },
+  {
+    "Distrito": "Santa Maria",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.918,
+    "Acceso a TIC - Televisor con pantalla plana": 1.487,
+    "Acceso a TIC - Computadora o notebook": 302,
+    "Acceso a TIC - Tablet o similares": 64,
+    "Acceso a TIC - Conexion a Internet": 932
+  },
+  {
+    "Distrito": "Santa Rosa",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 4.358,
+    "Acceso a TIC - Televisor con pantalla plana": 3.191,
+    "Acceso a TIC - Computadora o notebook": 977,
+    "Acceso a TIC - Tablet o similares": 250,
+    "Acceso a TIC - Conexion a Internet": 2.672
+  },
+  {
+    "Distrito": "Santiago",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.531,
+    "Acceso a TIC - Televisor con pantalla plana": 1.239,
+    "Acceso a TIC - Computadora o notebook": 362,
+    "Acceso a TIC - Tablet o similares": 93,
+    "Acceso a TIC - Conexion a Internet": 612
+  },
+  {
+    "Distrito": "Villa Florida",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 825,
+    "Acceso a TIC - Televisor con pantalla plana": 709,
+    "Acceso a TIC - Computadora o notebook": 202,
+    "Acceso a TIC - Tablet o similares": 91,
+    "Acceso a TIC - Conexion a Internet": 449
+  },
+  {
+    "Distrito": "Yabebyry",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 582,
+    "Acceso a TIC - Televisor con pantalla plana": 425,
+    "Acceso a TIC - Computadora o notebook": 87,
+    "Acceso a TIC - Tablet o similares": 31,
+    "Acceso a TIC - Conexion a Internet": 158
+  }
+]

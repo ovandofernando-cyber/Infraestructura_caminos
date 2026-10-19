@@ -1,0 +1,62 @@
+[
+  {
+    "Distrito": "Total",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 4.018,
+    "Acceso a TIC - Televisor con pantalla plana": 2.662,
+    "Acceso a TIC - Computadora o notebook": 689,
+    "Acceso a TIC - Tablet o similares": 201,
+    "Acceso a TIC - Conexion a Internet": 1.427,
+    "Acceso a TIC - Televisor con pantalla plana__1": 2.662,
+    "Acceso a TIC - Computadora o notebook__1": 689,
+    "Acceso a TIC - Tablet o similares__1": 201,
+    "Acceso a TIC - Conexion a Internet__1": 1.427
+  },
+  {
+    "Distrito": "Fuerte Olimpo",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.079,
+    "Acceso a TIC - Televisor con pantalla plana": 761,
+    "Acceso a TIC - Computadora o notebook": 229,
+    "Acceso a TIC - Tablet o similares": 51,
+    "Acceso a TIC - Conexion a Internet": 479,
+    "Acceso a TIC - Televisor con pantalla plana__1": 761,
+    "Acceso a TIC - Computadora o notebook__1": 229,
+    "Acceso a TIC - Tablet o similares__1": 51,
+    "Acceso a TIC - Conexion a Internet__1": 479
+  },
+  {
+    "Distrito": "Puerto Casado",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.154,
+    "Acceso a TIC - Televisor con pantalla plana": 759,
+    "Acceso a TIC - Computadora o notebook": 162,
+    "Acceso a TIC - Tablet o similares": 47,
+    "Acceso a TIC - Conexion a Internet": 236,
+    "Acceso a TIC - Televisor con pantalla plana__1": 759,
+    "Acceso a TIC - Computadora o notebook__1": 162,
+    "Acceso a TIC - Tablet o similares__1": 47,
+    "Acceso a TIC - Conexion a Internet__1": 236
+  },
+  {
+    "Distrito": "Bahia Negra",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 664,
+    "Acceso a TIC - Televisor con pantalla plana": 307,
+    "Acceso a TIC - Computadora o notebook": 83,
+    "Acceso a TIC - Tablet o similares": 19,
+    "Acceso a TIC - Conexion a Internet": 258,
+    "Acceso a TIC - Televisor con pantalla plana__1": 307,
+    "Acceso a TIC - Computadora o notebook__1": 83,
+    "Acceso a TIC - Tablet o similares__1": 19,
+    "Acceso a TIC - Conexion a Internet__1": 258
+  },
+  {
+    "Distrito": "Carmelo Peralta",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.121,
+    "Acceso a TIC - Televisor con pantalla plana": 835,
+    "Acceso a TIC - Computadora o notebook": 215,
+    "Acceso a TIC - Tablet o similares": 84,
+    "Acceso a TIC - Conexion a Internet": 454,
+    "Acceso a TIC - Televisor con pantalla plana__1": 835,
+    "Acceso a TIC - Computadora o notebook__1": 215,
+    "Acceso a TIC - Tablet o similares__1": 84,
+    "Acceso a TIC - Conexion a Internet__1": 454
+  }
+]

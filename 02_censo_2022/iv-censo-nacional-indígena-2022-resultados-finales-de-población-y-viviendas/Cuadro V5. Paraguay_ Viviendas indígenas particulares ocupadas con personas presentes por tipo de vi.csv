@@ -1,0 +1,379 @@
+Pueblo, sexo del jefe y tipo de hogar; Total ;  Tipo de vivienda  -  Casa ;  Tipo de vivienda  -  Rancho ;  Tipo de vivienda  -  Improvisada ;  Tipo de vivienda  -  Galpon 
+Total pais - Total jefes de hogar;37.096;11.716;23.603;1.727;50
+         Unipersonal ;5.088;1.164;3.611;306;7
+         Nuclear completo ;19.043;5.993;12.189;827;34
+         Nuclear incompleto ;5.538;1.587;3.671;275;5
+         Extendido ;7.144;2.843;3.990;307;4
+         Compuesto  ;283;129;142;12; -   
+Total pais - Varon jefe de hogar;20.913;6.745;13.163;972;33
+         Unipersonal ;3.671;788;2.657;223;3
+         Nuclear completo ;12.274;4.054;7.647;544;29
+         Nuclear incompleto ;906;261;609;36; -   
+         Extendido ;3.884;1.566;2.156;161;1
+         Compuesto  ;178;76;94;8; -   
+Total pais - Mujer jefa de hogar;16.183;4.971;10.440;755;17
+         Unipersonal ;1.417;376;954;83;4
+         Nuclear completo ;6.769;1.939;4.542;283;5
+         Nuclear incompleto ;4.632;1.326;3.062;239;5
+         Extendido ;3.260;1.277;1.834;146;3
+         Compuesto  ;105;53;48;4; -   
+ Ache - Total jefes del hogar;536;380;155;1; -   
+         Unipersonal ;14;8;6; -   ; -   
+         Nuclear completo ;311;218;92;1; -   
+         Nuclear incompleto ;43;26;17; -   ; -   
+         Extendido ;158;119;39; -   ; -   
+         Compuesto  ;10;9;1; -   ; -   
+Ache - Varon jefe del hogar;298;207;91; -   ; -   
+         Unipersonal ;12;7;5; -   ; -   
+         Nuclear completo ;200;137;63; -   ; -   
+         Nuclear incompleto ;5;5; -   ; -   ; -   
+         Extendido ;75;53;22; -   ; -   
+         Compuesto  ;6;5;1; -   ; -   
+Ache - Mujer jefa del hogar;238;173;64;1; -   
+         Unipersonal ;2;1;1; -   ; -   
+         Nuclear completo ;111;81;29;1; -   
+         Nuclear incompleto ;38;21;17; -   ; -   
+         Extendido ;83;66;17; -   ; -   
+         Compuesto  ;4;4; -   ; -   ; -   
+Ava Guarani - Total jefes de hogar;6.989;2.411;4.188;387;3
+         Unipersonal ;1.461;335;1.001;123;2
+         Nuclear completo ;3.525;1.338;2.024;163; -   
+         Nuclear incompleto ;1.315;434;817;63;1
+         Extendido ;663;294;333;36; -   
+         Compuesto  ;25;10;13;2; -   
+Ava Guarani - Varon jefe de hogar;3.852;1.232;2.369;249;2
+         Unipersonal ;1.055;210;750;93;2
+         Nuclear completo ;2.218;817;1.270;131; -   
+         Nuclear incompleto ;263;70;184;9; -   
+         Extendido ;299;128;157;14; -   
+         Compuesto  ;17;7;8;2; -   
+Ava Guarani - Mujer jefa de hogar;3.137;1.179;1.819;138;1
+         Unipersonal ;406;125;251;30; -   
+         Nuclear completo ;1.307;521;754;32; -   
+         Nuclear incompleto ;1.052;364;633;54;1
+         Extendido ;364;166;176;22; -   
+         Compuesto  ;8;3;5; -   ; -   
+ Mbya Guarani - Total jefes del hogar;7.369;1.388;5.570;410;1
+         Unipersonal ;1.244;176;972;96; -   
+         Nuclear completo ;3.683;694;2.806;183; -   
+         Nuclear incompleto ;1.443;257;1.101;84;1
+         Extendido ;965;245;673;47; -   
+         Compuesto  ;34;16;18; -   ; -   
+Mbya Guarani - Varon jefe de hogar;3.726;686;2.839;201; -   
+         Unipersonal ;956;133;752;71; -   
+         Nuclear completo ;2.155;406;1.650;99; -   
+         Nuclear incompleto ;223;45;168;10; -   
+         Extendido ;372;94;257;21; -   
+         Compuesto  ;20;8;12; -   ; -   
+Mbya Guarani - Mujer jefa de hogar;3.643;702;2.731;209;1
+         Unipersonal ;288;43;220;25; -   
+         Nuclear completo ;1.528;288;1.156;84; -   
+         Nuclear incompleto ;1.220;212;933;74;1
+         Extendido ;593;151;416;26; -   
+         Compuesto  ;14;8;6; -   ; -   
+ Pai Tavytera - Total jefes del hogar;4.835;829;3.777;228;1
+         Unipersonal ;830;89;703;38; -   
+         Nuclear completo ;2.692;484;2.075;132;1
+         Nuclear incompleto ;700;116;548;36; -   
+         Extendido ;593;132;439;22; -   
+         Compuesto  ;20;8;12; -   ; -   
+Pai Tavytera - Varon jefe de hogar;1.727;280;1.381;65;1
+         Unipersonal ;589;57;504;28; -   
+         Nuclear completo ;883;170;687;25;1
+         Nuclear incompleto ;76;14;58;4; -   
+         Extendido ;176;38;130;8; -   
+         Compuesto  ;3;1;2; -   ; -   
+Pai Tavytera - Mujer jefa de hogar;3.108;549;2.396;163; -   
+         Unipersonal ;241;32;199;10; -   
+         Nuclear completo ;1.809;314;1.388;107; -   
+         Nuclear incompleto ;624;102;490;32; -   
+         Extendido ;417;94;309;14; -   
+         Compuesto  ;17;7;10; -   ; -   
+ Guarani Occidental/Pueblo Guarani  - Total jefes del hogar;939;490;428;19;2
+         Unipersonal ;87;39;47;1; -   
+         Nuclear completo ;359;170;183;4;2
+         Nuclear incompleto ;126;62;59;5; -   
+         Extendido ;338;199;131;8; -   
+         Compuesto  ;29;20;8;1; -   
+Guarani Occidental/Pueblo Guarani - Varon jefe de hogar;464;243;213;7;1
+         Unipersonal ;50;19;30;1; -   
+         Nuclear completo ;219;105;111;2;1
+         Nuclear incompleto ;10;7;1;2; -   
+         Extendido ;171;101;68;2; -   
+         Compuesto  ;14;11;3; -   ; -   
+Guarani Occidental/Pueblo Guarani - Mujer jefa de hogar;475;247;215;12;1
+         Unipersonal ;37;20;17; -   ; -   
+         Nuclear completo ;140;65;72;2;1
+         Nuclear incompleto ;116;55;58;3; -   
+         Extendido ;167;98;63;6; -   
+         Compuesto  ;15;9;5;1; -   
+ Guarani Nandeva - Total jefes de hogar;795;440;311;42;2
+         Unipersonal ;61;32;29; -   ; -   
+         Nuclear completo ;411;221;163;25;2
+         Nuclear incompleto ;130;68;51;11; -   
+         Extendido ;191;118;67;6; -   
+         Compuesto  ;2;1;1; -   ; -   
+ Guarani Nandeva - Varon jefe de hogar;537;290;216;29;2
+         Unipersonal ;46;21;25; -   ; -   
+         Nuclear completo ;362;193;145;22;2
+         Nuclear incompleto ;14;9;4;1; -   
+         Extendido ;114;66;42;6; -   
+         Compuesto  ;1;1; -   ; -   ; -   
+ Guarani Nandeva - Mujer jefa de hogar;258;150;95;13; -   
+         Unipersonal ;15;11;4; -   ; -   
+         Nuclear completo ;49;28;18;3; -   
+         Nuclear incompleto ;116;59;47;10; -   
+         Extendido ;77;52;25; -   ; -   
+         Compuesto  ;1; -   ;1; -   ; -   
+ Enlhet Norte - Total jefes de hogar;2.625;769;1.722;112;22
+         Unipersonal ;176;52;116;6;2
+         Nuclear completo ;1.400;404;912;67;17
+         Nuclear incompleto ;87;26;57;2;2
+         Extendido ;928;274;618;35;1
+         Compuesto  ;34;13;19;2; -   
+ Enlhet Norte - Varon jefe de hogar;2.309;667;1.524;100;18
+         Unipersonal ;138;47;87;4; -   
+         Nuclear completo ;1.322;368;872;65;17
+         Nuclear incompleto ;25;6;19; -   ; -   
+         Extendido ;792;234;528;29;1
+         Compuesto  ;32;12;18;2; -   
+ Enlhet Norte - Mujer jefa de hogar;316;102;198;12;4
+         Unipersonal ;38;5;29;2;2
+         Nuclear completo ;78;36;40;2; -   
+         Nuclear incompleto ;62;20;38;2;2
+         Extendido ;136;40;90;6; -   
+         Compuesto  ;2;1;1; -   ; -   
+ Enxet Sur - Total jefes de hogar;2.335;832;1.438;60;5
+         Unipersonal ;236;78;151;7; -   
+         Nuclear completo ;1.215;419;769;22;5
+         Nuclear incompleto ;345;131;205;9; -   
+         Extendido ;524;200;303;21; -   
+         Compuesto  ;15;4;10;1; -   
+ Enxet Sur - Varon jefe de hogar;1.393;469;884;39;1
+         Unipersonal ;165;53;106;6; -   
+         Nuclear completo ;846;277;546;22;1
+         Nuclear incompleto ;68;33;35; -   ; -   
+         Extendido ;300;102;188;10; -   
+         Compuesto  ;14;4;9;1; -   
+ Enxet Sur - Mujer jefa de hogar;942;363;554;21;4
+         Unipersonal ;71;25;45;1; -   
+         Nuclear completo ;369;142;223; -   ;4
+         Nuclear incompleto ;277;98;170;9; -   
+         Extendido ;224;98;115;11; -   
+         Compuesto  ;1; -   ;1; -   ; -   
+ Sanapana - Total jefes de hogar;839;311;472;52;4
+         Unipersonal ;46;19;26;1; -   
+         Nuclear completo ;485;178;274;30;3
+         Nuclear incompleto ;84;26;48;9;1
+         Extendido ;216;83;122;11; -   
+         Compuesto  ;8;5;2;1; -   
+ Sanapana - Varon jefe de hogar;618;234;340;41;3
+         Unipersonal ;30;13;17; -   ; -   
+         Nuclear completo ;400;145;224;28;3
+         Nuclear incompleto ;21;6;14;1; -   
+         Extendido ;160;65;84;11; -   
+         Compuesto  ;7;5;1;1; -   
+ Sanapana - Mujer jefa de hogar;221;77;132;11;1
+         Unipersonal ;16;6;9;1; -   
+         Nuclear completo ;85;33;50;2; -   
+         Nuclear incompleto ;63;20;34;8;1
+         Extendido ;56;18;38; -   ; -   
+         Compuesto  ;1; -   ;1; -   ; -   
+ Angaite - Total jefes de hogar;1.803;480;1.287;36; -   
+         Unipersonal ;117;34;79;4; -   
+         Nuclear completo ;1.079;296;762;21; -   
+         Nuclear incompleto ;236;58;176;2; -   
+         Extendido ;356;88;259;9; -   
+         Compuesto  ;15;4;11; -   ; -   
+ Angaite - Varon jefe de hogar;1.036;320;693;23; -   
+         Unipersonal ;77;27;48;2; -   
+         Nuclear completo ;758;235;505;18; -   
+         Nuclear incompleto ;33;7;26; -   ; -   
+         Extendido ;158;50;105;3; -   
+         Compuesto  ;10;1;9; -   ; -   
+ Angaite - Mujer jefa de hogar;767;160;594;13; -   
+         Unipersonal ;40;7;31;2; -   
+         Nuclear completo ;321;61;257;3; -   
+         Nuclear incompleto ;203;51;150;2; -   
+         Extendido ;198;38;154;6; -   
+         Compuesto  ;5;3;2; -   ; -   
+ Guana - Total jefes de hogar;155;61;94; -   ; -   
+         Unipersonal ;19;16;3; -   ; -   
+         Nuclear completo ;63;19;44; -   ; -   
+         Nuclear incompleto ;34;13;21; -   ; -   
+         Extendido ;39;13;26; -   ; -   
+         Compuesto  ; -   ; -   ; -   ; -   ; -   
+ Guana - Varon jefe de hogar;57;21;36; -   ; -   
+         Unipersonal ;9;6;3; -   ; -   
+         Nuclear completo ;32;8;24; -   ; -   
+         Nuclear incompleto ;6;2;4; -   ; -   
+         Extendido ;10;5;5; -   ; -   
+         Compuesto  ; -   ; -   ; -   ; -   ; -   
+ Guana - Mujer jefa de hogar;98;40;58; -   ; -   
+         Unipersonal ;10;10; -   ; -   ; -   
+         Nuclear completo ;31;11;20; -   ; -   
+         Nuclear incompleto ;28;11;17; -   ; -   
+         Extendido ;29;8;21; -   ; -   
+         Compuesto  ; -   ; -   ; -   ; -   ; -   
+ Toba Maskoy/Toba Enenlhet - Totak jefes de hogar;658;341;283;34; -   
+         Unipersonal ;69;35;30;4; -   
+         Nuclear completo ;366;201;148;17; -   
+         Nuclear incompleto ;49;28;15;6; -   
+         Extendido ;168;75;86;7; -   
+         Compuesto  ;6;2;4; -   ; -   
+ Toba Maskoy/Toba Enenlhet - Varon jefe de hogar;502;280;196;26; -   
+         Unipersonal ;45;26;19; -   ; -   
+         Nuclear completo ;319;183;119;17; -   
+         Nuclear incompleto ;16;7;6;3; -   
+         Extendido ;117;62;49;6; -   
+         Compuesto  ;5;2;3; -   ; -   
+ Toba Maskoy/Toba Enenlhet - Mujer jefa de hogar;156;61;87;8; -   
+         Unipersonal ;24;9;11;4; -   
+         Nuclear completo ;47;18;29; -   ; -   
+         Nuclear incompleto ;33;21;9;3; -   
+         Extendido ;51;13;37;1; -   
+         Compuesto  ;1; -   ;1; -   ; -   
+ Nivacle - Total jefes del hogar;4.031;1.752;2.060;211;8
+         Unipersonal ;252;99;140;10;3
+         Nuclear completo ;1.990;782;1.109;97;2
+         Nuclear incompleto ;445;187;228;30; -   
+         Extendido ;1.292;659;560;70;3
+         Compuesto  ;52;25;23;4; -   
+ Nivacle - Varon jefe de hogar;2.615;1.120;1.377;115;3
+         Unipersonal ;167;63;96;7;1
+         Nuclear completo ;1.615;638;903;72;2
+         Nuclear incompleto ;62;25;33;4; -   
+         Extendido ;738;380;328;30; -   
+         Compuesto  ;33;14;17;2; -   
+ Nivacle - Mujer jefa de hogar;1.416;632;683;96;5
+         Unipersonal ;85;36;44;3;2
+         Nuclear completo ;375;144;206;25; -   
+         Nuclear incompleto ;383;162;195;26; -   
+         Extendido ;554;279;232;40;3
+         Compuesto  ;19;11;6;2; -   
+ Maka - Total jefes del hogar;465;340;113;12; -   
+         Unipersonal ;49;22;22;5; -   
+         Nuclear completo ;142;108;32;2; -   
+         Nuclear incompleto ;67;46;20;1; -   
+         Extendido ;202;163;35;4; -   
+         Compuesto  ;5;1;4; -   ; -   
+ Maka - Varon jefe de hogar;253;171;73;9; -   
+         Unipersonal ;41;19;18;4; -   
+         Nuclear completo ;91;65;25;1; -   
+         Nuclear incompleto ;10;5;5; -   ; -   
+         Extendido ;110;82;24;4; -   
+         Compuesto  ;1; -   ;1; -   ; -   
+ Maka - Mujer jefa de hogar;212;169;40;3; -   
+         Unipersonal ;8;3;4;1; -   
+         Nuclear completo ;51;43;7;1; -   
+         Nuclear incompleto ;57;41;15;1; -   
+         Extendido ;92;81;11; -   ; -   
+         Compuesto  ;4;1;3; -   ; -   
+ Manjui - Total jefes del hogar;122;27;29;66; -   
+         Unipersonal ;11;5;1;5; -   
+         Nuclear completo ;67;13;22;32; -   
+         Nuclear incompleto ;20;6; -   ;14; -   
+         Extendido ;23;3;6;14; -   
+         Compuesto  ;1; -   ; -   ;1; -   
+ Manjui - Varon jefe de hogar;68;15;22;31; -   
+         Unipersonal ;5;1; -   ;4; -   
+         Nuclear completo ;47;10;18;19; -   
+         Nuclear incompleto ;3;1; -   ;2; -   
+         Extendido ;13;3;4;6; -   
+         Compuesto  ; -   ; -   ; -   ; -   ; -   
+ Manjui - Mujer jefa de hogar;54;12;7;35; -   
+         Unipersonal ;6;4;1;1; -   
+         Nuclear completo ;20;3;4;13; -   
+         Nuclear incompleto ;17;5; -   ;12; -   
+         Extendido ;10; -   ;2;8; -   
+         Compuesto  ;1; -   ; -   ;1; -   
+ Ayoreo - Total jefes de hogar;851;232;588;29;2
+         Unipersonal ;143;32;109;2; -   
+         Nuclear completo ;411;134;261;14;2
+         Nuclear incompleto ;122;19;103; -   ; -   
+         Extendido ;167;45;109;13; -   
+         Compuesto  ;8;2;6; -   ; -   
+ Ayoreo - Varon jefe de hogar;563;175;368;18;2
+         Unipersonal ;93;23;70; -   ; -   
+         Nuclear completo ;303;108;184;9;2
+         Nuclear incompleto ;32;6;26; -   ; -   
+         Extendido ;131;38;84;9; -   
+         Compuesto  ;4; -   ;4; -   ; -   
+ Ayoreo - Mujer jefa de hogar;288;57;220;11; -   
+         Unipersonal ;50;9;39;2; -   
+         Nuclear completo ;108;26;77;5; -   
+         Nuclear incompleto ;90;13;77; -   ; -   
+         Extendido ;36;7;25;4; -   
+         Compuesto  ;4;2;2; -   ; -   
+ Ybytoso - Total jefe de hogar;653;269;383;1; -   
+         Unipersonal ;101;37;63;1; -   
+         Nuclear completo ;291;122;169; -   ; -   
+         Nuclear incompleto ;101;39;62; -   ; -   
+         Extendido ;153;67;86; -   ; -   
+         Compuesto  ;7;4;3; -   ; -   
+ Ybytoso - Varon jefe de hogar;318;138;179;1; -   
+         Unipersonal ;66;20;45;1; -   
+         Nuclear completo ;163;76;87; -   ; -   
+         Nuclear incompleto ;15;7;8; -   ; -   
+         Extendido ;69;31;38; -   ; -   
+         Compuesto  ;5;4;1; -   ; -   
+ Ybytoso - Mujer jefa de hogar;335;131;204; -   ; -   
+         Unipersonal ;35;17;18; -   ; -   
+         Nuclear completo ;128;46;82; -   ; -   
+         Nuclear incompleto ;86;32;54; -   ; -   
+         Extendido ;84;36;48; -   ; -   
+         Compuesto  ;2; -   ;2; -   ; -   
+ Tomaraho - Total jefes del hogar;63;23;40; -   ; -   
+         Unipersonal ;8;2;6; -   ; -   
+         Nuclear completo ;31;14;17; -   ; -   
+         Nuclear incompleto ;14;3;11; -   ; -   
+         Extendido ;10;4;6; -   ; -   
+         Compuesto  ; -   ; -   ; -   ; -   ; -   
+ Tomaraho - Varon jefe de hogar;23;9;14; -   ; -   
+         Unipersonal ;7;2;5; -   ; -   
+         Nuclear completo ;9;4;5; -   ; -   
+         Nuclear incompleto ;2;1;1; -   ; -   
+         Extendido ;5;2;3; -   ; -   
+         Compuesto  ; -   ; -   ; -   ; -   ; -   
+ Tomaraho - Mujer jefa de hogar;40;14;26; -   ; -   
+         Unipersonal ;1; -   ;1; -   ; -   
+         Nuclear completo ;22;10;12; -   ; -   
+         Nuclear incompleto ;12;2;10; -   ; -   
+         Extendido ;5;2;3; -   ; -   
+         Compuesto  ; -   ; -   ; -   ; -   ; -   
+ Qom - Total jefes de hogar;677;181;485;11; -   
+         Unipersonal ;97;17;79;1; -   
+         Nuclear completo ;285;82;198;5; -   
+         Nuclear incompleto ;160;37;121;2; -   
+         Extendido ;128;43;82;3; -   
+         Compuesto  ;7;2;5; -   ; -   
+ Qom - Varon jefe de hogar;265;60;199;6; -   
+         Unipersonal ;71;14;56;1; -   
+         Nuclear completo ;122;26;92;4; -   
+         Nuclear incompleto ;17;4;13; -   ; -   
+         Extendido ;50;15;34;1; -   
+         Compuesto  ;5;1;4; -   ; -   
+ Qom - Mujer jefa de hogar;412;121;286;5; -   
+         Unipersonal ;26;3;23; -   ; -   
+         Nuclear completo ;163;56;106;1; -   
+         Nuclear incompleto ;143;33;108;2; -   
+         Extendido ;78;28;48;2; -   
+         Compuesto  ;2;1;1; -   ; -   
+ No indigena - Total jefes del hogar;356;160;180;16; -   
+         Unipersonal ;67;37;28;2; -   
+         Nuclear completo ;237;96;129;12; -   
+         Nuclear incompleto ;17;5;11;1; -   
+         Extendido ;30;19;10;1; -   
+         Compuesto  ;5;3;2; -   ; -   
+ No indigena - Varon jefe de hogar;289;128;149;12; -   
+         Unipersonal ;49;27;21;1; -   
+         Nuclear completo ;210;83;117;10; -   
+         Nuclear incompleto ;5;1;4; -   ; -   
+         Extendido ;24;17;6;1; -   
+         Compuesto  ;1; -   ;1; -   ; -   
+ No indigena - Mujer jefa de hogar;67;32;31;4; -   
+         Unipersonal ;18;10;7;1; -   
+         Nuclear completo ;27;13;12;2; -   
+         Nuclear incompleto ;12;4;7;1; -   
+         Extendido ;6;2;4; -   ; -   
+         Compuesto  ;4;3;1; -   ; -   

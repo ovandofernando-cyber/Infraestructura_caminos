@@ -1,0 +1,186 @@
+[
+  {
+    "Distrito": "Total",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 80.154,
+    "Acceso a TIC - Televisor con pantalla plana": 58.93,
+    "Acceso a TIC - Computadora o notebook": 12.921,
+    "Acceso a TIC - Tablet o similares": 3.708,
+    "Acceso a TIC - Conexion a Internet": 37.609
+  },
+  {
+    "Distrito": "San Pedro del Ycuamandyyu",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 7.374,
+    "Acceso a TIC - Televisor con pantalla plana": 6.079,
+    "Acceso a TIC - Computadora o notebook": 1.584,
+    "Acceso a TIC - Tablet o similares": 446,
+    "Acceso a TIC - Conexion a Internet": 3.589
+  },
+  {
+    "Distrito": "Antequera",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 977,
+    "Acceso a TIC - Televisor con pantalla plana": 740,
+    "Acceso a TIC - Computadora o notebook": 187,
+    "Acceso a TIC - Tablet o similares": 58,
+    "Acceso a TIC - Conexion a Internet": 492
+  },
+  {
+    "Distrito": "Chore",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 5.175,
+    "Acceso a TIC - Televisor con pantalla plana": 3.663,
+    "Acceso a TIC - Computadora o notebook": 873,
+    "Acceso a TIC - Tablet o similares": 206,
+    "Acceso a TIC - Conexion a Internet": 3.158
+  },
+  {
+    "Distrito": "General Elizardo Aquino",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 3.998,
+    "Acceso a TIC - Televisor con pantalla plana": 3.093,
+    "Acceso a TIC - Computadora o notebook": 565,
+    "Acceso a TIC - Tablet o similares": 91,
+    "Acceso a TIC - Conexion a Internet": 1.042
+  },
+  {
+    "Distrito": "Itacurubi del Rosario",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.689,
+    "Acceso a TIC - Televisor con pantalla plana": 2.021,
+    "Acceso a TIC - Computadora o notebook": 570,
+    "Acceso a TIC - Tablet o similares": 124,
+    "Acceso a TIC - Conexion a Internet": 658
+  },
+  {
+    "Distrito": "Lima",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.206,
+    "Acceso a TIC - Televisor con pantalla plana": 1.564,
+    "Acceso a TIC - Computadora o notebook": 307,
+    "Acceso a TIC - Tablet o similares": 93,
+    "Acceso a TIC - Conexion a Internet": 1.12
+  },
+  {
+    "Distrito": "Nueva Germania",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.111,
+    "Acceso a TIC - Televisor con pantalla plana": 697,
+    "Acceso a TIC - Computadora o notebook": 172,
+    "Acceso a TIC - Tablet o similares": 64,
+    "Acceso a TIC - Conexion a Internet": 416
+  },
+  {
+    "Distrito": "San Estanislao",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 10.823,
+    "Acceso a TIC - Televisor con pantalla plana": 8.221,
+    "Acceso a TIC - Computadora o notebook": 2.548,
+    "Acceso a TIC - Tablet o similares": 814,
+    "Acceso a TIC - Conexion a Internet": 5.732
+  },
+  {
+    "Distrito": "San Pablo",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 745,
+    "Acceso a TIC - Televisor con pantalla plana": 557,
+    "Acceso a TIC - Computadora o notebook": 89,
+    "Acceso a TIC - Tablet o similares": 18,
+    "Acceso a TIC - Conexion a Internet": 211
+  },
+  {
+    "Distrito": "Tacuati",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.944,
+    "Acceso a TIC - Televisor con pantalla plana": 2.003,
+    "Acceso a TIC - Computadora o notebook": 259,
+    "Acceso a TIC - Tablet o similares": 82,
+    "Acceso a TIC - Conexion a Internet": 1.347
+  },
+  {
+    "Distrito": "Union",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.172,
+    "Acceso a TIC - Televisor con pantalla plana": 878,
+    "Acceso a TIC - Computadora o notebook": 135,
+    "Acceso a TIC - Tablet o similares": 34,
+    "Acceso a TIC - Conexion a Internet": 188
+  },
+  {
+    "Distrito": "25 de Diciembre",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.104,
+    "Acceso a TIC - Televisor con pantalla plana": 1.622,
+    "Acceso a TIC - Computadora o notebook": 266,
+    "Acceso a TIC - Tablet o similares": 92,
+    "Acceso a TIC - Conexion a Internet": 1.342
+  },
+  {
+    "Distrito": "Villa del Rosario",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.971,
+    "Acceso a TIC - Televisor con pantalla plana": 1.684,
+    "Acceso a TIC - Computadora o notebook": 332,
+    "Acceso a TIC - Tablet o similares": 80,
+    "Acceso a TIC - Conexion a Internet": 557
+  },
+  {
+    "Distrito": "General Francisco Isidoro Resquin",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.135,
+    "Acceso a TIC - Televisor con pantalla plana": 1.439,
+    "Acceso a TIC - Computadora o notebook": 338,
+    "Acceso a TIC - Tablet o similares": 97,
+    "Acceso a TIC - Conexion a Internet": 1.042
+  },
+  {
+    "Distrito": "Yataity del Norte",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.436,
+    "Acceso a TIC - Televisor con pantalla plana": 1.916,
+    "Acceso a TIC - Computadora o notebook": 351,
+    "Acceso a TIC - Tablet o similares": 89,
+    "Acceso a TIC - Conexion a Internet": 1.372
+  },
+  {
+    "Distrito": "Guajayvi",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 6.217,
+    "Acceso a TIC - Televisor con pantalla plana": 4.437,
+    "Acceso a TIC - Computadora o notebook": 852,
+    "Acceso a TIC - Tablet o similares": 247,
+    "Acceso a TIC - Conexion a Internet": 2.972
+  },
+  {
+    "Distrito": "Capiibary",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 7.055,
+    "Acceso a TIC - Televisor con pantalla plana": 4.822,
+    "Acceso a TIC - Computadora o notebook": 705,
+    "Acceso a TIC - Tablet o similares": 232,
+    "Acceso a TIC - Conexion a Internet": 3.757
+  },
+  {
+    "Distrito": "Santa Rosa del Aguaray",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 9.143,
+    "Acceso a TIC - Televisor con pantalla plana": 6.438,
+    "Acceso a TIC - Computadora o notebook": 1.639,
+    "Acceso a TIC - Tablet o similares": 527,
+    "Acceso a TIC - Conexion a Internet": 4.264
+  },
+  {
+    "Distrito": "Yrybucua",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.59,
+    "Acceso a TIC - Televisor con pantalla plana": 1.826,
+    "Acceso a TIC - Computadora o notebook": 220,
+    "Acceso a TIC - Tablet o similares": 67,
+    "Acceso a TIC - Conexion a Internet": 935
+  },
+  {
+    "Distrito": "Liberacion",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 3.992,
+    "Acceso a TIC - Televisor con pantalla plana": 2.965,
+    "Acceso a TIC - Computadora o notebook": 531,
+    "Acceso a TIC - Tablet o similares": 146,
+    "Acceso a TIC - Conexion a Internet": 2.211
+  },
+  {
+    "Distrito": "San Vicente Pancholo",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.283,
+    "Acceso a TIC - Televisor con pantalla plana": 1.491,
+    "Acceso a TIC - Computadora o notebook": 187,
+    "Acceso a TIC - Tablet o similares": 44,
+    "Acceso a TIC - Conexion a Internet": 632
+  },
+  {
+    "Distrito": "San Jose del Rosario",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.014,
+    "Acceso a TIC - Televisor con pantalla plana": 774,
+    "Acceso a TIC - Computadora o notebook": 211,
+    "Acceso a TIC - Tablet o similares": 57,
+    "Acceso a TIC - Conexion a Internet": 572
+  }
+]

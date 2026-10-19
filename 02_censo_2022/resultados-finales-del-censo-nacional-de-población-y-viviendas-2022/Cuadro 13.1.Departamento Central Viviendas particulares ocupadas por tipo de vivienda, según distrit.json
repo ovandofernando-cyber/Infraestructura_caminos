@@ -1,0 +1,202 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 505.449,
+    "Tipo de vivienda - Casa": 445.636,
+    "Tipo de vivienda - Rancho": 16.118,
+    "Tipo de vivienda - Departamento o piso": 12.332,
+    "Tipo de vivienda - Pieza de inquilinato": 26.004,
+    "Tipo de vivienda - Improvisada": 2.362,
+    "Tipo de vivienda - Otro": 2.997
+  },
+  {
+    "Distrito": "Aregua",
+    "Total": 19.001,
+    "Tipo de vivienda - Casa": 17.13,
+    "Tipo de vivienda - Rancho": 1.079,
+    "Tipo de vivienda - Departamento o piso": 35,
+    "Tipo de vivienda - Pieza de inquilinato": 417,
+    "Tipo de vivienda - Improvisada": 161,
+    "Tipo de vivienda - Otro": 179
+  },
+  {
+    "Distrito": "Capiata",
+    "Total": 63.236,
+    "Tipo de vivienda - Casa": 57.498,
+    "Tipo de vivienda - Rancho": 1.499,
+    "Tipo de vivienda - Departamento o piso": 545,
+    "Tipo de vivienda - Pieza de inquilinato": 3.137,
+    "Tipo de vivienda - Improvisada": 178,
+    "Tipo de vivienda - Otro": 379
+  },
+  {
+    "Distrito": "Fernando de la Mora",
+    "Total": 30.644,
+    "Tipo de vivienda - Casa": 24.165,
+    "Tipo de vivienda - Rancho": 201,
+    "Tipo de vivienda - Departamento o piso": 3.231,
+    "Tipo de vivienda - Pieza de inquilinato": 2.898,
+    "Tipo de vivienda - Improvisada": 26,
+    "Tipo de vivienda - Otro": 123
+  },
+  {
+    "Distrito": "Guarambare",
+    "Total": 7.359,
+    "Tipo de vivienda - Casa": 6.683,
+    "Tipo de vivienda - Rancho": 400,
+    "Tipo de vivienda - Departamento o piso": 26,
+    "Tipo de vivienda - Pieza de inquilinato": 171,
+    "Tipo de vivienda - Improvisada": 52,
+    "Tipo de vivienda - Otro": 27
+  },
+  {
+    "Distrito": "Ita",
+    "Total": 19.629,
+    "Tipo de vivienda - Casa": 18.122,
+    "Tipo de vivienda - Rancho": 959,
+    "Tipo de vivienda - Departamento o piso": 54,
+    "Tipo de vivienda - Pieza de inquilinato": 265,
+    "Tipo de vivienda - Improvisada": 120,
+    "Tipo de vivienda - Otro": 109
+  },
+  {
+    "Distrito": "Itaugua",
+    "Total": 26.204,
+    "Tipo de vivienda - Casa": 24.12,
+    "Tipo de vivienda - Rancho": 1.091,
+    "Tipo de vivienda - Departamento o piso": 139,
+    "Tipo de vivienda - Pieza de inquilinato": 584,
+    "Tipo de vivienda - Improvisada": 159,
+    "Tipo de vivienda - Otro": 111
+  },
+  {
+    "Distrito": "Lambare",
+    "Total": 33.656,
+    "Tipo de vivienda - Casa": 29.041,
+    "Tipo de vivienda - Rancho": 320,
+    "Tipo de vivienda - Departamento o piso": 1.563,
+    "Tipo de vivienda - Pieza de inquilinato": 2.561,
+    "Tipo de vivienda - Improvisada": 33,
+    "Tipo de vivienda - Otro": 138
+  },
+  {
+    "Distrito": "Limpio",
+    "Total": 37.502,
+    "Tipo de vivienda - Casa": 33.034,
+    "Tipo de vivienda - Rancho": 2.317,
+    "Tipo de vivienda - Departamento o piso": 151,
+    "Tipo de vivienda - Pieza de inquilinato": 1.357,
+    "Tipo de vivienda - Improvisada": 343,
+    "Tipo de vivienda - Otro": 300
+  },
+  {
+    "Distrito": "Luque",
+    "Total": 68.336,
+    "Tipo de vivienda - Casa": 60.816,
+    "Tipo de vivienda - Rancho": 2.771,
+    "Tipo de vivienda - Departamento o piso": 1.346,
+    "Tipo de vivienda - Pieza de inquilinato": 2.603,
+    "Tipo de vivienda - Improvisada": 380,
+    "Tipo de vivienda - Otro": 420
+  },
+  {
+    "Distrito": "Mariano Roque Alonso",
+    "Total": 22.084,
+    "Tipo de vivienda - Casa": 19.289,
+    "Tipo de vivienda - Rancho": 453,
+    "Tipo de vivienda - Departamento o piso": 772,
+    "Tipo de vivienda - Pieza de inquilinato": 1.377,
+    "Tipo de vivienda - Improvisada": 79,
+    "Tipo de vivienda - Otro": 114
+  },
+  {
+    "Distrito": "Nueva Italia",
+    "Total": 2.896,
+    "Tipo de vivienda - Casa": 2.68,
+    "Tipo de vivienda - Rancho": 135,
+    "Tipo de vivienda - Departamento o piso": 1,
+    "Tipo de vivienda - Pieza de inquilinato": 57,
+    "Tipo de vivienda - Improvisada": 20,
+    "Tipo de vivienda - Otro": 3
+  },
+  {
+    "Distrito": "Nemby",
+    "Total": 30.183,
+    "Tipo de vivienda - Casa": 26.827,
+    "Tipo de vivienda - Rancho": 443,
+    "Tipo de vivienda - Departamento o piso": 403,
+    "Tipo de vivienda - Pieza de inquilinato": 2.268,
+    "Tipo de vivienda - Improvisada": 64,
+    "Tipo de vivienda - Otro": 178
+  },
+  {
+    "Distrito": "San Antonio",
+    "Total": 15.16,
+    "Tipo de vivienda - Casa": 13.666,
+    "Tipo de vivienda - Rancho": 456,
+    "Tipo de vivienda - Departamento o piso": 58,
+    "Tipo de vivienda - Pieza de inquilinato": 831,
+    "Tipo de vivienda - Improvisada": 45,
+    "Tipo de vivienda - Otro": 104
+  },
+  {
+    "Distrito": "San Lorenzo",
+    "Total": 60.769,
+    "Tipo de vivienda - Casa": 51.716,
+    "Tipo de vivienda - Rancho": 643,
+    "Tipo de vivienda - Departamento o piso": 3.287,
+    "Tipo de vivienda - Pieza de inquilinato": 4.7,
+    "Tipo de vivienda - Improvisada": 83,
+    "Tipo de vivienda - Otro": 340
+  },
+  {
+    "Distrito": "Villa Elisa",
+    "Total": 18.546,
+    "Tipo de vivienda - Casa": 16.403,
+    "Tipo de vivienda - Rancho": 236,
+    "Tipo de vivienda - Departamento o piso": 540,
+    "Tipo de vivienda - Pieza de inquilinato": 1.244,
+    "Tipo de vivienda - Improvisada": 37,
+    "Tipo de vivienda - Otro": 86
+  },
+  {
+    "Distrito": "Villeta",
+    "Total": 10.155,
+    "Tipo de vivienda - Casa": 8.895,
+    "Tipo de vivienda - Rancho": 700,
+    "Tipo de vivienda - Departamento o piso": 47,
+    "Tipo de vivienda - Pieza de inquilinato": 261,
+    "Tipo de vivienda - Improvisada": 214,
+    "Tipo de vivienda - Otro": 38
+  },
+  {
+    "Distrito": "Ypacarai",
+    "Total": 5.876,
+    "Tipo de vivienda - Casa": 5.57,
+    "Tipo de vivienda - Rancho": 140,
+    "Tipo de vivienda - Departamento o piso": 28,
+    "Tipo de vivienda - Pieza de inquilinato": 81,
+    "Tipo de vivienda - Improvisada": 30,
+    "Tipo de vivienda - Otro": 27
+  },
+  {
+    "Distrito": "Ypane",
+    "Total": 18.021,
+    "Tipo de vivienda - Casa": 15.523,
+    "Tipo de vivienda - Rancho": 1.429,
+    "Tipo de vivienda - Departamento o piso": 61,
+    "Tipo de vivienda - Pieza de inquilinato": 606,
+    "Tipo de vivienda - Improvisada": 237,
+    "Tipo de vivienda - Otro": 165
+  },
+  {
+    "Distrito": "J. Augusto Saldivar",
+    "Total": 16.192,
+    "Tipo de vivienda - Casa": 14.458,
+    "Tipo de vivienda - Rancho": 846,
+    "Tipo de vivienda - Departamento o piso": 45,
+    "Tipo de vivienda - Pieza de inquilinato": 586,
+    "Tipo de vivienda - Improvisada": 101,
+    "Tipo de vivienda - Otro": 156
+  }
+]

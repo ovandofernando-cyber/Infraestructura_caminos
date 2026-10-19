@@ -1,0 +1,52 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 20.317,
+    "Tipo de vivienda - Casa": 14.069,
+    "Tipo de vivienda - Rancho": 4.253,
+    "Tipo de vivienda - Departamento o piso": 44,
+    "Tipo de vivienda - Pieza de inquilinato": 1.334,
+    "Tipo de vivienda - Improvisada": 451,
+    "Tipo de vivienda - Otro": 166
+  },
+  {
+    "Distrito": "Mariscal Jose Felix Estigarribia",
+    "Total": 3.404,
+    "Tipo de vivienda - Casa": 2.327,
+    "Tipo de vivienda - Rancho": 789,
+    "Tipo de vivienda - Departamento o piso": 3,
+    "Tipo de vivienda - Pieza de inquilinato": 52,
+    "Tipo de vivienda - Improvisada": 211,
+    "Tipo de vivienda - Otro": 22
+  },
+  {
+    "Distrito": "Filadelfia",
+    "Total": 6.061,
+    "Tipo de vivienda - Casa": 4.433,
+    "Tipo de vivienda - Rancho": 955,
+    "Tipo de vivienda - Departamento o piso": 21,
+    "Tipo de vivienda - Pieza de inquilinato": 558,
+    "Tipo de vivienda - Improvisada": 51,
+    "Tipo de vivienda - Otro": 43
+  },
+  {
+    "Distrito": "Loma Plata",
+    "Total": 6.289,
+    "Tipo de vivienda - Casa": 4.475,
+    "Tipo de vivienda - Rancho": 1.08,
+    "Tipo de vivienda - Departamento o piso": 20,
+    "Tipo de vivienda - Pieza de inquilinato": 576,
+    "Tipo de vivienda - Improvisada": 75,
+    "Tipo de vivienda - Otro": 63
+  },
+  {
+    "Distrito": "Boqueron",
+    "Total": 4.563,
+    "Tipo de vivienda - Casa": 2.834,
+    "Tipo de vivienda - Rancho": 1.429,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 148,
+    "Tipo de vivienda - Improvisada": 114,
+    "Tipo de vivienda - Otro": 38
+  }
+]

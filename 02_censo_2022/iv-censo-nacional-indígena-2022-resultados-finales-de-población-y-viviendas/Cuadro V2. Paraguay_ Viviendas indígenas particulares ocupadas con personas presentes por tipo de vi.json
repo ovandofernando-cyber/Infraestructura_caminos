@@ -1,0 +1,5378 @@
+[
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Total pais",
+    "Total": 37.096,
+    "Tipo de vivienda  -  Casa": 11.716,
+    "Tipo de vivienda  -  Rancho": 23.603,
+    "Tipo de vivienda  -  Improvisada": 1.727,
+    "Tipo de vivienda  -  Galpon": 50
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 15.088,
+    "Tipo de vivienda  -  Casa": 7.769,
+    "Tipo de vivienda  -  Rancho": 7.304,
+    "Tipo de vivienda  -  Improvisada": 15,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 9.528,
+    "Tipo de vivienda  -  Casa": 996,
+    "Tipo de vivienda  -  Rancho": 8.398,
+    "Tipo de vivienda  -  Improvisada": 134,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 5.656,
+    "Tipo de vivienda  -  Casa": 93,
+    "Tipo de vivienda  -  Rancho": 5.394,
+    "Tipo de vivienda  -  Improvisada": 169,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 634,
+    "Tipo de vivienda  -  Casa": 72,
+    "Tipo de vivienda  -  Rancho": 550,
+    "Tipo de vivienda  -  Improvisada": 12,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 350,
+    "Tipo de vivienda  -  Casa": 348,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 1.897,
+    "Tipo de vivienda  -  Casa": 148,
+    "Tipo de vivienda  -  Rancho": 1.724,
+    "Tipo de vivienda  -  Improvisada": 25,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 1.317,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1.317,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 67,
+    "Tipo de vivienda  -  Casa": 63,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 1.12,
+    "Tipo de vivienda  -  Casa": 1.112,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 8,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 322,
+    "Tipo de vivienda  -  Casa": 74,
+    "Tipo de vivienda  -  Rancho": 233,
+    "Tipo de vivienda  -  Improvisada": 15,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": 52,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": 50
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 1.065,
+    "Tipo de vivienda  -  Casa": 1.041,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 24,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 21.581,
+    "Tipo de vivienda  -  Casa": 3.104,
+    "Tipo de vivienda  -  Rancho": 16.772,
+    "Tipo de vivienda  -  Improvisada": 1.679,
+    "Tipo de vivienda  -  Galpon": 26
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 334,
+    "Tipo de vivienda  -  Casa": 105,
+    "Tipo de vivienda  -  Rancho": 224,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 4.432,
+    "Tipo de vivienda  -  Casa": 503,
+    "Tipo de vivienda  -  Rancho": 3.918,
+    "Tipo de vivienda  -  Improvisada": 11,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 4.18,
+    "Tipo de vivienda  -  Casa": 1.495,
+    "Tipo de vivienda  -  Rancho": 2.675,
+    "Tipo de vivienda  -  Improvisada": 10,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 5.278,
+    "Tipo de vivienda  -  Casa": 5.275,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 188,
+    "Tipo de vivienda  -  Casa": 156,
+    "Tipo de vivienda  -  Rancho": 14,
+    "Tipo de vivienda  -  Improvisada": 10,
+    "Tipo de vivienda  -  Galpon": 8
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 1.103,
+    "Tipo de vivienda  -  Casa": 1.078,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": 16
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 1.841,
+    "Tipo de vivienda  -  Casa": 1.57,
+    "Tipo de vivienda  -  Rancho": 263,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 8
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 8.356,
+    "Tipo de vivienda  -  Casa": 164,
+    "Tipo de vivienda  -  Rancho": 7.968,
+    "Tipo de vivienda  -  Improvisada": 223,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 1.819,
+    "Tipo de vivienda  -  Casa": 668,
+    "Tipo de vivienda  -  Rancho": 1.119,
+    "Tipo de vivienda  -  Improvisada": 31,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 21.954,
+    "Tipo de vivienda  -  Casa": 7.81,
+    "Tipo de vivienda  -  Rancho": 13.57,
+    "Tipo de vivienda  -  Improvisada": 562,
+    "Tipo de vivienda  -  Galpon": 12
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 117,
+    "Tipo de vivienda  -  Casa": 36,
+    "Tipo de vivienda  -  Rancho": 76,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 234,
+    "Tipo de vivienda  -  Casa": 22,
+    "Tipo de vivienda  -  Rancho": 205,
+    "Tipo de vivienda  -  Improvisada": 7,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 870,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 870,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 605,
+    "Tipo de vivienda  -  Casa": 179,
+    "Tipo de vivienda  -  Rancho": 402,
+    "Tipo de vivienda  -  Improvisada": 18,
+    "Tipo de vivienda  -  Galpon": 6
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 1.3,
+    "Tipo de vivienda  -  Casa": 1.267,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 11,
+    "Tipo de vivienda  -  Galpon": 22
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ache",
+    "Total": 536,
+    "Tipo de vivienda  -  Casa": 380,
+    "Tipo de vivienda  -  Rancho": 155,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 418,
+    "Tipo de vivienda  -  Casa": 348,
+    "Tipo de vivienda  -  Rancho": 70,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 106,
+    "Tipo de vivienda  -  Casa": 26,
+    "Tipo de vivienda  -  Rancho": 80,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 57,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 54,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 24,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 18,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 100,
+    "Tipo de vivienda  -  Casa": 20,
+    "Tipo de vivienda  -  Rancho": 80,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 347,
+    "Tipo de vivienda  -  Casa": 347,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 98,
+    "Tipo de vivienda  -  Casa": 97,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 28,
+    "Tipo de vivienda  -  Casa": 20,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 397,
+    "Tipo de vivienda  -  Casa": 255,
+    "Tipo de vivienda  -  Rancho": 141,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ava Guarani",
+    "Total": 6.989,
+    "Tipo de vivienda  -  Casa": 2.411,
+    "Tipo de vivienda  -  Rancho": 4.188,
+    "Tipo de vivienda  -  Improvisada": 387,
+    "Tipo de vivienda  -  Galpon": 3
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 2.329,
+    "Tipo de vivienda  -  Casa": 1.685,
+    "Tipo de vivienda  -  Rancho": 642,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 3.252,
+    "Tipo de vivienda  -  Casa": 388,
+    "Tipo de vivienda  -  Rancho": 2.808,
+    "Tipo de vivienda  -  Improvisada": 56,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 644,
+    "Tipo de vivienda  -  Casa": 14,
+    "Tipo de vivienda  -  Rancho": 596,
+    "Tipo de vivienda  -  Improvisada": 34,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 54,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 47,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 134,
+    "Tipo de vivienda  -  Casa": 134,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 100,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": 89,
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 277,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 277,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 35,
+    "Tipo de vivienda  -  Casa": 35,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 29,
+    "Tipo de vivienda  -  Casa": 28,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": 3
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 123,
+    "Tipo de vivienda  -  Casa": 119,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 4.039,
+    "Tipo de vivienda  -  Casa": 315,
+    "Tipo de vivienda  -  Rancho": 3.342,
+    "Tipo de vivienda  -  Improvisada": 380,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 77,
+    "Tipo de vivienda  -  Casa": 25,
+    "Tipo de vivienda  -  Rancho": 52,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 397,
+    "Tipo de vivienda  -  Casa": 86,
+    "Tipo de vivienda  -  Rancho": 311,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 884,
+    "Tipo de vivienda  -  Casa": 401,
+    "Tipo de vivienda  -  Rancho": 482,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 1.443,
+    "Tipo de vivienda  -  Casa": 1.443,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 142,
+    "Tipo de vivienda  -  Casa": 137,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 416,
+    "Tipo de vivienda  -  Casa": 370,
+    "Tipo de vivienda  -  Rancho": 46,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 1.926,
+    "Tipo de vivienda  -  Casa": 31,
+    "Tipo de vivienda  -  Rancho": 1.803,
+    "Tipo de vivienda  -  Improvisada": 91,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 1.088,
+    "Tipo de vivienda  -  Casa": 426,
+    "Tipo de vivienda  -  Rancho": 648,
+    "Tipo de vivienda  -  Improvisada": 13,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 3.099,
+    "Tipo de vivienda  -  Casa": 1.438,
+    "Tipo de vivienda  -  Rancho": 1.635,
+    "Tipo de vivienda  -  Improvisada": 26,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 13,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 11,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 31,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 28,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 249,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 249,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 25,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 17,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 142,
+    "Tipo de vivienda  -  Casa": 139,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Mbya Guarani",
+    "Total": 7.369,
+    "Tipo de vivienda  -  Casa": 1.388,
+    "Tipo de vivienda  -  Rancho": 5.57,
+    "Tipo de vivienda  -  Improvisada": 410,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 1.828,
+    "Tipo de vivienda  -  Casa": 950,
+    "Tipo de vivienda  -  Rancho": 873,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 2.422,
+    "Tipo de vivienda  -  Casa": 162,
+    "Tipo de vivienda  -  Rancho": 2.215,
+    "Tipo de vivienda  -  Improvisada": 45,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 1.865,
+    "Tipo de vivienda  -  Casa": 27,
+    "Tipo de vivienda  -  Rancho": 1.737,
+    "Tipo de vivienda  -  Improvisada": 101,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 231,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 221,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 45,
+    "Tipo de vivienda  -  Casa": 44,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 422,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 410,
+    "Tipo de vivienda  -  Improvisada": 8,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 226,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 226,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": 9,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 26,
+    "Tipo de vivienda  -  Casa": 23,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 144,
+    "Tipo de vivienda  -  Casa": 20,
+    "Tipo de vivienda  -  Rancho": 114,
+    "Tipo de vivienda  -  Improvisada": 10,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 149,
+    "Tipo de vivienda  -  Casa": 143,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 5.338,
+    "Tipo de vivienda  -  Casa": 259,
+    "Tipo de vivienda  -  Rancho": 4.674,
+    "Tipo de vivienda  -  Improvisada": 404,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 82,
+    "Tipo de vivienda  -  Casa": 22,
+    "Tipo de vivienda  -  Rancho": 60,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 572,
+    "Tipo de vivienda  -  Casa": 98,
+    "Tipo de vivienda  -  Rancho": 474,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 562,
+    "Tipo de vivienda  -  Casa": 203,
+    "Tipo de vivienda  -  Rancho": 358,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 611,
+    "Tipo de vivienda  -  Casa": 611,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 52,
+    "Tipo de vivienda  -  Casa": 44,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 152,
+    "Tipo de vivienda  -  Casa": 151,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 326,
+    "Tipo de vivienda  -  Casa": 261,
+    "Tipo de vivienda  -  Rancho": 65,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 3.419,
+    "Tipo de vivienda  -  Casa": 60,
+    "Tipo de vivienda  -  Rancho": 3.266,
+    "Tipo de vivienda  -  Improvisada": 93,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 242,
+    "Tipo de vivienda  -  Casa": 100,
+    "Tipo de vivienda  -  Rancho": 140,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 2.424,
+    "Tipo de vivienda  -  Casa": 726,
+    "Tipo de vivienda  -  Rancho": 1.689,
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 44,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 42,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 30,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 27,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 294,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 294,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 416,
+    "Tipo de vivienda  -  Casa": 68,
+    "Tipo de vivienda  -  Rancho": 341,
+    "Tipo de vivienda  -  Improvisada": 7,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 174,
+    "Tipo de vivienda  -  Casa": 170,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Pai Tavytera",
+    "Total": 4.835,
+    "Tipo de vivienda  -  Casa": 829,
+    "Tipo de vivienda  -  Rancho": 3.777,
+    "Tipo de vivienda  -  Improvisada": 228,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 661,
+    "Tipo de vivienda  -  Casa": 493,
+    "Tipo de vivienda  -  Rancho": 167,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 1.375,
+    "Tipo de vivienda  -  Casa": 150,
+    "Tipo de vivienda  -  Rancho": 1.216,
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 2.183,
+    "Tipo de vivienda  -  Casa": 28,
+    "Tipo de vivienda  -  Rancho": 2.128,
+    "Tipo de vivienda  -  Improvisada": 27,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 132,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": 124,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 25,
+    "Tipo de vivienda  -  Casa": 25,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 87,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": 79,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 180,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 180,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 25,
+    "Tipo de vivienda  -  Casa": 24,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 78,
+    "Tipo de vivienda  -  Casa": 14,
+    "Tipo de vivienda  -  Rancho": 63,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 80,
+    "Tipo de vivienda  -  Casa": 77,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 4.048,
+    "Tipo de vivienda  -  Casa": 234,
+    "Tipo de vivienda  -  Rancho": 3.59,
+    "Tipo de vivienda  -  Improvisada": 224,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 18,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": 10,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 110,
+    "Tipo de vivienda  -  Casa": 47,
+    "Tipo de vivienda  -  Rancho": 63,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 214,
+    "Tipo de vivienda  -  Casa": 103,
+    "Tipo de vivienda  -  Rancho": 111,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 321,
+    "Tipo de vivienda  -  Casa": 319,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 23,
+    "Tipo de vivienda  -  Casa": 18,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 101,
+    "Tipo de vivienda  -  Casa": 101,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 154,
+    "Tipo de vivienda  -  Casa": 131,
+    "Tipo de vivienda  -  Rancho": 23,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 2.887,
+    "Tipo de vivienda  -  Casa": 57,
+    "Tipo de vivienda  -  Rancho": 2.795,
+    "Tipo de vivienda  -  Improvisada": 35,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 312,
+    "Tipo de vivienda  -  Casa": 92,
+    "Tipo de vivienda  -  Rancho": 208,
+    "Tipo de vivienda  -  Improvisada": 12,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 1.208,
+    "Tipo de vivienda  -  Casa": 459,
+    "Tipo de vivienda  -  Rancho": 723,
+    "Tipo de vivienda  -  Improvisada": 26,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 22,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 17,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 152,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 152,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 12,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 85,
+    "Tipo de vivienda  -  Casa": 84,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Guarani Occidental/Pueblo Guarani",
+    "Total": 939,
+    "Tipo de vivienda  -  Casa": 490,
+    "Tipo de vivienda  -  Rancho": 428,
+    "Tipo de vivienda  -  Improvisada": 19,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 696,
+    "Tipo de vivienda  -  Casa": 410,
+    "Tipo de vivienda  -  Rancho": 286,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 130,
+    "Tipo de vivienda  -  Casa": 15,
+    "Tipo de vivienda  -  Rancho": 113,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 12,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 21,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 17,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 13,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 13,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 17,
+    "Tipo de vivienda  -  Casa": 17,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 44,
+    "Tipo de vivienda  -  Casa": 44,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 295,
+    "Tipo de vivienda  -  Casa": 99,
+    "Tipo de vivienda  -  Rancho": 175,
+    "Tipo de vivienda  -  Improvisada": 19,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 107,
+    "Tipo de vivienda  -  Casa": 31,
+    "Tipo de vivienda  -  Rancho": 76,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 313,
+    "Tipo de vivienda  -  Casa": 140,
+    "Tipo de vivienda  -  Rancho": 173,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 172,
+    "Tipo de vivienda  -  Casa": 172,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 44,
+    "Tipo de vivienda  -  Casa": 44,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 91,
+    "Tipo de vivienda  -  Casa": 90,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 13,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 13,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 15,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 12,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 759,
+    "Tipo de vivienda  -  Casa": 346,
+    "Tipo de vivienda  -  Rancho": 401,
+    "Tipo de vivienda  -  Improvisada": 10,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 8,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 47,
+    "Tipo de vivienda  -  Casa": 47,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Guarani �andeva",
+    "Total": 795,
+    "Tipo de vivienda  -  Casa": 440,
+    "Tipo de vivienda  -  Rancho": 311,
+    "Tipo de vivienda  -  Improvisada": 42,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 538,
+    "Tipo de vivienda  -  Casa": 291,
+    "Tipo de vivienda  -  Rancho": 247,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 65,
+    "Tipo de vivienda  -  Casa": 9,
+    "Tipo de vivienda  -  Rancho": 55,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 13,
+    "Tipo de vivienda  -  Casa": 13,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 40,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 40,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 107,
+    "Tipo de vivienda  -  Casa": 107,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 13,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 335,
+    "Tipo de vivienda  -  Casa": 158,
+    "Tipo de vivienda  -  Rancho": 137,
+    "Tipo de vivienda  -  Improvisada": 40,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 93,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 90,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 105,
+    "Tipo de vivienda  -  Casa": 22,
+    "Tipo de vivienda  -  Rancho": 82,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 235,
+    "Tipo de vivienda  -  Casa": 235,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 18,
+    "Tipo de vivienda  -  Casa": 17,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 9,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 746,
+    "Tipo de vivienda  -  Casa": 410,
+    "Tipo de vivienda  -  Rancho": 306,
+    "Tipo de vivienda  -  Improvisada": 30,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 12,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 12,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 17,
+    "Tipo de vivienda  -  Casa": 17,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Enlhet Norte",
+    "Total": 2.625,
+    "Tipo de vivienda  -  Casa": 769,
+    "Tipo de vivienda  -  Rancho": 1.722,
+    "Tipo de vivienda  -  Improvisada": 112,
+    "Tipo de vivienda  -  Galpon": 22
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 1.698,
+    "Tipo de vivienda  -  Casa": 414,
+    "Tipo de vivienda  -  Rancho": 1.284,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 453,
+    "Tipo de vivienda  -  Casa": 60,
+    "Tipo de vivienda  -  Rancho": 386,
+    "Tipo de vivienda  -  Improvisada": 7,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 15,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 13,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 33,
+    "Tipo de vivienda  -  Casa": 11,
+    "Tipo de vivienda  -  Rancho": 22,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 19,
+    "Tipo de vivienda  -  Casa": 19,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 13,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 100,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 100,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 148,
+    "Tipo de vivienda  -  Casa": 147,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": 23,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": 22
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 111,
+    "Tipo de vivienda  -  Casa": 109,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 1.246,
+    "Tipo de vivienda  -  Casa": 425,
+    "Tipo de vivienda  -  Rancho": 704,
+    "Tipo de vivienda  -  Improvisada": 107,
+    "Tipo de vivienda  -  Galpon": 10
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 43,
+    "Tipo de vivienda  -  Casa": 10,
+    "Tipo de vivienda  -  Rancho": 31,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 698,
+    "Tipo de vivienda  -  Casa": 72,
+    "Tipo de vivienda  -  Rancho": 625,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 459,
+    "Tipo de vivienda  -  Casa": 97,
+    "Tipo de vivienda  -  Rancho": 362,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 66,
+    "Tipo de vivienda  -  Casa": 66,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 16,
+    "Tipo de vivienda  -  Casa": 10,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": 5
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 97,
+    "Tipo de vivienda  -  Casa": 89,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": 7
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 52,
+    "Tipo de vivienda  -  Casa": 38,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 6
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 21,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 15,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 2.287,
+    "Tipo de vivienda  -  Casa": 518,
+    "Tipo de vivienda  -  Rancho": 1.686,
+    "Tipo de vivienda  -  Improvisada": 79,
+    "Tipo de vivienda  -  Galpon": 4
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 9,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 24,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 24,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 23,
+    "Tipo de vivienda  -  Casa": 15,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": 3
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 200,
+    "Tipo de vivienda  -  Casa": 187,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": 9
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Enxet Sur",
+    "Total": 2.335,
+    "Tipo de vivienda  -  Casa": 832,
+    "Tipo de vivienda  -  Rancho": 1.438,
+    "Tipo de vivienda  -  Improvisada": 60,
+    "Tipo de vivienda  -  Galpon": 5
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 1.252,
+    "Tipo de vivienda  -  Casa": 618,
+    "Tipo de vivienda  -  Rancho": 634,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 367,
+    "Tipo de vivienda  -  Casa": 26,
+    "Tipo de vivienda  -  Rancho": 340,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 191,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": 184,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 16,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 14,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 64,
+    "Tipo de vivienda  -  Casa": 64,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 282,
+    "Tipo de vivienda  -  Casa": 19,
+    "Tipo de vivienda  -  Rancho": 261,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 55,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 55,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 49,
+    "Tipo de vivienda  -  Casa": 49,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 5
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 49,
+    "Tipo de vivienda  -  Casa": 47,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 1.058,
+    "Tipo de vivienda  -  Casa": 145,
+    "Tipo de vivienda  -  Rancho": 853,
+    "Tipo de vivienda  -  Improvisada": 59,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 475,
+    "Tipo de vivienda  -  Casa": 29,
+    "Tipo de vivienda  -  Rancho": 446,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 195,
+    "Tipo de vivienda  -  Casa": 61,
+    "Tipo de vivienda  -  Rancho": 133,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 548,
+    "Tipo de vivienda  -  Casa": 548,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 45,
+    "Tipo de vivienda  -  Casa": 41,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 4
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 80,
+    "Tipo de vivienda  -  Casa": 48,
+    "Tipo de vivienda  -  Rancho": 32,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 35,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 32,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 2.062,
+    "Tipo de vivienda  -  Casa": 701,
+    "Tipo de vivienda  -  Rancho": 1.308,
+    "Tipo de vivienda  -  Improvisada": 52,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 40,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 38,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 7,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 33,
+    "Tipo de vivienda  -  Casa": 13,
+    "Tipo de vivienda  -  Rancho": 20,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 69,
+    "Tipo de vivienda  -  Casa": 65,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 4
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Sanapana",
+    "Total": 839,
+    "Tipo de vivienda  -  Casa": 311,
+    "Tipo de vivienda  -  Rancho": 472,
+    "Tipo de vivienda  -  Improvisada": 52,
+    "Tipo de vivienda  -  Galpon": 4
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 366,
+    "Tipo de vivienda  -  Casa": 151,
+    "Tipo de vivienda  -  Rancho": 215,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 81,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": 76,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 146,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 143,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 40,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": 35,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 50,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 50,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 135,
+    "Tipo de vivienda  -  Casa": 135,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 4
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": 10,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 472,
+    "Tipo de vivienda  -  Casa": 151,
+    "Tipo de vivienda  -  Rancho": 266,
+    "Tipo de vivienda  -  Improvisada": 51,
+    "Tipo de vivienda  -  Galpon": 4
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 152,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": 144,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 70,
+    "Tipo de vivienda  -  Casa": 10,
+    "Tipo de vivienda  -  Rancho": 60,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 128,
+    "Tipo de vivienda  -  Casa": 128,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 13,
+    "Tipo de vivienda  -  Casa": 12,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 22,
+    "Tipo de vivienda  -  Casa": 17,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 791,
+    "Tipo de vivienda  -  Casa": 280,
+    "Tipo de vivienda  -  Rancho": 465,
+    "Tipo de vivienda  -  Improvisada": 46,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 11,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 3
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Sanapana",
+    "Total": 1.803,
+    "Tipo de vivienda  -  Casa": 480,
+    "Tipo de vivienda  -  Rancho": 1.287,
+    "Tipo de vivienda  -  Improvisada": 36,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 710,
+    "Tipo de vivienda  -  Casa": 286,
+    "Tipo de vivienda  -  Rancho": 424,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 283,
+    "Tipo de vivienda  -  Casa": 19,
+    "Tipo de vivienda  -  Rancho": 263,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 358,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": 349,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 312,
+    "Tipo de vivienda  -  Casa": 56,
+    "Tipo de vivienda  -  Rancho": 250,
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 27,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 27,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 53,
+    "Tipo de vivienda  -  Casa": 53,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 54,
+    "Tipo de vivienda  -  Casa": 53,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 1.079,
+    "Tipo de vivienda  -  Casa": 151,
+    "Tipo de vivienda  -  Rancho": 892,
+    "Tipo de vivienda  -  Improvisada": 36,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 333,
+    "Tipo de vivienda  -  Casa": 11,
+    "Tipo de vivienda  -  Rancho": 322,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 88,
+    "Tipo de vivienda  -  Casa": 19,
+    "Tipo de vivienda  -  Rancho": 69,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 246,
+    "Tipo de vivienda  -  Casa": 246,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 44,
+    "Tipo de vivienda  -  Casa": 44,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 113,
+    "Tipo de vivienda  -  Casa": 80,
+    "Tipo de vivienda  -  Rancho": 33,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 15,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 12,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 1.568,
+    "Tipo de vivienda  -  Casa": 337,
+    "Tipo de vivienda  -  Rancho": 1.206,
+    "Tipo de vivienda  -  Improvisada": 25,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 37,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 33,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 10,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 52,
+    "Tipo de vivienda  -  Casa": 52,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Guana",
+    "Total": 155,
+    "Tipo de vivienda  -  Casa": 61,
+    "Tipo de vivienda  -  Rancho": 94,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 71,
+    "Tipo de vivienda  -  Casa": 23,
+    "Tipo de vivienda  -  Rancho": 48,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 27,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 27,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 24,
+    "Tipo de vivienda  -  Casa": 24,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 10,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 49,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": 44,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 25,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 21,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 63,
+    "Tipo de vivienda  -  Casa": 35,
+    "Tipo de vivienda  -  Rancho": 28,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 9,
+    "Tipo de vivienda  -  Casa": 9,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 20,
+    "Tipo de vivienda  -  Casa": 18,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 122,
+    "Tipo de vivienda  -  Casa": 36,
+    "Tipo de vivienda  -  Rancho": 86,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Toba Maskoy/Toba Enenlhet",
+    "Total": 658,
+    "Tipo de vivienda  -  Casa": 341,
+    "Tipo de vivienda  -  Rancho": 283,
+    "Tipo de vivienda  -  Improvisada": 34,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 187,
+    "Tipo de vivienda  -  Casa": 53,
+    "Tipo de vivienda  -  Rancho": 131,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 83,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 75,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 46,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 45,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 28,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 28,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 26,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 26,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 257,
+    "Tipo de vivienda  -  Casa": 257,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 22,
+    "Tipo de vivienda  -  Casa": 21,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 458,
+    "Tipo de vivienda  -  Casa": 271,
+    "Tipo de vivienda  -  Rancho": 160,
+    "Tipo de vivienda  -  Improvisada": 27,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 88,
+    "Tipo de vivienda  -  Casa": 13,
+    "Tipo de vivienda  -  Rancho": 74,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 61,
+    "Tipo de vivienda  -  Casa": 11,
+    "Tipo de vivienda  -  Rancho": 46,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": 9,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 33,
+    "Tipo de vivienda  -  Casa": 33,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 571,
+    "Tipo de vivienda  -  Casa": 287,
+    "Tipo de vivienda  -  Rancho": 266,
+    "Tipo de vivienda  -  Improvisada": 18,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 14,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 39,
+    "Tipo de vivienda  -  Casa": 39,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Nivacle",
+    "Total": 4.031,
+    "Tipo de vivienda  -  Casa": 1.752,
+    "Tipo de vivienda  -  Rancho": 2.06,
+    "Tipo de vivienda  -  Improvisada": 211,
+    "Tipo de vivienda  -  Galpon": 8
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 2.927,
+    "Tipo de vivienda  -  Casa": 1.219,
+    "Tipo de vivienda  -  Rancho": 1.704,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 193,
+    "Tipo de vivienda  -  Casa": 20,
+    "Tipo de vivienda  -  Rancho": 169,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 88,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 85,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 114,
+    "Tipo de vivienda  -  Casa": 32,
+    "Tipo de vivienda  -  Rancho": 82,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 11,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 11,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 197,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 197,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 209,
+    "Tipo de vivienda  -  Casa": 208,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 28,
+    "Tipo de vivienda  -  Casa": 18,
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 8
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 251,
+    "Tipo de vivienda  -  Casa": 247,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 1.476,
+    "Tipo de vivienda  -  Casa": 611,
+    "Tipo de vivienda  -  Rancho": 655,
+    "Tipo de vivienda  -  Improvisada": 206,
+    "Tipo de vivienda  -  Galpon": 4
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 946,
+    "Tipo de vivienda  -  Casa": 42,
+    "Tipo de vivienda  -  Rancho": 902,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 743,
+    "Tipo de vivienda  -  Casa": 244,
+    "Tipo de vivienda  -  Rancho": 498,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 541,
+    "Tipo de vivienda  -  Casa": 541,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 57,
+    "Tipo de vivienda  -  Casa": 56,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 260,
+    "Tipo de vivienda  -  Casa": 255,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": 4
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 76,
+    "Tipo de vivienda  -  Casa": 63,
+    "Tipo de vivienda  -  Rancho": 12,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 3.583,
+    "Tipo de vivienda  -  Casa": 1.374,
+    "Tipo de vivienda  -  Rancho": 2.031,
+    "Tipo de vivienda  -  Improvisada": 175,
+    "Tipo de vivienda  -  Galpon": 3
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 34,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 34,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 32,
+    "Tipo de vivienda  -  Casa": 26,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 283,
+    "Tipo de vivienda  -  Casa": 278,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": 4
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Maka",
+    "Total": 465,
+    "Tipo de vivienda  -  Casa": 340,
+    "Tipo de vivienda  -  Rancho": 113,
+    "Tipo de vivienda  -  Improvisada": 12,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 395,
+    "Tipo de vivienda  -  Casa": 323,
+    "Tipo de vivienda  -  Rancho": 72,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 46,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": 38,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 9,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 67,
+    "Tipo de vivienda  -  Casa": 18,
+    "Tipo de vivienda  -  Rancho": 38,
+    "Tipo de vivienda  -  Improvisada": 11,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 62,
+    "Tipo de vivienda  -  Casa": 16,
+    "Tipo de vivienda  -  Rancho": 46,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 66,
+    "Tipo de vivienda  -  Casa": 42,
+    "Tipo de vivienda  -  Rancho": 24,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 257,
+    "Tipo de vivienda  -  Casa": 257,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 219,
+    "Tipo de vivienda  -  Casa": 216,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 11,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 204,
+    "Tipo de vivienda  -  Casa": 102,
+    "Tipo de vivienda  -  Rancho": 97,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 12,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 13,
+    "Tipo de vivienda  -  Casa": 13,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Manjui",
+    "Total": 122,
+    "Tipo de vivienda  -  Casa": 27,
+    "Tipo de vivienda  -  Rancho": 29,
+    "Tipo de vivienda  -  Improvisada": 66,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 22,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": 14,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 12,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 62,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 62,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 11,
+    "Tipo de vivienda  -  Casa": 10,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 103,
+    "Tipo de vivienda  -  Casa": 16,
+    "Tipo de vivienda  -  Rancho": 22,
+    "Tipo de vivienda  -  Improvisada": 65,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 71,
+    "Tipo de vivienda  -  Casa": 19,
+    "Tipo de vivienda  -  Rancho": 27,
+    "Tipo de vivienda  -  Improvisada": 25,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 38,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 38,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ayoreo",
+    "Total": 851,
+    "Tipo de vivienda  -  Casa": 232,
+    "Tipo de vivienda  -  Rancho": 588,
+    "Tipo de vivienda  -  Improvisada": 29,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 214,
+    "Tipo de vivienda  -  Casa": 81,
+    "Tipo de vivienda  -  Rancho": 133,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 270,
+    "Tipo de vivienda  -  Casa": 49,
+    "Tipo de vivienda  -  Rancho": 221,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 221,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 220,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 29,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 29,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 28,
+    "Tipo de vivienda  -  Casa": 28,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 22,
+    "Tipo de vivienda  -  Casa": 12,
+    "Tipo de vivienda  -  Rancho": 10,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 59,
+    "Tipo de vivienda  -  Casa": 59,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 577,
+    "Tipo de vivienda  -  Casa": 99,
+    "Tipo de vivienda  -  Rancho": 454,
+    "Tipo de vivienda  -  Improvisada": 22,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 15,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 115,
+    "Tipo de vivienda  -  Casa": 16,
+    "Tipo de vivienda  -  Rancho": 92,
+    "Tipo de vivienda  -  Improvisada": 7,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 48,
+    "Tipo de vivienda  -  Casa": 15,
+    "Tipo de vivienda  -  Rancho": 33,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 31,
+    "Tipo de vivienda  -  Casa": 31,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 60,
+    "Tipo de vivienda  -  Casa": 60,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 698,
+    "Tipo de vivienda  -  Casa": 120,
+    "Tipo de vivienda  -  Rancho": 558,
+    "Tipo de vivienda  -  Improvisada": 18,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 27,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 24,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 11,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 11,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 31,
+    "Tipo de vivienda  -  Casa": 31,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 71,
+    "Tipo de vivienda  -  Casa": 71,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ybytoso",
+    "Total": 653,
+    "Tipo de vivienda  -  Casa": 269,
+    "Tipo de vivienda  -  Rancho": 383,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 286,
+    "Tipo de vivienda  -  Casa": 188,
+    "Tipo de vivienda  -  Rancho": 98,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 71,
+    "Tipo de vivienda  -  Casa": 14,
+    "Tipo de vivienda  -  Rancho": 57,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 257,
+    "Tipo de vivienda  -  Casa": 31,
+    "Tipo de vivienda  -  Rancho": 226,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 31,
+    "Tipo de vivienda  -  Casa": 31,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 355,
+    "Tipo de vivienda  -  Casa": 69,
+    "Tipo de vivienda  -  Rancho": 285,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 34,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 30,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 85,
+    "Tipo de vivienda  -  Casa": 23,
+    "Tipo de vivienda  -  Rancho": 62,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 139,
+    "Tipo de vivienda  -  Casa": 139,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 32,
+    "Tipo de vivienda  -  Casa": 32,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 61,
+    "Tipo de vivienda  -  Casa": 55,
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 533,
+    "Tipo de vivienda  -  Casa": 179,
+    "Tipo de vivienda  -  Rancho": 354,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 16,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 15,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 33,
+    "Tipo de vivienda  -  Casa": 33,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tomaraho",
+    "Total": 63,
+    "Tipo de vivienda  -  Casa": 23,
+    "Tipo de vivienda  -  Rancho": 40,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 12,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 11,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 45,
+    "Tipo de vivienda  -  Casa": 21,
+    "Tipo de vivienda  -  Rancho": 24,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 61,
+    "Tipo de vivienda  -  Casa": 23,
+    "Tipo de vivienda  -  Rancho": 38,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 29,
+    "Tipo de vivienda  -  Casa": 23,
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 24,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 24,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 9,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Qom",
+    "Total": 677,
+    "Tipo de vivienda  -  Casa": 181,
+    "Tipo de vivienda  -  Rancho": 485,
+    "Tipo de vivienda  -  Improvisada": 11,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 324,
+    "Tipo de vivienda  -  Casa": 120,
+    "Tipo de vivienda  -  Rancho": 204,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 185,
+    "Tipo de vivienda  -  Casa": 17,
+    "Tipo de vivienda  -  Rancho": 167,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 49,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 47,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 55,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 55,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 10,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 14,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 12,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 11,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 19,
+    "Tipo de vivienda  -  Casa": 19,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 330,
+    "Tipo de vivienda  -  Casa": 39,
+    "Tipo de vivienda  -  Rancho": 280,
+    "Tipo de vivienda  -  Improvisada": 11,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 190,
+    "Tipo de vivienda  -  Casa": 21,
+    "Tipo de vivienda  -  Rancho": 169,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 47,
+    "Tipo de vivienda  -  Casa": 15,
+    "Tipo de vivienda  -  Rancho": 32,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 84,
+    "Tipo de vivienda  -  Casa": 84,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 16,
+    "Tipo de vivienda  -  Casa": 16,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 32,
+    "Tipo de vivienda  -  Casa": 25,
+    "Tipo de vivienda  -  Rancho": 7,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 36,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 29,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 13,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 10,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 560,
+    "Tipo de vivienda  -  Casa": 120,
+    "Tipo de vivienda  -  Rancho": 431,
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 20,
+    "Tipo de vivienda  -  Casa": 20,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No indigena",
+    "Total": 356,
+    "Tipo de vivienda  -  Casa": 160,
+    "Tipo de vivienda  -  Rancho": 180,
+    "Tipo de vivienda  -  Improvisada": 16,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "a. Paredes",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 165,
+    "Tipo de vivienda  -  Casa": 108,
+    "Tipo de vivienda  -  Rancho": 57,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Madera",
+    "Total": 125,
+    "Tipo de vivienda  -  Casa": 23,
+    "Tipo de vivienda  -  Rancho": 100,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Estaqueo",
+    "Total": 13,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 13,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tapia/Adobe",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Bloque de cemento",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 9,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje, chapa reciclada",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 14,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No tiene pared",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 25,
+    "Tipo de vivienda  -  Casa": 25,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "b. Piso",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tierra",
+    "Total": 138,
+    "Tipo de vivienda  -  Casa": 14,
+    "Tipo de vivienda  -  Rancho": 109,
+    "Tipo de vivienda  -  Improvisada": 15,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablon de madera",
+    "Total": 9,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 7,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Ladrillo",
+    "Total": 30,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 28,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Cemento (lecherada)",
+    "Total": 68,
+    "Tipo de vivienda  -  Casa": 31,
+    "Tipo de vivienda  -  Rancho": 36,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Baldosa comun, ceramica",
+    "Total": 88,
+    "Tipo de vivienda  -  Casa": 88,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 22,
+    "Tipo de vivienda  -  Casa": 22,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "c. Techo",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Teja",
+    "Total": 24,
+    "Tipo de vivienda  -  Casa": 20,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Kapii/Paja",
+    "Total": 24,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 21,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Fibrocemento o similar (eternit)",
+    "Total": 26,
+    "Tipo de vivienda  -  Casa": 9,
+    "Tipo de vivienda  -  Rancho": 17,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Chapa de zinc",
+    "Total": 247,
+    "Tipo de vivienda  -  Casa": 103,
+    "Tipo de vivienda  -  Rancho": 136,
+    "Tipo de vivienda  -  Improvisada": 8,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tablilla de madera",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Tronco de palma",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Carton, hule, madera de embalaje",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "Otro",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo y material predominante en paredes, piso y techo": "No informado",
+    "Total": 22,
+    "Tipo de vivienda  -  Casa": 22,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  }
+]

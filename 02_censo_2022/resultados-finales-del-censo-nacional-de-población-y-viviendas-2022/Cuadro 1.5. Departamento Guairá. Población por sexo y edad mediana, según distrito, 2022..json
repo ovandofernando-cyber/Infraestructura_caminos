@@ -1,0 +1,135 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 179.555,
+    "Sexo - Hombres": 90.197,
+    "Sexo - Mujeres": 89.358,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Villarrica",
+    "Total": 62.565,
+    "Sexo - Hombres": 30.366,
+    "Sexo - Mujeres": 32.199,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Borja",
+    "Total": 7.758,
+    "Sexo - Hombres": 4.031,
+    "Sexo - Mujeres": 3.727,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Capitan Mauricio Jose Troche",
+    "Total": 9.59,
+    "Sexo - Hombres": 5.012,
+    "Sexo - Mujeres": 4.578,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Coronel Martinez",
+    "Total": 4.505,
+    "Sexo - Hombres": 2.305,
+    "Sexo - Mujeres": 2.2,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Felix Perez Cardozo",
+    "Total": 4.805,
+    "Sexo - Hombres": 2.486,
+    "Sexo - Mujeres": 2.319,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Gral. Eugenio A. Garay",
+    "Total": 6.752,
+    "Sexo - Hombres": 3.467,
+    "Sexo - Mujeres": 3.285,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Independencia",
+    "Total": 19.235,
+    "Sexo - Hombres": 9.97,
+    "Sexo - Mujeres": 9.265,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Itape",
+    "Total": 6.07,
+    "Sexo - Hombres": 3.095,
+    "Sexo - Mujeres": 2.975,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Iturbe",
+    "Total": 7.166,
+    "Sexo - Hombres": 3.545,
+    "Sexo - Mujeres": 3.621,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Jose Fassardi",
+    "Total": 5.139,
+    "Sexo - Hombres": 2.665,
+    "Sexo - Mujeres": 2.474,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Mbocayaty",
+    "Total": 8.003,
+    "Sexo - Hombres": 4.035,
+    "Sexo - Mujeres": 3.968,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Natalicio Talavera",
+    "Total": 3.843,
+    "Sexo - Hombres": 1.938,
+    "Sexo - Mujeres": 1.905,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Numi",
+    "Total": 2.864,
+    "Sexo - Hombres": 1.432,
+    "Sexo - Mujeres": 1.432,
+    "Edad mediana": 35
+  },
+  {
+    "Distrito": "San Salvador",
+    "Total": 2.565,
+    "Sexo - Hombres": 1.31,
+    "Sexo - Mujeres": 1.255,
+    "Edad mediana": 36
+  },
+  {
+    "Distrito": "Yataity",
+    "Total": 4.173,
+    "Sexo - Hombres": 1.994,
+    "Sexo - Mujeres": 2.179,
+    "Edad mediana": 34
+  },
+  {
+    "Distrito": "Doctor Bottrell",
+    "Total": 1.321,
+    "Sexo - Hombres": 674,
+    "Sexo - Mujeres": 647,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Paso Yobai",
+    "Total": 20.562,
+    "Sexo - Hombres": 10.542,
+    "Sexo - Mujeres": 10.02,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Tebicuary",
+    "Total": 2.639,
+    "Sexo - Hombres": 1.33,
+    "Sexo - Mujeres": 1.309,
+    "Edad mediana": 33
+  }
+]

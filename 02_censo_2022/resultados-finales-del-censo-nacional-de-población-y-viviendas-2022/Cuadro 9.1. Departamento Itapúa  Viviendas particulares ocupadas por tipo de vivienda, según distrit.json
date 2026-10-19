@@ -1,0 +1,312 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 140.097,
+    "Tipo de vivienda - Casa": 117.744,
+    "Tipo de vivienda - Rancho": 12.638,
+    "Tipo de vivienda - Departamento o piso": 4.374,
+    "Tipo de vivienda - Pieza de inquilinato": 4.639,
+    "Tipo de vivienda - Improvisada": 183,
+    "Tipo de vivienda - Otro": 519
+  },
+  {
+    "Distrito": "Encarnacion",
+    "Total": 33.331,
+    "Tipo de vivienda - Casa": 26.563,
+    "Tipo de vivienda - Rancho": 828,
+    "Tipo de vivienda - Departamento o piso": 3.624,
+    "Tipo de vivienda - Pieza de inquilinato": 2.103,
+    "Tipo de vivienda - Improvisada": 41,
+    "Tipo de vivienda - Otro": 172
+  },
+  {
+    "Distrito": "Bella Vista",
+    "Total": 3.352,
+    "Tipo de vivienda - Casa": 2.808,
+    "Tipo de vivienda - Rancho": 321,
+    "Tipo de vivienda - Departamento o piso": 61,
+    "Tipo de vivienda - Pieza de inquilinato": 153,
+    "Tipo de vivienda - Improvisada": 4,
+    "Tipo de vivienda - Otro": 5
+  },
+  {
+    "Distrito": "Cambyreta",
+    "Total": 13.861,
+    "Tipo de vivienda - Casa": 12.417,
+    "Tipo de vivienda - Rancho": 639,
+    "Tipo de vivienda - Departamento o piso": 198,
+    "Tipo de vivienda - Pieza de inquilinato": 494,
+    "Tipo de vivienda - Improvisada": 21,
+    "Tipo de vivienda - Otro": 92
+  },
+  {
+    "Distrito": "Capitan Meza",
+    "Total": 2.942,
+    "Tipo de vivienda - Casa": 2.55,
+    "Tipo de vivienda - Rancho": 320,
+    "Tipo de vivienda - Departamento o piso": 1,
+    "Tipo de vivienda - Pieza de inquilinato": 39,
+    "Tipo de vivienda - Improvisada": 6,
+    "Tipo de vivienda - Otro": 26
+  },
+  {
+    "Distrito": "Capitan Miranda",
+    "Total": 3.031,
+    "Tipo de vivienda - Casa": 2.738,
+    "Tipo de vivienda - Rancho": 177,
+    "Tipo de vivienda - Departamento o piso": 18,
+    "Tipo de vivienda - Pieza de inquilinato": 87,
+    "Tipo de vivienda - Improvisada": 4,
+    "Tipo de vivienda - Otro": 7
+  },
+  {
+    "Distrito": "Nueva Alborada",
+    "Total": 1.512,
+    "Tipo de vivienda - Casa": 1.305,
+    "Tipo de vivienda - Rancho": 204,
+    "Tipo de vivienda - Departamento o piso": 1,
+    "Tipo de vivienda - Pieza de inquilinato": 1,
+    "Tipo de vivienda - Improvisada": 1,
+    "Tipo de vivienda - Otro": "-"
+  },
+  {
+    "Distrito": "Carmen del Parana",
+    "Total": 2.015,
+    "Tipo de vivienda - Casa": 1.882,
+    "Tipo de vivienda - Rancho": 97,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 32,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": 4
+  },
+  {
+    "Distrito": "Coronel Bogado",
+    "Total": 5.651,
+    "Tipo de vivienda - Casa": 5.009,
+    "Tipo de vivienda - Rancho": 419,
+    "Tipo de vivienda - Departamento o piso": 32,
+    "Tipo de vivienda - Pieza de inquilinato": 181,
+    "Tipo de vivienda - Improvisada": 1,
+    "Tipo de vivienda - Otro": 9
+  },
+  {
+    "Distrito": "Carlos Antonio Lopez",
+    "Total": 4.148,
+    "Tipo de vivienda - Casa": 3.231,
+    "Tipo de vivienda - Rancho": 758,
+    "Tipo de vivienda - Departamento o piso": 2,
+    "Tipo de vivienda - Pieza de inquilinato": 147,
+    "Tipo de vivienda - Improvisada": 7,
+    "Tipo de vivienda - Otro": 3
+  },
+  {
+    "Distrito": "Natalio",
+    "Total": 4.685,
+    "Tipo de vivienda - Casa": 4.073,
+    "Tipo de vivienda - Rancho": 499,
+    "Tipo de vivienda - Departamento o piso": 3,
+    "Tipo de vivienda - Pieza de inquilinato": 90,
+    "Tipo de vivienda - Improvisada": 2,
+    "Tipo de vivienda - Otro": 18
+  },
+  {
+    "Distrito": "Fram",
+    "Total": 2.608,
+    "Tipo de vivienda - Casa": 2.306,
+    "Tipo de vivienda - Rancho": 153,
+    "Tipo de vivienda - Departamento o piso": 10,
+    "Tipo de vivienda - Pieza de inquilinato": 132,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": 7
+  },
+  {
+    "Distrito": "General Artigas",
+    "Total": 2.868,
+    "Tipo de vivienda - Casa": 2.565,
+    "Tipo de vivienda - Rancho": 276,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 15,
+    "Tipo de vivienda - Improvisada": 6,
+    "Tipo de vivienda - Otro": 6
+  },
+  {
+    "Distrito": "General Delgado",
+    "Total": 1.93,
+    "Tipo de vivienda - Casa": 1.721,
+    "Tipo de vivienda - Rancho": 193,
+    "Tipo de vivienda - Departamento o piso": 3,
+    "Tipo de vivienda - Pieza de inquilinato": 9,
+    "Tipo de vivienda - Improvisada": 1,
+    "Tipo de vivienda - Otro": 3
+  },
+  {
+    "Distrito": "Hohenau",
+    "Total": 4.249,
+    "Tipo de vivienda - Casa": 3.458,
+    "Tipo de vivienda - Rancho": 311,
+    "Tipo de vivienda - Departamento o piso": 230,
+    "Tipo de vivienda - Pieza de inquilinato": 237,
+    "Tipo de vivienda - Improvisada": 4,
+    "Tipo de vivienda - Otro": 9
+  },
+  {
+    "Distrito": "Jesus",
+    "Total": 1.686,
+    "Tipo de vivienda - Casa": 1.449,
+    "Tipo de vivienda - Rancho": 223,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 6,
+    "Tipo de vivienda - Improvisada": 7,
+    "Tipo de vivienda - Otro": 1
+  },
+  {
+    "Distrito": "Jose Leandro Oviedo",
+    "Total": 850,
+    "Tipo de vivienda - Casa": 710,
+    "Tipo de vivienda - Rancho": 140,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": "-",
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": "-"
+  },
+  {
+    "Distrito": "Obligado",
+    "Total": 4.304,
+    "Tipo de vivienda - Casa": 3.5,
+    "Tipo de vivienda - Rancho": 441,
+    "Tipo de vivienda - Departamento o piso": 121,
+    "Tipo de vivienda - Pieza de inquilinato": 207,
+    "Tipo de vivienda - Improvisada": 13,
+    "Tipo de vivienda - Otro": 22
+  },
+  {
+    "Distrito": "Mayor Julio Dionisio Otano",
+    "Total": 3.017,
+    "Tipo de vivienda - Casa": 2.298,
+    "Tipo de vivienda - Rancho": 649,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 52,
+    "Tipo de vivienda - Improvisada": 3,
+    "Tipo de vivienda - Otro": 15
+  },
+  {
+    "Distrito": "San Cosme y Damian",
+    "Total": 2.332,
+    "Tipo de vivienda - Casa": 1.987,
+    "Tipo de vivienda - Rancho": 335,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 6,
+    "Tipo de vivienda - Improvisada": 1,
+    "Tipo de vivienda - Otro": 3
+  },
+  {
+    "Distrito": "San Pedro del Parana",
+    "Total": 7.199,
+    "Tipo de vivienda - Casa": 5.944,
+    "Tipo de vivienda - Rancho": 1.188,
+    "Tipo de vivienda - Departamento o piso": 3,
+    "Tipo de vivienda - Pieza de inquilinato": 43,
+    "Tipo de vivienda - Improvisada": 2,
+    "Tipo de vivienda - Otro": 19
+  },
+  {
+    "Distrito": "San Rafael del Parana",
+    "Total": 4.333,
+    "Tipo de vivienda - Casa": 3.561,
+    "Tipo de vivienda - Rancho": 705,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 36,
+    "Tipo de vivienda - Improvisada": 12,
+    "Tipo de vivienda - Otro": 19
+  },
+  {
+    "Distrito": "Trinidad",
+    "Total": 2.485,
+    "Tipo de vivienda - Casa": 2.098,
+    "Tipo de vivienda - Rancho": 335,
+    "Tipo de vivienda - Departamento o piso": 5,
+    "Tipo de vivienda - Pieza de inquilinato": 40,
+    "Tipo de vivienda - Improvisada": 1,
+    "Tipo de vivienda - Otro": 6
+  },
+  {
+    "Distrito": "Edelira",
+    "Total": 5.451,
+    "Tipo de vivienda - Casa": 4.749,
+    "Tipo de vivienda - Rancho": 616,
+    "Tipo de vivienda - Departamento o piso": 4,
+    "Tipo de vivienda - Pieza de inquilinato": 61,
+    "Tipo de vivienda - Improvisada": 5,
+    "Tipo de vivienda - Otro": 16
+  },
+  {
+    "Distrito": "Tomas Romero Pereira",
+    "Total": 7.89,
+    "Tipo de vivienda - Casa": 6.793,
+    "Tipo de vivienda - Rancho": 706,
+    "Tipo de vivienda - Departamento o piso": 47,
+    "Tipo de vivienda - Pieza de inquilinato": 311,
+    "Tipo de vivienda - Improvisada": 5,
+    "Tipo de vivienda - Otro": 28
+  },
+  {
+    "Distrito": "Alto Vera",
+    "Total": 3.412,
+    "Tipo de vivienda - Casa": 2.421,
+    "Tipo de vivienda - Rancho": 937,
+    "Tipo de vivienda - Departamento o piso": 3,
+    "Tipo de vivienda - Pieza de inquilinato": 21,
+    "Tipo de vivienda - Improvisada": 26,
+    "Tipo de vivienda - Otro": 4
+  },
+  {
+    "Distrito": "La Paz",
+    "Total": 823,
+    "Tipo de vivienda - Casa": 754,
+    "Tipo de vivienda - Rancho": 45,
+    "Tipo de vivienda - Departamento o piso": 1,
+    "Tipo de vivienda - Pieza de inquilinato": 21,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": 2
+  },
+  {
+    "Distrito": "Yatytay",
+    "Total": 2.797,
+    "Tipo de vivienda - Casa": 2.493,
+    "Tipo de vivienda - Rancho": 261,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 38,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": 5
+  },
+  {
+    "Distrito": "San Juan del Parana",
+    "Total": 2.796,
+    "Tipo de vivienda - Casa": 2.574,
+    "Tipo de vivienda - Rancho": 169,
+    "Tipo de vivienda - Departamento o piso": 7,
+    "Tipo de vivienda - Pieza de inquilinato": 35,
+    "Tipo de vivienda - Improvisada": 2,
+    "Tipo de vivienda - Otro": 9
+  },
+  {
+    "Distrito": "Pirapo",
+    "Total": 1.775,
+    "Tipo de vivienda - Casa": 1.475,
+    "Tipo de vivienda - Rancho": 278,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 16,
+    "Tipo de vivienda - Improvisada": 1,
+    "Tipo de vivienda - Otro": 5
+  },
+  {
+    "Distrito": "Itapua Poty",
+    "Total": 2.764,
+    "Tipo de vivienda - Casa": 2.312,
+    "Tipo de vivienda - Rancho": 415,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 26,
+    "Tipo de vivienda - Improvisada": 7,
+    "Tipo de vivienda - Otro": 4
+  }
+]

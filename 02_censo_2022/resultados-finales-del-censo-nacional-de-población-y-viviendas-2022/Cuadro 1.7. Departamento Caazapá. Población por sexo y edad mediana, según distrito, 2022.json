@@ -1,0 +1,86 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 139.479,
+    "Sexo - Hombres": 71.157,
+    "Sexo - Mujeres": 68.322,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Caazapa",
+    "Total": 23.654,
+    "Sexo - Hombres": 11.812,
+    "Sexo - Mujeres": 11.842,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Abai",
+    "Total": 21.964,
+    "Sexo - Hombres": 11.331,
+    "Sexo - Mujeres": 10.633,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Buena Vista",
+    "Total": 4.296,
+    "Sexo - Hombres": 2.237,
+    "Sexo - Mujeres": 2.059,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Dr. Moises S. Bertoni",
+    "Total": 3.815,
+    "Sexo - Hombres": 1.934,
+    "Sexo - Mujeres": 1.881,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Gral. Higinio Morinigo",
+    "Total": 4.728,
+    "Sexo - Hombres": 2.444,
+    "Sexo - Mujeres": 2.284,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Maciel",
+    "Total": 3.461,
+    "Sexo - Hombres": 1.891,
+    "Sexo - Mujeres": 1.57,
+    "Edad mediana": 34
+  },
+  {
+    "Distrito": "San Juan Nepomuceno",
+    "Total": 28.233,
+    "Sexo - Hombres": 14.319,
+    "Sexo - Mujeres": 13.914,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Tavai",
+    "Total": 16.409,
+    "Sexo - Hombres": 8.571,
+    "Sexo - Mujeres": 7.838,
+    "Edad mediana": 25
+  },
+  {
+    "Distrito": "Yegros",
+    "Total": 5.072,
+    "Sexo - Hombres": 2.582,
+    "Sexo - Mujeres": 2.49,
+    "Edad mediana": 36
+  },
+  {
+    "Distrito": "Yuty",
+    "Total": 14.924,
+    "Sexo - Hombres": 7.403,
+    "Sexo - Mujeres": 7.521,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "3 de Mayo",
+    "Total": 12.923,
+    "Sexo - Hombres": 6.633,
+    "Sexo - Mujeres": 6.29,
+    "Edad mediana": 28
+  }
+]

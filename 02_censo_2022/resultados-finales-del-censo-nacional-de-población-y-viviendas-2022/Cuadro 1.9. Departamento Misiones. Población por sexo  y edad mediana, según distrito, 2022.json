@@ -1,0 +1,79 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 111.142,
+    "Sexo - Hombres": 55.756,
+    "Sexo - Mujeres": 55.386,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "San Juan Bautista de las Misiones",
+    "Total": 20.979,
+    "Sexo - Hombres": 10.913,
+    "Sexo - Mujeres": 10.066,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Ayolas",
+    "Total": 17.337,
+    "Sexo - Hombres": 8.668,
+    "Sexo - Mujeres": 8.669,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "San Ignacio",
+    "Total": 29.43,
+    "Sexo - Hombres": 14.445,
+    "Sexo - Mujeres": 14.985,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "San Miguel",
+    "Total": 5.116,
+    "Sexo - Hombres": 2.567,
+    "Sexo - Mujeres": 2.549,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "San Patricio",
+    "Total": 3.193,
+    "Sexo - Hombres": 1.603,
+    "Sexo - Mujeres": 1.59,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Santa Maria",
+    "Total": 7.481,
+    "Sexo - Hombres": 3.78,
+    "Sexo - Mujeres": 3.701,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Santa Rosa",
+    "Total": 16.403,
+    "Sexo - Hombres": 8.145,
+    "Sexo - Mujeres": 8.258,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Santiago",
+    "Total": 5.995,
+    "Sexo - Hombres": 2.977,
+    "Sexo - Mujeres": 3.018,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Villa Florida",
+    "Total": 3.066,
+    "Sexo - Hombres": 1.568,
+    "Sexo - Mujeres": 1.498,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Yabebyry",
+    "Total": 2.142,
+    "Sexo - Hombres": 1.09,
+    "Sexo - Mujeres": 1.052,
+    "Edad mediana": 35
+  }
+]

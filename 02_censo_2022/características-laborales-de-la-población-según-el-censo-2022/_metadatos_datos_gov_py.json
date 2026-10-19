@@ -1,0 +1,76 @@
+{
+ "id": "9ffe4c5f-51c5-40d1-8ae3-2ebdd358e631",
+ "name": "características-laborales-de-la-población-según-el-censo-2022",
+ "title": "Características laborales de la población según el Censo 2022",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>El Instituto Nacional de Estadística (INE) pone a disposición el documento “Características laborales de la población según el Censo 2022”, el cual contiene información actualizada sobre la situación laboral de las personas de 15 y más años de edad que se encuentran en la fuerza de trabajo y la población fuera de la fuerza de trabajo a nivel nacional, departamental y distrital, con sus respectivas características.<br />\nEl objetivo de esta publicación es presentar los resultados definitivos para el diseño, implementación y evaluación de políticas públicas tendientes a mejorar las condiciones de empleo y, por ende, las condiciones de vida de la población.</p>\n",
+ "url": "https://www.datos.gov.py/dataset/caracter%C3%ADsticas-laborales-de-la-poblaci%C3%B3n-seg%C3%BAn-el-censo-2022",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Mar, 08/12/2025 - 11:54",
+ "metadata_created": "Mar, 08/12/2025 - 09:21",
+ "metadata_modified": "Mar, 08/12/2025 - 11:54",
+ "creator_user_id": "6e460875-5d75-4a20-b4c0-160a50bb251b",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "b77b0e8b-8e64-4ab5-8ff2-8de6050561d3",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/281/Actividad%20Laboral%20Censo%202022_web.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Mar, 08/12/2025 - 09:21",
+   "name": "Documento",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Mar, 08/12/2025 - 09:21",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Mar, 08/12/2025 - 09:21"
+  },
+  {
+   "id": "5d0b3464-ca12-4149-8702-1db30466d187",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/281/Datos%20de%20%20Actividad%20Laboral.xlsx",
+   "description": "",
+   "format": "xlsx",
+   "state": "Active",
+   "revision_timestamp": "Mar, 08/12/2025 - 09:22",
+   "name": "Datos de Actividad Laboral",
+   "mimetype": "xlsx",
+   "size": "",
+   "created": "Mar, 08/12/2025 - 09:22",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Mar, 08/12/2025 - 09:22"
+  }
+ ],
+ "tags": [
+  {
+   "id": "4777bbde-e5fd-4e03-96be-87b5b28dea4b",
+   "vocabulary_id": "2",
+   "name": "trabajo"
+  },
+  {
+   "id": "7330c913-71d0-4984-b09b-9f44262c4a25",
+   "vocabulary_id": "2",
+   "name": "población"
+  },
+  {
+   "id": "5eba8fd3-3088-4c54-adc4-fd965fb7aeeb",
+   "vocabulary_id": "2",
+   "name": "fuerza laboral"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>Ley N° 6770 \"Que establece la modernización del Sistema Estadístico Nacional (SISEN) y crea el Instituto Nacional de Estadística (INE)\" la Dirección General de Estadística, Encuestas y Censos pasa a denominarse Instituto Nacional de Estadística (INE) como persona jurídica de derecho público, con carácter autárquico y autónomo</p>\n",
+   "id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/ine.PNG",
+   "title": "INSTITUTO NACIONAL DE ESTADISTICA (INE)",
+   "name": "group/instituto-nacional-de-estadistica-ine"
+  }
+ ]
+}

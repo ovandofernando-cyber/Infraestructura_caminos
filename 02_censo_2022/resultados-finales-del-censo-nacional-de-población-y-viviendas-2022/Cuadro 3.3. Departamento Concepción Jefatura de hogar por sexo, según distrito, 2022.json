@@ -1,0 +1,92 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 56.837,
+    "Jefatura de hogar - Hombres": 30.52,
+    "Jefatura de hogar - Mujeres": 26.317
+  },
+  {
+    "Distrito": "Concepcion",
+    "Total": 19.196,
+    "Jefatura de hogar - Hombres": 9.896,
+    "Jefatura de hogar - Mujeres": 9.3
+  },
+  {
+    "Distrito": "Belen",
+    "Total": 3.015,
+    "Jefatura de hogar - Hombres": 1.665,
+    "Jefatura de hogar - Mujeres": 1.35
+  },
+  {
+    "Distrito": "Horqueta",
+    "Total": 11.355,
+    "Jefatura de hogar - Hombres": 6.468,
+    "Jefatura de hogar - Mujeres": 4.887
+  },
+  {
+    "Distrito": "Loreto",
+    "Total": 3.811,
+    "Jefatura de hogar - Hombres": 2.19,
+    "Jefatura de hogar - Mujeres": 1.621
+  },
+  {
+    "Distrito": "San Carlos del Apa",
+    "Total": 270,
+    "Jefatura de hogar - Hombres": 162,
+    "Jefatura de hogar - Mujeres": 108
+  },
+  {
+    "Distrito": "San Lazaro",
+    "Total": 3.068,
+    "Jefatura de hogar - Hombres": 1.805,
+    "Jefatura de hogar - Mujeres": 1.263
+  },
+  {
+    "Distrito": "Yby Yau",
+    "Total": 5.561,
+    "Jefatura de hogar - Hombres": 2.783,
+    "Jefatura de hogar - Mujeres": 2.778
+  },
+  {
+    "Distrito": "Azotey",
+    "Total": 1.821,
+    "Jefatura de hogar - Hombres": 895,
+    "Jefatura de hogar - Mujeres": 926
+  },
+  {
+    "Distrito": "Sargento Jose Felix Lopez",
+    "Total": 1.656,
+    "Jefatura de hogar - Hombres": 955,
+    "Jefatura de hogar - Mujeres": 701
+  },
+  {
+    "Distrito": "San Alfredo",
+    "Total": 702,
+    "Jefatura de hogar - Hombres": 292,
+    "Jefatura de hogar - Mujeres": 410
+  },
+  {
+    "Distrito": "Paso Barreto",
+    "Total": 1.204,
+    "Jefatura de hogar - Hombres": 500,
+    "Jefatura de hogar - Mujeres": 704
+  },
+  {
+    "Distrito": "Arroyito",
+    "Total": 2.284,
+    "Jefatura de hogar - Hombres": 1.281,
+    "Jefatura de hogar - Mujeres": 1.003
+  },
+  {
+    "Distrito": "Paso Horqueta",
+    "Total": 2.233,
+    "Jefatura de hogar - Hombres": 1.218,
+    "Jefatura de hogar - Mujeres": 1.015
+  },
+  {
+    "Distrito": "Itacua",
+    "Total": 661,
+    "Jefatura de hogar - Hombres": 410,
+    "Jefatura de hogar - Mujeres": 251
+  }
+]

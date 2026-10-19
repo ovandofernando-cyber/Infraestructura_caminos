@@ -1,0 +1,410 @@
+[
+  {
+    "Distrito y grupos de edad": "Departamento Neembucu",
+    "Total": 76.719,
+    "Area Urbana": 52.031,
+    "Area Rural": 24.688
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 15.642,
+    "Area Urbana": 11.227,
+    "Area Rural": 4.415
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 50.391,
+    "Area Urbana": 34.622,
+    "Area Rural": 15.769
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 10.686,
+    "Area Urbana": 6.182,
+    "Area Rural": 4.504
+  },
+  {
+    "Distrito y grupos de edad": "Pilar",
+    "Total": 34.741,
+    "Area Urbana": 31.399,
+    "Area Rural": 3.342
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 7.242,
+    "Area Urbana": 6.547,
+    "Area Rural": 695
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 23.367,
+    "Area Urbana": 21.145,
+    "Area Rural": 2.222
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 4.132,
+    "Area Urbana": 3.707,
+    "Area Rural": 425
+  },
+  {
+    "Distrito y grupos de edad": "Alberdi",
+    "Total": 7.536,
+    "Area Urbana": 6.663,
+    "Area Rural": 873
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 1.739,
+    "Area Urbana": 1.553,
+    "Area Rural": 186
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 5.085,
+    "Area Urbana": 4.544,
+    "Area Rural": 541
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 712,
+    "Area Urbana": 566,
+    "Area Rural": 146
+  },
+  {
+    "Distrito y grupos de edad": "Cerrito",
+    "Total": 4.34,
+    "Area Urbana": 2.26,
+    "Area Rural": 2.08
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 860,
+    "Area Urbana": 502,
+    "Area Rural": 358
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 2.833,
+    "Area Urbana": 1.509,
+    "Area Rural": 1.324
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 647,
+    "Area Urbana": 249,
+    "Area Rural": 398
+  },
+  {
+    "Distrito y grupos de edad": "Desmochados",
+    "Total": 1.171,
+    "Area Urbana": 326,
+    "Area Rural": 845
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 170,
+    "Area Urbana": 53,
+    "Area Rural": 117
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 703,
+    "Area Urbana": 199,
+    "Area Rural": 504
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 298,
+    "Area Urbana": 74,
+    "Area Rural": 224
+  },
+  {
+    "Distrito y grupos de edad": "Gral. Jose Eduvigis Diaz",
+    "Total": 3.164,
+    "Area Urbana": 1.441,
+    "Area Rural": 1.723
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 553,
+    "Area Urbana": 299,
+    "Area Rural": 254
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 2.05,
+    "Area Urbana": 919,
+    "Area Rural": 1.131
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 561,
+    "Area Urbana": 223,
+    "Area Rural": 338
+  },
+  {
+    "Distrito y grupos de edad": "Guazu-Cua",
+    "Total": 1.393,
+    "Area Urbana": 372,
+    "Area Rural": 1.021
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 223,
+    "Area Urbana": 69,
+    "Area Rural": 154
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 889,
+    "Area Urbana": 241,
+    "Area Rural": 648
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 281,
+    "Area Urbana": 62,
+    "Area Rural": 219
+  },
+  {
+    "Distrito y grupos de edad": "Humaita",
+    "Total": 2.391,
+    "Area Urbana": 1.544,
+    "Area Rural": 847
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 441,
+    "Area Urbana": 347,
+    "Area Rural": 94
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 1.529,
+    "Area Urbana": 986,
+    "Area Rural": 543
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 421,
+    "Area Urbana": 211,
+    "Area Rural": 210
+  },
+  {
+    "Distrito y grupos de edad": "Isla Umbu",
+    "Total": 2.166,
+    "Area Urbana": 570,
+    "Area Rural": 1.596
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 349,
+    "Area Urbana": 101,
+    "Area Rural": 248
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 1.329,
+    "Area Urbana": 389,
+    "Area Rural": 940
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 488,
+    "Area Urbana": 80,
+    "Area Rural": 408
+  },
+  {
+    "Distrito y grupos de edad": "Laureles",
+    "Total": 2.323,
+    "Area Urbana": 1.027,
+    "Area Rural": 1.296
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 434,
+    "Area Urbana": 241,
+    "Area Rural": 193
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 1.421,
+    "Area Urbana": 618,
+    "Area Rural": 803
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 468,
+    "Area Urbana": 168,
+    "Area Rural": 300
+  },
+  {
+    "Distrito y grupos de edad": "Mayor Jose Dejesus Martinez",
+    "Total": 3.037,
+    "Area Urbana": 944,
+    "Area Rural": 2.093
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 518,
+    "Area Urbana": 187,
+    "Area Rural": 331
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 1.999,
+    "Area Urbana": 605,
+    "Area Rural": 1.394
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 520,
+    "Area Urbana": 152,
+    "Area Rural": 368
+  },
+  {
+    "Distrito y grupos de edad": "Paso de Patria",
+    "Total": 1.809,
+    "Area Urbana": 1.516,
+    "Area Rural": 293
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 383,
+    "Area Urbana": 338,
+    "Area Rural": 45
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 1.17,
+    "Area Urbana": 980,
+    "Area Rural": 190
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 256,
+    "Area Urbana": 198,
+    "Area Rural": 58
+  },
+  {
+    "Distrito y grupos de edad": "San Juan Bautista de Neembucu",
+    "Total": 3.803,
+    "Area Urbana": 1.246,
+    "Area Rural": 2.557
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 807,
+    "Area Urbana": 315,
+    "Area Rural": 492
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 2.316,
+    "Area Urbana": 758,
+    "Area Rural": 1.558
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 680,
+    "Area Urbana": 173,
+    "Area Rural": 507
+  },
+  {
+    "Distrito y grupos de edad": "Tacuaras",
+    "Total": 2.717,
+    "Area Urbana": 492,
+    "Area Rural": 2.225
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 611,
+    "Area Urbana": 105,
+    "Area Rural": 506
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 1.698,
+    "Area Urbana": 309,
+    "Area Rural": 1.389
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 408,
+    "Area Urbana": 78,
+    "Area Rural": 330
+  },
+  {
+    "Distrito y grupos de edad": "Villa Franca",
+    "Total": 1.138,
+    "Area Urbana": 709,
+    "Area Rural": 429
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 236,
+    "Area Urbana": 190,
+    "Area Rural": 46
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 789,
+    "Area Urbana": 454,
+    "Area Rural": 335
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 113,
+    "Area Urbana": 65,
+    "Area Rural": 48
+  },
+  {
+    "Distrito y grupos de edad": "Villa Oliva",
+    "Total": 3.377,
+    "Area Urbana": 1.167,
+    "Area Rural": 2.21
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 759,
+    "Area Urbana": 305,
+    "Area Rural": 454
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 2.206,
+    "Area Urbana": 740,
+    "Area Rural": 1.466
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 412,
+    "Area Urbana": 122,
+    "Area Rural": 290
+  },
+  {
+    "Distrito y grupos de edad": "Villalbin",
+    "Total": 1.613,
+    "Area Urbana": 355,
+    "Area Rural": 1.258
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 317,
+    "Area Urbana": 75,
+    "Area Rural": 242
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 1.007,
+    "Area Urbana": 226,
+    "Area Rural": 781
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 289,
+    "Area Urbana": 54,
+    "Area Rural": 235
+  }
+]

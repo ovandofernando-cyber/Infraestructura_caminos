@@ -1,0 +1,163 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 763.702,
+    "Sexo - Hombres": 384.226,
+    "Sexo - Mujeres": 379.476,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Ciudad del Este",
+    "Total": 325.819,
+    "Sexo - Hombres": 162.914,
+    "Sexo - Mujeres": 162.905,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Presidente Franco",
+    "Total": 88.744,
+    "Sexo - Hombres": 44.232,
+    "Sexo - Mujeres": 44.512,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Domingo Martinez de Irala",
+    "Total": 5.035,
+    "Sexo - Hombres": 2.579,
+    "Sexo - Mujeres": 2.456,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Dr. Juan Leon Mallorquin",
+    "Total": 16.144,
+    "Sexo - Hombres": 8.162,
+    "Sexo - Mujeres": 7.982,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Hernandarias",
+    "Total": 83.285,
+    "Sexo - Hombres": 41.317,
+    "Sexo - Mujeres": 41.968,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Itakyry",
+    "Total": 27.34,
+    "Sexo - Hombres": 14.122,
+    "Sexo - Mujeres": 13.218,
+    "Edad mediana": 23
+  },
+  {
+    "Distrito": "Juan E. Oleary",
+    "Total": 16.092,
+    "Sexo - Hombres": 8.147,
+    "Sexo - Mujeres": 7.945,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Nacunday",
+    "Total": 6.468,
+    "Sexo - Hombres": 3.394,
+    "Sexo - Mujeres": 3.074,
+    "Edad mediana": 24
+  },
+  {
+    "Distrito": "Yguazu",
+    "Total": 8.131,
+    "Sexo - Hombres": 4.187,
+    "Sexo - Mujeres": 3.944,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Los Cedrales",
+    "Total": 7.258,
+    "Sexo - Hombres": 3.769,
+    "Sexo - Mujeres": 3.489,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Minga Guazu",
+    "Total": 81.072,
+    "Sexo - Hombres": 41.051,
+    "Sexo - Mujeres": 40.021,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "San Cristobal",
+    "Total": 8.563,
+    "Sexo - Hombres": 4.433,
+    "Sexo - Mujeres": 4.13,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Santa Rita",
+    "Total": 27.249,
+    "Sexo - Hombres": 13.609,
+    "Sexo - Mujeres": 13.64,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Naranjal",
+    "Total": 6.608,
+    "Sexo - Hombres": 3.409,
+    "Sexo - Mujeres": 3.199,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Santa Rosa del Monday",
+    "Total": 5.923,
+    "Sexo - Hombres": 3.049,
+    "Sexo - Mujeres": 2.874,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Minga Pora",
+    "Total": 11.959,
+    "Sexo - Hombres": 6.178,
+    "Sexo - Mujeres": 5.781,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Mbaracayu",
+    "Total": 6.406,
+    "Sexo - Hombres": 3.421,
+    "Sexo - Mujeres": 2.985,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "San Alberto",
+    "Total": 11.162,
+    "Sexo - Hombres": 5.621,
+    "Sexo - Mujeres": 5.541,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Iruna",
+    "Total": 3.943,
+    "Sexo - Hombres": 2.062,
+    "Sexo - Mujeres": 1.881,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Santa Fe del Parana",
+    "Total": 3.981,
+    "Sexo - Hombres": 2.084,
+    "Sexo - Mujeres": 1.897,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Tavapy",
+    "Total": 6.903,
+    "Sexo - Hombres": 3.571,
+    "Sexo - Mujeres": 3.332,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Dr. Raul Pena",
+    "Total": 5.617,
+    "Sexo - Hombres": 2.915,
+    "Sexo - Mujeres": 2.702,
+    "Edad mediana": 28
+  }
+]

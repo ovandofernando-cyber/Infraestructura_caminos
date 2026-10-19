@@ -1,0 +1,101 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 34.313,
+    "Servicios basicos - Agua corriente(a)": 19.602,
+    "Servicios basicos - Desague sanitario(b)": 21.909,
+    "Servicios basicos - Recoleccion de basura (c)": 10.518,
+    "Servicios basicos - Energia electrica": 31.739,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Benjamin Aceval",
+    "Viviendas particulares": 5.956,
+    "Servicios basicos - Agua corriente(a)": 4.972,
+    "Servicios basicos - Desague sanitario(b)": 5.022,
+    "Servicios basicos - Recoleccion de basura (c)": 2.342,
+    "Servicios basicos - Energia electrica": 5.871,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "Puerto Pinasco",
+    "Viviendas particulares": 2.435,
+    "Servicios basicos - Agua corriente(a)": 526,
+    "Servicios basicos - Desague sanitario(b)": 556,
+    "Servicios basicos - Recoleccion de basura (c)": 79,
+    "Servicios basicos - Energia electrica": 1.93,
+    "Promedio de personas por vivienda": "3,7"
+  },
+  {
+    "Distrito": "Villa Hayes",
+    "Viviendas particulares": 13.194,
+    "Servicios basicos - Agua corriente(a)": 10.042,
+    "Servicios basicos - Desague sanitario(b)": 10.071,
+    "Servicios basicos - Recoleccion de basura (c)": 5.693,
+    "Servicios basicos - Energia electrica": 12.615,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "Nanawa",
+    "Viviendas particulares": 1.863,
+    "Servicios basicos - Agua corriente(a)": 1.398,
+    "Servicios basicos - Desague sanitario(b)": 1.673,
+    "Servicios basicos - Recoleccion de basura (c)": 750,
+    "Servicios basicos - Energia electrica": 1.856,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Jose Falcon",
+    "Viviendas particulares": 1.035,
+    "Servicios basicos - Agua corriente(a)": 737,
+    "Servicios basicos - Desague sanitario(b)": 883,
+    "Servicios basicos - Recoleccion de basura (c)": 650,
+    "Servicios basicos - Energia electrica": 1.021,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Tte. 1ero Manuel Irala Fernandez",
+    "Viviendas particulares": 5.609,
+    "Servicios basicos - Agua corriente(a)": 614,
+    "Servicios basicos - Desague sanitario(b)": 1.491,
+    "Servicios basicos - Recoleccion de basura (c)": 641,
+    "Servicios basicos - Energia electrica": 4.65,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "Teniente Esteban Martinez",
+    "Viviendas particulares": 763,
+    "Servicios basicos - Agua corriente(a)": 174,
+    "Servicios basicos - Desague sanitario(b)": 362,
+    "Servicios basicos - Recoleccion de basura (c)": 2,
+    "Servicios basicos - Energia electrica": 696,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "General Jose Maria Bruguez",
+    "Viviendas particulares": 791,
+    "Servicios basicos - Agua corriente(a)": 299,
+    "Servicios basicos - Desague sanitario(b)": 319,
+    "Servicios basicos - Recoleccion de basura (c)": "-",
+    "Servicios basicos - Energia electrica": 614,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Campo Aceval",
+    "Viviendas particulares": 1.702,
+    "Servicios basicos - Agua corriente(a)": 84,
+    "Servicios basicos - Desague sanitario(b)": 868,
+    "Servicios basicos - Recoleccion de basura (c)": 352,
+    "Servicios basicos - Energia electrica": 1.606,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Nueva Asuncion",
+    "Viviendas particulares": 965,
+    "Servicios basicos - Agua corriente(a)": 756,
+    "Servicios basicos - Desague sanitario(b)": 664,
+    "Servicios basicos - Recoleccion de basura (c)": 9,
+    "Servicios basicos - Energia electrica": 880,
+    "Promedio de personas por vivienda": "3,3"
+  }
+]

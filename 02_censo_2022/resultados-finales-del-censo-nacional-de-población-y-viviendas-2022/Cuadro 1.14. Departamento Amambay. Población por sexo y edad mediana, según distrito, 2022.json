@@ -1,0 +1,51 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 179.412,
+    "Sexo - Hombres": 88.481,
+    "Sexo - Mujeres": 90.931,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Pedro Juan Caballero",
+    "Total": 127.437,
+    "Sexo - Hombres": 62.312,
+    "Sexo - Mujeres": 65.125,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Bella Vista",
+    "Total": 12.027,
+    "Sexo - Hombres": 5.86,
+    "Sexo - Mujeres": 6.167,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Capitan Bado",
+    "Total": 18.851,
+    "Sexo - Hombres": 9.522,
+    "Sexo - Mujeres": 9.329,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Zanja Pyta",
+    "Total": 5.419,
+    "Sexo - Hombres": 2.687,
+    "Sexo - Mujeres": 2.732,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Karapai",
+    "Total": 4.988,
+    "Sexo - Hombres": 2.573,
+    "Sexo - Mujeres": 2.415,
+    "Edad mediana": 24
+  },
+  {
+    "Distrito": "Cerro Cora",
+    "Total": 10.69,
+    "Sexo - Hombres": 5.527,
+    "Sexo - Mujeres": 5.163,
+    "Edad mediana": 24
+  }
+]

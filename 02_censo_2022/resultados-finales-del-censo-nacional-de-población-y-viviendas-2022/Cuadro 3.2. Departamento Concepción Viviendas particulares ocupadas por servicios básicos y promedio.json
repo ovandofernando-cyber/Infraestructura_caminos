@@ -1,0 +1,137 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 56.465,
+    "Servicios basicos - Agua corriente(a)": 39.669,
+    "Servicios basicos - Desague sanitario (b)": 42.433,
+    "Servicios basicos - Recoleccion de basura (c)": 20.531,
+    "Servicios basicos - Energia electrica": 55.527,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "Concepcion",
+    "Viviendas particulares": 18.969,
+    "Servicios basicos - Agua corriente(a)": 13.723,
+    "Servicios basicos - Desague sanitario (b)": 16.636,
+    "Servicios basicos - Recoleccion de basura (c)": 13.45,
+    "Servicios basicos - Energia electrica": 18.854,
+    "Promedio de personas por vivienda": "3,8"
+  },
+  {
+    "Distrito": "Belen",
+    "Viviendas particulares": 3.008,
+    "Servicios basicos - Agua corriente(a)": 2.052,
+    "Servicios basicos - Desague sanitario (b)": 2.185,
+    "Servicios basicos - Recoleccion de basura (c)": 570,
+    "Servicios basicos - Energia electrica": 2.982,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Horqueta",
+    "Viviendas particulares": 11.326,
+    "Servicios basicos - Agua corriente(a)": 7.814,
+    "Servicios basicos - Desague sanitario (b)": 8.378,
+    "Servicios basicos - Recoleccion de basura (c)": 2.907,
+    "Servicios basicos - Energia electrica": 11.187,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Loreto",
+    "Viviendas particulares": 3.805,
+    "Servicios basicos - Agua corriente(a)": 2.578,
+    "Servicios basicos - Desague sanitario (b)": 2.453,
+    "Servicios basicos - Recoleccion de basura (c)": 965,
+    "Servicios basicos - Energia electrica": 3.751,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "San Carlos del Apa",
+    "Viviendas particulares": 270,
+    "Servicios basicos - Agua corriente(a)": 223,
+    "Servicios basicos - Desague sanitario (b)": 249,
+    "Servicios basicos - Recoleccion de basura (c)": 165,
+    "Servicios basicos - Energia electrica": 269,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "San Lazaro",
+    "Viviendas particulares": 3.013,
+    "Servicios basicos - Agua corriente(a)": 2.578,
+    "Servicios basicos - Desague sanitario (b)": 2.262,
+    "Servicios basicos - Recoleccion de basura (c)": 1.062,
+    "Servicios basicos - Energia electrica": 2.942,
+    "Promedio de personas por vivienda": "3,7"
+  },
+  {
+    "Distrito": "Yby Yau",
+    "Viviendas particulares": 5.536,
+    "Servicios basicos - Agua corriente(a)": 3.634,
+    "Servicios basicos - Desague sanitario (b)": 4.04,
+    "Servicios basicos - Recoleccion de basura (c)": 1.319,
+    "Servicios basicos - Energia electrica": 5.314,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Azotey",
+    "Viviendas particulares": 1.819,
+    "Servicios basicos - Agua corriente(a)": 1.229,
+    "Servicios basicos - Desague sanitario (b)": 1.231,
+    "Servicios basicos - Recoleccion de basura (c)": 5,
+    "Servicios basicos - Energia electrica": 1.769,
+    "Promedio de personas por vivienda": "3,7"
+  },
+  {
+    "Distrito": "Sargento Jose Felix Lopez",
+    "Viviendas particulares": 1.651,
+    "Servicios basicos - Agua corriente(a)": 1.263,
+    "Servicios basicos - Desague sanitario (b)": 827,
+    "Servicios basicos - Recoleccion de basura (c)": 43,
+    "Servicios basicos - Energia electrica": 1.608,
+    "Promedio de personas por vivienda": "3,7"
+  },
+  {
+    "Distrito": "San Alfredo",
+    "Viviendas particulares": 702,
+    "Servicios basicos - Agua corriente(a)": 515,
+    "Servicios basicos - Desague sanitario (b)": 449,
+    "Servicios basicos - Recoleccion de basura (c)": "-",
+    "Servicios basicos - Energia electrica": 693,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Paso Barreto",
+    "Viviendas particulares": 1.201,
+    "Servicios basicos - Agua corriente(a)": 761,
+    "Servicios basicos - Desague sanitario (b)": 734,
+    "Servicios basicos - Recoleccion de basura (c)": 8,
+    "Servicios basicos - Energia electrica": 1.093,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Arroyito",
+    "Viviendas particulares": 2.281,
+    "Servicios basicos - Agua corriente(a)": 1.555,
+    "Servicios basicos - Desague sanitario (b)": 1.453,
+    "Servicios basicos - Recoleccion de basura (c)": 18,
+    "Servicios basicos - Energia electrica": 2.265,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Paso Horqueta",
+    "Viviendas particulares": 2.225,
+    "Servicios basicos - Agua corriente(a)": 1.394,
+    "Servicios basicos - Desague sanitario (b)": 1.256,
+    "Servicios basicos - Recoleccion de basura (c)": 13,
+    "Servicios basicos - Energia electrica": 2.181,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Itacua",
+    "Viviendas particulares": 659,
+    "Servicios basicos - Agua corriente(a)": 350,
+    "Servicios basicos - Desague sanitario (b)": 280,
+    "Servicios basicos - Recoleccion de basura (c)": 6,
+    "Servicios basicos - Energia electrica": 619,
+    "Promedio de personas por vivienda": "3,5"
+  }
+]

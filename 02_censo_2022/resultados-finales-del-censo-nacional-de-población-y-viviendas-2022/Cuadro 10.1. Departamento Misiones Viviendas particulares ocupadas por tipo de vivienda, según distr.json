@@ -1,0 +1,112 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 34.267,
+    "Tipo de vivienda - Casa": 31.855,
+    "Tipo de vivienda - Rancho": 1.361,
+    "Tipo de vivienda - Departamento o piso": 184,
+    "Tipo de vivienda - Pieza de inquilinato": 704,
+    "Tipo de vivienda - Improvisada": 38,
+    "Tipo de vivienda - Otro": 125
+  },
+  {
+    "Distrito": "San Juan Bautista de las Misiones",
+    "Total": 5.877,
+    "Tipo de vivienda - Casa": 5.516,
+    "Tipo de vivienda - Rancho": 115,
+    "Tipo de vivienda - Departamento o piso": 10,
+    "Tipo de vivienda - Pieza de inquilinato": 198,
+    "Tipo de vivienda - Improvisada": 7,
+    "Tipo de vivienda - Otro": 31
+  },
+  {
+    "Distrito": "Ayolas",
+    "Total": 5.218,
+    "Tipo de vivienda - Casa": 4.737,
+    "Tipo de vivienda - Rancho": 185,
+    "Tipo de vivienda - Departamento o piso": 120,
+    "Tipo de vivienda - Pieza de inquilinato": 135,
+    "Tipo de vivienda - Improvisada": 8,
+    "Tipo de vivienda - Otro": 33
+  },
+  {
+    "Distrito": "San Ignacio",
+    "Total": 8.973,
+    "Tipo de vivienda - Casa": 8.297,
+    "Tipo de vivienda - Rancho": 331,
+    "Tipo de vivienda - Departamento o piso": 50,
+    "Tipo de vivienda - Pieza de inquilinato": 253,
+    "Tipo de vivienda - Improvisada": 15,
+    "Tipo de vivienda - Otro": 27
+  },
+  {
+    "Distrito": "San Miguel",
+    "Total": 1.685,
+    "Tipo de vivienda - Casa": 1.533,
+    "Tipo de vivienda - Rancho": 141,
+    "Tipo de vivienda - Departamento o piso": 0,
+    "Tipo de vivienda - Pieza de inquilinato": 6,
+    "Tipo de vivienda - Improvisada": 3,
+    "Tipo de vivienda - Otro": 2
+  },
+  {
+    "Distrito": "San Patricio",
+    "Total": 1.099,
+    "Tipo de vivienda - Casa": 1.045,
+    "Tipo de vivienda - Rancho": 42,
+    "Tipo de vivienda - Departamento o piso": 0,
+    "Tipo de vivienda - Pieza de inquilinato": 8,
+    "Tipo de vivienda - Improvisada": 2,
+    "Tipo de vivienda - Otro": 2
+  },
+  {
+    "Distrito": "Santa Maria",
+    "Total": 2.464,
+    "Tipo de vivienda - Casa": 2.315,
+    "Tipo de vivienda - Rancho": 120,
+    "Tipo de vivienda - Departamento o piso": 1,
+    "Tipo de vivienda - Pieza de inquilinato": 18,
+    "Tipo de vivienda - Improvisada": 1,
+    "Tipo de vivienda - Otro": 9
+  },
+  {
+    "Distrito": "Santa Rosa",
+    "Total": 5.32,
+    "Tipo de vivienda - Casa": 5.022,
+    "Tipo de vivienda - Rancho": 225,
+    "Tipo de vivienda - Departamento o piso": 3,
+    "Tipo de vivienda - Pieza de inquilinato": 57,
+    "Tipo de vivienda - Improvisada": 2,
+    "Tipo de vivienda - Otro": 11
+  },
+  {
+    "Distrito": "Santiago",
+    "Total": 1.932,
+    "Tipo de vivienda - Casa": 1.814,
+    "Tipo de vivienda - Rancho": 99,
+    "Tipo de vivienda - Departamento o piso": 0,
+    "Tipo de vivienda - Pieza de inquilinato": 13,
+    "Tipo de vivienda - Improvisada": 0,
+    "Tipo de vivienda - Otro": 6
+  },
+  {
+    "Distrito": "Villa Florida",
+    "Total": 944,
+    "Tipo de vivienda - Casa": 909,
+    "Tipo de vivienda - Rancho": 22,
+    "Tipo de vivienda - Departamento o piso": 0,
+    "Tipo de vivienda - Pieza de inquilinato": 9,
+    "Tipo de vivienda - Improvisada": 0,
+    "Tipo de vivienda - Otro": 4
+  },
+  {
+    "Distrito": "Yabebyry",
+    "Total": 755,
+    "Tipo de vivienda - Casa": 667,
+    "Tipo de vivienda - Rancho": 81,
+    "Tipo de vivienda - Departamento o piso": 0,
+    "Tipo de vivienda - Pieza de inquilinato": 7,
+    "Tipo de vivienda - Improvisada": 0,
+    "Tipo de vivienda - Otro": 0
+  }
+]

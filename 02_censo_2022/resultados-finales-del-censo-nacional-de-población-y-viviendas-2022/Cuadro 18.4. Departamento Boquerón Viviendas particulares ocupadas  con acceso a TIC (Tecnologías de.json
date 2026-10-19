@@ -1,0 +1,42 @@
+[
+  {
+    "Distrito": "Total",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 16.603,
+    "Acceso a TIC - Televisor con pantalla plana": 11.184,
+    "Acceso a TIC - Computadora o notebook": 5.83,
+    "Acceso a TIC - Tablet o similares": 1.647,
+    "Acceso a TIC - Conexion a Internet": 10.4
+  },
+  {
+    "Distrito": "Mariscal Jose Felix Estigarribia",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.359,
+    "Acceso a TIC - Televisor con pantalla plana": 1.381,
+    "Acceso a TIC - Computadora o notebook": 404,
+    "Acceso a TIC - Tablet o similares": 128,
+    "Acceso a TIC - Conexion a Internet": 1.063
+  },
+  {
+    "Distrito": "Filadelfia",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 5.392,
+    "Acceso a TIC - Televisor con pantalla plana": 3.864,
+    "Acceso a TIC - Computadora o notebook": 2.209,
+    "Acceso a TIC - Tablet o similares": 643,
+    "Acceso a TIC - Conexion a Internet": 3.744
+  },
+  {
+    "Distrito": "Loma Plata",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 5.405,
+    "Acceso a TIC - Televisor con pantalla plana": 3.682,
+    "Acceso a TIC - Computadora o notebook": 2.162,
+    "Acceso a TIC - Tablet o similares": 598,
+    "Acceso a TIC - Conexion a Internet": 3.457
+  },
+  {
+    "Distrito": "Boqueron",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 3.447,
+    "Acceso a TIC - Televisor con pantalla plana": 2.257,
+    "Acceso a TIC - Computadora o notebook": 1.055,
+    "Acceso a TIC - Tablet o similares": 278,
+    "Acceso a TIC - Conexion a Internet": 2.136
+  }
+]

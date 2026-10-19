@@ -1,0 +1,421 @@
+Pueblo, numero de dormitorios y numero de ocupantes; Total  ; Tipo de vivienda  -  Casa ; Tipo de vivienda  -  Rancho ; Tipo de vivienda  -  Improvisada ; Tipo de vivienda  -  Galpon 
+     Total pais;37.096;11.716;23.603;1.727;50
+        Sin dormitorio;69;11;5;3;50
+        1 dormitorio;17.795;2.046;14.320;1.429; -   
+        2 dormitorios;13.938;5.709;8.011;218; -   
+        3 dormitorios;2.769;1.969;769;31; -   
+        4 dormitorios;657;491;162;4; -   
+        5 y mas dormitorios;391;277;108;6; -   
+        No reportado;1.477;1.213;228;36; -   
+        Promedio de dormitorios por vivienda;1,6;2,2;1,4;1,2; - 
+        1 ocupante;5.085;1.164;3.608;306;7
+        2 ocupantes;6.631;1.854;4.414;349;14
+        3 ocupantes;7.860;2.335;5.186;324;15
+        4 ocupantes;6.461;2.172;4.000;279;10
+        5 ocupantes;4.459;1.624;2.628;206;1
+        6 ocupantes;2.861;1.041;1.702;117;1
+        7 ocupantes;1.738;659;1.010;68;1
+        8 ocupantes;1.226;473;690;62;1
+        9 ocupantes;314;143;164;7; -   
+        10 y mas ocupantes;461;251;201;9; -   
+        Promedio de ocupantes por vivienda;3,7;4;3,5;3,4;2,9
+Ache;536;380;155;1; -   
+        Sin dormitorio; -   ; -   ; -   ; -   ; -   
+        1 dormitorio;75;9;65;1; -   
+        2 dormitorios;423;333;90; -   ; -   
+        3 dormitorios;22;22; -   ; -   ; -   
+        4 dormitorios;6;6; -   ; -   ; -   
+        5 y mas dormitorios;2;2; -   ; -   ; -   
+        No reportado;8;8; -   ; -   ; -   
+        Promedio de dormitorios por vivienda;1,9;2,1;1,6;1; - 
+        1 ocupante;14;8;6; -   ; -   
+        2 ocupantes;66;40;26; -   ; -   
+        3 ocupantes;87;51;35;1; -   
+        4 ocupantes;82;64;18; -   ; -   
+        5 ocupantes;95;70;25; -   ; -   
+        6 ocupantes;73;53;20; -   ; -   
+        7 ocupantes;62;50;12; -   ; -   
+        8 ocupantes;31;24;7; -   ; -   
+        9 ocupantes;12;8;4; -   ; -   
+        10 y mas ocupantes;14;12;2; -   ; -   
+        Promedio de ocupantes por vivienda;4,8;5;4,4;3; - 
+Ava Guarani;6.989;2.411;4.188;387;3
+        Sin dormitorio;9;3;2;1;3
+        1 dormitorio;3.161;221;2.630;310; -   
+        2 dormitorios;2.711;1.250;1.402;59; -   
+        3 dormitorios;695;591;100;4; -   
+        4 dormitorios;142;122;17;3; -   
+        5 y mas dormitorios;46;41;5; -   ; -   
+        No reportado;225;183;32;10; -   
+        Promedio de dormitorios por vivienda;1,7;2,3;1,4;1,2; - 
+        1 ocupante;1.460;335;1.000;123;2
+        2 ocupantes;1.402;408;923;70;1
+        3 ocupantes;1.379;478;840;61; -   
+        4 ocupantes;1.076;422;605;49; -   
+        5 ocupantes;771;361;368;42; -   
+        6 ocupantes;459;216;225;18; -   
+        7 ocupantes;258;111;132;15; -   
+        8 ocupantes;144;59;76;9; -   
+        9 ocupantes;23;12;11; -   ; -   
+        10 y mas ocupantes;17;9;8; -   ; -   
+        Promedio de ocupantes por vivienda;3,2;3,7;3;2,9;1,3
+Mbya Guarani;7.369;1.388;5.570;410;1
+        Sin dormitorio;4;1;2; -   ;1
+        1 dormitorio;4.503;232;3.939;332; -   
+        2 dormitorios;2.227;758;1.418;51; -   
+        3 dormitorios;337;204;119;14; -   
+        4 dormitorios;64;38;25;1; -   
+        5 y mas dormitorios;31;11;17;3; -   
+        No reportado;203;144;50;9; -   
+        Promedio de dormitorios por vivienda;1,4;2,1;1,3;1,2; - 
+        1 ocupante;1.244;176;972;96; -   
+        2 ocupantes;1.204;197;921;85;1
+        3 ocupantes;1.293;207;1.020;66; -   
+        4 ocupantes;1.046;225;773;48; -   
+        5 ocupantes;897;189;663;45; -   
+        6 ocupantes;679;142;502;35; -   
+        7 ocupantes;470;124;338;8; -   
+        8 ocupantes;361;84;258;19; -   
+        9 ocupantes;85;19;63;3; -   
+        10 y mas ocupantes;90;25;60;5; -   
+        Promedio de ocupantes por vivienda;3,8;4,2;3,8;3,4;2
+Pai Tavytera;4.835;829;3.777;228;1
+        Sin dormitorio;1; -   ; -   ; -   ;1
+        1 dormitorio;2.580;114;2.298;168; -   
+        2 dormitorios;1.663;425;1.184;54; -   
+        3 dormitorios;298;153;143;2; -   
+        4 dormitorios;104;36;68; -   ; -   
+        5 y mas dormitorios;69;24;43;2; -   
+        No reportado;120;77;41;2; -   
+        Promedio de dormitorios por vivienda;1,6;2,2;1,5;1,3; - 
+        1 ocupante;830;89;703;38; -   
+        2 ocupantes;909;135;731;42;1
+        3 ocupantes;1.176;182;943;51; -   
+        4 ocupantes;894;180;668;46; -   
+        5 ocupantes;521;131;365;25; -   
+        6 ocupantes;296;65;218;13; -   
+        7 ocupantes;115;30;76;9; -   
+        8 ocupantes;64;10;50;4; -   
+        9 ocupantes;14;3;11; -   ; -   
+        10 y mas ocupantes;16;4;12; -   ; -   
+        Promedio de ocupantes por vivienda;3,3;3,7;3,2;3,3;2
+Guarani OccidentalPueblo Guarani;939;490;428;19;2
+        Sin dormitorio;2; -   ; -   ; -   ;2
+        1 dormitorio;263;40;208;15; -   
+        2 dormitorios;361;165;193;3; -   
+        3 dormitorios;157;140;17; -   ; -   
+        4 dormitorios;63;60;3; -   ; -   
+        5 y mas dormitorios;44;41;3; -   ; -   
+        No reportado;49;44;4;1; -   
+        Promedio de dormitorios por vivienda;2,2;2,8;1,6;1,2; - 
+        1 ocupante;87;39;47;1; -   
+        2 ocupantes;123;59;55;9; -   
+        3 ocupantes;165;75;89;1; -   
+        4 ocupantes;170;84;83;1;2
+        5 ocupantes;138;70;64;4; -   
+        6 ocupantes;94;53;41; -   ; -   
+        7 ocupantes;53;31;20;2; -   
+        8 ocupantes;47;29;18; -   ; -   
+        9 ocupantes;23;19;3;1; -   
+        10 y mas ocupantes;39;31;8; -   ; -   
+        Promedio de ocupantes por vivienda;4,4;4,7;4;3,6;4
+Guarani Ñandeva;795;440;311;42;2
+        Sin dormitorio;4;2; -   ; -   ;2
+        1 dormitorio;318;117;164;37; -   
+        2 dormitorios;362;242;116;4; -   
+        3 dormitorios;78;55;23; -   ; -   
+        4 dormitorios;7;7; -   ; -   ; -   
+        5 y mas dormitorios;1; -   ;1; -   ; -   
+        No reportado;25;17;7;1; -   
+        Promedio de dormitorios por vivienda;1,7;1,9;1,5;1,1; - 
+        1 ocupante;61;32;29; -   ; -   
+        2 ocupantes;151;80;61;9;1
+        3 ocupantes;172;90;70;11;1
+        4 ocupantes;169;104;57;8; -   
+        5 ocupantes;98;56;37;5; -   
+        6 ocupantes;61;30;26;5; -   
+        7 ocupantes;32;14;15;3; -   
+        8 ocupantes;29;19;9;1; -   
+        9 ocupantes;6;4;2; -   ; -   
+        10 y mas ocupantes;16;11;5; -   ; -   
+        Promedio de ocupantes por vivienda;3,9;3,9;3,8;4;2,5
+Enlhet Norte;2.625;769;1.722;112;22
+        Sin dormitorio;24; -   ; -   ;2;22
+        1 dormitorio;1.200;214;887;99; -   
+        2 dormitorios;1.034;276;752;6; -   
+        3 dormitorios;134;94;38;2; -   
+        4 dormitorios;43;30;13; -   ; -   
+        5 y mas dormitorios;41;30;11; -   ; -   
+        No reportado;149;125;21;3; -   
+        Promedio de dormitorios por vivienda;1,6;2;1,5;1,1; - 
+        1 ocupante;175;52;115;6;2
+        2 ocupantes;520;154;338;22;6
+        3 ocupantes;683;190;454;31;8
+        4 ocupantes;504;145;328;26;5
+        5 ocupantes;331;96;222;12;1
+        6 ocupantes;181;58;120;3; -   
+        7 ocupantes;122;38;79;5; -   
+        8 ocupantes;74;25;42;7; -   
+        9 ocupantes;20;5;15; -   ; -   
+        10 y mas ocupantes;15;6;9; -   ; -   
+        Promedio de ocupantes por vivienda;3,7;3,8;3,7;3,7;2,9
+Enxet Sur;2.335;832;1.438;60;5
+        Sin dormitorio;5; -   ; -   ; -   ;5
+        1 dormitorio;995;112;832;51; -   
+        2 dormitorios;1.175;616;553;6; -   
+        3 dormitorios;65;32;32;1; -   
+        4 dormitorios;13;10;3; -   ; -   
+        5 y mas dormitorios;9;6;3; -   ; -   
+        No reportado;73;56;15;2; -   
+        Promedio de dormitorios por vivienda;1,6;1,9;1,4;1,1; - 
+        1 ocupante;235;78;150;7; -   
+        2 ocupantes;487;146;315;24;2
+        3 ocupantes;592;209;370;11;2
+        4 ocupantes;460;176;276;7;1
+        5 ocupantes;264;119;141;4; -   
+        6 ocupantes;152;57;90;5; -   
+        7 ocupantes;72;23;49; -   ; -   
+        8 ocupantes;41;14;26;1; -   
+        9 ocupantes;14;4;9;1; -   
+        10 y mas ocupantes;18;6;12; -   ; -   
+        Promedio de ocupantes por vivienda;3,5;3,6;3,5;3,1;2,8
+Sanapana;839;311;472;52;4
+        Sin dormitorio;4; -   ; -   ; -   ;4
+        1 dormitorio;455;137;271;47; -   
+        2 dormitorios;268;75;191;2; -   
+        3 dormitorios;81;75;6; -   ; -   
+        4 dormitorios;3;3; -   ; -   ; -   
+        5 y mas dormitorios;4;2;2; -   ; -   
+        No reportado;24;19;2;3; -   
+        Promedio de dormitorios por vivienda;1,6;1,8;1,4;1; - 
+        1 ocupante;46;19;26;1; -   
+        2 ocupantes;141;54;74;12;1
+        3 ocupantes;171;66;97;6;2
+        4 ocupantes;167;51;103;13; -   
+        5 ocupantes;117;52;59;6; -   
+        6 ocupantes;74;23;47;4; -   
+        7 ocupantes;58;20;31;6;1
+        8 ocupantes;41;15;23;3; -   
+        9 ocupantes;9;4;5; -   ; -   
+        10 y mas ocupantes;15;7;7;1; -   
+        Promedio de ocupantes por vivienda;4,2;4,2;4,2;4,3;3,8
+Angaite;1.803;480;1.287;36; -   
+        Sin dormitorio;1; -   ;1; -   ; -   
+        1 dormitorio;922;101;787;34; -   
+        2 dormitorios;613;257;354;2; -   
+        3 dormitorios;154;31;123; -   ; -   
+        4 dormitorios;14;6;8; -   ; -   
+        5 y mas dormitorios;12;4;8; -   ; -   
+        No reportado;87;81;6; -   ; -   
+        Promedio de dormitorios por vivienda;1,6;1,9;1,5;1,1; - 
+        1 ocupante;117;34;79;4; -   
+        2 ocupantes;309;65;234;10; -   
+        3 ocupantes;401;113;282;6; -   
+        4 ocupantes;348;95;247;6; -   
+        5 ocupantes;251;73;171;7; -   
+        6 ocupantes;154;39;113;2; -   
+        7 ocupantes;107;29;77;1; -   
+        8 ocupantes;78;24;54; -   ; -   
+        9 ocupantes;24;6;18; -   ; -   
+        10 y mas ocupantes;14;2;12; -   ; -   
+        Promedio de ocupantes por vivienda;4;4,1;4;3,3; - 
+Guana;155;61;94; -   ; -   
+        Sin dormitorio; -   ; -   ; -   ; -   ; -   
+        1 dormitorio;55;13;42; -   ; -   
+        2 dormitorios;76;26;50; -   ; -   
+        3 dormitorios;8;6;2; -   ; -   
+        4 dormitorios;2;2; -   ; -   ; -   
+        5 y mas dormitorios;7;7; -   ; -   ; -   
+        No reportado;7;7; -   ; -   ; -   
+        Promedio de dormitorios por vivienda;1,9;2,3;1,6; - ; - 
+        1 ocupante;19;16;3; -   ; -   
+        2 ocupantes;31;11;20; -   ; -   
+        3 ocupantes;38;13;25; -   ; -   
+        4 ocupantes;26;6;20; -   ; -   
+        5 ocupantes;23;8;15; -   ; -   
+        6 ocupantes;8;4;4; -   ; -   
+        7 ocupantes;4;1;3; -   ; -   
+        8 ocupantes;5;1;4; -   ; -   
+        9 ocupantes;1;1; -   ; -   ; -   
+        10 y mas ocupantes; -   ; -   ; -   ; -   ; -   
+        Promedio de ocupantes por vivienda;3,5;3,1;3,7; - ; - 
+Toba MaskoyToba Enenlhet;658;341;283;34; -   
+        Sin dormitorio; -   ; -   ; -   ; -   ; -   
+        1 dormitorio;426;220;179;27; -   
+        2 dormitorios;151;55;92;4; -   
+        3 dormitorios;38;29;7;2; -   
+        4 dormitorios;8;8; -   ; -   ; -   
+        5 y mas dormitorios;12;11;1; -   ; -   
+        No reportado;23;18;4;1; -   
+        Promedio de dormitorios por vivienda;1,5;1,6;1,4;1,2; - 
+        1 ocupante;69;35;30;4; -   
+        2 ocupantes;124;63;49;12; -   
+        3 ocupantes;175;92;74;9; -   
+        4 ocupantes;123;61;59;3; -   
+        5 ocupantes;76;41;32;3; -   
+        6 ocupantes;46;24;21;1; -   
+        7 ocupantes;19;8;10;1; -   
+        8 ocupantes;16;9;6;1; -   
+        9 ocupantes;5;3;2; -   ; -   
+        10 y mas ocupantes;5;5; -   ; -   ; -   
+        Promedio de ocupantes por vivienda;3,6;3,6;3,6;3; - 
+Nivacle;4.031;1.752;2.060;211;8
+        Sin dormitorio;10;2; -   ; -   ;8
+        1 dormitorio;1.462;333;942;187; -   
+        2 dormitorios;1.708;685;1.005;18; -   
+        3 dormitorios;359;284;72;3; -   
+        4 dormitorios;120;112;8; -   ; -   
+        5 y mas dormitorios;86;76;9;1; -   
+        No reportado;286;260;24;2; -   
+        Promedio de dormitorios por vivienda;1,8;2,3;1,6;1,1; - 
+        1 ocupante;252;99;140;10;3
+        2 ocupantes;544;234;281;29; -   
+        3 ocupantes;776;310;431;33;2
+        4 ocupantes;794;317;431;45;1
+        5 ocupantes;571;225;311;35; -   
+        6 ocupantes;394;175;194;24;1
+        7 ocupantes;248;121;111;16; -   
+        8 ocupantes;221;116;90;14;1
+        9 ocupantes;62;44;16;2; -   
+        10 y mas ocupantes;169;111;55;3; -   
+        Promedio de ocupantes por vivienda;4,4;4,7;4,2;4,4;3,4
+Maka;465;340;113;12; -   
+        Sin dormitorio; -   ; -   ; -   ; -   ; -   
+        1 dormitorio;103;35;57;11; -   
+        2 dormitorios;172;154;18; -   ; -   
+        3 dormitorios;149;113;35;1; -   
+        4 dormitorios;16;16; -   ; -   ; -   
+        5 y mas dormitorios;6;6; -   ; -   ; -   
+        No reportado;19;16;3; -   ; -   
+        Promedio de dormitorios por vivienda;2,2;2,4;1,8;1,2; - 
+        1 ocupante;49;22;22;5; -   
+        2 ocupantes;46;30;15;1; -   
+        3 ocupantes;78;51;25;2; -   
+        4 ocupantes;71;58;13; -   ; -   
+        5 ocupantes;60;48;12; -   ; -   
+        6 ocupantes;60;49;9;2; -   
+        7 ocupantes;33;28;5; -   ; -   
+        8 ocupantes;40;31;7;2; -   
+        9 ocupantes;10;9;1; -   ; -   
+        10 y mas ocupantes;18;14;4; -   ; -   
+        Promedio de ocupantes por vivienda;4,6;4,9;3,8;3,4; - 
+Manjui;122;27;29;66; -   
+        Sin dormitorio; -   ; -   ; -   ; -   ; -   
+        1 dormitorio;94;11;23;60; -   
+        2 dormitorios;12;3;5;4; -   
+        3 dormitorios;6;5;1; -   ; -   
+        4 dormitorios;1;1; -   ; -   ; -   
+        5 y mas dormitorios; -   ; -   ; -   ; -   ; -   
+        No reportado;9;7; -   ;2; -   
+        Promedio de dormitorios por vivienda;1,2;1,8;1,2;1,1; - 
+        1 ocupante;11;5;1;5; -   
+        2 ocupantes;16;4;1;11; -   
+        3 ocupantes;34;8;8;18; -   
+        4 ocupantes;24;3;6;15; -   
+        5 ocupantes;22;3;6;13; -   
+        6 ocupantes;8;1;5;2; -   
+        7 ocupantes;6;3;2;1; -   
+        8 ocupantes;1; -   ; -   ;1; -   
+        9 ocupantes; -   ; -   ; -   ; -   ; -   
+        10 y mas ocupantes; -   ; -   ; -   ; -   ; -   
+        Promedio de ocupantes por vivienda;3,7;3,4;4,3;3,5; - 
+Ayoreo;851;232;588;29;2
+        Sin dormitorio;4;2; -   ; -   ;2
+        1 dormitorio;418;31;361;26; -   
+        2 dormitorios;280;83;195;2; -   
+        3 dormitorios;54;40;13;1; -   
+        4 dormitorios;13;8;5; -   ; -   
+        5 y mas dormitorios;2;2; -   ; -   ; -   
+        No reportado;80;66;14; -   ; -   
+        Promedio de dormitorios por vivienda;1,6;2,2;1,4;1,1; - 
+        1 ocupante;143;32;109;2; -   
+        2 ocupantes;207;64;136;6;1
+        3 ocupantes;244;61;174;9; -   
+        4 ocupantes;153;38;107;7;1
+        5 ocupantes;52;17;33;2; -   
+        6 ocupantes;22;10;10;2; -   
+        7 ocupantes;20;6;13;1; -   
+        8 ocupantes;5;2;3; -   ; -   
+        9 ocupantes;1; -   ;1; -   ; -   
+        10 y mas ocupantes;4;2;2; -   ; -   
+        Promedio de ocupantes por vivienda;3;3,1;2,9;3,4;3
+Ybytoso;653;269;383;1; -   
+        Sin dormitorio; -   ; -   ; -   ; -   ; -   
+        1 dormitorio;280;39;240;1; -   
+        2 dormitorios;259;132;127; -   ; -   
+        3 dormitorios;57;42;15; -   ; -   
+        4 dormitorios;10;10; -   ; -   ; -   
+        5 y mas dormitorios;8;8; -   ; -   ; -   
+        No reportado;39;38;1; -   ; -   
+        Promedio de dormitorios por vivienda;1,7;2,2;1,4;1; - 
+        1 ocupante;101;37;63;1; -   
+        2 ocupantes;129;53;76; -   ; -   
+        3 ocupantes;143;61;82; -   ; -   
+        4 ocupantes;132;56;76; -   ; -   
+        5 ocupantes;67;29;38; -   ; -   
+        6 ocupantes;38;15;23; -   ; -   
+        7 ocupantes;20;6;14; -   ; -   
+        8 ocupantes;16;7;9; -   ; -   
+        9 ocupantes;1; -   ;1; -   ; -   
+        10 y mas ocupantes;6;5;1; -   ; -   
+        Promedio de ocupantes por vivienda;3,4;3,5;3,3;1; - 
+Tomaraho;63;23;40; -   ; -   
+        Sin dormitorio; -   ; -   ; -   ; -   ; -   
+        1 dormitorio;50;16;34; -   ; -   
+        2 dormitorios;7;3;4; -   ; -   
+        3 dormitorios;3;2;1; -   ; -   
+        4 dormitorios;1;1; -   ; -   ; -   
+        5 y mas dormitorios; -   ; -   ; -   ; -   ; -   
+        No reportado;2;1;1; -   ; -   
+        Promedio de dormitorios por vivienda;1,3;1,5;1,2; - ; - 
+        1 ocupante;8;2;6; -   ; -   
+        2 ocupantes;10;2;8; -   ; -   
+        3 ocupantes;18;3;15; -   ; -   
+        4 ocupantes;14;7;7; -   ; -   
+        5 ocupantes;7;4;3; -   ; -   
+        6 ocupantes;3;3; -   ; -   ; -   
+        7 ocupantes;3;2;1; -   ; -   
+        8 ocupantes; -   ; -   ; -   ; -   ; -   
+        9 ocupantes; -   ; -   ; -   ; -   ; -   
+        10 y mas ocupantes; -   ; -   ; -   ; -   ; -   
+        Promedio de ocupantes por vivienda;3,4;4,1;2,9; - ; - 
+Qom;677;181;485;11; -   
+        Sin dormitorio; -   ; -   ; -   ; -   ; -   
+        1 dormitorio;288;23;256;9; -   
+        2 dormitorios;317;111;204;2; -   
+        3 dormitorios;32;18;14; -   ; -   
+        4 dormitorios;13;5;8; -   ; -   
+        5 y mas dormitorios;3;2;1; -   ; -   
+        No reportado;24;22;2; -   ; -   
+        Promedio de dormitorios por vivienda;1,7;2,1;1,5;1,2; - 
+        1 ocupante;97;17;79;1; -   
+        2 ocupantes;151;32;117;2; -   
+        3 ocupantes;155;51;104; -   ; -   
+        4 ocupantes;131;41;85;5; -   
+        5 ocupantes;68;15;50;3; -   
+        6 ocupantes;38;13;25; -   ; -   
+        7 ocupantes;22;8;14; -   ; -   
+        8 ocupantes;7;2;5; -   ; -   
+        9 ocupantes;3;1;2; -   ; -   
+        10 y mas ocupantes;5;1;4; -   ; -   
+        Promedio de ocupantes por vivienda;3,3;3,5;3,2;3,6; - 
+No indigena;356;160;180;16; -   
+        Sin dormitorio;1;1; -   ; -   ; -   
+        1 dormitorio;147;28;105;14; -   
+        2 dormitorios;119;60;58;1; -   
+        3 dormitorios;42;33;8;1; -   
+        4 dormitorios;14;10;4; -   ; -   
+        5 y mas dormitorios;8;4;4; -   ; -   
+        No reportado;25;24;1; -   ; -   
+        Promedio de dormitorios por vivienda;1,8;2,3;1,6;1,2; - 
+        1 ocupante;67;37;28;2; -   
+        2 ocupantes;61;23;33;5; -   
+        3 ocupantes;80;24;48;8; -   
+        4 ocupantes;77;39;38; -   ; -   
+        5 ocupantes;30;17;13; -   ; -   
+        6 ocupantes;21;11;9;1; -   
+        7 ocupantes;14;6;8; -   ; -   
+        8 ocupantes;5;2;3; -   ; -   
+        9 ocupantes;1;1; -   ; -   ; -   
+        10 y mas ocupantes; -   ; -   ; -   ; -   ; -   
+        Promedio de ocupantes por vivienda;3,3;3,3;3,3;2,6; - 

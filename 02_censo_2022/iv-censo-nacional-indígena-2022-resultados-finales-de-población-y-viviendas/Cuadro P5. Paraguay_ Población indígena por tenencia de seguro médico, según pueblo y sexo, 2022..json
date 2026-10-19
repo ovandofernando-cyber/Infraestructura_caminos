@@ -1,0 +1,578 @@
+[
+  {
+    "Pueblo y sexo": "Total pais",
+    "Total": 137.547,
+    "Tenencia de seguro medico - Si, IPS": 4.532,
+    "Tenencia de seguro medico - Si, seguro privado": 17.284,
+    "Tenencia de seguro medico - Si, otro": 4.416,
+    "Tenencia de seguro medico - No tiene": 98.194,
+    "Tenencia de seguro medico - No reportado": 13.121
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 70.11,
+    "Tenencia de seguro medico - Si, IPS": 2.478,
+    "Tenencia de seguro medico - Si, seguro privado": 9.097,
+    "Tenencia de seguro medico - Si, otro": 2.319,
+    "Tenencia de seguro medico - No tiene": 49.487,
+    "Tenencia de seguro medico - No reportado": 6.729
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 67.437,
+    "Tenencia de seguro medico - Si, IPS": 2.054,
+    "Tenencia de seguro medico - Si, seguro privado": 8.187,
+    "Tenencia de seguro medico - Si, otro": 2.097,
+    "Tenencia de seguro medico - No tiene": 48.707,
+    "Tenencia de seguro medico - No reportado": 6.392
+  },
+  {
+    "Pueblo y sexo": "Ache",
+    "Total": 2.604,
+    "Tenencia de seguro medico - Si, IPS": 69,
+    "Tenencia de seguro medico - Si, seguro privado": 12,
+    "Tenencia de seguro medico - Si, otro": "-",
+    "Tenencia de seguro medico - No tiene": 2.468,
+    "Tenencia de seguro medico - No reportado": 55
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 1.329,
+    "Tenencia de seguro medico - Si, IPS": 37,
+    "Tenencia de seguro medico - Si, seguro privado": 3,
+    "Tenencia de seguro medico - Si, otro": "-",
+    "Tenencia de seguro medico - No tiene": 1.256,
+    "Tenencia de seguro medico - No reportado": 33
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 1.275,
+    "Tenencia de seguro medico - Si, IPS": 32,
+    "Tenencia de seguro medico - Si, seguro privado": 9,
+    "Tenencia de seguro medico - Si, otro": "-",
+    "Tenencia de seguro medico - No tiene": 1.212,
+    "Tenencia de seguro medico - No reportado": 22
+  },
+  {
+    "Pueblo y sexo": "Ava Guarani",
+    "Total": 22.705,
+    "Tenencia de seguro medico - Si, IPS": 692,
+    "Tenencia de seguro medico - Si, seguro privado": 21,
+    "Tenencia de seguro medico - Si, otro": 117,
+    "Tenencia de seguro medico - No tiene": 19.326,
+    "Tenencia de seguro medico - No reportado": 2.549
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 11.539,
+    "Tenencia de seguro medico - Si, IPS": 379,
+    "Tenencia de seguro medico - Si, seguro privado": 13,
+    "Tenencia de seguro medico - Si, otro": 59,
+    "Tenencia de seguro medico - No tiene": 9.752,
+    "Tenencia de seguro medico - No reportado": 1.336
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 11.166,
+    "Tenencia de seguro medico - Si, IPS": 313,
+    "Tenencia de seguro medico - Si, seguro privado": 8,
+    "Tenencia de seguro medico - Si, otro": 58,
+    "Tenencia de seguro medico - No tiene": 9.574,
+    "Tenencia de seguro medico - No reportado": 1.213
+  },
+  {
+    "Pueblo y sexo": "Mbya Guarani",
+    "Total": 28.278,
+    "Tenencia de seguro medico - Si, IPS": 396,
+    "Tenencia de seguro medico - Si, seguro privado": 45,
+    "Tenencia de seguro medico - Si, otro": 194,
+    "Tenencia de seguro medico - No tiene": 25.56,
+    "Tenencia de seguro medico - No reportado": 2.083
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 14.445,
+    "Tenencia de seguro medico - Si, IPS": 219,
+    "Tenencia de seguro medico - Si, seguro privado": 27,
+    "Tenencia de seguro medico - Si, otro": 105,
+    "Tenencia de seguro medico - No tiene": 13.001,
+    "Tenencia de seguro medico - No reportado": 1.093
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 13.833,
+    "Tenencia de seguro medico - Si, IPS": 177,
+    "Tenencia de seguro medico - Si, seguro privado": 18,
+    "Tenencia de seguro medico - Si, otro": 89,
+    "Tenencia de seguro medico - No tiene": 12.559,
+    "Tenencia de seguro medico - No reportado": 990
+  },
+  {
+    "Pueblo y sexo": "Pai Tavytera",
+    "Total": 15.705,
+    "Tenencia de seguro medico - Si, IPS": 538,
+    "Tenencia de seguro medico - Si, seguro privado": 21,
+    "Tenencia de seguro medico - Si, otro": 122,
+    "Tenencia de seguro medico - No tiene": 14.166,
+    "Tenencia de seguro medico - No reportado": 858
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 7.828,
+    "Tenencia de seguro medico - Si, IPS": 276,
+    "Tenencia de seguro medico - Si, seguro privado": 14,
+    "Tenencia de seguro medico - Si, otro": 56,
+    "Tenencia de seguro medico - No tiene": 7.05,
+    "Tenencia de seguro medico - No reportado": 432
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 7.877,
+    "Tenencia de seguro medico - Si, IPS": 262,
+    "Tenencia de seguro medico - Si, seguro privado": 7,
+    "Tenencia de seguro medico - Si, otro": 66,
+    "Tenencia de seguro medico - No tiene": 7.116,
+    "Tenencia de seguro medico - No reportado": 426
+  },
+  {
+    "Pueblo y sexo": "Guarani Occidental/Pueblo Guarani",
+    "Total": 4.09,
+    "Tenencia de seguro medico - Si, IPS": 688,
+    "Tenencia de seguro medico - Si, seguro privado": 516,
+    "Tenencia de seguro medico - Si, otro": 90,
+    "Tenencia de seguro medico - No tiene": 2.654,
+    "Tenencia de seguro medico - No reportado": 142
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 2.055,
+    "Tenencia de seguro medico - Si, IPS": 339,
+    "Tenencia de seguro medico - Si, seguro privado": 255,
+    "Tenencia de seguro medico - Si, otro": 52,
+    "Tenencia de seguro medico - No tiene": 1.337,
+    "Tenencia de seguro medico - No reportado": 72
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 2.035,
+    "Tenencia de seguro medico - Si, IPS": 349,
+    "Tenencia de seguro medico - Si, seguro privado": 261,
+    "Tenencia de seguro medico - Si, otro": 38,
+    "Tenencia de seguro medico - No tiene": 1.317,
+    "Tenencia de seguro medico - No reportado": 70
+  },
+  {
+    "Pueblo y sexo": "Guarani Nandeva",
+    "Total": 3.124,
+    "Tenencia de seguro medico - Si, IPS": 92,
+    "Tenencia de seguro medico - Si, seguro privado": 335,
+    "Tenencia de seguro medico - Si, otro": 51,
+    "Tenencia de seguro medico - No tiene": 2.412,
+    "Tenencia de seguro medico - No reportado": 234
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 1.584,
+    "Tenencia de seguro medico - Si, IPS": 54,
+    "Tenencia de seguro medico - Si, seguro privado": 190,
+    "Tenencia de seguro medico - Si, otro": 36,
+    "Tenencia de seguro medico - No tiene": 1.187,
+    "Tenencia de seguro medico - No reportado": 117
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 1.54,
+    "Tenencia de seguro medico - Si, IPS": 38,
+    "Tenencia de seguro medico - Si, seguro privado": 145,
+    "Tenencia de seguro medico - Si, otro": 15,
+    "Tenencia de seguro medico - No tiene": 1.225,
+    "Tenencia de seguro medico - No reportado": 117
+  },
+  {
+    "Pueblo y sexo": "Enlhet Norte",
+    "Total": 9.874,
+    "Tenencia de seguro medico - Si, IPS": 183,
+    "Tenencia de seguro medico - Si, seguro privado": 6.667,
+    "Tenencia de seguro medico - Si, otro": 183,
+    "Tenencia de seguro medico - No tiene": 876,
+    "Tenencia de seguro medico - No reportado": 1.965
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 5.108,
+    "Tenencia de seguro medico - Si, IPS": 108,
+    "Tenencia de seguro medico - Si, seguro privado": 3.514,
+    "Tenencia de seguro medico - Si, otro": 92,
+    "Tenencia de seguro medico - No tiene": 424,
+    "Tenencia de seguro medico - No reportado": 970
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 4.766,
+    "Tenencia de seguro medico - Si, IPS": 75,
+    "Tenencia de seguro medico - Si, seguro privado": 3.153,
+    "Tenencia de seguro medico - Si, otro": 91,
+    "Tenencia de seguro medico - No tiene": 452,
+    "Tenencia de seguro medico - No reportado": 995
+  },
+  {
+    "Pueblo y sexo": "Enxet Sur",
+    "Total": 8.189,
+    "Tenencia de seguro medico - Si, IPS": 386,
+    "Tenencia de seguro medico - Si, seguro privado": 680,
+    "Tenencia de seguro medico - Si, otro": 62,
+    "Tenencia de seguro medico - No tiene": 6.721,
+    "Tenencia de seguro medico - No reportado": 340
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 4.193,
+    "Tenencia de seguro medico - Si, IPS": 240,
+    "Tenencia de seguro medico - Si, seguro privado": 386,
+    "Tenencia de seguro medico - Si, otro": 38,
+    "Tenencia de seguro medico - No tiene": 3.344,
+    "Tenencia de seguro medico - No reportado": 185
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 3.996,
+    "Tenencia de seguro medico - Si, IPS": 146,
+    "Tenencia de seguro medico - Si, seguro privado": 294,
+    "Tenencia de seguro medico - Si, otro": 24,
+    "Tenencia de seguro medico - No tiene": 3.377,
+    "Tenencia de seguro medico - No reportado": 155
+  },
+  {
+    "Pueblo y sexo": "Sanapana",
+    "Total": 3.523,
+    "Tenencia de seguro medico - Si, IPS": 33,
+    "Tenencia de seguro medico - Si, seguro privado": 1.585,
+    "Tenencia de seguro medico - Si, otro": 54,
+    "Tenencia de seguro medico - No tiene": 1.402,
+    "Tenencia de seguro medico - No reportado": 449
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 1.824,
+    "Tenencia de seguro medico - Si, IPS": 17,
+    "Tenencia de seguro medico - Si, seguro privado": 832,
+    "Tenencia de seguro medico - Si, otro": 31,
+    "Tenencia de seguro medico - No tiene": 722,
+    "Tenencia de seguro medico - No reportado": 222
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 1.699,
+    "Tenencia de seguro medico - Si, IPS": 16,
+    "Tenencia de seguro medico - Si, seguro privado": 753,
+    "Tenencia de seguro medico - Si, otro": 23,
+    "Tenencia de seguro medico - No tiene": 680,
+    "Tenencia de seguro medico - No reportado": 227
+  },
+  {
+    "Pueblo y sexo": "Angaite",
+    "Total": 7.239,
+    "Tenencia de seguro medico - Si, IPS": 100,
+    "Tenencia de seguro medico - Si, seguro privado": 119,
+    "Tenencia de seguro medico - Si, otro": 50,
+    "Tenencia de seguro medico - No tiene": 5.791,
+    "Tenencia de seguro medico - No reportado": 1.179
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 3.629,
+    "Tenencia de seguro medico - Si, IPS": 60,
+    "Tenencia de seguro medico - Si, seguro privado": 63,
+    "Tenencia de seguro medico - Si, otro": 35,
+    "Tenencia de seguro medico - No tiene": 2.872,
+    "Tenencia de seguro medico - No reportado": 599
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 3.61,
+    "Tenencia de seguro medico - Si, IPS": 40,
+    "Tenencia de seguro medico - Si, seguro privado": 56,
+    "Tenencia de seguro medico - Si, otro": 15,
+    "Tenencia de seguro medico - No tiene": 2.919,
+    "Tenencia de seguro medico - No reportado": 580
+  },
+  {
+    "Pueblo y sexo": "Guana",
+    "Total": 556,
+    "Tenencia de seguro medico - Si, IPS": 26,
+    "Tenencia de seguro medico - Si, seguro privado": 15,
+    "Tenencia de seguro medico - Si, otro": 10,
+    "Tenencia de seguro medico - No tiene": 427,
+    "Tenencia de seguro medico - No reportado": 78
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 290,
+    "Tenencia de seguro medico - Si, IPS": 19,
+    "Tenencia de seguro medico - Si, seguro privado": 9,
+    "Tenencia de seguro medico - Si, otro": 6,
+    "Tenencia de seguro medico - No tiene": 208,
+    "Tenencia de seguro medico - No reportado": 48
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 266,
+    "Tenencia de seguro medico - Si, IPS": 7,
+    "Tenencia de seguro medico - Si, seguro privado": 6,
+    "Tenencia de seguro medico - Si, otro": 4,
+    "Tenencia de seguro medico - No tiene": 219,
+    "Tenencia de seguro medico - No reportado": 30
+  },
+  {
+    "Pueblo y sexo": "Toba Maskoy/Toba Enenlhet",
+    "Total": 2.371,
+    "Tenencia de seguro medico - Si, IPS": 31,
+    "Tenencia de seguro medico - Si, seguro privado": 640,
+    "Tenencia de seguro medico - Si, otro": 337,
+    "Tenencia de seguro medico - No tiene": 873,
+    "Tenencia de seguro medico - No reportado": 490
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 1.241,
+    "Tenencia de seguro medico - Si, IPS": 22,
+    "Tenencia de seguro medico - Si, seguro privado": 355,
+    "Tenencia de seguro medico - Si, otro": 194,
+    "Tenencia de seguro medico - No tiene": 432,
+    "Tenencia de seguro medico - No reportado": 238
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 1.13,
+    "Tenencia de seguro medico - Si, IPS": 9,
+    "Tenencia de seguro medico - Si, seguro privado": 285,
+    "Tenencia de seguro medico - Si, otro": 143,
+    "Tenencia de seguro medico - No tiene": 441,
+    "Tenencia de seguro medico - No reportado": 252
+  },
+  {
+    "Pueblo y sexo": "Nivacle",
+    "Total": 18.28,
+    "Tenencia de seguro medico - Si, IPS": 700,
+    "Tenencia de seguro medico - Si, seguro privado": 5.933,
+    "Tenencia de seguro medico - Si, otro": 2.987,
+    "Tenencia de seguro medico - No tiene": 7.148,
+    "Tenencia de seguro medico - No reportado": 1.512
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 9.18,
+    "Tenencia de seguro medico - Si, IPS": 369,
+    "Tenencia de seguro medico - Si, seguro privado": 3.052,
+    "Tenencia de seguro medico - Si, otro": 1.523,
+    "Tenencia de seguro medico - No tiene": 3.467,
+    "Tenencia de seguro medico - No reportado": 769
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 9.1,
+    "Tenencia de seguro medico - Si, IPS": 331,
+    "Tenencia de seguro medico - Si, seguro privado": 2.881,
+    "Tenencia de seguro medico - Si, otro": 1.464,
+    "Tenencia de seguro medico - No tiene": 3.681,
+    "Tenencia de seguro medico - No reportado": 743
+  },
+  {
+    "Pueblo y sexo": "Maka",
+    "Total": 2.166,
+    "Tenencia de seguro medico - Si, IPS": 48,
+    "Tenencia de seguro medico - Si, seguro privado": 29,
+    "Tenencia de seguro medico - Si, otro": 2,
+    "Tenencia de seguro medico - No tiene": 1.672,
+    "Tenencia de seguro medico - No reportado": 415
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 1.102,
+    "Tenencia de seguro medico - Si, IPS": 28,
+    "Tenencia de seguro medico - Si, seguro privado": 16,
+    "Tenencia de seguro medico - Si, otro": 1,
+    "Tenencia de seguro medico - No tiene": 855,
+    "Tenencia de seguro medico - No reportado": 202
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 1.064,
+    "Tenencia de seguro medico - Si, IPS": 20,
+    "Tenencia de seguro medico - Si, seguro privado": 13,
+    "Tenencia de seguro medico - Si, otro": 1,
+    "Tenencia de seguro medico - No tiene": 817,
+    "Tenencia de seguro medico - No reportado": 213
+  },
+  {
+    "Pueblo y sexo": "",
+    "Total": "",
+    "Tenencia de seguro medico - Si, IPS": "",
+    "Tenencia de seguro medico - Si, seguro privado": "",
+    "Tenencia de seguro medico - Si, otro": "",
+    "Tenencia de seguro medico - No tiene": "",
+    "Tenencia de seguro medico - No reportado": ""
+  },
+  {
+    "Pueblo y sexo": "Manjui",
+    "Total": 431,
+    "Tenencia de seguro medico - Si, IPS": 1,
+    "Tenencia de seguro medico - Si, seguro privado": 8,
+    "Tenencia de seguro medico - Si, otro": 51,
+    "Tenencia de seguro medico - No tiene": 342,
+    "Tenencia de seguro medico - No reportado": 29
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 220,
+    "Tenencia de seguro medico - Si, IPS": 0,
+    "Tenencia de seguro medico - Si, seguro privado": 5,
+    "Tenencia de seguro medico - Si, otro": 28,
+    "Tenencia de seguro medico - No tiene": 173,
+    "Tenencia de seguro medico - No reportado": 14
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 211,
+    "Tenencia de seguro medico - Si, IPS": 1,
+    "Tenencia de seguro medico - Si, seguro privado": 3,
+    "Tenencia de seguro medico - Si, otro": 23,
+    "Tenencia de seguro medico - No tiene": 169,
+    "Tenencia de seguro medico - No reportado": 15
+  },
+  {
+    "Pueblo y sexo": "Ayoreo",
+    "Total": 2.52,
+    "Tenencia de seguro medico - Si, IPS": 87,
+    "Tenencia de seguro medico - Si, seguro privado": 579,
+    "Tenencia de seguro medico - Si, otro": 72,
+    "Tenencia de seguro medico - No tiene": 1.362,
+    "Tenencia de seguro medico - No reportado": 420
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 1.301,
+    "Tenencia de seguro medico - Si, IPS": 52,
+    "Tenencia de seguro medico - Si, seguro privado": 317,
+    "Tenencia de seguro medico - Si, otro": 40,
+    "Tenencia de seguro medico - No tiene": 674,
+    "Tenencia de seguro medico - No reportado": 218
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 1.219,
+    "Tenencia de seguro medico - Si, IPS": 35,
+    "Tenencia de seguro medico - Si, seguro privado": 262,
+    "Tenencia de seguro medico - Si, otro": 32,
+    "Tenencia de seguro medico - No tiene": 688,
+    "Tenencia de seguro medico - No reportado": 202
+  },
+  {
+    "Pueblo y sexo": "Ybytoso",
+    "Total": 2.236,
+    "Tenencia de seguro medico - Si, IPS": 99,
+    "Tenencia de seguro medico - Si, seguro privado": 8,
+    "Tenencia de seguro medico - Si, otro": 15,
+    "Tenencia de seguro medico - No tiene": 1.986,
+    "Tenencia de seguro medico - No reportado": 128
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 1.135,
+    "Tenencia de seguro medico - Si, IPS": 44,
+    "Tenencia de seguro medico - Si, seguro privado": 3,
+    "Tenencia de seguro medico - Si, otro": 8,
+    "Tenencia de seguro medico - No tiene": 1.005,
+    "Tenencia de seguro medico - No reportado": 75
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 1.101,
+    "Tenencia de seguro medico - Si, IPS": 55,
+    "Tenencia de seguro medico - Si, seguro privado": 5,
+    "Tenencia de seguro medico - Si, otro": 7,
+    "Tenencia de seguro medico - No tiene": 981,
+    "Tenencia de seguro medico - No reportado": 53
+  },
+  {
+    "Pueblo y sexo": "Tomaraho",
+    "Total": 213,
+    "Tenencia de seguro medico - Si, IPS": 18,
+    "Tenencia de seguro medico - Si, seguro privado": "-",
+    "Tenencia de seguro medico - Si, otro": "-",
+    "Tenencia de seguro medico - No tiene": 191,
+    "Tenencia de seguro medico - No reportado": 4
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 110,
+    "Tenencia de seguro medico - Si, IPS": 9,
+    "Tenencia de seguro medico - Si, seguro privado": 0,
+    "Tenencia de seguro medico - Si, otro": 0,
+    "Tenencia de seguro medico - No tiene": 98,
+    "Tenencia de seguro medico - No reportado": 3
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 103,
+    "Tenencia de seguro medico - Si, IPS": 9,
+    "Tenencia de seguro medico - Si, seguro privado": 0,
+    "Tenencia de seguro medico - Si, otro": "-",
+    "Tenencia de seguro medico - No tiene": 93,
+    "Tenencia de seguro medico - No reportado": 1
+  },
+  {
+    "Pueblo y sexo": "Qom",
+    "Total": 2.198,
+    "Tenencia de seguro medico - Si, IPS": 136,
+    "Tenencia de seguro medico - Si, seguro privado": 11,
+    "Tenencia de seguro medico - Si, otro": 1,
+    "Tenencia de seguro medico - No tiene": 1.913,
+    "Tenencia de seguro medico - No reportado": 137
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 1.101,
+    "Tenencia de seguro medico - Si, IPS": 78,
+    "Tenencia de seguro medico - Si, seguro privado": 7,
+    "Tenencia de seguro medico - Si, otro": 1,
+    "Tenencia de seguro medico - No tiene": 947,
+    "Tenencia de seguro medico - No reportado": 68
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 1.097,
+    "Tenencia de seguro medico - Si, IPS": 58,
+    "Tenencia de seguro medico - Si, seguro privado": 4,
+    "Tenencia de seguro medico - Si, otro": "-",
+    "Tenencia de seguro medico - No tiene": 966,
+    "Tenencia de seguro medico - No reportado": 69
+  },
+  {
+    "Pueblo y sexo": "No indigena",
+    "Total": 1.245,
+    "Tenencia de seguro medico - Si, IPS": 209,
+    "Tenencia de seguro medico - Si, seguro privado": 60,
+    "Tenencia de seguro medico - Si, otro": 18,
+    "Tenencia de seguro medico - No tiene": 904,
+    "Tenencia de seguro medico - No reportado": 54
+  },
+  {
+    "Pueblo y sexo": "Varon",
+    "Total": 896,
+    "Tenencia de seguro medico - Si, IPS": 128,
+    "Tenencia de seguro medico - Si, seguro privado": 36,
+    "Tenencia de seguro medico - Si, otro": 14,
+    "Tenencia de seguro medico - No tiene": 683,
+    "Tenencia de seguro medico - No reportado": 35
+  },
+  {
+    "Pueblo y sexo": "Mujer",
+    "Total": 349,
+    "Tenencia de seguro medico - Si, IPS": 81,
+    "Tenencia de seguro medico - Si, seguro privado": 24,
+    "Tenencia de seguro medico - Si, otro": 4,
+    "Tenencia de seguro medico - No tiene": 221,
+    "Tenencia de seguro medico - No reportado": 19
+  }
+]

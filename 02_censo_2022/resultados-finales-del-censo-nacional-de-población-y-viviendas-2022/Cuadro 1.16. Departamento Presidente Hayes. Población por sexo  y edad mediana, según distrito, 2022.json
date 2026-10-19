@@ -1,0 +1,79 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 123.313,
+    "Sexo - Hombres": 63.848,
+    "Sexo - Mujeres": 59.465,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Benjamin Aceval",
+    "Total": 22.008,
+    "Sexo - Hombres": 11.205,
+    "Sexo - Mujeres": 10.803,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Puerto Pinasco",
+    "Total": 9.241,
+    "Sexo - Hombres": 4.907,
+    "Sexo - Mujeres": 4.334,
+    "Edad mediana": 22
+  },
+  {
+    "Distrito": "Villa Hayes",
+    "Total": 47.967,
+    "Sexo - Hombres": 24.34,
+    "Sexo - Mujeres": 23.627,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Nanawa",
+    "Total": 6.005,
+    "Sexo - Hombres": 3.099,
+    "Sexo - Mujeres": 2.906,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Jose Falcon",
+    "Total": 3.693,
+    "Sexo - Hombres": 1.882,
+    "Sexo - Mujeres": 1.811,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Tte. 1ero Manuel Irala Fernandez",
+    "Total": 20.145,
+    "Sexo - Hombres": 10.507,
+    "Sexo - Mujeres": 9.638,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Teniente Esteban Martinez",
+    "Total": 2.743,
+    "Sexo - Hombres": 1.594,
+    "Sexo - Mujeres": 1.149,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "General Jose Maria Bruguez",
+    "Total": 2.491,
+    "Sexo - Hombres": 1.403,
+    "Sexo - Mujeres": 1.088,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Campo Aceval",
+    "Total": 5.848,
+    "Sexo - Hombres": 3.245,
+    "Sexo - Mujeres": 2.603,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Nueva Asuncion",
+    "Total": 3.172,
+    "Sexo - Hombres": 1.666,
+    "Sexo - Mujeres": 1.506,
+    "Edad mediana": 26
+  }
+]

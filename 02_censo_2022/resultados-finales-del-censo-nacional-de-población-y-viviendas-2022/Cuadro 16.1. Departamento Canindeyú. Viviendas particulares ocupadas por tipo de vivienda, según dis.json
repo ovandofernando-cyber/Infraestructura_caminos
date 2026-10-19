@@ -1,0 +1,172 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 57.353,
+    "Tipo de vivienda - Casa": 45.15,
+    "Tipo de vivienda - Rancho": 9.258,
+    "Tipo de vivienda - Departamento o piso": 220,
+    "Tipo de vivienda - Pieza de inquilinato": 2.117,
+    "Tipo de vivienda - Improvisada": 344,
+    "Tipo de vivienda - Otro": 264
+  },
+  {
+    "Distrito": "Salto del Guaira",
+    "Total": 8.663,
+    "Tipo de vivienda - Casa": 6.989,
+    "Tipo de vivienda - Rancho": 453,
+    "Tipo de vivienda - Departamento o piso": 113,
+    "Tipo de vivienda - Pieza de inquilinato": 1.025,
+    "Tipo de vivienda - Improvisada": 11,
+    "Tipo de vivienda - Otro": 72
+  },
+  {
+    "Distrito": "Corpus Christi",
+    "Total": 2.42,
+    "Tipo de vivienda - Casa": 1.897,
+    "Tipo de vivienda - Rancho": 392,
+    "Tipo de vivienda - Departamento o piso": 3,
+    "Tipo de vivienda - Pieza de inquilinato": 64,
+    "Tipo de vivienda - Improvisada": 56,
+    "Tipo de vivienda - Otro": 8
+  },
+  {
+    "Distrito": "Villa Curuguaty",
+    "Total": 9.781,
+    "Tipo de vivienda - Casa": 7.719,
+    "Tipo de vivienda - Rancho": 1.614,
+    "Tipo de vivienda - Departamento o piso": 22,
+    "Tipo de vivienda - Pieza de inquilinato": 335,
+    "Tipo de vivienda - Improvisada": 58,
+    "Tipo de vivienda - Otro": 33
+  },
+  {
+    "Distrito": "Villa Ygatimi",
+    "Total": 3.74,
+    "Tipo de vivienda - Casa": 2.807,
+    "Tipo de vivienda - Rancho": 863,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 38,
+    "Tipo de vivienda - Improvisada": 12,
+    "Tipo de vivienda - Otro": 20
+  },
+  {
+    "Distrito": "Itanara",
+    "Total": 743,
+    "Tipo de vivienda - Casa": 499,
+    "Tipo de vivienda - Rancho": 232,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 1,
+    "Tipo de vivienda - Improvisada": 10,
+    "Tipo de vivienda - Otro": 1
+  },
+  {
+    "Distrito": "Ypejhu",
+    "Total": 2.574,
+    "Tipo de vivienda - Casa": 1.788,
+    "Tipo de vivienda - Rancho": 749,
+    "Tipo de vivienda - Departamento o piso": 1,
+    "Tipo de vivienda - Pieza de inquilinato": 16,
+    "Tipo de vivienda - Improvisada": 20,
+    "Tipo de vivienda - Otro": "-"
+  },
+  {
+    "Distrito": "Francisco Caballero Alvarez",
+    "Total": 2.374,
+    "Tipo de vivienda - Casa": 2.029,
+    "Tipo de vivienda - Rancho": 281,
+    "Tipo de vivienda - Departamento o piso": 3,
+    "Tipo de vivienda - Pieza de inquilinato": 49,
+    "Tipo de vivienda - Improvisada": 5,
+    "Tipo de vivienda - Otro": 7
+  },
+  {
+    "Distrito": "Katuete",
+    "Total": 3.525,
+    "Tipo de vivienda - Casa": 3.047,
+    "Tipo de vivienda - Rancho": 126,
+    "Tipo de vivienda - Departamento o piso": 53,
+    "Tipo de vivienda - Pieza de inquilinato": 281,
+    "Tipo de vivienda - Improvisada": 5,
+    "Tipo de vivienda - Otro": 13
+  },
+  {
+    "Distrito": "La Paloma del Espiritu Santo",
+    "Total": 2.324,
+    "Tipo de vivienda - Casa": 2.028,
+    "Tipo de vivienda - Rancho": 189,
+    "Tipo de vivienda - Departamento o piso": 6,
+    "Tipo de vivienda - Pieza de inquilinato": 77,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": 24
+  },
+  {
+    "Distrito": "Nueva Esperanza",
+    "Total": 3.515,
+    "Tipo de vivienda - Casa": 2.884,
+    "Tipo de vivienda - Rancho": 382,
+    "Tipo de vivienda - Departamento o piso": 17,
+    "Tipo de vivienda - Pieza de inquilinato": 169,
+    "Tipo de vivienda - Improvisada": 29,
+    "Tipo de vivienda - Otro": 34
+  },
+  {
+    "Distrito": "Yasy Cany",
+    "Total": 6.215,
+    "Tipo de vivienda - Casa": 4.708,
+    "Tipo de vivienda - Rancho": 1.445,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 21,
+    "Tipo de vivienda - Improvisada": 36,
+    "Tipo de vivienda - Otro": 5
+  },
+  {
+    "Distrito": "Ybyrarobana",
+    "Total": 2.666,
+    "Tipo de vivienda - Casa": 2.142,
+    "Tipo de vivienda - Rancho": 482,
+    "Tipo de vivienda - Departamento o piso": 2,
+    "Tipo de vivienda - Pieza de inquilinato": 17,
+    "Tipo de vivienda - Improvisada": 16,
+    "Tipo de vivienda - Otro": 7
+  },
+  {
+    "Distrito": "Yby Pyta",
+    "Total": 3.43,
+    "Tipo de vivienda - Casa": 2.638,
+    "Tipo de vivienda - Rancho": 764,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 11,
+    "Tipo de vivienda - Improvisada": 5,
+    "Tipo de vivienda - Otro": 12
+  },
+  {
+    "Distrito": "Maracana",
+    "Total": 4.177,
+    "Tipo de vivienda - Casa": 3.096,
+    "Tipo de vivienda - Rancho": 1.004,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 7,
+    "Tipo de vivienda - Improvisada": 45,
+    "Tipo de vivienda - Otro": 25
+  },
+  {
+    "Distrito": "Puerto Adela",
+    "Total": 432,
+    "Tipo de vivienda - Casa": 345,
+    "Tipo de vivienda - Rancho": 72,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": "-",
+    "Tipo de vivienda - Improvisada": 14,
+    "Tipo de vivienda - Otro": 1
+  },
+  {
+    "Distrito": "Laurel",
+    "Total": 774,
+    "Tipo de vivienda - Casa": 534,
+    "Tipo de vivienda - Rancho": 210,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 6,
+    "Tipo de vivienda - Improvisada": 22,
+    "Tipo de vivienda - Otro": 2
+  }
+]

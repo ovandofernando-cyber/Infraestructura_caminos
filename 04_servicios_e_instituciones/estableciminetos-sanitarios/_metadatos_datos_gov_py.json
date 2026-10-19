@@ -1,0 +1,66 @@
+{
+ "id": "d9724e8e-7e1f-4239-a87b-ddd5e841d00e",
+ "name": "estableciminetos-sanitarios",
+ "title": "Estableciminetos Sanitarios",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>las Información de contacto sobre los servicios de salud a tu disposición, recordá que las Unidades de Salud de la Familia son locales instalados en tu comunidad y ofrecen atención médica y medicamentos, en forma gratuita.</p>\n",
+ "url": "https://www.datos.gov.py/dataset/estableciminetos-sanitarios",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Vie, 09/25/2026 - 09:52",
+ "metadata_created": "Jue, 09/24/2026 - 12:59",
+ "metadata_modified": "Vie, 09/25/2026 - 09:52",
+ "creator_user_id": "e7cdc4b1-7afd-4d91-800a-21622b4cc64a",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "7393ca88-cb80-44c5-a187-e07eec88eb84",
+   "revision_id": "",
+   "url": "https://www.mspbs.gov.py/donde-consulto.php",
+   "description": "<p>La información de contacto sobre los servicios de salud a tu disposición, recordá que las Unidades de Salud de la Familia son locales instalados en tu comunidad y ofrecen atención médica y medicamentos, en forma gratuita.</p>\n",
+   "format": "Hiperenlace",
+   "state": "Active",
+   "revision_timestamp": "Vie, 09/25/2026 - 08:51",
+   "name": "Establecimientos de Salud",
+   "mimetype": "Hiperenlace",
+   "size": "",
+   "created": "Jue, 09/24/2026 - 13:00",
+   "resource_group_id": "b0feeb8f-6198-4e43-a9a4-87a508b83d39",
+   "last_modified": "Date changed  Vie, 09/25/2026 - 08:51"
+  },
+  {
+   "id": "8d177f03-ff57-4c3e-8389-538c4e073e92",
+   "revision_id": "",
+   "url": "https://www.datos.gov.py/sites/default/files/establecimientos.csv",
+   "description": "<p>La información de contacto sobre los servicios de salud a tu disposición, recordá que las Unidades de Salud de la Familia son locales instalados en tu comunidad y ofrecen atención médica y medicamentos, en forma gratuita.</p>\n",
+   "format": "csv",
+   "state": "Active",
+   "revision_timestamp": "Vie, 09/25/2026 - 08:43",
+   "name": "Localidades con Establecimientos de Salud",
+   "mimetype": "text/csv",
+   "size": "101.75 KB",
+   "created": "Jue, 09/24/2026 - 13:01",
+   "resource_group_id": "b0feeb8f-6198-4e43-a9a4-87a508b83d39",
+   "last_modified": "Date changed  Vie, 09/25/2026 - 08:43"
+  }
+ ],
+ "tags": [
+  {
+   "id": "0721fa80-c2be-42c3-9198-ed81c270aaef",
+   "vocabulary_id": "2",
+   "name": "establecimientos de salud"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>El Ministerio de Salud Pública y Bienestar Social es la entidad rectora y prestadora de servicios de salud, que promueve y ejecuta acciones que garanticen con equidad la calidad de vida, el bienestar físico, mental y social de las personas, como derecho fundamental y universal establecidos en la Constitución Nacional.</p>\n",
+   "id": "b0feeb8f-6198-4e43-a9a4-87a508b83d39",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/mspbs.jpg",
+   "title": "Ministerio de Salud Pública y Bienestar Social (MSPyBS)",
+   "name": "group/ministerio-de-salud-pública-y-bienestar-social-mspybs"
+  }
+ ]
+}

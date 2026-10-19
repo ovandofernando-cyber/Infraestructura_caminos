@@ -1,0 +1,65 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 51.191,
+    "Servicios basicos - Agua corriente (a)": 26.958,
+    "Servicios basicos - Desague sanitario (b)": 41.164,
+    "Servicios basicos - Recoleccion de basura (c)": 30.543,
+    "Servicios basicos - Energia electrica": 47.964,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Pedro Juan Caballero",
+    "Viviendas particulares": 35.591,
+    "Servicios basicos - Agua corriente (a)": 18.985,
+    "Servicios basicos - Desague sanitario (b)": 30.683,
+    "Servicios basicos - Recoleccion de basura (c)": 25.821,
+    "Servicios basicos - Energia electrica": 33.94,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Bella Vista",
+    "Viviendas particulares": 3.619,
+    "Servicios basicos - Agua corriente (a)": 2.94,
+    "Servicios basicos - Desague sanitario (b)": 2.678,
+    "Servicios basicos - Recoleccion de basura (c)": 1.448,
+    "Servicios basicos - Energia electrica": 3.198,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Capitan Bado",
+    "Viviendas particulares": 5.677,
+    "Servicios basicos - Agua corriente (a)": 1.835,
+    "Servicios basicos - Desague sanitario (b)": 3.912,
+    "Servicios basicos - Recoleccion de basura (c)": 2.728,
+    "Servicios basicos - Energia electrica": 5.103,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Zanja Pyta",
+    "Viviendas particulares": 1.695,
+    "Servicios basicos - Agua corriente (a)": 955,
+    "Servicios basicos - Desague sanitario (b)": 1.263,
+    "Servicios basicos - Recoleccion de basura (c)": 503,
+    "Servicios basicos - Energia electrica": 1.64,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Karapai",
+    "Viviendas particulares": 1.391,
+    "Servicios basicos - Agua corriente (a)": 1.257,
+    "Servicios basicos - Desague sanitario (b)": 969,
+    "Servicios basicos - Recoleccion de basura (c)": 21,
+    "Servicios basicos - Energia electrica": 1.379,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Cerro Cora",
+    "Viviendas particulares": 3.218,
+    "Servicios basicos - Agua corriente (a)": 986,
+    "Servicios basicos - Desague sanitario (b)": 1.659,
+    "Servicios basicos - Recoleccion de basura (c)": 22,
+    "Servicios basicos - Energia electrica": 2.704,
+    "Promedio de personas por vivienda": "3,3"
+  }
+]

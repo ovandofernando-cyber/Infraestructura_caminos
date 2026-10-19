@@ -1,0 +1,836 @@
+Departamento;Distrito;Area;Comunidad, aldea o barrio, nucleo familiar e individualidades;Familia linguistica del pueblo predominante;Pueblo;Cantidad de viviendas particulares;Cantidad de viviendas colectivas;Poblacion - Total;Poblacion - Varones;Poblacion - Mujeres
+ Asuncion ; Asuncion ; Urbana ; Cerro Poty ; Guarani ; Ava Guarani / Mbya Guarani / Sanapana / No indigena ;40; -     ;149;75;74
+ Asuncion ; Asuncion ; Urbana ; Individualidades de Asuncion ; Mataco Mataguayo ; Ache / Ava Guarani / Mbya Guarani / Guarani Occidental / Pueblo Guarani / Enlhet Norte / Sanapana / Angaite / Guana / Toba Maskoy / Toba Enenlhet / Nivacle / Ybytoso / Qom / No indigena ;105;2;271;122;149
+ Concepcion ; Concepcion ; Urbana ; Redencion ; Lengua Maskoy ; Pai Tavytera/ Enlhet Norte / Enxet Sur / Sanapana / Angaite / Guana / Toba Maskoy / Toba Enenlhet / Manjui / Ybytoso / Qom / No indigena ;90; -     ;388;200;188
+ Concepcion ; Belen ; Rural ; Ayvu Pora ; Guarani ; Mbya Guarani / No indigena ;19; -     ;59;31;28
+ Concepcion ; Horqueta ; Rural ; Paso Ita ; Guarani ; Mbya Guarani / Pai Tavytera;28; -     ;99;49;50
+ Concepcion ; Horqueta ; Rural ; Kora'i Punta Suerte ; Guarani ; Mbya Guarani ;5; -     ;27;14;13
+ Concepcion ; Horqueta ; Rural ; Nande Yvy Pave; Guarani ; Mbya Guarani / Pai Tavytera/ Guarani Nandeva / Sanapana / No indigena ;23; -     ;88;44;44
+ Concepcion ; Horqueta ; Rural ; Takuapu Pora - Nu Pora ; Guarani ; Mbya Guarani ;15; -     ;40;18;22
+ Concepcion ; San Lazaro ; Rural ; Apa Acosta ; Lengua Maskoy ; Angaite / Guana / Toba Maskoy / Toba Enenlhet ;31; -     ;107;54;53
+ Concepcion ; Yby Yau ; Rural ; Mberyvo Jaguarymi ; Guarani ; Pai Tavytera/ No indigena ;19; -     ;68;23;45
+ Concepcion ; Yby Yau ; Rural ; Ypyju Tukambiju ; Guarani ; Pai Tavytera;41; -     ;164;88;76
+ Concepcion ; Yby Yau ; Rural ; Takuarytiy ; Guarani ; Ava Guarani / Pai Tavytera;34; -     ;100;48;52
+ Concepcion ; Yby Yau ; Rural ; Yvyraija ; Guarani ; Pai Tavytera/ No indigena ;32; -     ;103;49;54
+ Concepcion ; Yby Yau ; Rural ; Cerro Puka ; Guarani ; Pai Tavytera;20; -     ;43;19;24
+ Concepcion ; Yby Yau ; Rural ; Yrapey ; Guarani ; Mbya Guarani / Pai Tavytera/ Nivacle ;116; -     ;400;200;200
+ Concepcion ; Yby Yau ; Rural ; Ka'aguy Poty Rory ; Guarani ; Pai Tavytera/ No indigena ;33; -     ;82;34;48
+ Concepcion ; Yby Yau ; Rural ; Yvy Apu'a ; Guarani ; Pai Tavytera;19; -     ;58;20;38
+ Concepcion ; Yby Yau ; Rural ; Yry Poty Peju ; Guarani ; Mbya Guarani / Pai Tavytera;50; -     ;171;89;82
+ Concepcion ; Azote'y ; Rural ; Vy'a Pave; Guarani ; Ache / Ava Guarani / Mbya Guarani / Pai Tavytera/ No indigena ;204; -     ;902;398;504
+ Concepcion ; Sargento Jose Felix Lopez ; Rural ; Takuarita ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera/ Guarani Occidental / Pueblo Guarani ;41; -     ;212;109;103
+ Concepcion ; Paso Barreto ; Rural ; Jeguahaty ; Guarani ; Mbya Guarani / Pai Tavytera/ No indigena ;62; -     ;149;66;83
+ Concepcion ; Paso Barreto ; Rural ; Vy'a Renda - Boqueron ; Guarani ; Ava Guarani / Mbya Guarani ;62; -     ;281;142;139
+ Concepcion ; Paso Barreto ; Rural ; Takuarendyju ; Guarani ; Pai Tavytera;7; -     ;18;9;9
+ Concepcion ; Arroyito ; Rural ; Nucleo de familias Kuero Fresco - Nu Pora ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera;5; -     ;17;6;11
+ Concepcion ; Itacua ; Rural ; Calera Guyrati ; Lengua Maskoy ; Angaite ;23; -     ;59;32;27
+ San Pedro ; General Elizardo Aquino ; Rural ; Mboi Kua ; Guarani ; Mbya Guarani ;18; -     ;60;31;29
+ San Pedro ; Nueva Germania ; Rural ; Y'apy Poty ; Guarani ; Pai Tavytera;30; -     ;102;44;58
+ San Pedro ; San Estanislao ; Rural ; Javier Kue Rugua ; Guarani ; Mbya Guarani ;23; -     ;38;20;18
+ San Pedro ; San Estanislao ; Rural ; San Antonio ; Guarani ; Mbya Guarani / Guarani Nandeva ;29; -     ;51;25;26
+ San Pedro ; Tacuati ; Rural ; Jeroky Roka ; Guarani ; Ava Guarani / Pai Tavytera/ No indigena ;32; -     ;63;36;27
+ San Pedro ; Tacuati ; Rural ; Kapi'itindy ; Guarani ; Pai Tavytera/ No indigena ;53; -     ;181;95;86
+ San Pedro ; Tacuati ; Rural ; Yvamindy ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera;45; -     ;178;90;88
+ San Pedro ; Tacuati ; Rural ; Nu Rugua ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera/ No indigena ;75; -     ;182;90;92
+ San Pedro ; Tacuati ; Rural ; Espajin ; Guarani ; Mbya Guarani / Pai Tavytera/ No indigena ;65; -     ;220;100;120
+ San Pedro ; Villa del Rosario ; Rural ; Boqueron ; Guaicuru ; Qom / No indigena ;21; -     ;101;53;48
+ San Pedro ; Villa del Rosario ; Rural ; Urukuy - Las Palmas ; Guaicuru ; Enxet Sur / Maka / Qom / No indigena ;24; -     ;90;48;42
+ San Pedro ; General Francisco Isidoro Resquin ; Rural ; Santa Carolina ; Guarani ; Ava Guarani ;95; -     ;376;191;185
+ San Pedro ; General Francisco Isidoro Resquin ; Rural ; Naranjito - Santa Lucia ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera/ Qom / No indigena ;91; -     ;306;162;144
+ San Pedro ; General Francisco Isidoro Resquin ; Rural ; Tahekyi ; Guarani ; Ava Guarani / Mbya Guarani ;22; -     ;68;32;36
+ San Pedro ; General Francisco Isidoro Resquin ; Rural ; Tapyi Kue ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;71; -     ;248;123;125
+ San Pedro ; General Francisco Isidoro Resquin ; Rural ; Naranjay ; Guarani ; Mbya Guarani / Tomaraho ;30; -     ;81;42;39
+ San Pedro ; General Francisco Isidoro Resquin ; Rural ; Ko'e Poty ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;31; -     ;136;67;69
+ San Pedro ; Yataity del Norte ; Rural ; Virgen Del Carmen ; Guarani ; Mbya Guarani ;15; -     ;47;24;23
+ San Pedro ; Yataity del Norte ; Rural ; La Paloma ; Guarani ; Ava Guarani ;9; -     ;15;7;8
+ San Pedro ; Guajayvi ; Rural ; Nu Apu'a ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;45; -     ;181;80;101
+ San Pedro ; Guajayvi ; Rural ; San Jose Kupa'y ; Guarani ; Mbya Guarani / No indigena ;15; -     ;36;19;17
+ San Pedro ; Capiibary ; Rural ; Ka'aty Mir? - San Francisco ; Guarani ; Ava Guarani ;24; -     ;68;38;30
+ San Pedro ; Capiibary ; Rural ; Ka'aguy Pyahu 1 ; Guarani ; Ava Guarani / Mbya Guarani ;13; -     ;30;17;13
+ San Pedro ; Capiibary ; Rural ; Ka'aguy Pyahu 2 ; Guarani ; Ava Guarani ;7; -     ;17;8;9
+ San Pedro ; Capiibary ; Rural ; Parakau Keha ; Guarani ; Ava Guarani ;23; -     ;50;27;23
+ San Pedro ; Capiibary ; Rural ; Ypach? ; Guarani ; Mbya Guarani ;12; -     ;52;26;26
+ San Pedro ; Capiibary ; Rural ; Rio Corrientemi ; Guarani ; Ava Guarani / Mbya Guarani ;60; -     ;95;52;43
+ San Pedro ; Capiibary ; Rural ; San Jose ; Guarani ; Ava Guarani ;6; -     ;25;12;13
+ San Pedro ; Capiibary ; Rural ; Rio Verde ; Guarani ; Ava Guarani / Qom / No indigena ;14; -     ;31;16;15
+ San Pedro ; Capiibary ; Rural ; Tatar? 14 ; Guarani ; Ava Guarani ;30; -     ;47;31;16
+ San Pedro ; Capiibary ; Rural ; Parakau Keha 1 ; Guarani ; Ava Guarani ;10; -     ;24;14;10
+ San Pedro ; Santa Rosa del Aguaray ; Rural ; Arroyo Verde ; Guarani ; Ava Guarani ;19; -     ;91;41;50
+ San Pedro ; Santa Rosa del Aguaray ; Rural ; Blanca'i ; Guarani ; Mbya Guarani / Guarani Nandeva / No indigena ;30; -     ;64;34;30
+ San Pedro ; Santa Rosa del Aguaray ; Rural ; Ka'aguy Pyahu ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera/ No indigena ;24; -     ;62;27;35
+ San Pedro ; Santa Rosa del Aguaray ; Rural ; Isla Pora ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera/ No indigena ;17; -     ;45;21;24
+ San Pedro ; Yrybucua ; Rural ; Palomita 1 ; Guarani ; Ava Guarani / Guarani Occidental / Pueblo Guarani / Nivacle / Maka / No indigena ;40; -     ;115;60;55
+ San Pedro ; Yrybucua ; Rural ; Palomita 2 ; Guarani ; Guarani Occidental / Pueblo Guarani / No indigena ;19; -     ;60;30;30
+ San Pedro ; Yrybucua ; Rural ; Y'apy - Santa Isabel ; Guarani ; Ava Guarani / Mbya Guarani ;22; -     ;95;47;48
+ San Pedro ; Yrybucua ; Rural ; Y'apy - Mburukuja ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;43; -     ;107;52;55
+ San Pedro ; Yrybucua ; Rural ; Y'apy - Arroyo Sa'yju ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera/ Guarani Occidental / Pueblo Guarani / Guana / Maka / No indigena ;200;1;609;323;286
+ San Pedro ; Yrybucua ; Rural ; Y'apy - Arroyo Kora ; Guarani ; Ava Guarani / No indigena ;14; -     ;46;24;22
+ San Pedro ; San Vicente Pancholo ; Rural ; Ypotyju ; Guarani ; Ava Guarani ;12; -     ;37;22;15
+ San Pedro ; San Vicente Pancholo ; Rural ; Ka'a Poty ; Guarani ; Mbya Guarani ;8; -     ;19;9;10
+ San Pedro ; San Jose del Rosario ; Rural ; Urukuy - Las Palmas ; Guaicuru ; Qom ;26; -     ;93;43;50
+ Guaira ; Villarrica ; Urbana ; Kuarahy Vera ; Guarani ; Mbya Guarani / No indigena ;6; -     ;16;11;5
+ Guaira ; Villarrica ; Rural ; 8 de Diciembre - Santa Lucia ; Guarani ; Ache / Mbya Guarani / No indigena ;33; -     ;110;55;55
+ Guaira ; Gral. Eugenio A. Garay ; Rural ; Joyvy Mir? Poty ; Guarani ; Ache / Ava Guarani / Mbya Guarani / Guarani Nandeva ;18; -     ;32;17;15
+ Guaira ; Gral. Eugenio A. Garay ; Rural ; Yvyty Kora ; Guarani ; Mbya Guarani / Guarani Nandeva ;45; -     ;123;68;55
+ Guaira ; Independencia ; Rural ; Yvyty Mir? ; Guarani ; Mbya Guarani / Pai Tavytera;30; -     ;106;56;50
+ Guaira ; Independencia ; Rural ; Nucleo de Familia - 11 de Diciembre ; Guarani ; Mbya Guarani ;18; -     ;33;21;12
+ Guaira ; Paso Yobai ; Urbana ; Tapy? Mir? ; Guarani ; Mbya Guarani ;32; -     ;112;59;53
+ Guaira ; Paso Yobai ; Rural ; Arroyo H? ; Guarani ; Mbya Guarani ;49; -     ;171;82;89
+ Guaira ; Paso Yobai ; Rural ; Vega Kue ; Guarani ; Mbya Guarani ;50; -     ;183;91;92
+ Guaira ; Paso Yobai ; Rural ; Santa Teresita ; Guarani ; Mbya Guarani / Guarani Nandeva ;99; -     ;450;214;236
+ Guaira ; Paso Yobai ; Rural ; Yryvu Kua Naranjito ; Guarani ; Mbya Guarani ;42; -     ;126;63;63
+ Guaira ; Paso Yobai ; Rural ; Isla H? ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera/ Manjui ;71; -     ;288;146;142
+ Guaira ; Paso Yobai ; Rural ; Ovenia San Francisco ; Guarani ; Mbya Guarani ;60; -     ;162;79;83
+ Guaira ; Paso Yobai ; Rural ; Nucleo de Familias Santa Maria ; Guarani ; Mbya Guarani ;4; -     ;17;7;10
+ Caaguazu ; Coronel Oviedo ; Rural ; Arroyo Guasu - San Isidro ; Guarani ; Ava Guarani / Mbya Guarani ;28; -     ;84;40;44
+ Caaguazu ; Caaguazu ; Urbana ; Mandu'ara ; Guarani ; Ava Guarani / Mbya Guarani / Guarani Occidental / Pueblo Guarani ;30; -     ;101;57;44
+ Caaguazu ; Caaguazu ; Rural ; Ka'aguy Pa'? ; Guarani ; Mbya Guarani ;7; -     ;24;12;12
+ Caaguazu ; Caaguazu ; Rural ; Escalera - Guakikua ; Guarani ; Ava Guarani / Mbya Guarani ;15; -     ;34;16;18
+ Caaguazu ; Caaguazu ; Rural ; Kambay ; Guarani ; Mbya Guarani ;35; -     ;119;63;56
+ Caaguazu ; Caaguazu ; Rural ; San Martin ; Guarani ; Mbya Guarani ;25; -     ;102;56;46
+ Caaguazu ; Caaguazu ; Rural ; Ykua Pora ; Guarani ; Mbya Guarani / Guarani Nandeva ;21; -     ;97;54;43
+ Caaguazu ; Caaguazu ; Rural ; Arroyo Guasu - San Isidro ; Guarani ; Mbya Guarani / No indigena ;24; -     ;67;31;36
+ Caaguazu ; Caaguazu ; Rural ; San Jorge ; Guarani ; Mbya Guarani ;15; -     ;52;29;23
+ Caaguazu ; Caaguazu ; Rural ; 20 de Julio ; Guarani ; Ava Guarani / Mbya Guarani ;22; -     ;62;33;29
+ Caaguazu ; Caaguazu ; Rural ; Guaviramindy ; Guarani ; Ava Guarani / Mbya Guarani ;43; -     ;111;61;50
+ Caaguazu ; Caaguazu ; Rural ; 6 de Enero ; Guarani ; Ava Guarani / Mbya Guarani / Guarani Nandeva / Ybytoso ;19; -     ;64;27;37
+ Caaguazu ; Caaguazu ; Rural ; Yvy Pora ; Guarani ; Ava Guarani / Mbya Guarani ;25; -     ;43;17;26
+ Caaguazu ; Caaguazu ; Rural ; 29 de Setiembre - Yvy Pyahu ; Guarani ; Ava Guarani / Mbya Guarani ;18; -     ;60;34;26
+ Caaguazu ; Caaguazu ; Rural ; San Jorge - Originario ; Guarani ; Mbya Guarani / Guarani Occidental / Pueblo Guarani ;25; -     ;81;46;35
+ Caaguazu ; Caaguazu ; Rural ; Nucleo Parque Guayaki ; Guarani ; Ava Guarani / Guarani Nandeva ;9; -     ;20;11;9
+ Caaguazu ; Caaguazu ; Rural ; Ara Yvoty ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;17; -     ;64;37;27
+ Caaguazu ; Dr. Juan Manuel Frutos ; Rural ; Punta Pora ; Guarani ; Ava Guarani / Mbya Guarani ;38; -     ;155;83;72
+ Caaguazu ; Dr. Juan Manuel Frutos ; Rural ; Nueva Esperanza - Vy'a Renda ; Guarani ; Ava Guarani / Mbya Guarani ;15; -     ;46;19;27
+ Caaguazu ; Dr. Juan Manuel Frutos ; Rural ; San Jorge - Jukyry ; Guarani ; Mbya Guarani ;43; -     ;118;57;61
+ Caaguazu ; Dr. Juan Manuel Frutos ; Rural ; Sol Naciente ; Guarani ; Mbya Guarani ;10; -     ;19;10;9
+ Caaguazu ; Dr. Juan Manuel Frutos ; Rural ; Nucleo San Carlos 2 ; Guarani ; Mbya Guarani ;11; -     ;20;9;11
+ Caaguazu ; Repatriacion ; Rural ; Takuaro - 3 de Febrero ; Guarani ; Mbya Guarani ;25; -     ;91;49;42
+ Caaguazu ; Repatriacion ; Rural ; Arroyope ; Guarani ; Mbya Guarani ;15; -     ;59;34;25
+ Caaguazu ; Repatriacion ; Rural ; Ka'atymi ; Guarani ; Ava Guarani / Mbya Guarani / Nivacle ;70; -     ;276;136;140
+ Caaguazu ; Repatriacion ; Rural ; Nu Hovy ; Guarani ; Mbya Guarani ;55; -     ;228;129;99
+ Caaguazu ; Repatriacion ; Rural ; Pindo'i - Culantrillo ; Guarani ; Ache / Mbya Guarani / Guarani Nandeva ;151; -     ;609;311;298
+ Caaguazu ; Repatriacion ; Rural ; Isla Jovai Teju ; Guarani ; Ache / Ava Guarani / Mbya Guarani ;21; -     ;72;41;31
+ Caaguazu ; Repatriacion ; Rural ; Ypa'? - Senorita ; Guarani ; Ava Guarani / Mbya Guarani ;116; -     ;494;250;244
+ Caaguazu ; Repatriacion ; Rural ; 23 de Junio ; Guarani ; Mbya Guarani ;20; -     ;46;27;19
+ Caaguazu ; Repatriacion ; Rural ; Y Hovy'i ; Guarani ; Mbya Guarani / Pai Tavytera;18; -     ;84;47;37
+ Caaguazu ; Repatriacion ; Rural ; Isla Nu ; Guarani ; Ava Guarani / Mbya Guarani ;8; -     ;26;16;10
+ Caaguazu ; San Joaquin ; Rural ; Cerro Morot? ; Guarani ; Ache / Pai Tavytera/ No indigena ;65; -     ;349;172;177
+ Caaguazu ; San Joaquin ; Rural ; Tekoha Pora - Campito ; Guarani ; Mbya Guarani ;28; -     ;82;40;42
+ Caaguazu ; San Joaquin ; Rural ; Tekoha Mir? ; Guarani ; Mbya Guarani ;13; -     ;68;34;34
+ Caaguazu ; San Joaquin ; Rural ; Modaymi ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;45; -     ;172;86;86
+ Caaguazu ; San Joaquin ; Rural ; Hugua Rory ; Guarani ; Ava Guarani / Mbya Guarani ;7; -     ;14;9;5
+ Caaguazu ; San Joaquin ; Rural ; Tejas Kue ; Guarani ; Mbya Guarani ;22; -     ;55;31;24
+ Caaguazu ; San Joaquin ; Rural ; Amambay ; Guarani ; Ava Guarani / Mbya Guarani ;37; -     ;158;85;73
+ Caaguazu ; San Joaquin ; Rural ; San Jorge ; Guarani ; Mbya Guarani ;61; -     ;93;43;50
+ Caaguazu ; San Joaquin ; Rural ; Isla Pora ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;9; -     ;19;9;10
+ Caaguazu ; San Joaquin ; Rural ; Santa Librada ; Guarani ; Mbya Guarani / No indigena ;22; -     ;50;29;21
+ Caaguazu ; Yhu ; Rural ; Toro Kangue ; Guarani ; Ava Guarani / Mbya Guarani ;31; -     ;129;59;70
+ Caaguazu ; Yhu ; Rural ; Arroyo Guasu Guajaivi ; Guarani ; Ava Guarani / Mbya Guarani ;82; -     ;334;171;163
+ Caaguazu ; Yhu ; Rural ; Arroyo Guasu Kambilo Kue ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera;35; -     ;108;58;50
+ Caaguazu ; Yhu ; Rural ; Ko'? Poty ; Guarani ; Ava Guarani / No indigena ;33; -     ;130;70;60
+ Caaguazu ; Yhu ; Rural ; Paraje Puku ; Guarani ; Mbya Guarani ;21; -     ;51;25;26
+ Caaguazu ; Yhu ; Rural ; Ypach? ; Guarani ; Ava Guarani / Mbya Guarani ;103; -     ;436;220;216
+ Caaguazu ; Yhu ; Rural ; Nueva Estrella ; Guarani ; Ava Guarani / Mbya Guarani ;12; -     ;42;26;16
+ Caaguazu ; Yhu ; Rural ; Takuapi'i ; Guarani ; Mbya Guarani / No indigena ;15; -     ;33;16;17
+ Caaguazu ; Yhu ; Rural ; Nucleo de familias Pakuri ; Guarani ; Mbya Guarani ;15; -     ;14;7;7
+ Caaguazu ; Dr. J. Eulogio Estigarribia ; Rural ; Jaguary ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;210; -     ;499;261;238
+ Caaguazu ; Dr. J. Eulogio Estigarribia ; Rural ; Mbarigui 14 ; Guarani ; Ava Guarani / Mbya Guarani ;58; -     ;219;114;105
+ Caaguazu ; Dr. J. Eulogio Estigarribia ; Rural ; Nueva Esperanza ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;92; -     ;440;221;219
+ Caaguazu ; Dr. J. Eulogio Estigarribia ; Rural ; San Juan Cheiro Ara Poty Y Hovy ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera;158; -     ;673;345;328
+ Caaguazu ; Dr. J. Eulogio Estigarribia ; Rural ; Cheiro Ara Poty ; Guarani ; Mbya Guarani ;36; -     ;142;71;71
+ Caaguazu ; Dr. J. Eulogio Estigarribia ; Rural ; Ko'? Pyahu ; Guarani ; Mbya Guarani ;29; -     ;114;53;61
+ Caaguazu ; Dr. J. Eulogio Estigarribia ; Rural ; Mbokaja Yguasu ; Guarani ; Ava Guarani / Mbya Guarani ;70; -     ;356;172;184
+ Caaguazu ; R.I. 3 Corrales ; Rural ; Tovat?ry - Yvy pora ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;25; -     ;78;39;39
+ Caaguazu ; Raul Arsenio Oviedo ; Rural ; Santa Teresa ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;226; -     ;912;453;459
+ Caaguazu ; Raul Arsenio Oviedo ; Rural ; Tajy Poty ; Guarani ; Ava Guarani ;28; -     ;79;47;32
+ Caaguazu ; Raul Arsenio Oviedo ; Rural ; Yvy Ryvate ; Guarani ; Ava Guarani / Mbya Guarani ;38; -     ;167;84;83
+ Caaguazu ; Raul Arsenio Oviedo ; Rural ; Y'aka Reta ; Guarani ; Ava Guarani / Mbya Guarani ;192; -     ;770;401;369
+ Caaguazu ; Raul Arsenio Oviedo ; Rural ; Ara Poty - Panambi ; Guarani ; Mbya Guarani ;14; -     ;55;25;30
+ Caaguazu ; Raul Arsenio Oviedo ; Rural ; Nembiara ; Guarani ; Ava Guarani / Mbya Guarani ;67; -     ;217;126;91
+ Caaguazu ; Raul Arsenio Oviedo ; Rural ; Loma Piro'y ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;40; -     ;64;37;27
+ Caaguazu ; Raul Arsenio Oviedo ; Rural ; Hugua Po'i ; Guarani ; Mbya Guarani ;32; -     ;116;62;54
+ Caaguazu ; Mariscal Francisco Solano Lopez ; Rural ; Ka'aguy Poty - Romero Kue ; Guarani ; Ava Guarani / Mbya Guarani ;110; -     ;440;224;216
+ Caaguazu ; 3 De Febrero ; Rural ; Ara Pyahu ; Guarani ; Ava Guarani / Mbya Guarani ;20; -     ;59;31;28
+ Caaguazu ; Vaqueria ; Rural ; Mbokaja'i ; Guarani ; Ava Guarani / Mbya Guarani ;52; -     ;156;74;82
+ Caaguazu ; Vaqueria ; Rural ; Yvyku'i Jovai ; Guarani ; Ava Guarani / Mbya Guarani ;71; -     ;197;101;96
+ Caaguazu ; Nueva Toledo ; Rural ; Tekoha Pora ; Guarani ; Ava Guarani / No indigena ;135; -     ;428;213;215
+ Caaguazu ; Nueva Toledo ; Rural ; Yvy Morot? ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;133; -     ;462;242;220
+ Caaguazu ; Nueva Toledo ; Rural ; Yvu Santa Rita ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera/ No indigena ;138; -     ;561;288;273
+ Caaguazu ; Nueva Toledo ; Rural ; Ypa'? - Toledo ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;23; -     ;70;33;37
+ Caaguazu ; Nueva Toledo ; Rural ; 15 de Enero ; Guarani ; Ava Guarani / Mbya Guarani / Guarani Nandeva  ;36; -     ;126;64;62
+ Caazapa ; Abai ; Rural ; Campito Kurukau ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera ;32; -     ;118;62;56
+ Caazapa ; Abai ; Rural ; Cerrito ; Guarani ; Ava Guarani / Mbya Guarani ;86; -     ;287;151;136
+ Caazapa ; Abai ; Rural ; Ka'atymi ; Guarani ; Mbya Guarani ;44; -     ;164;78;86
+ Caazapa ; Abai ; Rural ; Nu Apu'a ; Guarani ; Ava Guarani / Mbya Guarani / Toba Maskoy / Toba Enenlhet / No indigena ;53; -     ;269;138;131
+ Caazapa ; Abai ; Rural ; Takuarusu ; Guarani ; Mbya Guarani ;68; -     ;261;149;112
+ Caazapa ; Abai ; Rural ; Ykua Pora ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera ;115; -     ;451;225;226
+ Caazapa ; Abai ; Rural ; Ypet? - Tajy ; Guarani ; Mbya Guarani / Pai Tavytera/ Nivacle ;133; -     ;552;293;259
+ Caazapa ; Abai ; Rural ; Ypet? - Nara'i ; Guarani ; Mbya Guarani / Pai Tavytera;50; -     ;214;116;98
+ Caazapa ; Abai ; Rural ; Ypet?mi ; Guarani ; Ache / Mbya Guarani / Enxet Sur / Guana / No indigena ;136; -     ;605;298;307
+ Caazapa ; Abai ; Rural ; Yt? ; Guarani ; Ava Guarani / Mbya Guarani / Guarani Occidental / Pueblo Guarani ;32; -     ;107;56;51
+ Caazapa ; Abai ; Rural ; Yvytymi ; Guarani ; Ava Guarani / Mbya Guarani ;42; -     ;170;77;93
+ Caazapa ; Abai ; Rural ; Cecina Tekoha Pyahu ; Guarani ; Mbya Guarani ;33; -     ;95;53;42
+ Caazapa ; Abai ; Rural ; Takuaro'i ; Guarani ; Mbya Guarani ;5; -     ;20;13;7
+ Caazapa ; San Juan Nepomuceno ; Rural ; Takuaro ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;69; -     ;275;146;129
+ Caazapa ; Tavai ; Rural ; Viju ; Guarani ; Mbya Guarani ;44; -     ;175;93;82
+ Caazapa ; Tavai ; Rural ; Jukeri - Arroz Tygue ; Guarani ; Mbya Guarani ;32; -     ;78;43;35
+ Caazapa ; Tavai ; Rural ; Jukeri - Tuna'i ; Guarani ; Mbya Guarani ;25; -     ;106;56;50
+ Caazapa ; Tavai ; Rural ; Karumbey ; Guarani ; Mbya Guarani ;21; -     ;79;42;37
+ Caazapa ; Tavai ; Rural ; Kokuere Guasu - Centro ; Guarani ; Ava Guarani / Mbya Guarani ;30; -     ;107;60;47
+ Caazapa ; Tavai ; Rural ; Kokuere Guasu - Sexta Linea ; Guarani ; Mbya Guarani ;47; -     ;135;67;68
+ Caazapa ; Tavai ; Rural ; Kokuere Guasu - Arroyo Ka'a ; Guarani ; Mbya Guarani ;29; -     ;117;62;55
+ Caazapa ; Tavai ; Rural ; Tajay Pakuri ; Guarani ; Ava Guarani / Mbya Guarani ;57; -     ;199;112;87
+ Caazapa ; Tavai ; Rural ; Tuna Arroyo Guasu ; Guarani ; Mbya Guarani ;30; -     ;115;59;56
+ Caazapa ; Tavai ; Rural ; Pakuri - Castor Kue ; Guarani ; Mbya Guarani ;32; -     ;74;38;36
+ Caazapa ; Tavai ; Rural ; Ka'aguy Pa'? ; Guarani ; Mbya Guarani ;9; -     ;38;17;21
+ Caazapa ; Tavai ; Rural ; Vy'a Renda ; Guarani ; Ache / Mbya Guarani / No indigena ;29; -     ;102;55;47
+ Caazapa ; Tavai ; Rural ; Ka'amindy ; Guarani ; Mbya Guarani ;5; -     ;7;2;5
+ Caazapa ; Tavai ; Rural ; Yvyty Kora ; Guarani ; Mbya Guarani ;6; -     ;8;4;4
+ Caazapa ; Tavai ; Rural ; Jukeri - Karanda ; Guarani ; Ache / Mbya Guarani / No indigena ;35; -     ;111;57;54
+ Caazapa ; Tavai ; Rural ; Mbya Guarani Santa Rita'i ; Guarani ; Mbya Guarani ;12; -     ;28;18;10
+ Caazapa ; Tavai ; Rural ; Amambay ; Guarani ; Mbya Guarani ;14; -     ;34;23;11
+ Caazapa ; Yegros ; Rural ; Isla Mborevi ; Guarani ; Mbya Guarani / No indigena ;21; -     ;67;31;36
+ Caazapa ; Yegros ; Rural ; Guavira Poty ; Guarani ; Mbya Guarani / No indigena ;8; -     ;19;11;8
+ Caazapa ; Yuty ; Rural ; Jesus Tava Pora - Monte Alto ; Guarani ; Mbya Guarani / No indigena ;9; -     ;30;16;14
+ Caazapa ; Yuty ; Rural ; Ykua Poty ; Guarani ; Ache / Mbya Guarani / No indigena ;25; -     ;77;44;33
+ Itapua ; Encarnacion ; Urbana ; Individualidades de Encarnacion ; Guarani ; Mbya Guarani / Guarani Occidental / Pueblo Guarani / No indigena ;20; -     ;68;34;34
+ Itapua ; Encarnacion ; Rural ; Maka - Ita Paso ; Mataco Mataguayo ; Toba Maskoy / Toba Enenlhet / Maka ;11; -     ;34;16;18
+ Itapua ; Capitan Meza ; Rural ; Arroyo Kora ; Guarani ; Ava Guarani / Mbya Guarani ;30; -     ;76;40;36
+ Itapua ; Carlos Antonio Lopez ; Rural ; Y'aka Marangatu ; Guarani ; Mbya Guarani / Pai Tavytera;32; -     ;119;62;57
+ Itapua ; Carlos Antonio Lopez ; Rural ; Arasa Poty ; Guarani ; Mbya Guarani ;36; -     ;124;54;70
+ Itapua ; Carlos Antonio Lopez ; Rural ; Ka'aguy Pora - Tirol ; Guarani ; Mbya Guarani / Nivacle ;28; -     ;104;55;49
+ Itapua ; Jesus ; Rural ; Kambay ; Guarani ; Mbya Guarani ;29; -     ;101;50;51
+ Itapua ; Obligado ; Rural ; Pastoreo ; Guarani ; Mbya Guarani ;41; -     ;117;61;56
+ Itapua ; Obligado ; Rural ; Loma Hovy ; Guarani ; Mbya Guarani / No indigena ;14; -     ;39;21;18
+ Itapua ; Obligado ; Rural ; Nucleo de Familia Nueva Esperanza ; Guarani ; Mbya Guarani ;3; -     ;19;11;8
+ Itapua ; Mayor Julio Dionisio Otano ; Rural ; Tekoha Pora ; Guarani ; Mbya Guarani ;15; -     ;48;24;24
+ Itapua ; San Cosme y Damian ; Rural ; Pindo ; Guarani ; Ache / Ava Guarani / Mbya Guarani ;48; -     ;156;85;71
+ Itapua ; San Rafael del Parana ; Rural ; Makutinga ; Guarani ; Mbya Guarani ;18; -     ;43;24;19
+ Itapua ; San Rafael del Parana ; Rural ; Pykasu Ygua ; Guarani ; Mbya Guarani / Guarani Nandeva ;31; -     ;100;52;48
+ Itapua ; San Rafael del Parana ; Rural ; Nucleo de Familias Mbya Guarani de Naranjito ; Guarani ; Mbya Guarani ;19; -     ;62;36;26
+ Itapua ; Trinidad ; Rural ; Guavirami ; Guarani ; Mbya Guarani ;67; -     ;197;100;97
+ Itapua ; Trinidad ; Rural ; Nu Poty ; Guarani ; Mbya Guarani ;15; -     ;45;21;24
+ Itapua ; Edelira ; Rural ; Ka'aguy Poty ; Guarani ; Mbya Guarani ;6; -     ;12;7;5
+ Itapua ; Alto Vera ; Rural ; Arroyo Morot? ; Guarani ; Mbya Guarani ;34; -     ;117;57;60
+ Itapua ; Alto Vera ; Rural ; Ko'?ju ; Guarani ; Mbya Guarani ;11; -     ;41;22;19
+ Itapua ; Alto Vera ; Rural ; Mberu Pirapo'i ; Guarani ; Mbya Guarani ;48; -     ;186;98;88
+ Itapua ; Alto Vera ; Rural ; Mboi Ka'? ; Guarani ; Mbya Guarani ;71; -     ;249;130;119
+ Itapua ; Alto Vera ; Rural ; Pindo'i ; Guarani ; Mbya Guarani / Guarani Occidental / Pueblo Guarani ;30; -     ;97;55;42
+ Itapua ; Alto Vera ; Rural ; Pindoju ; Guarani ; Mbya Guarani ;13; -     ;51;25;26
+ Itapua ; Alto Vera ; Rural ; Guapo'y ; Guarani ; Mbya Guarani ;9; -     ;41;23;18
+ Itapua ; Alto Vera ; Rural ; Taguato Sauco ; Guarani ; Mbya Guarani ;9; -     ;22;13;9
+ Itapua ; Alto Vera ; Rural ; Ysapy'i ; Guarani ; Mbya Guarani ;8; -     ;30;17;13
+ Itapua ; Alto Vera ; Rural ; Karumbey Mbarakaju ; Guarani ; Mbya Guarani ;4; -     ;7;5;2
+ Itapua ; Alto Vera ; Rural ; Takuarymi ; Guarani ; Mbya Guarani ;15; -     ;47;18;29
+ Itapua ; Alto Vera ; Rural ; Pykasu'i ; Guarani ; Mbya Guarani ;6; -     ;24;10;14
+ Itapua ; Pirapo ; Rural ; Potrero Guarani ; Guarani ; Mbya Guarani / Nivacle ;30; -     ;105;58;47
+ Itapua ; Pirapo ; Rural ; Paraiso ; Guarani ; Mbya Guarani ;9; -     ;19;10;9
+ Itapua ; Pirapo ; Rural ; Ka'atymy ; Guarani ; Ava Guarani / Mbya Guarani ;46; -     ;158;77;81
+ Itapua ; Pirapo ; Rural ; Manduviju ; Guarani ; Mbya Guarani ;29; -     ;85;39;46
+ Itapua ; Pirapo ; Rural ; Nu Hovy Jaguara Sapa ; Guarani ; Ava Guarani / Mbya Guarani / Guarani Nandeva ;23; -     ;74;44;30
+ Itapua ; Pirapo ; Rural ; Salto Renda ; Guarani ; Mbya Guarani ;7; -     ;21;13;8
+ Itapua ; Itapua Poty ; Rural ; Tapy Savy ; Guarani ; Ava Guarani / Mbya Guarani ;60; -     ;280;142;138
+ Itapua ; Itapua Poty ; Rural ; Jukeri ; Guarani ; Mbya Guarani ;28; -     ;133;60;73
+ Itapua ; Itapua Poty ; Rural ; Jukeri - Ka'aguy Pora ; Guarani ; Mbya Guarani ;27; -     ;108;51;57
+ Itapua ; Itapua Poty ; Rural ; Agosto Poty ; Guarani ; Ava Guarani / Mbya Guarani ;29; -     ;131;73;58
+ Paraguari ; Pirayu ; Rural ; Nevanga Renda ; Guarani ; Ache / Ava Guarani / Mbya Guarani / No indigena ;24; -     ;47;25;22
+ Paraguari ; Pirayu ; Rural ; Mbokajaty Mir? ; Guarani ; Ava Guarani / No indigena ;21; -     ;69;35;34
+ Alto Parana ; Ciudad del Este ; Urbana ; Yvu Pora Renda ; Guarani ; Mbya Guarani ;28; -     ;109;54;55
+ Alto Parana ; Ciudad del Este ; Urbana ; Maka - Ciudad Del Este ; Mataco Mataguayo ; Enxet Sur / Maka ;23; -     ;83;42;41
+ Alto Parana ; Ciudad del Este ; Urbana ; Carcel - Terminal - Nucleo ; Guarani ; Ava Guarani / Mbya Guarani ;23;1;104;76;28
+ Alto Parana ; Ciudad del Este ; Urbana ; Nucleo de Familias Km. 12 Monday ; Guarani ; Ava Guarani / Mbya Guarani ;46; -     ;116;66;50
+ Alto Parana ; Presidente Franco ; Rural ; Puerto Bertoni ; Guarani ; Mbya Guarani ;23; -     ;57;23;34
+ Alto Parana ; Presidente Franco ; Rural ; Yvyra Moa - Puerto Gimenez ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera;13; -     ;45;24;21
+ Alto Parana ; Presidente Franco ; Rural ; Puerto Barreto ; Guarani ; Ava Guarani / Mbya Guarani ;23; -     ;79;50;29
+ Alto Parana ; Presidente Franco ; Rural ; Puesto Kue - Medio Mundo ; Guarani ; Ava Guarani / Mbya Guarani ;42; -     ;170;75;95
+ Alto Parana ; Presidente Franco ; Rural ; 8 de Diciembre ; Guarani ; Ava Guarani / Mbya Guarani ;16; -     ;67;37;30
+ Alto Parana ; Presidente Franco ; Rural ; Joyvy Mir? Poty ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;18; -     ;33;22;11
+ Alto Parana ; Hernandarias ; Rural ; Acaraymi - Angela Antonia ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;86; -     ;289;140;149
+ Alto Parana ; Hernandarias ; Rural ; Acaraymi - San Miguel ; Guarani ; Ava Guarani / No indigena ;48;1;168;83;85
+ Alto Parana ; Hernandarias ; Rural ; Acaraymi - Centro ; Guarani ; Ava Guarani / Mbya Guarani ;102; -     ;325;169;156
+ Alto Parana ; Hernandarias ; Rural ; Independiente ; Guarani ; Ava Guarani ;40; -     ;132;70;62
+ Alto Parana ; Itakyry ; Rural ; Arroyo Guasu - Chopa Cue ; Guarani ; Ava Guarani ;29;1;122;56;66
+ Alto Parana ; Itakyry ; Rural ; Arroyo Guasu - Centro ; Guarani ; Ava Guarani / No indigena ;120; -     ;396;201;195
+ Alto Parana ; Itakyry ; Rural ; Arroyo Guasu - Pilico kue ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;86; -     ;271;142;129
+ Alto Parana ; Itakyry ; Rural ; Jukyry ; Guarani ; Ava Guarani / Mbya Guarani / Nivacle / No indigena ;96; -     ;347;192;155
+ Alto Parana ; Itakyry ; Rural ; Ka'a Poty ; Guarani ; Ava Guarani / No indigena ;27; -     ;120;57;63
+ Alto Parana ; Itakyry ; Rural ; Ka'aguy Poty ; Guarani ; Ava Guarani / Mbya Guarani ;21; -     ;85;48;37
+ Alto Parana ; Itakyry ; Rural ; Ka'aguy Roky ; Guarani ; Ava Guarani ;31; -     ;111;52;59
+ Alto Parana ; Itakyry ; Rural ; Ka'aguy Yvate ; Guarani ; Ava Guarani / Mbya Guarani ;30; -     ;98;47;51
+ Alto Parana ; Itakyry ; Rural ; Ka'aty Mir? - Formosa ; Guarani ; Ava Guarani / No indigena ;16; -     ;55;25;30
+ Alto Parana ; Itakyry ; Rural ; Y'aryty Mir? ; Guarani ; Ava Guarani ;23; -     ;89;51;38
+ Alto Parana ; Itakyry ; Rural ; Ko'?ju ; Guarani ; Ava Guarani / No indigena ;60; -     ;213;115;98
+ Alto Parana ; Itakyry ; Rural ; Mariscal Lopez ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;126; -     ;377;191;186
+ Alto Parana ; Itakyry ; Rural ; Mbokaja'i ; Guarani ; Mbya Guarani ;17; -     ;53;28;25
+ Alto Parana ; Itakyry ; Rural ; Paso Cadena ; Guarani ; Ava Guarani / Mbya Guarani ;164; -     ;558;275;283
+ Alto Parana ; Itakyry ; Rural ; Y Pora Poty ; Guarani ; Ava Guarani ;44; -     ;158;89;69
+ Alto Parana ; Itakyry ; Rural ; Uruku Poty ; Guarani ; Ache / Ava Guarani / No indigena ;32; -     ;132;68;64
+ Alto Parana ; Itakyry ; Rural ; Ysat? ; Guarani ; Ava Guarani ;16; -     ;50;31;19
+ Alto Parana ; Itakyry ; Rural ; Carreria'i 1 ; Guarani ; Ava Guarani / Mbya Guarani / Nivacle  ;50; -     ;194;105;89
+ Alto Parana ; Itakyry ; Rural ; Carreria'i 2 ; Guarani ; Ava Guarani / Nivacle ;24; -     ;70;33;37
+ Alto Parana ; Itakyry ; Rural ; Ka'aguy Poty 2 ; Guarani ; Ava Guarani ;45; -     ;177;79;98
+ Alto Parana ; Itakyry ; Rural ; Loma Tajy ; Guarani ; Ava Guarani ;28; -     ;76;45;31
+ Alto Parana ; Itakyry ; Rural ; Loma Clavel ; Guarani ; Ava Guarani / Mbya Guarani ;38; -     ;150;70;80
+ Alto Parana ; Itakyry ; Rural ; Tupa Renda'i ; Guarani ; Ava Guarani / No indigena ;23; -     ;57;27;30
+ Alto Parana ; Itakyry ; Rural ; Ka'a Poty 1 ; Guarani ; Ava Guarani / No indigena ;20; -     ;62;27;35
+ Alto Parana ; Itakyry ; Rural ; Tajy Poty ; Guarani ; Ava Guarani / Toba Maskoy / Toba Enenlhet ;39; -     ;68;43;25
+ Alto Parana ; Itakyry ; Rural ; Arroyo Kupa'y ; Guarani ; Ava Guarani ;20; -     ;65;32;33
+ Alto Parana ; Nacunday ; Rural ; Kapi'ibary ; Guarani ; Ava Guarani / Mbya Guarani ;24; -     ;101;47;54
+ Alto Parana ; Nacunday ; Rural ; Guayaibi Poty ; Guarani ; Mbya Guarani ;9; -     ;21;14;7
+ Alto Parana ; Yguazu ; Rural ; Karanda'y ; Guarani ; Mbya Guarani ;23; -     ;71;36;35
+ Alto Parana ; Yguazu ; Rural ; Remanso Toro ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;77; -     ;251;137;114
+ Alto Parana ; Yguazu ; Rural ; Puerto Juanita ; Guarani ; Mbya Guarani ;18; -     ;58;27;31
+ Alto Parana ; San Cristobal ; Rural ; Ka'a Jovai ; Guarani ; Mbya Guarani / Pai Tavytera/ Guarani Nandeva ;74; -     ;286;151;135
+ Alto Parana ; Naranjal ; Rural ; Tapy Puerto Barra ; Guarani ; Ache / No indigena ;72; -     ;294;159;135
+ Alto Parana ; Minga Pora ; Rural ; Arroyo Guasu - Arroyo Azul ; Guarani ; Ache / Ava Guarani ;151; -     ;436;212;224
+ Alto Parana ; Minga Pora ; Rural ; Arroyo Guasu - Centro ; Guarani ; Ava Guarani ;27; -     ;74;37;37
+ Alto Parana ; Minga Pora ; Rural ; Arroyo Guasu - Hugua'i ; Guarani ; Ava Guarani ;71; -     ;264;133;131
+ Alto Parana ; Minga Pora ; Rural ; Arroyo Guasu - Caaguazu ; Guarani ; Ava Guarani / Mbya Guarani ;60; -     ;218;116;102
+ Alto Parana ; Minga Pora ; Rural ; Tekoha Sauce ; Guarani ; Ava Guarani ;30; -     ;73;39;34
+ Alto Parana ; Minga Pora ; Rural ; Cerrito - Ipotapy - Viju ; Guarani ; Ava Guarani / Mbya Guarani / Qom ;30; -     ;85;44;41
+ Alto Parana ; Mbaracayu ; Rural ; Kirito - Gleva 10 ; Guarani ; Ava Guarani / Pai Tavytera/ Enxet Sur ;67; -     ;224;113;111
+ Alto Parana ; Mbaracayu ; Rural ; Kirito - Pindo ; Guarani ; Ava Guarani ;110; -     ;366;191;175
+ Alto Parana ; Mbaracayu ; Rural ; Kirito - Hugua'i ; Guarani ; Ava Guarani ;48; -     ;155;81;74
+ Central ; Aregua ; Urbana ; Individuales de Aregua ; Lengua Maskoy ; Sanapana / Guana / No indigena ;19; -     ;56;26;30
+ Central ; Capiata ; Urbana ; Individualidades de Capiata ; Zamuco ; Guarani Occidental / Pueblo Guarani / Nivacle / Ybytoso / No indigena ;12; -     ;44;17;27
+ Central ; Fernando de La Mora ; Urbana ; Individualidades de Fernando de La Mora ; Guarani ; Guarani Occidental / Pueblo Guarani ;2; -     ;9;6;3
+ Central ; Ita ; Rural ; Y'ary Mir? ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;40; -     ;156;80;76
+ Central ; Itaugua ; Urbana ; Individualidades de Itaugua ; Mataco Mataguayo ; Nivacle / No indigena ;2; -     ;5;2;3
+ Central ; Lambare ; Urbana ; Individualidades de Lambare ; Guarani ; Pai Tavytera/ Guarani Occidental / Pueblo Guarani / No indigena ;13; -     ;56;27;29
+ Central ; Limpio ; Urbana ; Individualidades de Limpio ; Guarani ; Ache / Ava Guarani / Mbya Guarani / Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Enlhet Norte / Enxet Sur / Angaite / Guana / Nivacle / Maka / Ybytoso / No indigena ;88;1;242;114;128
+ Central ; Luque ; Urbana ; Nueva Esperanza ; Zamuco ; Ava Guarani / Mbya Guarani / Nivacle / Ybytoso / No indigena ;99; -     ;325;157;168
+ Central ; Luque ; Urbana ; Yvapovõndy ; Guarani ; Ava Guarani / Ybytoso / No indigena ;23; -     ;83;44;39
+ Central ; Luque ; Urbana ; La Virginia ; Guarani ; Ava Guarani / Mbya Guarani / Tomaraho / No indigena ;21; -     ;55;27;28
+ Central ; Luque ; Urbana ; Tarumandymi ; Guarani ; Ava Guarani / Mbya Guarani ;58; -     ;251;131;120
+ Central ; Luque ; Urbana ; Marin Ka'aguy ; Zamuco ; Nivacle / Ybytoso / No indigena ;9; -     ;21;12;9
+ Central ; Luque ; Urbana ; Individualidades de Luque ; Zamuco ; Ava Guarani / Mbya Guarani / Guarani Occidental / Pueblo Guarani / Angaite / Nivacle / Ybytoso / No indigena ;26; -     ;77;31;46
+ Central ; Luque ; Urbana ; Nucleo de Familias Clan Kuchingui ; Guarani ; Ache / Ava Guarani / Mbya Guarani / Guarani Occidental / Pueblo Guarani / No indigena ;22; -     ;90;48;42
+ Central ; Mariano Roque Alonso ; Urbana ; Maka ; Mataco Mataguayo ; Enlhet Norte / Nivacle / Maka / Qom / No indigena ;318; -     ;1.519;786;733
+ Central ; Mariano Roque Alonso ; Urbana ; Individualidades de Mariano Roque Alonso ; Zamuco ; Ava Guarani / Ybytoso ;2; -     ;9;3;6
+ Central ; San Antonio ; Urbana ; Individualidades de San Antonio ; Guarani ; Guarani Occidental / Pueblo Guarani / No indigena ;8; -     ;33;17;16
+ Central ; San Lorenzo ; Urbana ; Individualidades de San Lorenzo ; Lengua Maskoy ; Mbya Guarani / Toba Maskoy / Toba Enenlhet / Ybytoso ;6; -     ;6;2;4
+ Central ; Villa Elisa ; Urbana ; Individualidades de Villa Elisa ; Guarani ; Guarani Occidental / Pueblo Guarani ;5; -     ;13;7;6
+ Central ; Villeta ; Urbana ; Takuapu Mir? ; Guarani ; Mbya Guarani / Pai Tavytera/ No indigena ;8; -     ;18;7;11
+ Central ; Ypane ; Urbana ; Individualidades de Ypane ; Mataco Mataguayo ; Guarani Occidental / Pueblo Guarani / Nivacle / No indigena ;2; -     ;6;4;2
+ Amambay ; Pedro Juan Caballero ; Urbana ; Vy'a Renda ; Guarani ; Pai Tavytera/ No indigena ;12; -     ;45;21;24
+ Amambay ; Pedro Juan Caballero ; Rural ; Jasuka Venda - Avakua ; Guarani ; Pai Tavytera;11; -     ;23;11;12
+ Amambay ; Pedro Juan Caballero ; Rural ; Jasuka Venda - Karavie Guasu ; Guarani ; Pai Tavytera;17; -     ;46;20;26
+ Amambay ; Pedro Juan Caballero ; Rural ; Y'ete Poty ; Guarani ; Pai Tavytera/ Guarani Occidental / Pueblo Guarani / Guarani Nandeva / No indigena ;90; -     ;277;143;134
+ Amambay ; Pedro Juan Caballero ; Rural ; Anguja'i Yvangusu ; Guarani ; Pai Tavytera;40; -     ;154;85;69
+ Amambay ; Pedro Juan Caballero ; Rural ; Itay Pavusu ; Guarani ; Mbya Guarani / Pai Tavytera/ No indigena ;121; -     ;362;187;175
+ Amambay ; Pedro Juan Caballero ; Rural ; Jakaira ; Guarani ; Pai Tavytera;40; -     ;128;60;68
+ Amambay ; Pedro Juan Caballero ; Rural ; Jakaira Potrerito ; Guarani ; Pai Tavytera/ No indigena ;34; -     ;101;52;49
+ Amambay ; Pedro Juan Caballero ; Rural ; Mba'e Marangatu - Ita Jegua ; Guarani ; Pai Tavytera/ No indigena ;71; -     ;287;148;139
+ Amambay ; Pedro Juan Caballero ; Rural ; Mba'e Marangatu - Y'aka Guasu ; Guarani ; Ache / Pai Tavytera;40; -     ;165;85;80
+ Amambay ; Pedro Juan Caballero ; Rural ; Mba'e Marangatu - Tajay ; Guarani ; Ache / Pai Tavytera;135; -     ;477;228;249
+ Amambay ; Pedro Juan Caballero ; Rural ; Mba'e Nemy ; Guarani ; Pai Tavytera;25; -     ;68;36;32
+ Amambay ; Pedro Juan Caballero ; Rural ; Nuapy ; Guarani ; Ache / Ava Guarani / Pai Tavytera/ Guarani Occidental / Pueblo Guarani ;89; -     ;249;127;122
+ Amambay ; Pedro Juan Caballero ; Rural ; Pysyry ; Guarani ; Pai Tavytera;60; -     ;176;88;88
+ Amambay ; Pedro Juan Caballero ; Rural ; Takuaguyogue Takuara ; Guarani ; Mbya Guarani / Pai Tavytera;72; -     ;182;88;94
+ Amambay ; Pedro Juan Caballero ; Rural ; Tava Mboa'e ; Guarani ; Pai Tavytera;157; -     ;384;181;203
+ Amambay ; Pedro Juan Caballero ; Rural ; Yvy Ata'i ; Guarani ; Pai Tavytera;36; -     ;86;43;43
+ Amambay ; Pedro Juan Caballero ; Rural ; Yvypyte - Atyva ; Guarani ; Pai Tavytera;70; -     ;145;74;71
+ Amambay ; Pedro Juan Caballero ; Rural ; Yvypyte - Campo Flor ; Guarani ; Ava Guarani / Pai Tavytera;51; -     ;174;93;81
+ Amambay ; Pedro Juan Caballero ; Rural ; Yvypyte - Juruka ; Guarani ; Pai Tavytera/ Enlhet Norte / Nivacle / Manjui / Tomaraho / No indigena ;189; -     ;604;310;294
+ Amambay ; Pedro Juan Caballero ; Rural ; Yvypyte - Kurijuy ; Guarani ; Pai Tavytera;73; -     ;158;87;71
+ Amambay ; Pedro Juan Caballero ; Rural ; Yvypyte - Loma'i ; Guarani ; Pai Tavytera;10; -     ;39;22;17
+ Amambay ; Pedro Juan Caballero ; Rural ; Yvypyte - Y'ete Mir? ; Guarani ; Pai Tavytera;23; -     ;51;29;22
+ Amambay ; Pedro Juan Caballero ; Rural ; Yvypyte - Tatu Kaita ; Guarani ; Pai Tavytera;71; -     ;163;79;84
+ Amambay ; Pedro Juan Caballero ; Rural ; Yvypyte - Yjevy ; Guarani ; Pai Tavytera;29; -     ;68;32;36
+ Amambay ; Pedro Juan Caballero ; Rural ; Mbokaja'i ; Guarani ; Mbya Guarani / Pai Tavytera/ Nivacle / No indigena ;47; -     ;148;84;64
+ Amambay ; Pedro Juan Caballero ; Rural ; Pirary ; Guarani ; Pai Tavytera;296; -     ;902;473;429
+ Amambay ; Bella Vista ; Rural ; Apyka Jegua ; Guarani ; Pai Tavytera;34; -     ;57;30;27
+ Amambay ; Bella Vista ; Rural ; Cerro Akangue ; Guarani ; Mbya Guarani / Pai Tavytera;188; -     ;509;258;251
+ Amambay ; Bella Vista ; Rural ; Ita Jevaka ; Guarani ; Pai Tavytera;142; -     ;484;240;244
+ Amambay ; Bella Vista ; Rural ; Apyka Rendy'i ; Guarani ; Pai Tavytera;30; -     ;46;22;24
+ Amambay ; Bella Vista ; Rural ; Yvyty Rovi Cerro Amambay ; Guarani ; Pai Tavytera;13; -     ;51;23;28
+ Amambay ; Bella Vista ; Rural ; Guyra Ne'?ngatu Amba ; Guarani ; Pai Tavytera;32; -     ;115;56;59
+ Amambay ; Bella Vista ; Rural ; Sat? - Pa? Renda Chiru Poty ; Guarani ; Pai Tavytera/ Nivacle / No indigena ;53; -     ;181;92;89
+ Amambay ; Bella Vista ; Rural ; Arroyo Ka'a ; Guarani ; Pai Tavytera;54; -     ;151;75;76
+ Amambay ; Bella Vista ; Rural ; Yvy Oka ; Guarani ; Pai Tavytera;41; -     ;124;64;60
+ Amambay ; Capitan Bado ; Rural ; Guarani Paso Historia ; Guarani ; Ava Guarani / Pai Tavytera/ No indigena ;52; -     ;186;100;86
+ Amambay ; Capitan Bado ; Rural ; Ita Poty ; Guarani ; Pai Tavytera;51; -     ;158;84;74
+ Amambay ; Capitan Bado ; Rural ; Itaju - Itaju ; Guarani ; Pai Tavytera;25; -     ;86;40;46
+ Amambay ; Capitan Bado ; Rural ; Itaju - Paso Lima ; Guarani ; Pai Tavytera;26; -     ;82;48;34
+ Amambay ; Capitan Bado ; Rural ; Mbarakay ; Guarani ; Pai Tavytera;44; -     ;144;74;70
+ Amambay ; Capitan Bado ; Rural ; Piraymi ; Guarani ; Ava Guarani / Pai Tavytera/ Guarani Occidental / Pueblo Guarani / No indigena ;101; -     ;407;195;212
+ Amambay ; Capitan Bado ; Rural ; Tavytera ; Guarani ; Pai Tavytera;111; -     ;379;194;185
+ Amambay ; Capitan Bado ; Rural ; Takuaju Poty ; Guarani ; Ava Guarani / Pai Tavytera;46; -     ;166;88;78
+ Amambay ; Capitan Bado ; Rural ; Potrero Novillo ; Guarani ; Ava Guarani / Mbya Guarani ;11; -     ;47;20;27
+ Amambay ; Capitan Bado ; Rural ; Itay ; Guarani ; Ava Guarani / Pai Tavytera;25; -     ;58;27;31
+ Amambay ; Capitan Bado ; Rural ; Nandejara Guerovy'a Pav? ; Guarani ; Pai Tavytera;51; -     ;196;100;96
+ Amambay ; Capitan Bado ; Rural ; Nepu'a Pyahu ; Guarani ; Pai Tavytera;53; -     ;160;83;77
+ Amambay ; Capitan Bado ; Rural ; Nucleo de Familias Pai Tavytera; Guarani ; Ava Guarani / Pai Tavytera;15; -     ;54;26;28
+ Amambay ; Zanja Pyta ; Rural ; Y Morot? ; Guarani ; Pai Tavytera/ Guarani Occidental / Pueblo Guarani ;27; -     ;95;42;53
+ Amambay ; Cerro Cora ; Rural ; Ita Guasu ; Guarani ; Pai Tavytera;142; -     ;411;198;213
+ Amambay ; Cerro Cora ; Rural ; Jaguat? ; Guarani ; Pai Tavytera/ Nivacle ;131; -     ;423;221;202
+ Amambay ; Cerro Cora ; Rural ; Jakaira ; Guarani ; Ava Guarani / Pai Tavytera;68; -     ;201;107;94
+ Amambay ; Cerro Cora ; Rural ; Tanambiy ; Guarani ; Pai Tavytera/ No indigena ;44; -     ;156;78;78
+ Amambay ; Cerro Cora ; Rural ; Pikykua - Pikykua ; Guarani ; Mbya Guarani / Pai Tavytera/ No indigena ;100; -     ;349;169;180
+ Amambay ; Cerro Cora ; Rural ; Pikykua - Cerro Pa'? ; Guarani ; Pai Tavytera;73; -     ;256;135;121
+ Amambay ; Cerro Cora ; Rural ; Pikykua - Arroyo Guasu ; Guarani ; Pai Tavytera;54; -     ;153;90;63
+ Amambay ; Cerro Cora ; Rural ; Pirity ; Guarani ; Pai Tavytera;62; -     ;208;103;105
+ Amambay ; Cerro Cora ; Rural ; Tajy ; Guarani ; Mbya Guarani / Pai Tavytera;102; -     ;276;132;144
+ Amambay ; Cerro Cora ; Rural ; Yvy Ata'i ; Guarani ; Mbya Guarani / Pai Tavytera;127; -     ;346;165;181
+ Amambay ; Cerro Cora ; Rural ; Avarendiju ; Guarani ; Pai Tavytera;21; -     ;38;18;20
+ Canindeyu ; Salto del Guaira ; Rural ; Guyra Keha Guavira ; Guarani ; Ava Guarani ;27; -     ;76;36;40
+ Canindeyu ; Corpus Christi ; Rural ; Arroz Tygue ; Guarani ; Ava Guarani ;15; -     ;39;19;20
+ Canindeyu ; Corpus Christi ; Rural ; Felicidad ; Guarani ; Ava Guarani ;45; -     ;122;67;55
+ Canindeyu ; Corpus Christi ; Rural ; Nu'i ; Guarani ; Ava Guarani / No indigena ;14; -     ;45;23;22
+ Canindeyu ; Corpus Christi ; Rural ; Ynambu Ygua ; Guarani ; Ava Guarani ;35; -     ;94;40;54
+ Canindeyu ; Corpus Christi ; Rural ; Laguna Hovy ; Guarani ; Ava Guarani ;34; -     ;58;28;30
+ Canindeyu ; Corpus Christi ; Rural ; Y'apo ; Guarani ; Ava Guarani ;93; -     ;254;130;124
+ Canindeyu ; Corpus Christi ; Rural ; Y'apo 90 ; Guarani ; Ache / Ava Guarani ;75; -     ;250;133;117
+ Canindeyu ; Corpus Christi ; Rural ; Kola'i ; Guarani ; Ava Guarani / No indigena ;23; -     ;68;37;31
+ Canindeyu ; Corpus Christi ; Rural ; 3 Nacientes ; Guarani ; Ava Guarani ;25; -     ;54;33;21
+ Canindeyu ; Corpus Christi ; Rural ; 3 Rios Tajy ; Guarani ; Ava Guarani / No indigena ;30; -     ;75;43;32
+ Canindeyu ; Villa Curuguaty ; Urbana ; Individualidades de Curuguaty ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera;67; -     ;79;37;42
+ Canindeyu ; Villa Curuguaty ; Rural ; 1° De Marzo ; Guarani ; Ava Guarani ;61; -     ;141;63;78
+ Canindeyu ; Villa Curuguaty ; Rural ; Fortuna - San Francisco ; Guarani ; Ava Guarani / No indigena ;27; -     ;100;50;50
+ Canindeyu ; Villa Curuguaty ; Rural ; Fortuna - 12 de Junio ; Guarani ; Ava Guarani / No indigena ;48; -     ;173;97;76
+ Canindeyu ; Villa Curuguaty ; Rural ; Fortuna - San Lorenzo ; Guarani ; Ache / Ava Guarani / No indigena ;110; -     ;366;171;195
+ Canindeyu ; Villa Curuguaty ; Rural ; Fortuna - Primavera ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;162; -     ;558;263;295
+ Canindeyu ; Villa Curuguaty ; Rural ; Fortuna - Jukyry ; Guarani ; Ava Guarani / Mbya Guarani ;37; -     ;135;64;71
+ Canindeyu ; Villa Curuguaty ; Rural ; Fortuna - Yataity ; Guarani ; Ava Guarani / Mbya Guarani ;85; -     ;251;135;116
+ Canindeyu ; Villa Curuguaty ; Rural ; Fortuna - Cordillera ; Guarani ; Ava Guarani / Guarani Occidental / Pueblo Guarani / No indigena ;188; -     ;553;291;262
+ Canindeyu ; Villa Curuguaty ; Rural ; Isla Jovai ; Guarani ; Ava Guarani ;15; -     ;55;28;27
+ Canindeyu ; Villa Curuguaty ; Rural ; Itaymi ; Guarani ; Ava Guarani ;23; -     ;94;48;46
+ Canindeyu ; Villa Curuguaty ; Rural ; Mba'e Katu ; Guarani ; Ava Guarani / No indigena ;9; -     ;31;15;16
+ Canindeyu ; Villa Curuguaty ; Rural ; Marcelino Montania ; Guarani ; Ava Guarani / Mbya Guarani ;57; -     ;170;89;81
+ Canindeyu ; Villa Curuguaty ; Rural ; Nueva Esperanza ; Guarani ; Ache / Ava Guarani / Mbya Guarani ;76; -     ;246;112;134
+ Canindeyu ; Villa Curuguaty ; Rural ; Paso Real ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera/ No indigena ;56; -     ;217;105;112
+ Canindeyu ; Villa Curuguaty ; Rural ; Tekojoja 4 Bocas ; Guarani ; Ava Guarani / No indigena ;27; -     ;87;49;38
+ Canindeyu ; Villa Curuguaty ; Rural ; Y'aka Poty Jukeri ; Guarani ; Ava Guarani ;16; -     ;32;14;18
+ Canindeyu ; Villa Curuguaty ; Rural ; Y'akaju ; Guarani ; Ava Guarani / Mbya Guarani ;39; -     ;74;34;40
+ Canindeyu ; Villa Curuguaty ; Rural ; Y'hovy ; Guarani ; Ava Guarani ;12; -     ;37;18;19
+ Canindeyu ; Villa Curuguaty ; Rural ; Montania II ; Guarani ; Ava Guarani / Mbya Guarani ;30; -     ;107;51;56
+ Canindeyu ; Villa Curuguaty ; Rural ; 26 de Febrero ; Guarani ; Ava Guarani / Nivacle ;20; -     ;56;26;30
+ Canindeyu ; Villa Curuguaty ; Rural ; Mytuy ; Guarani ; Ava Guarani ;55; -     ;155;78;77
+ Canindeyu ; Villa Curuguaty ; Rural ; Arroyo Piro'y ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera/ No indigena ;28; -     ;82;43;39
+ Canindeyu ; Villa Curuguaty ; Rural ; Ko'? Pyahu ; Guarani ; Ava Guarani / No indigena ;31; -     ;104;45;59
+ Canindeyu ; Villa Curuguaty ; Rural ; Rio Verde Ysaka ; Guarani ; Ava Guarani ;25; -     ;63;27;36
+ Canindeyu ; Villa Ygatimi ; Rural ; Y'apo ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera;38; -     ;134;67;67
+ Canindeyu ; Villa Ygatimi ; Rural ; Arroyo Bandera ; Guarani ; Ache / Ava Guarani / No indigena ;40; -     ;235;123;112
+ Canindeyu ; Villa Ygatimi ; Rural ; Chupa Pou ; Guarani ; Ache / Ava Guarani / Mbya Guarani / Pai Tavytera/ Guarani Occidental / Pueblo Guarani / No indigena ;139; -     ;697;373;324
+ Canindeyu ; Villa Ygatimi ; Rural ; Ita Poty ; Guarani ; Ache / Ava Guarani / No indigena ;58; -     ;210;108;102
+ Canindeyu ; Villa Ygatimi ; Rural ; Itanarami ; Guarani ; Ava Guarani / Mbya Guarani / Guarani Occidental / Pueblo Guarani / Nivacle ;61; -     ;196;96;100
+ Canindeyu ; Villa Ygatimi ; Rural ; Ka'aguy Pora Poty ; Guarani ; Ava Guarani ;33; -     ;93;48;45
+ Canindeyu ; Villa Ygatimi ; Rural ; Mboi Jagua - Centro ; Guarani ; Ava Guarani / No indigena ;51; -     ;149;63;86
+ Canindeyu ; Villa Ygatimi ; Rural ; Mboi Jagua - Canadita ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;135; -     ;488;253;235
+ Canindeyu ; Villa Ygatimi ; Rural ; Mboi Jagua - Pindoty ; Guarani ; Ava Guarani / Pai Tavytera/ No indigena ;95; -     ;369;192;177
+ Canindeyu ; Villa Ygatimi ; Rural ; San Antonio ; Guarani ; Ava Guarani / Guarani Occidental / Pueblo Guarani / No indigena ;38; -     ;131;64;67
+ Canindeyu ; Villa Ygatimi ; Rural ; Takuary ; Guarani ; Mbya Guarani / No indigena ;37; -     ;144;68;76
+ Canindeyu ; Villa Ygatimi ; Rural ; Arroyo Mokõi Yva Poty ; Guarani ; Ache / Ava Guarani ;33; -     ;100;51;49
+ Canindeyu ; Villa Ygatimi ; Rural ; Ka'aguy Poty ; Guarani ; Ava Guarani / No indigena ;19; -     ;67;35;32
+ Canindeyu ; Villa Ygatimi ; Rural ; Vera Vusu ; Guarani ; Ava Guarani ;25; -     ;25;17;8
+ Canindeyu ; Villa Ygatimi ; Rural ; 8 de Diciembre ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;76; -     ;275;140;135
+ Canindeyu ; Itanara ; Rural ; Pariri ; Guarani ; Pai Tavytera/ Guarani Occidental / Pueblo Guarani ;169; -     ;422;201;221
+ Canindeyu ; Itanara ; Rural ; Yvyty Mir? ; Guarani ; Pai Tavytera;35; -     ;90;47;43
+ Canindeyu ; Ypejhu ; Rural ; Pariri ; Guarani ; Pai Tavytera;16; -     ;43;22;21
+ Canindeyu ; Ypejhu ; Rural ; Kavaju Paso ; Guarani ; Mbya Guarani ;76; -     ;290;155;135
+ Canindeyu ; Ypejhu ; Rural ; Narandy ; Guarani ; Ava Guarani / Mbya Guarani ;53; -     ;147;76;71
+ Canindeyu ; Ypejhu ; Rural ; Barranco Apy - Y'apy Barranco ; Guarani ; Ava Guarani / Mbya Guarani ;21; -     ;58;32;26
+ Canindeyu ; Ypejhu ; Rural ; Yvy Pav? - Canada ; Guarani ; Mbya Guarani ;16; -     ;51;26;25
+ Canindeyu ; Ypejhu ; Rural ; Tekoha Yvypoty ; Guarani ; Ava Guarani ;24; -     ;71;38;33
+ Canindeyu ; Ypejhu ; Rural ; Yvy Katu ; Guarani ; Ava Guarani / Mbya Guarani ;35; -     ;150;73;77
+ Canindeyu ; Ypejhu ; Rural ; Pypuku ; Guarani ; Pai Tavytera/ No indigena ;165; -     ;641;305;336
+ Canindeyu ; Ypejhu ; Rural ; Arroyo Sat? ; Guarani ; Ava Guarani ;17; -     ;40;21;19
+ Canindeyu ; Ypejhu ; Rural ; Yvy Pony ; Guarani ; Ava Guarani / Mbya Guarani ;11; -     ;30;14;16
+ Canindeyu ; Ypejhu ; Rural ; Ka'aguyju Candado ; Guarani ; Mbya Guarani ;8; -     ;25;9;16
+ Canindeyu ; Ypejhu ; Rural ; Barranco Rugua ; Guarani ; Mbya Guarani ;18; -     ;44;22;22
+ Canindeyu ; Ypejhu ; Rural ; Ka'aguy Potyra ; Guarani ; Ava Guarani / Mbya Guarani ;16; -     ;53;27;26
+ Canindeyu ; Ypejhu ; Rural ; Tekoha Pyahu ; Guarani ; Ava Guarani / Mbya Guarani ;13; -     ;37;17;20
+ Canindeyu ; Ypejhu ; Rural ; Y Mir? ; Guarani ; Ava Guarani / No indigena ;14; -     ;27;11;16
+ Canindeyu ; Ypejhu ; Rural ; Pindoju ; Guarani ; Mbya Guarani / No indigena ;9; -     ;34;22;12
+ Canindeyu ; Francisco Caballero Alvarez ; Rural ; Bajada Guasu ; Guarani ; Ache / Ava Guarani / Mbya Guarani / Nivacle / No indigena ;98; -     ;250;129;121
+ Canindeyu ; Francisco Caballero Alvarez ; Rural ; Bajada Guasu - Guyraju Mir? ; Guarani ; Ava Guarani / No indigena ;35; -     ;84;40;44
+ Canindeyu ; Francisco Caballero Alvarez ; Rural ; Takuapu ; Guarani ; Ava Guarani / Nivacle / No indigena ;48; -     ;133;72;61
+ Canindeyu ; Nueva Esperanza ; Rural ; Itavo Guarani ; Guarani ; Ava Guarani / No indigena ;61; -     ;199;95;104
+ Canindeyu ; Nueva Esperanza ; Rural ; Takuara'i ; Guarani ; Ava Guarani / Guarani Occidental / Pueblo Guarani / Nivacle / No indigena ;17; -     ;57;32;25
+ Canindeyu ; Nueva Esperanza ; Rural ; Ara Pyahu ; Guarani ; Ava Guarani / No indigena ;24; -     ;86;38;48
+ Canindeyu ; Yasy Cany ; Rural ; Tekoha Mir? Poty - Alika Kue ; Guarani ; Mbya Guarani ;42; -     ;166;75;91
+ Canindeyu ; Yasy Cany ; Rural ; Pindo'i ; Guarani ; Mbya Guarani ;25; -     ;82;48;34
+ Canindeyu ; Yasy Cany ; Rural ; Ka'aguy Poty Kapi'itindy ; Guarani ; Ava Guarani ;14; -     ;26;15;11
+ Canindeyu ; Yasy Cany ; Rural ; Ka'aguy Poty Kamba ; Guarani ; Ava Guarani / Mbya Guarani ;18; -     ;28;10;18
+ Canindeyu ; Yasy Cany ; Rural ; Kaninde ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;34; -     ;105;53;52
+ Canindeyu ; Yasy Cany ; Rural ; Pakuri Santa Librada ; Guarani ; Mbya Guarani ;12; -     ;29;14;15
+ Canindeyu ; Yasy Cany ; Rural ; Tajy Poty ; Guarani ; Ava Guarani ;12; -     ;27;10;17
+ Canindeyu ; Yasy Cany ; Rural ; Takua Mir? ; Guarani ; Ava Guarani ;35; -     ;101;59;42
+ Canindeyu ; Yasy Cany ; Rural ; Tuna Poty ; Guarani ; Ava Guarani / Toba Maskoy / Toba Enenlhet ;26; -     ;59;31;28
+ Canindeyu ; Yasy Cany ; Rural ; Yva Viju ; Guarani ; Ava Guarani / Mbya Guarani ;21; -     ;49;23;26
+ Canindeyu ; Yasy Cany ; Rural ; San Antonio ; Guarani ; Ava Guarani / Mbya Guarani ;51; -     ;157;83;74
+ Canindeyu ; Yasy Cany ; Rural ; Yvy Pora ; Guarani ; Ava Guarani / Mbya Guarani ;22; -     ;29;17;12
+ Canindeyu ; Yasy Cany ; Rural ; Joyvy ; Guarani ; Ava Guarani / Mbya Guarani ;23; -     ;51;26;25
+ Canindeyu ; Yasy Cany ; Rural ; Tekojoja ; Guarani ; Ava Guarani / Mbya Guarani ;49; -     ;101;52;49
+ Canindeyu ; Yasy Cany ; Rural ; Vy'a Renda ; Guarani ; Ava Guarani / Mbya Guarani / Pai Tavytera;54; -     ;110;62;48
+ Canindeyu ; Yasy Cany ; Rural ; Yvay Mir? ; Guarani ; Ava Guarani / Mbya Guarani ;14; -     ;32;12;20
+ Canindeyu ; Yasy Cany ; Rural ; Guavira Poty ; Guarani ; Ava Guarani / Mbya Guarani ;37; -     ;107;50;57
+ Canindeyu ; Yasy Cany ; Rural ; Ka'aguy Mir? ; Guarani ; Ava Guarani ;15; -     ;21;11;10
+ Canindeyu ; Yasy Cany ; Rural ; Ko'? Rory ; Guarani ; Mbya Guarani ;5; -     ;16;9;7
+ Canindeyu ; Yasy Cany ; Rural ; Takuara'i ; Guarani ; Ava Guarani ;30; -     ;58;30;28
+ Canindeyu ; Yasy Cany ; Rural ; 12 de Noviembre ; Guarani ; Ava Guarani ;6; -     ;11;3;8
+ Canindeyu ; Ybyrarobana ; Rural ; Arroyo Mokõi ; Guarani ; Ava Guarani / No indigena ;47; -     ;142;69;73
+ Canindeyu ; Ybyrarobana ; Rural ; Cerro Pyta ; Guarani ; Ava Guarani / Nivacle ;29; -     ;114;51;63
+ Canindeyu ; Ybyrarobana ; Rural ; Cerro Campin ; Guarani ; Ache / Ava Guarani / No indigena ;37; -     ;95;50;45
+ Canindeyu ; Ybyrarobana ; Rural ; Tekoha Poty Pyahu ; Guarani ; Ava Guarani ;30; -     ;97;49;48
+ Canindeyu ; Ybyrarobana ; Rural ; San Juan ; Guarani ; Ava Guarani / Pai Tavytera;48; -     ;165;98;67
+ Canindeyu ; Ybyrarobana ; Rural ; Tatu Kue ; Guarani ; Ava Guarani ;25; -     ;73;35;38
+ Canindeyu ; Ybyrarobana ; Rural ; Arroyo Pora ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;34; -     ;108;58;50
+ Canindeyu ; Ybyrarobana ; Rural ; Yvy Apy Katu Potrerito ; Guarani ; Ava Guarani / No indigena ;13; -     ;46;22;24
+ Canindeyu ; Ybyrarobana ; Rural ; Ka'aguy Mir? ; Guarani ; Ava Guarani ;21; -     ;54;26;28
+ Canindeyu ; Ybyrarobana ; Rural ; Y'apo - Tres Bocas ; Guarani ; Ava Guarani ;41; -     ;149;77;72
+ Canindeyu ; Ybyrarobana ; Rural ; Fortuna Cristo Rey ; Guarani ; Ava Guarani ;31; -     ;60;37;23
+ Canindeyu ; Yby Pyta ; Rural ; Tekoha Poty Pyahu ; Guarani ; Ava Guarani ;25; -     ;70;31;39
+ Canindeyu ; Yby Pyta ; Rural ; San Juan ; Guarani ; Ava Guarani ;35; -     ;102;58;44
+ Canindeyu ; Yby Pyta ; Rural ; Y'ary Poty ; Guarani ; Ava Guarani ;27; -     ;94;47;47
+ Canindeyu ; Yby Pyta ; Rural ; Agua'e ; Guarani ; Ava Guarani ;66; -     ;203;104;99
+ Canindeyu ; Yby Pyta ; Rural ; 12 de Junio ; Guarani ; Ava Guarani / Pai Tavytera/ No indigena ;48; -     ;147;75;72
+ Canindeyu ; Yby Pyta ; Rural ; Kuetuvy ; Guarani ; Ache / Ava Guarani / Mbya Guarani / No indigena ;74; -     ;393;193;200
+ Canindeyu ; Yby Pyta ; Rural ; Takua Poty ; Guarani ; Ava Guarani ;30; -     ;80;39;41
+ Canindeyu ; Yby Pyta ; Rural ; Y Ryapu ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;53; -     ;172;84;88
+ Canindeyu ; Yby Pyta ; Rural ; Yvyju ; Guarani ; Pai Tavytera;30; -     ;100;56;44
+ Canindeyu ; Yby Pyta ; Rural ; Yt? ; Guarani ; Ava Guarani ;10; -     ;20;14;6
+ Canindeyu ; Yby Pyta ; Rural ; Y Vera Ka'a Poty ; Guarani ; Ava Guarani ;10; -     ;26;13;13
+ Canindeyu ; Yby Pyta ; Rural ; Yvy Katu ; Guarani ; Ava Guarani ;75; -     ;195;98;97
+ Canindeyu ; Yby Pyta ; Rural ; Nu Vera Katu ; Guarani ; Ava Guarani / No indigena ;15; -     ;58;35;23
+ Canindeyu ; Yby Pyta ; Rural ; Ara Poty ; Guarani ; Ava Guarani / Toba Maskoy / Toba Enenlhet ;15; -     ;19;10;9
+ Canindeyu ; Yby Pyta ; Rural ; Ko'? Pyahu Poty Ex Kurusu ; Guarani ; Ava Guarani / No indigena ;19; -     ;53;28;25
+ Canindeyu ; Yby Pyta ; Rural ; Mytuy Araguayu ; Guarani ; Ava Guarani ;16; -     ;23;11;12
+ Canindeyu ; Yby Pyta ; Rural ; Paso Jovai ; Guarani ; Ava Guarani ;6; -     ;14;7;7
+ Canindeyu ; Maracana ; Rural ; Arroyo Morot? ; Guarani ; Ava Guarani / Mbya Guarani ;17; -     ;46;22;24
+ Canindeyu ; Maracana ; Rural ; Pindoju ; Guarani ; Ava Guarani ;19; -     ;75;39;36
+ Canindeyu ; Maracana ; Rural ; Vera Ro ; Guarani ; Ava Guarani / Mbya Guarani / No indigena ;19; -     ;48;24;24
+ Canindeyu ; Maracana ; Rural ; Y'apy Piro'y ; Guarani ; Ava Guarani / Mbya Guarani ;13; -     ;30;17;13
+ Canindeyu ; Maracana ; Rural ; Yvy Pora ; Guarani ; Mbya Guarani ;4; -     ;22;10;12
+ Canindeyu ; Maracana ; Rural ; Nueva Fortuna ; Guarani ; Ava Guarani ;41; -     ;68;41;27
+ Canindeyu ; Puerto Adela ; Rural ; Tekoha Poty Vera ; Guarani ; Ava Guarani / No indigena ;36; -     ;74;39;35
+ Canindeyu ; Laurel ; Rural ; Jejyty Mir? ; Guarani ; Ava Guarani ;20; -     ;68;38;30
+ Canindeyu ; Laurel ; Rural ; Yaso Manduvi ; Guarani ; Ava Guarani ;40; -     ;112;64;48
+ Canindeyu ; Laurel ; Rural ; Takua Mir? 2 ; Guarani ; Ava Guarani / Mbya Guarani ;22; -     ;49;25;24
+ Presidente Hayes ; Benjamin Aceval ; Rural ; Qomi Nayajnacta ; Guaicuru ; Enlhet Norte / Guana / Qom / No indigena ;85; -     ;291;146;145
+ Presidente Hayes ; Benjamin Aceval ; Rural ; Ndapiguen Santa Clara ; Guaicuru ; Enlhet Norte / Enxet Sur / Tomaraho / Qom ;28; -     ;77;38;39
+ Presidente Hayes ; Benjamin Aceval ; Rural ; Rosarino ; Guaicuru ; Mbya Guarani / Enlhet Norte / Enxet Sur / Sanapana / Angaite / Toba Maskoy / Toba Enenlhet / Nivacle / Ayoreo / Qom / No indigena ;183; -     ;603;303;300
+ Presidente Hayes ; Benjamin Aceval ; Rural ; San Francisco de Asis ; Guaicuru ; Qom ;84; -     ;187;99;88
+ Presidente Hayes ; Benjamin Aceval ; Rural ; Santa Rosa ; Guaicuru ; Enlhet Norte / Enxet Sur / Qom ;43; -     ;99;60;39
+ Presidente Hayes ; Benjamin Aceval ; Rural ; Santa Lucia ; Guaicuru ; Guarani Occidental / Pueblo Guarani / Qom / No indigena ;29; -     ;75;34;41
+ Presidente Hayes ; Benjamin Aceval ; Rural ; Ngalec Qom ; Guaicuru ; Enlhet Norte / Qom ;66; -     ;197;87;110
+ Presidente Hayes ; Benjamin Aceval ; Rural ; Cerriteno Kae Salecpi ; Guaicuru ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Enxet Sur / Qom / No indigena ;102; -     ;287;144;143
+ Presidente Hayes ; Benjamin Aceval ; Rural ; Kemha Yat Sepo ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Angaite / Qom / No indigena ;62; -     ;214;113;101
+ Presidente Hayes ; Benjamin Aceval ; Rural ; Mango Sat ; Guaicuru ; Enxet Sur / Qom / No indigena ;24; -     ;62;28;34
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Ex Cora'i - Kenaten ; Lengua Maskoy ; Enxet Sur / Sanapana / Angaite ;44; -     ;217;116;101
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Ex Cora'i - Nepoxen ; Lengua Maskoy ; Guarani Occidental / Pueblo Guarani / Enxet Sur / Sanapana / Angaite / Qom / No indigena ;65; -     ;271;138;133
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Ex Cora'i - Saria ; Lengua Maskoy ; Angaite / No indigena ;52; -     ;184;96;88
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Ex Cora'i - Tajamar Kavaju ; Lengua Maskoy ; Angaite ;17; -     ;57;29;28
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Ex Cora'i - 4 de Agosto ; Lengua Maskoy ; Angaite ;12; -     ;40;21;19
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Ex Cora'i - 8 de Enero ; Lengua Maskoy ; Angaite ;18; -     ;73;36;37
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Laguna Pato - La India ; Lengua Maskoy ; Enxet Sur / Sanapana ;6; -     ;27;15;12
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Laguna Pato - Laguna Pato ; Lengua Maskoy ; Sanapana ;27; -     ;118;60;58
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Laguna Pato - Lolaico'i ; Lengua Maskoy ; Enxet Sur / Sanapana / Angaite ;16; -     ;58;29;29
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Laguna Pato - Lolaico Guasu ; Lengua Maskoy ; Guarani Nandeva / Enxet Sur / Sanapana / Angaite / No indigena ;29; -     ;132;70;62
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Laguna Pato - Brillante ; Lengua Maskoy ; Sanapana ;13; -     ;50;26;24
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Laguna Pato - Paisa Tempela ; Lengua Maskoy ; Mbya Guarani / Sanapana / Angaite ;14; -     ;91;45;46
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Laguna Pato - Salado ; Lengua Maskoy ; Sanapana ;6; -     ;20;9;11
+ Presidente Hayes ; Puerto Pinasco ; Rural ; San Fernando - Paso Lima ; Lengua Maskoy ; Enxet Sur / Angaite ;16; -     ;58;28;30
+ Presidente Hayes ; Puerto Pinasco ; Rural ; San Fernando - Kurupa'yty ; Lengua Maskoy ; Enxet Sur / Sanapana / Angaite / No indigena ;33; -     ;111;62;49
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Yexwase Yet - San Fernando ; Lengua Maskoy ; Enxet Sur / Angaite ;10; -     ;52;29;23
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Xakmok Kasek - 25 de Febrero ; Lengua Maskoy ; Sanapana / Angaite ;10; -     ;44;26;18
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Karoa Guasu ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Angaite / No indigena ;30; -     ;106;55;51
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Karoa'i ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Angaite ;41; -     ;150;79;71
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Urundey ; Lengua Maskoy ; Guarani Occidental / Pueblo Guarani / Angaite ;30; -     ;119;65;54
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Colonia 24 ; Lengua Maskoy ; Angaite / Nivacle / No indigena ;36; -     ;152;85;67
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - La Leona ; Lengua Maskoy ; Pai Tavytera/ Angaite / Guana ;55; -     ;315;165;150
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - La Paciencia ; Lengua Maskoy ; Angaite / No indigena ;59; -     ;232;120;112
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Carpincho ; Lengua Maskoy ; Angaite / No indigena ;30; -     ;141;75;66
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Las Flores ; Lengua Maskoy ; Mbya Guarani / Angaite / No indigena ;62; -     ;292;142;150
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Monte Kue ; Lengua Maskoy ; Angaite ;25; -     ;107;50;57
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Puente Kaigue ; Lengua Maskoy ; Sanapana / Angaite ;11; -     ;53;26;27
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Tatar? ; Lengua Maskoy ; Angaite ;8; -     ;41;22;19
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Laguna Teja ; Lengua Maskoy ; Guarani Occidental / Pueblo Guarani / Sanapana / Angaite ;29; -     ;121;58;63
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Paraiso ; Lengua Maskoy ; Enxet Sur / Angaite / No indigena ;60; -     ;195;94;101
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - San Fernandez ; Lengua Maskoy ; Pai Tavytera/ Enxet Sur / Sanapana / Angaite ;55; -     ;291;139;152
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Laguna H? ; Lengua Maskoy ; Enlhet Norte / Angaite ;65; -     ;199;90;109
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - Tres Quebrachos ; Lengua Maskoy ; Angaite ;10; -     ;39;19;20
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - 6 de Marzo ; Lengua Maskoy ; Angaite / No indigena ;19; -     ;58;28;30
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Patria - 1° de Mayo ; Lengua Maskoy ; Angaite ;15; -     ;56;31;25
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Riacho San Carlos - San Carlos ; Lengua Maskoy ; Ava Guarani / Enlhet Norte / Enxet Sur / Angaite / No indigena ;124; -     ;477;255;222
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Riacho San Carlos - Hugua Chini ; Lengua Maskoy ; Pai Tavytera/ Enxet Sur / Angaite / No indigena ;124; -     ;457;220;237
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Riacho San Carlos - Mbokajaty ; Lengua Maskoy ; Angaite ;20; -     ;71;32;39
+ Presidente Hayes ; Puerto Pinasco ; Rural ; Gente Rory ; Lengua Maskoy ; Enxet Sur / Angaite / Qom ;30; -     ;110;55;55
+ Presidente Hayes ; Puerto Pinasco ; Rural ; La Palmera ; Lengua Maskoy ; Sanapana ;27; -     ;113;67;46
+ Presidente Hayes ; Villa Hayes ; Urbana ; Individualidades de Villa Hayes ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Nivacle / No indigena ;13;1;57;25;32
+ Presidente Hayes ; Villa Hayes ; Rural ; La Herencia - Jerusalen ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Angaite / Toba Maskoy / Toba Enenlhet / No indigena ;178; -     ;561;293;268
+ Presidente Hayes ; Villa Hayes ; Rural ; La Herencia - La Herencia ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Angaite / Toba Maskoy / Toba Enenlhet / Nivacle / Qom / No indigena ;176; -     ;564;289;275
+ Presidente Hayes ; Villa Hayes ; Rural ; La Herencia - Larrosa Kue ; Lengua Maskoy ; Pai Tavytera/ Enlhet Norte / Enxet Sur / Sanapana / Angaite / Guana ;58; -     ;172;90;82
+ Presidente Hayes ; Villa Hayes ; Rural ; La Herencia - Nazareth ; Lengua Maskoy ; Enxet Sur ;33; -     ;108;51;57
+ Presidente Hayes ; Villa Hayes ; Rural ; La Herencia - Palo Blanco ; Lengua Maskoy ; Ava Guarani / Enlhet Norte / Enxet Sur / Angaite / Nivacle / Manjui ;118; -     ;387;208;179
+ Presidente Hayes ; Villa Hayes ; Rural ; La Herencia - Primavera ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / No indigena ;26; -     ;93;50;43
+ Presidente Hayes ; Villa Hayes ; Rural ; La Herencia - Palo Azul ; Lengua Maskoy ; Enlhet Norte / Enxet Sur ;17; -     ;36;16;20
+ Presidente Hayes ; Villa Hayes ; Rural ; La Herencia - Larrosa Kue 2 / Macedonia ; Lengua Maskoy ; Enxet Sur ;25; -     ;85;38;47
+ Presidente Hayes ; Villa Hayes ; Rural ; Makxlawaya - Makxlawaya ; Lengua Maskoy ; Guarani Nandeva / Enlhet Norte / Enxet Sur / Angaite / No indigena ;201; -     ;776;397;379
+ Presidente Hayes ; Villa Hayes ; Rural ; Makxlawaya - Monte Alto ; Lengua Maskoy ; Enxet Sur / Sanapana / Angaite / No indigena ;31; -     ;118;61;57
+ Presidente Hayes ; Villa Hayes ; Rural ; Makxlawaya - Isla Mainumby ; Lengua Maskoy ; Enxet Sur / No indigena ;18; -     ;80;44;36
+ Presidente Hayes ; Villa Hayes ; Rural ; Sawhoyamaxa - Santa Elisa ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Angaite / No indigena ;138; -     ;497;256;241
+ Presidente Hayes ; Villa Hayes ; Rural ; Sawhoyamaxa - km 16 ; Lengua Maskoy ; Guarani Occidental / Pueblo Guarani / Enlhet Norte / Enxet Sur / Nivacle / No indigena ;45; -     ;130;61;69
+ Presidente Hayes ; Villa Hayes ; Rural ; Sawhoyamaxa - 24 de Enero ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / No indigena ;24; -     ;70;33;37
+ Presidente Hayes ; Villa Hayes ; Rural ; Sawhoyamaxa - 16 de Agosto ; Lengua Maskoy ; Enxet Sur / No indigena ;21; -     ;59;25;34
+ Presidente Hayes ; Villa Hayes ; Rural ; Yakye Axa ; Lengua Maskoy ; Enxet Sur / No indigena ;41; -     ;156;79;77
+ Presidente Hayes ; Villa Hayes ; Rural ; Yanekyaha Espinillo - 26 de Junio ; Lengua Maskoy ; Pai Tavytera/ Enlhet Norte / Enxet Sur / Angaite ;30; -     ;82;46;36
+ Presidente Hayes ; Villa Hayes ; Rural ; Yanekyaha Espinillo - Espinillo ; Lengua Maskoy ; Enxet Sur / Sanapana / Nivacle ;61; -     ;193;92;101
+ Presidente Hayes ; Villa Hayes ; Rural ; Yanekyaha Espinillo - Samaria ; Lengua Maskoy ; Enxet Sur ;17; -     ;51;26;25
+ Presidente Hayes ; Villa Hayes ; Rural ; Yanekyaha Espinillo - Timboty ; Lengua Maskoy ; Pai Tavytera/ Guarani Nandeva / Enlhet Norte / Enxet Sur / No indigena ;60; -     ;173;80;93
+ Presidente Hayes ; Villa Hayes ; Rural ; Buena Vista / Lamenxay ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Angaite / No indigena ;9; -     ;40;21;19
+ Presidente Hayes ; Villa Hayes ; Rural ; Naranjaty ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Qom / No indigena ;30; -     ;112;60;52
+ Presidente Hayes ; Villa Hayes ; Rural ; Kelyenmagategma - Karaja Vuelta ; Lengua Maskoy ; Guarani Nandeva / Enlhet Norte / Enxet Sur / Angaite ;38; -     ;135;68;67
+ Presidente Hayes ; Villa Hayes ; Rural ; Kelyenmagategma - Karaja Vuelta - Partillada ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Angaite ;15; -     ;70;37;33
+ Presidente Hayes ; Villa Hayes ; Rural ; Kenkuket ; Mataco Mataguayo ; Enxet Sur / Nivacle / Maka / No indigena ;163; -     ;621;299;322
+ Presidente Hayes ; Villa Hayes ; Rural ; Rodolfito - Alborada ; Lengua Maskoy ; Enxet Sur / No indigena ;9; -     ;38;19;19
+ Presidente Hayes ; Villa Hayes ; Rural ; Comunidad 96 / Payseyamexyempa'a ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Angaite ;15; -     ;76;35;41
+ Presidente Hayes ; Villa Hayes ; Rural ; Nucleo de Familia Rancho 10 ; Lengua Maskoy ; Enxet Sur / No indigena ;12; -     ;27;9;18
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Urbana ; Karandilla Poty ; Lengua Maskoy ; Sanapana / Angaite ;38; -     ;167;88;79
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Diez Leguas - Vista Alegre ; Lengua Maskoy ; Angaite ;59; -     ;197;97;100
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Diez Leguas - Palo Blanco ; Lengua Maskoy ; Enxet Sur / Sanapana / Angaite ;61; -     ;276;135;141
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Diez Leguas - 12 de Junio ; Lengua Maskoy ; Pai Tavytera/ Angaite / No indigena ;113; -     ;411;217;194
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Diez Leguas - Martillo ; Lengua Maskoy ; Angaite / Nivacle ;41; -     ;150;74;76
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Diez Leguas - Karandilla ; Lengua Maskoy ; Sanapana / Angaite ;32; -     ;162;91;71
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Diez Leguas - Centro ; Lengua Maskoy ; Angaite / Nivacle ;24; -     ;110;55;55
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; El Estribo - 20 de enero ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Angaite / Nivacle / Qom ;52; -     ;212;106;106
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; El Estribo - Alegre ; Lengua Maskoy ; Enxet Sur ;49; -     ;145;77;68
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; El Estribo - Dos palmas ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Angaite ;123; -     ;446;230;216
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; El Estribo - Karanda oka ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Qom ;71; -     ;179;89;90
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; El Estribo - La Madrina ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Angaite / Nivacle / Maka ;22; -     ;95;54;41
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; El Estribo - Palo Santo ; Lengua Maskoy ; Enlhet Norte / Enxet Sur ;45; -     ;154;76;78
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; El Estribo - Paratodo'i ; Lengua Maskoy ; Enxet Sur / Angaite / Toba Maskoy / Toba Enenlhet / No indigena ;55; -     ;256;140;116
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; El Estribo - San Carlos ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Toba Maskoy / Toba Enenlhet / Maka ;67; -     ;262;128;134
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; El Estribo - Santa Fe ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Nivacle / Qom ;79; -     ;269;145;124
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; El Estribo - 3 Tamarino ; Lengua Maskoy ; Enlhet Norte / Enxet Sur ;13; -     ;55;29;26
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; La Armonia - Aldea 1 ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Qom / No indigena ;29; -     ;64;38;26
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; La Armonia - Aldea 2 ; Lengua Maskoy ; Enlhet Norte / Enxet Sur ;53; -     ;122;57;65
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; La Armonia - Aldea 3 ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Qom ;20; -     ;45;25;20
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; La Armonia - Aldea 4 ; Lengua Maskoy ; Enlhet Norte / Enxet Sur ;12; -     ;41;16;25
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; La Armonia - Aldea 5 ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Toba Maskoy / Toba Enenlhet / No indigena ;35; -     ;109;57;52
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; La Armonia - Aldea 7 ; Lengua Maskoy ; Enlhet Norte / Enxet Sur ;40; -     ;105;45;60
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nich'a Toyish - Macedonia ; Mataco Mataguayo ; Nivacle ;14; -     ;57;30;27
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nich'a Toyish - 1° de Marzo ; Mataco Mataguayo ; Nivacle ;7; -     ;27;15;12
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nich'a Toyish - Boqueron ; Mataco Mataguayo ; Nivacle ;10; -     ;34;18;16
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nich'a Toyish - 12 de Octubre ; Mataco Mataguayo ; Nivacle ;29; -     ;91;44;47
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nich'a Toyish - 19 de Abril ; Mataco Mataguayo ; Nivacle ;12; -     ;49;22;27
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nich'a Toyish - 14 de Mayo ; Mataco Mataguayo ; Nivacle / Maka / No indigena ;19; -     ;87;44;43
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nich'a Toyish - 12 de Junio ; Mataco Mataguayo ; Nivacle ;25; -     ;87;48;39
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nich'a Toyish - 1° de Mayo ; Mataco Mataguayo ; Nivacle ;34; -     ;110;56;54
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nich'a Toyish - Primavera ; Mataco Mataguayo ; Nivacle ;20; -     ;89;51;38
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nich'a Toyish - Paz del Chaco ; Mataco Mataguayo ; Nivacle ;3; -     ;13;6;7
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nueva Promesa - Aldea 1 ; Lengua Maskoy ; Sanapana / Angaite ;39; -     ;148;80;68
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nueva Promesa - Aldea 2 ; Lengua Maskoy ; Enxet Sur / Sanapana / Angaite / No indigena ;52; -     ;194;98;96
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nueva Promesa - Aldea 3 ; Lengua Maskoy ; Enxet Sur / Sanapana / Angaite / Guana ;48; -     ;211;110;101
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nueva Promesa - Aldea 4 ; Lengua Maskoy ; Sanapana ;32; -     ;130;65;65
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nueva Promesa - Aldea 6 ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana ;75; -     ;286;147;139
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nueva Vida ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / No indigena ;205;1;687;361;326
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Paz Del Chaco - Unida ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Guana / Qom ;211; -     ;728;384;344
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Paz Del Chaco - Terrenal ; Lengua Maskoy ; Ache / Enlhet Norte / Enxet Sur / Sanapana / Angaite / Guana / Maka ;77; -     ;252;132;120
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Campo Largo ; Lengua Maskoy ; Guarani Nandeva / Enlhet Norte / Enxet Sur / Nivacle ;88; -     ;347;185;162
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Campo Largo - Pozo Negro ; Lengua Maskoy ; Enlhet Norte / Nivacle ;16; -     ;74;43;31
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Campo Largo - Campo Bajo ; Lengua Maskoy ; Enlhet Norte / Nivacle / Maka / No indigena ;61; -     ;250;125;125
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Campo Largo - Campo Arana ; Lengua Maskoy ; Guarani Nandeva / Enlhet Norte / Enxet Sur ;35; -     ;135;68;67
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Campo Largo - 5 de Mayo ; Lengua Maskoy ; Enlhet Norte / Nivacle ;33; -     ;144;71;73
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Anaconda ; Lengua Maskoy ; Sanapana / No indigena ;81; -     ;429;219;210
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nivacle Unida - Betania ; Mataco Mataguayo ; Nivacle / No indigena ;76; -     ;253;120;133
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nivacle Unida - Jerico ; Mataco Mataguayo ; Enlhet Norte / Nivacle ;41; -     ;156;85;71
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nivacle Unida - Jope ; Mataco Mataguayo ; Nivacle ;107; -     ;398;203;195
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Nivacle Unida - Cana ; Mataco Mataguayo ; Nivacle ;32; -     ;109;52;57
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Casanillo - Campo Aroma ; Lengua Maskoy ; Enxet Sur / Sanapana / Angaite / Toba Maskoy / Toba Enenlhet ;53; -     ;250;133;117
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Casanillo - Tres Palmas ; Lengua Maskoy ; Pai Tavytera/ Sanapana / Guana ;36; -     ;181;89;92
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Casanillo - Capiata ; Lengua Maskoy ; Toba Maskoy / Toba Enenlhet / Maka ;38; -     ;121;65;56
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Casanillo - Casanillo ; Lengua Maskoy ; Guarani Occidental / Pueblo Guarani / Enlhet Norte / Toba Maskoy / Toba Enenlhet / No indigena ;246; -     ;757;402;355
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Casanillo - Linda Vista ; Lengua Maskoy ; Toba Maskoy / Toba Enenlhet ;4; -     ;11;5;6
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Casanillo - San Rafael ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Angaite / Guana / Toba Maskoy / Toba Enenlhet ;56; -     ;252;145;107
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; La Esperanza - Centro ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / No indigena ;38; -     ;145;82;63
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; La Esperanza - Aldea 6 ; Lengua Maskoy ; Sanapana / Angaite / Guana ;57; -     ;259;147;112
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; La Esperanza - Aldea 7 ; Lengua Maskoy ; Sanapana ;19; -     ;76;38;38
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; La Esperanza - Aldea 5 ; Lengua Maskoy ; Sanapana / Toba Maskoy / Toba Enenlhet ;21; -     ;95;44;51
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Pozo Amarillo - Centro ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Angaite / Toba Maskoy / Toba Enenlhet ;58; -     ;194;101;93
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Pozo Amarillo - Tobat? ; Lengua Maskoy ; Ava Guarani / Enlhet Norte / Enxet Sur / Sanapana / Toba Maskoy / Toba Enenlhet ;44; -     ;150;72;78
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Pozo Amarillo - Rojas Silva ; Lengua Maskoy ; Enlhet Norte / Enxet Sur ;17; -     ;64;32;32
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Pozo Amarillo - Nueva Union ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Toba Maskoy / Toba Enenlhet / Nivacle / No indigena ;134; -     ;466;237;229
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Pozo Amarillo - Chaco'i ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Toba Maskoy / Toba Enenlhet / Nivacle ;10; -     ;37;17;20
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Pozo Amarillo - Colonia 1 ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Toba Maskoy / Toba Enenlhet / No indigena ;56; -     ;222;118;104
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Pozo Amarillo - 4 de Agosto ; Lengua Maskoy ; Guarani Occidental / Pueblo Guarani / Enlhet Norte / Enxet Sur / Toba Maskoy / Toba Enenlhet ;64; -     ;261;140;121
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Pozo Amarillo - Ararat ; Lengua Maskoy ; Ache / Enlhet Norte / Toba Maskoy / Toba Enenlhet ;50; -     ;175;85;90
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Pozo Amarillo - Carpa Kue ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Toba Maskoy / Toba Enenlhet / No indigena ;28; -     ;114;64;50
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Pozo Amarillo - Natem Pome ; Lengua Maskoy ; Enlhet Norte ;25; -     ;110;52;58
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; La Abundancia ; Mataco Mataguayo ; Nivacle ;77; -     ;458;236;222
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Laguna Pora ; Lengua Maskoy ; Toba Maskoy / Toba Enenlhet ;15; -     ;38;20;18
+ Presidente Hayes ; Tte. 1° Manuel Irala Fernandez ; Rural ; Xakmok Kasek ; Lengua Maskoy ; Mbya Guarani / Guarani Nandeva / Enlhet Norte / Enxet Sur / Sanapana / Angaite / Qom / No indigena ;87; -     ;284;137;147
+ Presidente Hayes ; Teniente Esteban Martinez ; Rural ; Fischat - San Leonardo ; Mataco Mataguayo ; Guarani Nandeva / Toba Maskoy / Toba Enenlhet / Nivacle / No indigena ;139; -     ;706;331;375
+ Presidente Hayes ; Teniente Esteban Martinez ; Rural ; Cacique Sapo ; Mataco Mataguayo ; Nivacle / No indigena ;17; -     ;82;41;41
+ Presidente Hayes ; General Jose Maria Bruguez ; Rural ; La Esperanza - Centro ; Lengua Maskoy ; Enxet Sur / Qom ;24; -     ;69;39;30
+ Presidente Hayes ; General Jose Maria Bruguez ; Rural ; La Esperanza - La Promesa ; Lengua Maskoy ; Enxet Sur / Sanapana / Qom / No indigena ;65; -     ;247;132;115
+ Presidente Hayes ; General Jose Maria Bruguez ; Rural ; La Esperanza - La Altura ; Lengua Maskoy ; Enlhet Norte / Enxet Sur ;32; -     ;121;65;56
+ Presidente Hayes ; General Jose Maria Bruguez ; Rural ; La Esperanza - Tapiti ; Lengua Maskoy ; Enxet Sur ;23; -     ;60;33;27
+ Presidente Hayes ; General Jose Maria Bruguez ; Rural ; La Esperanza - Karaguata Poty ; Lengua Maskoy ; Enxet Sur / Qom / No indigena ;32; -     ;82;34;48
+ Presidente Hayes ; General Jose Maria Bruguez ; Rural ; San Jose ; Guaicuru ; Enlhet Norte / Enxet Sur / Qom / No indigena ;22; -     ;75;47;28
+ Presidente Hayes ; General Jose Maria Bruguez ; Rural ; Tooshec Qaltaq ; Guaicuru ; Qom ;17; -     ;47;27;20
+ Presidente Hayes ; Campo Aceval ; Rural ; Novòc'tas - Centro ; Mataco Mataguayo ; Nivacle ;37; -     ;217;109;108
+ Presidente Hayes ; Campo Aceval ; Rural ; Novòc'tas - Marcelo Kue ; Mataco Mataguayo ; Enlhet Norte / Enxet Sur / Nivacle ;36; -     ;169;88;81
+ Presidente Hayes ; Campo Aceval ; Rural ; Paratodo ; Lengua Maskoy ; Guarani Nandeva / Enlhet Norte / Enxet Sur / Sanapana / Toba Maskoy / Toba Enenlhet / Nivacle / Maka / Qom ;124; -     ;478;256;222
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita ; Guarani ; Guarani Occidental / Pueblo Guarani / No indigena ;7; -     ;43;19;24
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - Santa Rosa ; Guarani ; Guarani Occidental / Pueblo Guarani / No indigena ;19; -     ;70;36;34
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - Santa Elena ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Enlhet Norte / Nivacle / Manjui / No indigena ;28; -     ;147;70;77
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - San Jose ; Guarani ; Pai Tavytera/ Nivacle / No indigena ;59; -     ;337;174;163
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - Virgen del Carmen ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Manjui ;16; -     ;62;29;33
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - Villa Belen ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Manjui ;29; -     ;123;67;56
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - Virgen de Caacupe ; Guarani ; Pai Tavytera/ Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Enxet Sur / Angaite / Nivacle / No indigena ;46;1;172;79;93
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - Santa Maria ; Guarani ; Guarani Occidental / Pueblo Guarani / Nivacle / No indigena ;31; -     ;109;49;60
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - Santa Lucia ; Guarani ; Guarani Occidental / Pueblo Guarani / Nivacle ;29; -     ;87;51;36
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - Maria Auxiliadora ; Guarani ; Guarani Occidental / Pueblo Guarani ;21; -     ;46;26;20
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - Santa Isabel ; Guarani ; Guarani Occidental / Pueblo Guarani / Maka ;20; -     ;95;47;48
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - Santa Cecilia ; Guarani ; Guarani Occidental / Pueblo Guarani / Nivacle ;12; -     ;61;28;33
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - Virgen del Rosario ; Guarani ; Guarani Occidental / Pueblo Guarani / No indigena ;46; -     ;178;78;100
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - San Juan ; Guarani ; Guarani Occidental / Pueblo Guarani / No indigena ;17;1;52;30;22
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Santa Teresita - San Lazaro ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Sanapana ;34; -     ;134;65;69
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Abizais - Picada 500 ; Mataco Mataguayo ; Guarani Nandeva / Manjui / No indigena ;29; -     ;84;41;43
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Urbana ; Mariscal Estigarribia - Urbano ; Guarani ; Guarani Occidental / Pueblo Guarani / No indigena ;123; -     ;502;241;261
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Campo Loa - Santisima Trinidad ; Mataco Mataguayo ; Nivacle ;36; -     ;126;65;61
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Campo Loa - Jotoichat ; Mataco Mataguayo ; Nivacle / Manjui / No indigena ;121; -     ;435;224;211
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Campo Loa - Primavera ; Mataco Mataguayo ; Guarani Occidental / Pueblo Guarani / Nivacle ;35; -     ;151;82;69
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Campo Loa - San Miguel ; Mataco Mataguayo ; Nivacle / Manjui ;50; -     ;199;104;95
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Campo Loa - San Pio 10 ; Mataco Mataguayo ; Nivacle ;16; -     ;77;42;35
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Campo Loa - San Ramon ; Mataco Mataguayo ; Guarani Occidental / Pueblo Guarani / Nivacle / Maka ;20; -     ;106;57;49
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Campo Loa - Nasuc ; Mataco Mataguayo ; Ava Guarani / Guarani Occidental / Pueblo Guarani / Nivacle ;36; -     ;211;104;107
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Campo Loa - San Antonio ; Mataco Mataguayo ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Nivacle ;12; -     ;73;34;39
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Campo Loa - Noe ; Mataco Mataguayo ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Nivacle ;10; -     ;42;23;19
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Campo Loa - San Pedro ; Mataco Mataguayo ; Nivacle / Manjui ;15; -     ;55;32;23
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - Nueva Estrella ; Guarani ; Guarani Nandeva / Enlhet Norte / No indigena ;15; -     ;54;27;27
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - Canaan ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Enxet Sur ;78; -     ;277;139;138
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - Damasco ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Nivacle ;95; -     ;269;143;126
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - Emaus ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / No indigena ;24; -     ;97;52;45
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - Jerusalen ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Toba Maskoy / Toba Enenlhet / Nivacle ;23; -     ;62;32;30
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - Ko'? Pyahu ; Guarani ; Guarani Nandeva ;49; -     ;151;75;76
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - Timoteo ; Guarani ; Mbya Guarani / Guarani Occidental / Pueblo Guarani / Guarani Nandeva ;32; -     ;82;42;40
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - Belen ; Guarani ; Guarani Nandeva / Enxet Sur / Manjui ;64; -     ;196;102;94
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - Nueva Luna ; Guarani ; Guarani Nandeva ;13; -     ;38;18;20
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - Mbyja Ko'? ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / No indigena ;28; -     ;88;45;43
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - Villa Monte ; Guarani ; Guarani Nandeva / Angaite ;23; -     ;89;47;42
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - Monte Sinai ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva ;11; -     ;46;25;21
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - San Blas ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Nivacle ;32; -     ;86;42;44
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Laguna Negra - 8 de Enero ; Guarani ; Guarani Nandeva ;21; -     ;96;51;45
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Machareti ; Guarani ; Mbya Guarani / Pai Tavytera/ Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Enxet Sur / Nivacle / No indigena ;121; -     ;561;295;266
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Pykasu ; Guarani ; Mbya Guarani / Guarani Nandeva / Sanapana / Angaite ;90; -     ;470;234;236
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; San Agustin - San Eugenio ; Guarani ; Guarani Occidental / Pueblo Guarani / Nivacle / Manjui / No indigena ;28; -     ;102;51;51
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; San Agustin - Sagrado Corazon de Jesus ; Guarani ; Guarani Occidental / Pueblo Guarani / No indigena ;33; -     ;126;63;63
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; San Agustin - San Roque ; Guarani ; Guarani Occidental / Pueblo Guarani / Nivacle / No indigena ;56; -     ;193;80;113
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; San Agustin - San Jose ; Guarani ; Guarani Occidental / Pueblo Guarani / Nivacle / No indigena ;27; -     ;93;45;48
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; San Agustin - Cristo Rey ; Guarani ; Guarani Occidental / Pueblo Guarani ;15; -     ;60;31;29
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; San Agustin - Laguna ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Nivacle ;35; -     ;119;56;63
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; San Agustin - Maria Auxiliadora ; Guarani ; Guarani Occidental / Pueblo Guarani ;16; -     ;44;18;26
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Santa Rosa ; Mataco Mataguayo ; Maka / Manjui ;64; -     ;160;81;79
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Nu Guasu ; Guarani ; Guarani Nandeva ;44; -     ;127;65;62
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Siracua ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva ;27; -     ;86;39;47
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Jasy'endy ; Guarani ; Guarani Occidental / Pueblo Guarani / No indigena ;32; -     ;123;67;56
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Cuyabia ; Zamuco ; Guarani Occidental / Pueblo Guarani / Ayoreo ;13; -     ;32;14;18
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Loma ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / No indigena ;18; -     ;69;32;37
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Diez Kue Feliciano Saldivar ; Guarani ; Pai Tavytera/ Guarani Occidental / Pueblo Guarani / Guarani Nandeva / No indigena ;33; -     ;113;55;58
+ Boqueron ; Mariscal Jose Felix Estigarribia ; Rural ; Nucleo de Familias La Patria ; Guarani ; Guarani Nandeva ;12; -     ;70;38;32
+ Boqueron ; Filadelfia ; Urbana ; Cacique Mayeto ; Lengua Maskoy ; Ava Guarani / Guarani Nandeva / Enlhet Norte / Enxet Sur / Nivacle / Maka ;156; -     ;763;392;371
+ Boqueron ; Filadelfia ; Urbana ; Uj'elhavos ; Mataco Mataguayo ; Ava Guarani / Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Enlhet Norte / Enxet Sur / Nivacle / Maka / Ayoreo / No indigena ;455; -     ;3.107;1.593;1.514
+ Boqueron ; Filadelfia ; Urbana ; Yvopey Renda ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Enlhet Norte / Enxet Sur / Angaite / Toba Maskoy / Toba Enenlhet / Nivacle / No indigena ;278; -     ;1.333;677;656
+ Boqueron ; Filadelfia ; Rural ; Campo Loro ; Zamuco ; Guarani Occidental / Pueblo Guarani / Ayoreo / Ybytoso ;201; -     ;446;232;214
+ Boqueron ; Filadelfia ; Rural ; Colonia 22 ; Mataco Mataguayo ; Nivacle / Manjui ;21; -     ;99;54;45
+ Boqueron ; Filadelfia ; Rural ; Ebetogue ; Zamuco ; Manjui / Ayoreo ;72; -     ;292;156;136
+ Boqueron ; Filadelfia ; Rural ; Jesudi ; Zamuco ; Guarani Occidental / Pueblo Guarani / Ayoreo ;22; -     ;59;35;24
+ Boqueron ; Filadelfia ; Rural ; San Loewen ; Lengua Maskoy ; Guarani Occidental / Pueblo Guarani / Enlhet Norte / Enxet Sur / Angaite / Toba Maskoy / Toba Enenlhet / Nivacle ;105; -     ;356;190;166
+ Boqueron ; Filadelfia ; Rural ; San Martin ; Lengua Maskoy ; Guarani Occidental / Pueblo Guarani / Sanapana / Angaite / Ybytoso / No indigena ;50;1;177;92;85
+ Boqueron ; Filadelfia ; Rural ; Santo Domingo ; Lengua Maskoy ; Sanapana / Angaite / No indigena ;50; -     ;170;89;81
+ Boqueron ; Filadelfia ; Rural ; Tunucojai ; Zamuco ; Ayoreo / No indigena ;7; -     ;14;7;7
+ Boqueron ; Filadelfia ; Rural ; Jogasui ; Zamuco ; Ayoreo ;44; -     ;87;37;50
+ Boqueron ; Filadelfia ; Rural ; 10 de Febrero ; Zamuco ; Ayoreo / No indigena ;15; -     ;38;18;20
+ Boqueron ; Filadelfia ; Rural ; 15 de Setiembre ; Zamuco ; Ayoreo ;11; -     ;17;10;7
+ Boqueron ; Filadelfia ; Rural ; 2 de Enero ; Zamuco ; Ayoreo / No indigena ;30; -     ;80;44;36
+ Boqueron ; Filadelfia ; Rural ; Ijnapui ; Zamuco ; Ayoreo / No indigena ;26; -     ;68;35;33
+ Boqueron ; Filadelfia ; Rural ; La Esquina ; Zamuco ; Ayoreo / No indigena ;16; -     ;49;22;27
+ Boqueron ; Filadelfia ; Rural ; Colonia 5 - Obrero ; Guarani ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Enlhet Norte / Sanapana / Nivacle ;45; -     ;197;97;100
+ Boqueron ; Filadelfia ; Rural ; Oleria Trebol ; Zamuco ; Ayoreo / No indigena ;38; -     ;131;66;65
+ Boqueron ; Filadelfia ; Rural ; Amistad ; Zamuco ; Ayoreo ;10; -     ;28;14;14
+ Boqueron ; Filadelfia ; Rural ; Guida Ichai ; Zamuco ; Ayoreo / No indigena ;136; -     ;450;242;208
+ Boqueron ; Loma Plata ; Urbana ; Pesempo'o ; Lengua Maskoy ; Ava Guarani / Guarani Occidental / Pueblo Guarani / Enlhet Norte / Enxet Sur / Sanapana / Angaite / Guana / Toba Maskoy / Toba Enenlhet / Nivacle / Maka / Qom / No indigena ;553; -     ;2.079;1.071;1.008
+ Boqueron ; Loma Plata ; Rural ; Nivacle Unida - Centro ; Mataco Mataguayo ; Guarani Occidental / Pueblo Guarani / Sanapana / Angaite / Nivacle / Ayoreo / No indigena ;33;3;158;77;81
+ Boqueron ; Loma Plata ; Rural ; Nivacle Unida - Cesarea ; Mataco Mataguayo ; Enxet Sur / Nivacle ;32; -     ;159;86;73
+ Boqueron ; Loma Plata ; Rural ; Nivacle Unida - Samaria ; Mataco Mataguayo ; Enxet Sur / Nivacle / No indigena ;107; -     ;265;140;125
+ Boqueron ; Loma Plata ; Rural ; Nivacle Unida  - Tiberia ; Mataco Mataguayo ; Guarani Occidental / Pueblo Guarani / Enlhet Norte / Nivacle ;153; -     ;398;212;186
+ Boqueron ; Loma Plata ; Rural ; Nivacle Unida - Betania ; Mataco Mataguayo ; Nivacle ;25; -     ;66;39;27
+ Boqueron ; Loma Plata ; Rural ; Nivacle Unida  - Galilea ; Mataco Mataguayo ; Enxet Sur / Nivacle ;26; -     ;117;59;58
+ Boqueron ; Loma Plata ; Rural ; Nivacle Unida  - Campo Salado ; Mataco Mataguayo ; Nivacle ;45; -     ;179;100;79
+ Boqueron ; Loma Plata ; Rural ; Nivacle Unida - Campo Nueve ; Mataco Mataguayo ; Guarani Nandeva / Nivacle ;61; -     ;253;130;123
+ Boqueron ; Loma Plata ; Rural ; Nivacle Unida - Jerico ; Mataco Mataguayo ; Enlhet Norte / Nivacle / No indigena ;29; -     ;96;46;50
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Centro ; Lengua Maskoy ; Enlhet Norte / Enxet Sur ;67; -     ;255;134;121
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Savaaya Amyep ; Lengua Maskoy ; Enlhet Norte / Enxet Sur ;27; -     ;87;44;43
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Setesves ; Lengua Maskoy ; Enlhet Norte / No indigena ;34; -     ;109;54;55
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Naok Amyep ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Nivacle / Maka ;51; -     ;186;98;88
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Mariscal Lopez ; Lengua Maskoy ; Enlhet Norte / Toba Maskoy / Toba Enenlhet ;25; -     ;97;45;52
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - 10 de Agosto ; Lengua Maskoy ; Guarani Nandeva / Enlhet Norte / Enxet Sur / Toba Maskoy / Toba Enenlhet / Nivacle / Maka ;35; -     ;159;81;78
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Caacupe ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Nivacle ;34; -     ;141;78;63
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Nazareth ; Lengua Maskoy ; Ache / Enlhet Norte / Enxet Sur / Angaite / Nivacle ;133; -     ;474;250;224
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Efeso ; Lengua Maskoy ; Enlhet Norte / Angaite / Toba Maskoy / Toba Enenlhet / No indigena ;67; -     ;269;134;135
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Tarso Amyep ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / No indigena ;21; -     ;84;45;39
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Madian ; Lengua Maskoy ; Enlhet Norte / Toba Maskoy / Toba Enenlhet ;27; -     ;96;55;41
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Kanavsa ; Lengua Maskoy ; Enlhet Norte / Enxet Sur ;26; -     ;85;44;41
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Campo Bello ; Lengua Maskoy ; Enlhet Norte ;21; -     ;54;30;24
+ Boqueron ; Loma Plata ; Rural ; Ya'alve Saanga - Monte Palmera ; Lengua Maskoy ; Enlhet Norte / Nivacle / Ayoreo / No indigena ;49; -     ;132;65;67
+ Boqueron ; Boqueron ; Urbana ; Cayin'o Clim ; Mataco Mataguayo ; Ava Guarani / Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Enlhet Norte / Toba Maskoy / Toba Enenlhet / Nivacle / Maka / No indigena ;368; -     ;1.809;904;905
+ Boqueron ; Boqueron ; Rural ; Fischat - San Leonardo ; Mataco Mataguayo ; Nivacle / No indigena ;45;1;200;102;98
+ Boqueron ; Boqueron ; Rural ; Campo Largo - 6 de Octubre ; Lengua Maskoy ; Ava Guarani / Guarani Nandeva / Enlhet Norte ;20; -     ;65;32;33
+ Boqueron ; Boqueron ; Rural ; Cacique Sapo ; Mataco Mataguayo ; Toba Maskoy / Toba Enenlhet / Nivacle / No indigena ;21; -     ;112;46;66
+ Boqueron ; Boqueron ; Rural ; Cacique Sapo - Santa Rosa ; Mataco Mataguayo ; Nivacle / No indigena ;20; -     ;114;57;57
+ Boqueron ; Boqueron ; Rural ; San Jose Esteros ; Mataco Mataguayo ; Enlhet Norte / Nivacle ;78; -     ;528;267;261
+ Boqueron ; Boqueron ; Rural ; Quenjacloi ; Mataco Mataguayo ; Nivacle / Maka ;25; -     ;83;40;43
+ Boqueron ; Boqueron ; Rural ; Yi'shinachat ; Mataco Mataguayo ; Enlhet Norte / Nivacle / No indigena ;117; -     ;549;274;275
+ Boqueron ; Boqueron ; Rural ; Campo Alegre - Aldea 1 ; Mataco Mataguayo ; Nivacle ;43; -     ;159;86;73
+ Boqueron ; Boqueron ; Rural ; Campo Alegre - Aldea 2 ; Mataco Mataguayo ; Nivacle / No indigena ;193; -     ;587;298;289
+ Boqueron ; Boqueron ; Rural ; Campo Alegre - Aldea 3 ; Mataco Mataguayo ; Nivacle ;56; -     ;179;94;85
+ Boqueron ; Boqueron ; Rural ; Campo Alegre - Aldea 4 ; Mataco Mataguayo ; Nivacle ;46; -     ;155;76;79
+ Boqueron ; Boqueron ; Rural ; Campo Alegre - Aldea 5 ; Mataco Mataguayo ; Enlhet Norte / Toba Maskoy / Toba Enenlhet / Nivacle ;57;1;207;109;98
+ Boqueron ; Boqueron ; Rural ; Campo Alegre - Aldea 6 ; Mataco Mataguayo ; Nivacle ;54; -     ;179;101;78
+ Boqueron ; Boqueron ; Rural ; Campo Alegre - Aldea 7 ; Mataco Mataguayo ; Nivacle / Maka ;33; -     ;98;49;49
+ Boqueron ; Boqueron ; Rural ; Campo Alegre - Aldea 8 ; Mataco Mataguayo ; Nivacle ;36; -     ;120;61;59
+ Boqueron ; Boqueron ; Rural ; Campo Alegre - Aldea 9 ; Mataco Mataguayo ; Nivacle / Maka ;38; -     ;117;59;58
+ Boqueron ; Boqueron ; Rural ; Campo Alegre - Aldea 10 ; Mataco Mataguayo ; Nivacle / Manjui / No indigena ;45; -     ;153;77;76
+ Boqueron ; Boqueron ; Rural ; Campo Alegre - Laguna Verde ; Mataco Mataguayo ; Nivacle / Manjui ;51; -     ;164;87;77
+ Boqueron ; Boqueron ; Rural ; Campo Ampu ; Mataco Mataguayo ; Nivacle / Manjui / No indigena ;17; -     ;54;28;26
+ Boqueron ; Boqueron ; Rural ; Casuarina - La Serena ; Mataco Mataguayo ; Nivacle ;21; -     ;61;27;34
+ Boqueron ; Boqueron ; Rural ; Casuarina - La Promesa ; Mataco Mataguayo ; Nivacle ;37; -     ;110;61;49
+ Boqueron ; Boqueron ; Rural ; Casuarina - Campo Virgen ; Mataco Mataguayo ; Pai Tavytera/ Nivacle ;73; -     ;182;93;89
+ Boqueron ; Boqueron ; Rural ; Casuarina - Campo Grande ; Mataco Mataguayo ; Nivacle / Manjui ;53; -     ;181;88;93
+ Boqueron ; Boqueron ; Rural ; Casuarina - La corona ; Mataco Mataguayo ; Nivacle ;21; -     ;61;33;28
+ Boqueron ; Boqueron ; Rural ; Mistolar ; Mataco Mataguayo ; Nivacle / Manjui ;49; -     ;162;73;89
+ Boqueron ; Boqueron ; Rural ; Sandhorst ; Mataco Mataguayo ; Guarani Occidental / Pueblo Guarani / Guarani Nandeva / Nivacle ;104; -     ;475;256;219
+ Boqueron ; Boqueron ; Rural ; Yàcacvash ; Mataco Mataguayo ; Nivacle / Manjui ;58; -     ;242;126;116
+ Boqueron ; Boqueron ; Rural ; Media Luna ; Mataco Mataguayo ; Nivacle / No indigena ;8; -     ;46;21;25
+ Boqueron ; Boqueron ; Rural ; La Princesa ; Mataco Mataguayo ; Nivacle ;71; -     ;351;176;175
+ Boqueron ; Boqueron ; Rural ; Paraiso ; Mataco Mataguayo ; Guana / Nivacle / No indigena ;83; -     ;310;146;164
+ Boqueron ; Boqueron ; Rural ; Pablo Sthall ; Mataco Mataguayo ; Enlhet Norte / Nivacle / No indigena ;30; -     ;73;38;35
+ Alto Paraguay ; Fuerte Olimpo ; Urbana ; Virgen Santisima ; Zamuco ; Ayoreo / Ybytoso / No indigena ;100; -     ;324;174;150
+ Alto Paraguay ; Fuerte Olimpo ; Rural ; Puerto Maria Elena - Pitiantuta ; Zamuco ; Ybytoso / Tomaraho / No indigena ;71; -     ;211;108;103
+ Alto Paraguay ; Fuerte Olimpo ; Rural ; La Abundancia ; Zamuco ; Ayoreo / Ybytoso / No indigena ;62;3;193;94;99
+ Alto Paraguay ; Puerto Casado ; Urbana ; Livio Farina ; Lengua Maskoy ; Enlhet Norte / Enxet Sur / Sanapana / Angaite / Guana / Toba Maskoy / Toba Enenlhet / No indigena ;64; -     ;276;137;139
+ Alto Paraguay ; Puerto Casado ; Rural ; Riacho Mosquito ; Lengua Maskoy ; Sanapana / Angaite / Guana / Toba Maskoy / Toba Enenlhet / Nivacle / Ybytoso ;120; -     ;435;208;227
+ Alto Paraguay ; Puerto Casado ; Rural ; Castilla ; Lengua Maskoy ; Sanapana / Angaite / Guana / Toba Maskoy / Toba Enenlhet / Nivacle ;54; -     ;213;108;105
+ Alto Paraguay ; Puerto Casado ; Rural ; San Isidro - Km 39 ; Lengua Maskoy ; Sanapana / Angaite / Guana / Toba Maskoy / Toba Enenlhet ;23; -     ;93;45;48
+ Alto Paraguay ; Puerto Casado ; Rural ; Maria Auxiliadora Km 40 ; Lengua Maskoy ; Angaite / Toba Maskoy / Toba Enenlhet ;22; -     ;99;41;58
+ Alto Paraguay ; Puerto Casado ; Rural ; Machete Vaina ; Lengua Maskoy ; Pai Tavytera/ Sanapana / Angaite / Guana / Toba Maskoy / Toba Enenlhet ;69; -     ;247;136;111
+ Alto Paraguay ; Puerto Casado ; Rural ; Boqueron Kue ; Lengua Maskoy ; Sanapana / Angaite / Guana / Toba Maskoy / Toba Enenlhet ;63; -     ;252;126;126
+ Alto Paraguay ; Puerto Casado ; Rural ; Arocojnadi ; Zamuco ; Ayoreo / Qom ;14; -     ;43;24;19
+ Alto Paraguay ; Puerto Casado ; Rural ; Chaidi ; Zamuco ; Ayoreo / No indigena ;34; -     ;118;60;58
+ Alto Paraguay ; Bahia Negra ; Rural ; Karchabalut - 14 de Mayo ; Zamuco ; Ybytoso ;25; -     ;67;32;35
+ Alto Paraguay ; Bahia Negra ; Rural ; Puerto Diana ; Zamuco ; Ava Guarani / Ybytoso / Tomaraho / No indigena ;263; -     ;820;428;392
+ Alto Paraguay ; Bahia Negra ; Rural ; Inihta - Puerto Esperanza ; Zamuco ; Ava Guarani / Ayoreo / Ybytoso ;103; -     ;406;207;199
+ Alto Paraguay ; Bahia Negra ; Rural ; Sabywut - Puerto Pollo ; Zamuco ; Nivacle / Ybytoso ;8; -     ;29;20;9
+ Alto Paraguay ; Carmelo Peralta ; Rural ; Guida Ichai ; Zamuco ; Ayoreo / No indigena ;20; -     ;52;31;21
+ Alto Paraguay ; Carmelo Peralta ; Rural ; Puerto Maria Auxiliadora - Isla Alta ; Zamuco ; Ayoreo / No indigena ;21; -     ;56;28;28
+ Alto Paraguay ; Carmelo Peralta ; Rural ; Cucaani ; Zamuco ; Ayoreo ;9; -     ;25;14;11
+ Alto Paraguay ; Carmelo Peralta ; Rural ; Nueva Esperanza ; Zamuco ; Ayoreo ;27; -     ;59;35;24
+ Alto Paraguay ; Carmelo Peralta ; Rural ; Punta ; Zamuco ; Ayoreo / No indigena ;48; -     ;109;57;52
+ Alto Paraguay ; Carmelo Peralta ; Rural ; Tiogai ; Zamuco ; Ayoreo ;23; -     ;48;22;26
+ Alto Paraguay ; Carmelo Peralta ; Rural ; Atapi ; Zamuco ; Maka / Ayoreo ;22; -     ;43;20;23
+ Alto Paraguay ; Carmelo Peralta ; Rural ; Punta Euei ; Zamuco ; Ayoreo ;37; -     ;97;46;51
+ Alto Paraguay ; Carmelo Peralta ; Rural ; Dojobie ; Zamuco ; Ayoreo ;15; -     ;35;18;17
+ Alto Paraguay ; Carmelo Peralta ; Rural ; Ayugui ; Zamuco ; Ayoreo ;31; -     ;66;34;32
+Total;-;-;-;-;-;39.093;20;137.547;70.110;67.437

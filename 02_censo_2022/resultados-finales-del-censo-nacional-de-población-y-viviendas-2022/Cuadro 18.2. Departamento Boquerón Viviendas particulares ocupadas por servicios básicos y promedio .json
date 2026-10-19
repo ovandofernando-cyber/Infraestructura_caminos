@@ -1,0 +1,47 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 20.317,
+    "Servicios basicos - Agua corriente (a)": 3.788,
+    "Servicios basicos - Desague sanitario (b)": 11.497,
+    "Servicios basicos - Recoleccion de basura (c)": 11.042,
+    "Servicios basicos - Energia electrica": 18.434,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Mariscal Jose Felix Estigarribia",
+    "Viviendas particulares": 3.404,
+    "Servicios basicos - Agua corriente (a)": 970,
+    "Servicios basicos - Desague sanitario (b)": 1.313,
+    "Servicios basicos - Recoleccion de basura (c)": 503,
+    "Servicios basicos - Energia electrica": 2.75,
+    "Promedio de personas por vivienda": "3,8"
+  },
+  {
+    "Distrito": "Filadelfia",
+    "Viviendas particulares": 6.061,
+    "Servicios basicos - Agua corriente (a)": 1.542,
+    "Servicios basicos - Desague sanitario (b)": 4.078,
+    "Servicios basicos - Recoleccion de basura (c)": 4.423,
+    "Servicios basicos - Energia electrica": 5.776,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Loma Plata",
+    "Viviendas particulares": 6.289,
+    "Servicios basicos - Agua corriente (a)": 560,
+    "Servicios basicos - Desague sanitario (b)": 4.231,
+    "Servicios basicos - Recoleccion de basura (c)": 4.544,
+    "Servicios basicos - Energia electrica": 5.865,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Boqueron",
+    "Viviendas particulares": 4.563,
+    "Servicios basicos - Agua corriente (a)": 716,
+    "Servicios basicos - Desague sanitario (b)": 1.875,
+    "Servicios basicos - Recoleccion de basura (c)": 1.572,
+    "Servicios basicos - Energia electrica": 4.043,
+    "Promedio de personas por vivienda": "3,6"
+  }
+]

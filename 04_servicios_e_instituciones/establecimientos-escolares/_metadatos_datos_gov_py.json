@@ -1,0 +1,67 @@
+{
+ "id": "8062ce21-a804-43f7-b0ee-5bacb28e7c30",
+ "name": "establecimientos-escolares",
+ "title": "ESTABLECIMIENTOS ESCOLARES ",
+ "author": "MEC",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>Contiene información sobre la ubicación geográfica de los establecimientos escolares tales como el departamento, distrito,barrio/localidad donde se encuentran asentados, además de la zona (urbana o rural) a la cual pertenecen, y los datos georreferenciadas como las coordenadas planas (en metros) y geograficas. El Sistema de informacion de Estadística Continua (SIEC) considera “Establecimiento Escolar” a la construcción que existe dentro de un predio (terreno) que se emplea para la enseñanza, donde puede funcionar una o más instituciones educativas con sus respectivos niveles/modalidades de educación.</p>\n",
+ "url": "https://www.datos.gov.py/dataset/establecimientos-escolares",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Mar, 10/15/2019 - 15:47",
+ "metadata_created": "Jue, 10/03/2019 - 14:51",
+ "metadata_modified": "Mar, 10/15/2019 - 15:47",
+ "creator_user_id": "54cca0b6-6573-47fd-b8db-d827e2552737",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "042806e1-47b2-43b5-852a-884e46a0952e",
+   "revision_id": "",
+   "url": "https://datos.mec.gov.py/data/establecimientos",
+   "description": "<p>Contiene información sobre la ubicación geográfica de los establecimientos escolares tales como el departamento, distrito,barrio/localidad donde se encuentran asentados, además de la zona (urbana o rural) a la cual pertenecen, y los datos georreferenciadas como las coordenadas planas (en metros) y geograficas. El Sistema de informacion de Estadística Continua (SIEC) considera “Establecimiento Escolar” a la construcción que existe dentro de un predio (terreno) que se emplea para la enseñanza, donde puede funcionar una o más instituciones educativas con sus respectivos niveles/modalidades de educación.</p>\n",
+   "format": "html",
+   "state": "Active",
+   "revision_timestamp": "Mar, 10/15/2019 - 12:06",
+   "name": "Establecimientos Escolares",
+   "mimetype": "html",
+   "size": "",
+   "created": "Jue, 10/03/2019 - 14:53",
+   "resource_group_id": "aba9c25e-197e-4f3b-8636-3ccd10941bad",
+   "last_modified": "Date changed  Mar, 10/15/2019 - 12:06"
+  }
+ ],
+ "tags": [
+  {
+   "id": "d979cb3b-8c22-488b-9bc4-4baace5b3ee9",
+   "vocabulary_id": "2",
+   "name": "colegios"
+  },
+  {
+   "id": "56796ffd-ea53-4675-bb02-769c4f194e33",
+   "vocabulary_id": "2",
+   "name": "educación"
+  },
+  {
+   "id": "bfafe999-e4c3-4e0a-94be-19f6a62fe7a7",
+   "vocabulary_id": "2",
+   "name": "escuelas"
+  },
+  {
+   "id": "f9d72128-ff32-4ec9-b7a3-efd0e0539435",
+   "vocabulary_id": "2",
+   "name": "establecimientos"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p><strong>Misión:</strong><br />\nGarantizar a todas las personas, a lo largo de su vida, una educación de calidad como bien público y derecho humano fundamental.</p>\n<p><strong>Objetivos:</strong></p>\n<p>Desarrollar, implementar y optimizar la Reforma Educativa en todos los niveles y modalidades del sistema educativo.<br />\nOptimizar el uso de los recursos del MEC<br />\nMejorar la competencia de los recursos humanos.<br />\nDesarrollar e implementar un sistema de gestión de calidad.<br />\nLograr niveles efectivos de comunicación internos y externos.<br />\nPromover el desarrollo de procesos de descentralización.<br />\nEstimular y desarrollar programas de investigación educativa, científica y tecnológica.<br />\nGestionar programas de cooperación técnica y financiera, nacionales e internacionales.<br />\nPromover el uso de los medios de comunicación social para la educación.<br />\nMejorar la aplicación de procesos de seguimiento, monitoreo y evaluación en todo el sistema.</p>\n",
+   "id": "aba9c25e-197e-4f3b-8636-3ccd10941bad",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/mec.png",
+   "title": "Ministerio de Educación y Ciencias (MEC)",
+   "name": "group/ministerio-de-educación-y-ciencias-mec"
+  }
+ ]
+}

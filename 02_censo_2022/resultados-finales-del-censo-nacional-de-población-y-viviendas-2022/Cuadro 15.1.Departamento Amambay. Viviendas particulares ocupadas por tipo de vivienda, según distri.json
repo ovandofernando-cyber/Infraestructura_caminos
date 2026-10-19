@@ -1,0 +1,72 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 51.191,
+    "Tipo de vivienda - Casa": 41.023,
+    "Tipo de vivienda - Rancho": 6.458,
+    "Tipo de vivienda - Departamento o piso": 740,
+    "Tipo de vivienda - Pieza de inquilinato": 2.317,
+    "Tipo de vivienda - Improvisada": 452,
+    "Tipo de vivienda - Otro": 201
+  },
+  {
+    "Distrito": "Pedro Juan Caballero",
+    "Total": 35.591,
+    "Tipo de vivienda - Casa": 28.861,
+    "Tipo de vivienda - Rancho": 3.462,
+    "Tipo de vivienda - Departamento o piso": 731,
+    "Tipo de vivienda - Pieza de inquilinato": 2.133,
+    "Tipo de vivienda - Improvisada": 248,
+    "Tipo de vivienda - Otro": 156
+  },
+  {
+    "Distrito": "Bella Vista",
+    "Total": 3.619,
+    "Tipo de vivienda - Casa": 2.838,
+    "Tipo de vivienda - Rancho": 703,
+    "Tipo de vivienda - Departamento o piso": 1,
+    "Tipo de vivienda - Pieza de inquilinato": 40,
+    "Tipo de vivienda - Improvisada": 28,
+    "Tipo de vivienda - Otro": 9
+  },
+  {
+    "Distrito": "Capitan Bado",
+    "Total": 5.677,
+    "Tipo de vivienda - Casa": 4.664,
+    "Tipo de vivienda - Rancho": 758,
+    "Tipo de vivienda - Departamento o piso": 7,
+    "Tipo de vivienda - Pieza de inquilinato": 104,
+    "Tipo de vivienda - Improvisada": 124,
+    "Tipo de vivienda - Otro": 20
+  },
+  {
+    "Distrito": "Zanja Pyta",
+    "Total": 1.695,
+    "Tipo de vivienda - Casa": 1.48,
+    "Tipo de vivienda - Rancho": 178,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 12,
+    "Tipo de vivienda - Improvisada": 14,
+    "Tipo de vivienda - Otro": 11
+  },
+  {
+    "Distrito": "Karapai",
+    "Total": 1.391,
+    "Tipo de vivienda - Casa": 1.13,
+    "Tipo de vivienda - Rancho": 247,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 10,
+    "Tipo de vivienda - Improvisada": 2,
+    "Tipo de vivienda - Otro": 2
+  },
+  {
+    "Distrito": "Cerro Cora",
+    "Total": 3.218,
+    "Tipo de vivienda - Casa": 2.05,
+    "Tipo de vivienda - Rancho": 1.11,
+    "Tipo de vivienda - Departamento o piso": 1,
+    "Tipo de vivienda - Pieza de inquilinato": 18,
+    "Tipo de vivienda - Improvisada": 36,
+    "Tipo de vivienda - Otro": 3
+  }
+]

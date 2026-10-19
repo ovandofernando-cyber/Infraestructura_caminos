@@ -1,0 +1,554 @@
+[
+  {
+    "Distrito y grupos de edad": "Departamento San Pedro",
+    "Total": 355.175,
+    "Area Urbana": 90.187,
+    "Area Rural": 264.988
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 100.267,
+    "Area Urbana": 23.528,
+    "Area Rural": 76.739
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 223.898,
+    "Area Urbana": 59.08,
+    "Area Rural": 164.818
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 31.01,
+    "Area Urbana": 7.579,
+    "Area Rural": 23.431
+  },
+  {
+    "Distrito y grupos de edad": "San Pedro del Ycuamandyyu",
+    "Total": 32.267,
+    "Area Urbana": 11.548,
+    "Area Rural": 20.719
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 8.289,
+    "Area Urbana": 2.622,
+    "Area Rural": 5.667
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 20.606,
+    "Area Urbana": 7.951,
+    "Area Rural": 12.655
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 3.372,
+    "Area Urbana": 975,
+    "Area Rural": 2.397
+  },
+  {
+    "Distrito y grupos de edad": "Antequera",
+    "Total": 4.25,
+    "Area Urbana": 3.315,
+    "Area Rural": 935
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 1.317,
+    "Area Urbana": 1.02,
+    "Area Rural": 297
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 2.504,
+    "Area Urbana": 1.954,
+    "Area Rural": 550
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 429,
+    "Area Urbana": 341,
+    "Area Rural": 88
+  },
+  {
+    "Distrito y grupos de edad": "Chore",
+    "Total": 23.548,
+    "Area Urbana": 3.327,
+    "Area Rural": 20.221
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 6.678,
+    "Area Urbana": 849,
+    "Area Rural": 5.829
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 14.673,
+    "Area Urbana": 2.254,
+    "Area Rural": 12.419
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 2.197,
+    "Area Urbana": 224,
+    "Area Rural": 1.973
+  },
+  {
+    "Distrito y grupos de edad": "General Elizardo Aquino",
+    "Total": 16.971,
+    "Area Urbana": 3.33,
+    "Area Rural": 13.641
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 3.953,
+    "Area Urbana": 752,
+    "Area Rural": 3.201
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 10.726,
+    "Area Urbana": 2.193,
+    "Area Rural": 8.533
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 2.292,
+    "Area Urbana": 385,
+    "Area Rural": 1.907
+  },
+  {
+    "Distrito y grupos de edad": "Itacurubi del Rosario",
+    "Total": 10.507,
+    "Area Urbana": 4.363,
+    "Area Rural": 6.144
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 2.365,
+    "Area Urbana": 1.024,
+    "Area Rural": 1.341
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 6.666,
+    "Area Urbana": 2.792,
+    "Area Rural": 3.874
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 1.476,
+    "Area Urbana": 547,
+    "Area Rural": 929
+  },
+  {
+    "Distrito y grupos de edad": "Lima",
+    "Total": 10.303,
+    "Area Urbana": 2.486,
+    "Area Rural": 7.817
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 2.91,
+    "Area Urbana": 670,
+    "Area Rural": 2.24
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 6.349,
+    "Area Urbana": 1.562,
+    "Area Rural": 4.787
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 1.044,
+    "Area Urbana": 254,
+    "Area Rural": 790
+  },
+  {
+    "Distrito y grupos de edad": "Nueva Germania",
+    "Total": 5.69,
+    "Area Urbana": 1.124,
+    "Area Rural": 4.566
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 1.818,
+    "Area Urbana": 310,
+    "Area Rural": 1.508
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 3.461,
+    "Area Urbana": 694,
+    "Area Rural": 2.767
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 411,
+    "Area Urbana": 120,
+    "Area Rural": 291
+  },
+  {
+    "Distrito y grupos de edad": "San Estanislao",
+    "Total": 46.405,
+    "Area Urbana": 20.587,
+    "Area Rural": 25.818
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 12.34,
+    "Area Urbana": 5.217,
+    "Area Rural": 7.123
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 30.04,
+    "Area Urbana": 13.722,
+    "Area Rural": 16.318
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 4.025,
+    "Area Urbana": 1.648,
+    "Area Rural": 2.377
+  },
+  {
+    "Distrito y grupos de edad": "San Pablo",
+    "Total": 3.415,
+    "Area Urbana": 983,
+    "Area Rural": 2.432
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 915,
+    "Area Urbana": 255,
+    "Area Rural": 660
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 2.114,
+    "Area Urbana": 615,
+    "Area Rural": 1.499
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 386,
+    "Area Urbana": 113,
+    "Area Rural": 273
+  },
+  {
+    "Distrito y grupos de edad": "Tacuati",
+    "Total": 13.847,
+    "Area Urbana": 2.064,
+    "Area Rural": 11.783
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 4.607,
+    "Area Urbana": 652,
+    "Area Rural": 3.955
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 8.483,
+    "Area Urbana": 1.276,
+    "Area Rural": 7.207
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 757,
+    "Area Urbana": 136,
+    "Area Rural": 621
+  },
+  {
+    "Distrito y grupos de edad": "Union",
+    "Total": 5.032,
+    "Area Urbana": 1.894,
+    "Area Rural": 3.138
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 1.239,
+    "Area Urbana": 447,
+    "Area Rural": 792
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 3.206,
+    "Area Urbana": 1.198,
+    "Area Rural": 2.008
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 587,
+    "Area Urbana": 249,
+    "Area Rural": 338
+  },
+  {
+    "Distrito y grupos de edad": "25 de Diciembre",
+    "Total": 8.703,
+    "Area Urbana": 957,
+    "Area Rural": 7.746
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 2.165,
+    "Area Urbana": 246,
+    "Area Rural": 1.919
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 5.407,
+    "Area Urbana": 588,
+    "Area Rural": 4.819
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 1.131,
+    "Area Urbana": 123,
+    "Area Rural": 1.008
+  },
+  {
+    "Distrito y grupos de edad": "Villa del Rosario",
+    "Total": 8.617,
+    "Area Urbana": 5.736,
+    "Area Rural": 2.881
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 2.45,
+    "Area Urbana": 1.609,
+    "Area Rural": 841
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 5.193,
+    "Area Urbana": 3.48,
+    "Area Rural": 1.713
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 974,
+    "Area Urbana": 647,
+    "Area Rural": 327
+  },
+  {
+    "Distrito y grupos de edad": "General Francisco Isidoro Resquin",
+    "Total": 10.019,
+    "Area Urbana": 2.55,
+    "Area Rural": 7.469
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 3.025,
+    "Area Urbana": 716,
+    "Area Rural": 2.309
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 6.245,
+    "Area Urbana": 1.666,
+    "Area Rural": 4.579
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 749,
+    "Area Urbana": 168,
+    "Area Rural": 581
+  },
+  {
+    "Distrito y grupos de edad": "Yataity del Norte",
+    "Total": 10.113,
+    "Area Urbana": 1.729,
+    "Area Rural": 8.384
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 2.389,
+    "Area Urbana": 397,
+    "Area Rural": 1.992
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 6.571,
+    "Area Urbana": 1.152,
+    "Area Rural": 5.419
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 1.153,
+    "Area Urbana": 180,
+    "Area Rural": 973
+  },
+  {
+    "Distrito y grupos de edad": "Guajayvi",
+    "Total": 28.214,
+    "Area Urbana": 2.693,
+    "Area Rural": 25.521
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 7.866,
+    "Area Urbana": 656,
+    "Area Rural": 7.21
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 18.08,
+    "Area Urbana": 1.827,
+    "Area Rural": 16.253
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 2.268,
+    "Area Urbana": 210,
+    "Area Rural": 2.058
+  },
+  {
+    "Distrito y grupos de edad": "Capiibary",
+    "Total": 30.57,
+    "Area Urbana": 7.335,
+    "Area Rural": 23.235
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 9.053,
+    "Area Urbana": 2.188,
+    "Area Rural": 6.865
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 19.231,
+    "Area Urbana": 4.716,
+    "Area Rural": 14.515
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 2.286,
+    "Area Urbana": 431,
+    "Area Rural": 1.855
+  },
+  {
+    "Distrito y grupos de edad": "Santa Rosa del Aguaray",
+    "Total": 39.643,
+    "Area Urbana": 8.079,
+    "Area Rural": 31.564
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 12.825,
+    "Area Urbana": 2.206,
+    "Area Rural": 10.619
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 24.801,
+    "Area Urbana": 5.485,
+    "Area Rural": 19.316
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 2.017,
+    "Area Urbana": 388,
+    "Area Rural": 1.629
+  },
+  {
+    "Distrito y grupos de edad": "Yrybucua",
+    "Total": 12.271,
+    "Area Urbana": 1.044,
+    "Area Rural": 11.227
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 3.914,
+    "Area Urbana": 337,
+    "Area Rural": 3.577
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 7.562,
+    "Area Urbana": 658,
+    "Area Rural": 6.904
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 795,
+    "Area Urbana": 49,
+    "Area Rural": 746
+  },
+  {
+    "Distrito y grupos de edad": "Liberacion",
+    "Total": 19.1,
+    "Area Urbana": 2.488,
+    "Area Rural": 16.612
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 5.383,
+    "Area Urbana": 664,
+    "Area Rural": 4.719
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 12.209,
+    "Area Urbana": 1.681,
+    "Area Rural": 10.528
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 1.508,
+    "Area Urbana": 143,
+    "Area Rural": 1.365
+  },
+  {
+    "Distrito y grupos de edad": "San Vicente Pancholo",
+    "Total": 11.571,
+    "Area Urbana": 1.324,
+    "Area Rural": 10.247
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 3.674,
+    "Area Urbana": 389,
+    "Area Rural": 3.285
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 7.193,
+    "Area Urbana": 853,
+    "Area Rural": 6.34
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 704,
+    "Area Urbana": 82,
+    "Area Rural": 622
+  },
+  {
+    "Distrito y grupos de edad": "San Jose del Rosario",
+    "Total": 4.119,
+    "Area Urbana": 1.231,
+    "Area Rural": 2.888
+  },
+  {
+    "Distrito y grupos de edad": "De 0 - 14 anos",
+    "Total": 1.092,
+    "Area Urbana": 302,
+    "Area Rural": 790
+  },
+  {
+    "Distrito y grupos de edad": "De 15 - 64 anos",
+    "Total": 2.578,
+    "Area Urbana": 763,
+    "Area Rural": 1.815
+  },
+  {
+    "Distrito y grupos de edad": "De 65 anos y mas",
+    "Total": 449,
+    "Area Urbana": 166,
+    "Area Rural": 283
+  }
+]

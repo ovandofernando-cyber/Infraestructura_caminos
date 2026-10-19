@@ -1,0 +1,209 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 217.289,
+    "Servicios basicos - Agua corriente (a)": 100.763,
+    "Servicios basicos - Desague sanitario (b)": 193.756,
+    "Servicios basicos - Recoleccion de basura (c)": 150.275,
+    "Servicios basicos - Energia electrica": 215.896,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Ciudad del Este",
+    "Viviendas particulares": 91.335,
+    "Servicios basicos - Agua corriente (a)": 35.719,
+    "Servicios basicos - Desague sanitario (b)": 83.849,
+    "Servicios basicos - Recoleccion de basura (c)": 76.172,
+    "Servicios basicos - Energia electrica": 90.97,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Presidente Franco",
+    "Viviendas particulares": 23.779,
+    "Servicios basicos - Agua corriente (a)": 10.953,
+    "Servicios basicos - Desague sanitario (b)": 21.926,
+    "Servicios basicos - Recoleccion de basura (c)": 18.639,
+    "Servicios basicos - Energia electrica": 23.64,
+    "Promedio de personas por vivienda": "3,7"
+  },
+  {
+    "Distrito": "Domingo Martinez de Irala",
+    "Viviendas particulares": 1.447,
+    "Servicios basicos - Agua corriente (a)": 550,
+    "Servicios basicos - Desague sanitario (b)": 1.095,
+    "Servicios basicos - Recoleccion de basura (c)": 73,
+    "Servicios basicos - Energia electrica": 1.443,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Dr. Juan Leon Mallorquin",
+    "Viviendas particulares": 4.57,
+    "Servicios basicos - Agua corriente (a)": 3.05,
+    "Servicios basicos - Desague sanitario (b)": 3.679,
+    "Servicios basicos - Recoleccion de basura (c)": 1.391,
+    "Servicios basicos - Energia electrica": 4.532,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Hernandarias",
+    "Viviendas particulares": 23.217,
+    "Servicios basicos - Agua corriente (a)": 13.546,
+    "Servicios basicos - Desague sanitario (b)": 21.049,
+    "Servicios basicos - Recoleccion de basura (c)": 17.838,
+    "Servicios basicos - Energia electrica": 23.113,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "Itakyry",
+    "Viviendas particulares": 7.913,
+    "Servicios basicos - Agua corriente (a)": 3.169,
+    "Servicios basicos - Desague sanitario (b)": 4.55,
+    "Servicios basicos - Recoleccion de basura (c)": 951,
+    "Servicios basicos - Energia electrica": 7.65,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Juan E. Oleary",
+    "Viviendas particulares": 4.756,
+    "Servicios basicos - Agua corriente (a)": 2.676,
+    "Servicios basicos - Desague sanitario (b)": 3.86,
+    "Servicios basicos - Recoleccion de basura (c)": 770,
+    "Servicios basicos - Energia electrica": 4.73,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Nacunday",
+    "Viviendas particulares": 1.811,
+    "Servicios basicos - Agua corriente (a)": 641,
+    "Servicios basicos - Desague sanitario (b)": 1.174,
+    "Servicios basicos - Recoleccion de basura (c)": 85,
+    "Servicios basicos - Energia electrica": 1.767,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "Yguazu",
+    "Viviendas particulares": 2.413,
+    "Servicios basicos - Agua corriente (a)": 1.525,
+    "Servicios basicos - Desague sanitario (b)": 2.071,
+    "Servicios basicos - Recoleccion de basura (c)": 1.377,
+    "Servicios basicos - Energia electrica": 2.333,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Los Cedrales",
+    "Viviendas particulares": 2.115,
+    "Servicios basicos - Agua corriente (a)": 1.064,
+    "Servicios basicos - Desague sanitario (b)": 1.854,
+    "Servicios basicos - Recoleccion de basura (c)": 869,
+    "Servicios basicos - Energia electrica": 2.111,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Minga Guazu",
+    "Viviendas particulares": 22.674,
+    "Servicios basicos - Agua corriente (a)": 9.021,
+    "Servicios basicos - Desague sanitario (b)": 20.789,
+    "Servicios basicos - Recoleccion de basura (c)": 14.147,
+    "Servicios basicos - Energia electrica": 22.577,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "San Cristobal",
+    "Viviendas particulares": 2.654,
+    "Servicios basicos - Agua corriente (a)": 1.15,
+    "Servicios basicos - Desague sanitario (b)": 2.168,
+    "Servicios basicos - Recoleccion de basura (c)": 1.028,
+    "Servicios basicos - Energia electrica": 2.646,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Santa Rita",
+    "Viviendas particulares": 8.872,
+    "Servicios basicos - Agua corriente (a)": 7.762,
+    "Servicios basicos - Desague sanitario (b)": 8.419,
+    "Servicios basicos - Recoleccion de basura (c)": 7.347,
+    "Servicios basicos - Energia electrica": 8.861,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Naranjal",
+    "Viviendas particulares": 2.174,
+    "Servicios basicos - Agua corriente (a)": 1.486,
+    "Servicios basicos - Desague sanitario (b)": 2.094,
+    "Servicios basicos - Recoleccion de basura (c)": 1.619,
+    "Servicios basicos - Energia electrica": 2.169,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "Santa Rosa del Monday",
+    "Viviendas particulares": 1.924,
+    "Servicios basicos - Agua corriente (a)": 1.211,
+    "Servicios basicos - Desague sanitario (b)": 1.82,
+    "Servicios basicos - Recoleccion de basura (c)": 1.237,
+    "Servicios basicos - Energia electrica": 1.922,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Minga Pora",
+    "Viviendas particulares": 3.658,
+    "Servicios basicos - Agua corriente (a)": 2.112,
+    "Servicios basicos - Desague sanitario (b)": 2.951,
+    "Servicios basicos - Recoleccion de basura (c)": 1.628,
+    "Servicios basicos - Energia electrica": 3.587,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Mbaracayu",
+    "Viviendas particulares": 2.032,
+    "Servicios basicos - Agua corriente (a)": 676,
+    "Servicios basicos - Desague sanitario (b)": 1.565,
+    "Servicios basicos - Recoleccion de basura (c)": 316,
+    "Servicios basicos - Energia electrica": 1.931,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "San Alberto",
+    "Viviendas particulares": 3.765,
+    "Servicios basicos - Agua corriente (a)": 1.157,
+    "Servicios basicos - Desague sanitario (b)": 3.425,
+    "Servicios basicos - Recoleccion de basura (c)": 2.746,
+    "Servicios basicos - Energia electrica": 3.764,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "Iruna",
+    "Viviendas particulares": 1.258,
+    "Servicios basicos - Agua corriente (a)": 777,
+    "Servicios basicos - Desague sanitario (b)": 1.16,
+    "Servicios basicos - Recoleccion de basura (c)": 420,
+    "Servicios basicos - Energia electrica": 1.255,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Santa Fe del Parana",
+    "Viviendas particulares": 1.214,
+    "Servicios basicos - Agua corriente (a)": 613,
+    "Servicios basicos - Desague sanitario (b)": 1.09,
+    "Servicios basicos - Recoleccion de basura (c)": 556,
+    "Servicios basicos - Energia electrica": 1.209,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Tavapy",
+    "Viviendas particulares": 2,
+    "Servicios basicos - Agua corriente (a)": 688,
+    "Servicios basicos - Desague sanitario (b)": 1.724,
+    "Servicios basicos - Recoleccion de basura (c)": 582,
+    "Servicios basicos - Energia electrica": 1.985,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Dr. Raul Pena",
+    "Viviendas particulares": 1.708,
+    "Servicios basicos - Agua corriente (a)": 1.217,
+    "Servicios basicos - Desague sanitario (b)": 1.444,
+    "Servicios basicos - Recoleccion de basura (c)": 484,
+    "Servicios basicos - Energia electrica": 1.701,
+    "Promedio de personas por vivienda": "3,3"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 449.642,
+    "Sexo - Hombres": 228.057,
+    "Sexo - Mujeres": 221.585,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Encarnacion",
+    "Total": 106.842,
+    "Sexo - Hombres": 52.543,
+    "Sexo - Mujeres": 54.299,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Bella Vista",
+    "Total": 10.447,
+    "Sexo - Hombres": 5.324,
+    "Sexo - Mujeres": 5.123,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Cambyreta",
+    "Total": 47.717,
+    "Sexo - Hombres": 24.617,
+    "Sexo - Mujeres": 23.1,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Capitan Meza",
+    "Total": 9.253,
+    "Sexo - Hombres": 4.837,
+    "Sexo - Mujeres": 4.416,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Capitan Miranda",
+    "Total": 9.528,
+    "Sexo - Hombres": 4.854,
+    "Sexo - Mujeres": 4.674,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Nueva Alborada",
+    "Total": 4.896,
+    "Sexo - Hombres": 2.569,
+    "Sexo - Mujeres": 2.327,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Carmen del Parana",
+    "Total": 6.417,
+    "Sexo - Hombres": 3.21,
+    "Sexo - Mujeres": 3.207,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Coronel Bogado",
+    "Total": 17.192,
+    "Sexo - Hombres": 8.561,
+    "Sexo - Mujeres": 8.631,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Carlos Antonio Lopez",
+    "Total": 13.792,
+    "Sexo - Hombres": 7.262,
+    "Sexo - Mujeres": 6.53,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Natalio",
+    "Total": 14.865,
+    "Sexo - Hombres": 7.536,
+    "Sexo - Mujeres": 7.329,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Fram",
+    "Total": 8.357,
+    "Sexo - Hombres": 4.316,
+    "Sexo - Mujeres": 4.041,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "General Artigas",
+    "Total": 8.623,
+    "Sexo - Hombres": 4.396,
+    "Sexo - Mujeres": 4.227,
+    "Edad mediana": 35
+  },
+  {
+    "Distrito": "General Delgado",
+    "Total": 5.695,
+    "Sexo - Hombres": 2.879,
+    "Sexo - Mujeres": 2.816,
+    "Edad mediana": 34
+  },
+  {
+    "Distrito": "Hohenau",
+    "Total": 12.809,
+    "Sexo - Hombres": 6.352,
+    "Sexo - Mujeres": 6.457,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Jesus",
+    "Total": 5.197,
+    "Sexo - Hombres": 2.624,
+    "Sexo - Mujeres": 2.573,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Jose Leandro Oviedo",
+    "Total": 2.417,
+    "Sexo - Hombres": 1.235,
+    "Sexo - Mujeres": 1.182,
+    "Edad mediana": 36
+  },
+  {
+    "Distrito": "Obligado",
+    "Total": 13.606,
+    "Sexo - Hombres": 6.884,
+    "Sexo - Mujeres": 6.722,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Mayor Julio Dionisio Otano",
+    "Total": 10.101,
+    "Sexo - Hombres": 5.243,
+    "Sexo - Mujeres": 4.858,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "San Cosme y Damian",
+    "Total": 7.397,
+    "Sexo - Hombres": 3.841,
+    "Sexo - Mujeres": 3.556,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "San Pedro del Parana",
+    "Total": 22.318,
+    "Sexo - Hombres": 11.372,
+    "Sexo - Mujeres": 10.946,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "San Rafael del Parana",
+    "Total": 14.166,
+    "Sexo - Hombres": 7.294,
+    "Sexo - Mujeres": 6.872,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Trinidad",
+    "Total": 7.972,
+    "Sexo - Hombres": 4.055,
+    "Sexo - Mujeres": 3.917,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Edelira",
+    "Total": 17.362,
+    "Sexo - Hombres": 8.998,
+    "Sexo - Mujeres": 8.364,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Tomas Romero Pereira",
+    "Total": 25.419,
+    "Sexo - Hombres": 12.879,
+    "Sexo - Mujeres": 12.54,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Alto Vera",
+    "Total": 11.503,
+    "Sexo - Hombres": 6.115,
+    "Sexo - Mujeres": 5.388,
+    "Edad mediana": 25
+  },
+  {
+    "Distrito": "La Paz",
+    "Total": 2.669,
+    "Sexo - Hombres": 1.418,
+    "Sexo - Mujeres": 1.251,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Yatytay",
+    "Total": 8.651,
+    "Sexo - Hombres": 4.378,
+    "Sexo - Mujeres": 4.273,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "San Juan del Parana",
+    "Total": 9.083,
+    "Sexo - Hombres": 4.574,
+    "Sexo - Mujeres": 4.509,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Pirapo",
+    "Total": 6.075,
+    "Sexo - Hombres": 3.172,
+    "Sexo - Mujeres": 2.903,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Itapua Poty",
+    "Total": 9.273,
+    "Sexo - Hombres": 4.719,
+    "Sexo - Mujeres": 4.554,
+    "Edad mediana": 28
+  }
+]

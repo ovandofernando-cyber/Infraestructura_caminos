@@ -1,0 +1,56 @@
+{
+ "id": "71d7bcd0-aef8-4919-b987-dfc34ab48695",
+ "name": "estimaciones-y-proyecciones-de-la-poblacion-distrital-2000-2035-revisión-2025",
+ "title": "Estimaciones y proyecciones de la poblacion distrital, 2000-2035. Revisión 2025",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>El Instituto Nacional de Estadística (INE), presenta las Estimaciones y proyecciones para los 263 distritos del país incluyendo Asunción, con estimaciones y proyecciones del total de población para cada distrito, en el periodo 2000-2035</p>\n",
+ "url": "https://www.datos.gov.py/dataset/estimaciones-y-proyecciones-de-la-poblacion-distrital-2000-2035-revisi%C3%B3n-2025",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Mar, 08/12/2025 - 11:54",
+ "metadata_created": "Mar, 08/12/2025 - 09:27",
+ "metadata_modified": "Mar, 08/12/2025 - 11:54",
+ "creator_user_id": "6e460875-5d75-4a20-b4c0-160a50bb251b",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "434606ce-55d5-4c8d-8b20-465935d4a521",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/284/Estimaciones%20y%20proyecciones%20Distrital.%20Revisi%C3%B3n%202025.xlsx",
+   "description": "",
+   "format": "xlsx",
+   "state": "Active",
+   "revision_timestamp": "Mar, 08/12/2025 - 09:27",
+   "name": "Estimaciones y proyección distritales. Revisión 2025",
+   "mimetype": "xlsx",
+   "size": "",
+   "created": "Mar, 08/12/2025 - 09:27",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Mar, 08/12/2025 - 09:27"
+  }
+ ],
+ "tags": [
+  {
+   "id": "51c464a6-dc27-4533-b4d9-de4217cbc1fb",
+   "vocabulary_id": "2",
+   "name": "Proyección de Población"
+  },
+  {
+   "id": "16673148-7555-434f-bd81-86307086944e",
+   "vocabulary_id": "2",
+   "name": "distrital"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>Ley N° 6770 \"Que establece la modernización del Sistema Estadístico Nacional (SISEN) y crea el Instituto Nacional de Estadística (INE)\" la Dirección General de Estadística, Encuestas y Censos pasa a denominarse Instituto Nacional de Estadística (INE) como persona jurídica de derecho público, con carácter autárquico y autónomo</p>\n",
+   "id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/ine.PNG",
+   "title": "INSTITUTO NACIONAL DE ESTADISTICA (INE)",
+   "name": "group/instituto-nacional-de-estadistica-ine"
+  }
+ ]
+}

@@ -1,0 +1,155 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 26.468,
+    "Servicios basicos - Agua corriente (a)": 16.068,
+    "Servicios basicos - Desague sanitario (b)": 23.747,
+    "Servicios basicos - Recoleccion de basura (c)": 15.194,
+    "Servicios basicos - Energia electrica": 26.052,
+    "Promedio de personas por vivienda": "2,9"
+  },
+  {
+    "Distrito": "Pilar",
+    "Viviendas particulares": 11.609,
+    "Servicios basicos - Agua corriente (a)": 8.439,
+    "Servicios basicos - Desague sanitario (b)": 11.157,
+    "Servicios basicos - Recoleccion de basura (c)": 10.296,
+    "Servicios basicos - Energia electrica": 11.572,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "Alberdi",
+    "Viviendas particulares": 2.309,
+    "Servicios basicos - Agua corriente (a)": 2.047,
+    "Servicios basicos - Desague sanitario (b)": 2.082,
+    "Servicios basicos - Recoleccion de basura (c)": 1.523,
+    "Servicios basicos - Energia electrica": 2.273,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Cerrito",
+    "Viviendas particulares": 1.568,
+    "Servicios basicos - Agua corriente (a)": 714,
+    "Servicios basicos - Desague sanitario (b)": 1.261,
+    "Servicios basicos - Recoleccion de basura (c)": 247,
+    "Servicios basicos - Energia electrica": 1.535,
+    "Promedio de personas por vivienda": "2,8"
+  },
+  {
+    "Distrito": "Desmochados",
+    "Viviendas particulares": 461,
+    "Servicios basicos - Agua corriente (a)": 121,
+    "Servicios basicos - Desague sanitario (b)": 415,
+    "Servicios basicos - Recoleccion de basura (c)": 33,
+    "Servicios basicos - Energia electrica": 444,
+    "Promedio de personas por vivienda": "2,5"
+  },
+  {
+    "Distrito": "Gral. Jose Eduvigis Diaz",
+    "Viviendas particulares": 1.185,
+    "Servicios basicos - Agua corriente (a)": 528,
+    "Servicios basicos - Desague sanitario (b)": 1.123,
+    "Servicios basicos - Recoleccion de basura (c)": 432,
+    "Servicios basicos - Energia electrica": 1.165,
+    "Promedio de personas por vivienda": "2,7"
+  },
+  {
+    "Distrito": "Guazu-Cua",
+    "Viviendas particulares": 526,
+    "Servicios basicos - Agua corriente (a)": 143,
+    "Servicios basicos - Desague sanitario (b)": 399,
+    "Servicios basicos - Recoleccion de basura (c)": 28,
+    "Servicios basicos - Energia electrica": 513,
+    "Promedio de personas por vivienda": "2,6"
+  },
+  {
+    "Distrito": "Humaita",
+    "Viviendas particulares": 949,
+    "Servicios basicos - Agua corriente (a)": 568,
+    "Servicios basicos - Desague sanitario (b)": 836,
+    "Servicios basicos - Recoleccion de basura (c)": 423,
+    "Servicios basicos - Energia electrica": 921,
+    "Promedio de personas por vivienda": "2,5"
+  },
+  {
+    "Distrito": "Isla Umbu",
+    "Viviendas particulares": 883,
+    "Servicios basicos - Agua corriente (a)": 252,
+    "Servicios basicos - Desague sanitario (b)": 815,
+    "Servicios basicos - Recoleccion de basura (c)": 211,
+    "Servicios basicos - Energia electrica": 864,
+    "Promedio de personas por vivienda": "2,4"
+  },
+  {
+    "Distrito": "Laureles",
+    "Viviendas particulares": 874,
+    "Servicios basicos - Agua corriente (a)": 245,
+    "Servicios basicos - Desague sanitario (b)": 728,
+    "Servicios basicos - Recoleccion de basura (c)": 299,
+    "Servicios basicos - Energia electrica": 848,
+    "Promedio de personas por vivienda": "2,7"
+  },
+  {
+    "Distrito": "Mayor Jose Dejesus Martinez",
+    "Viviendas particulares": 1.152,
+    "Servicios basicos - Agua corriente (a)": 485,
+    "Servicios basicos - Desague sanitario (b)": 1.012,
+    "Servicios basicos - Recoleccion de basura (c)": 495,
+    "Servicios basicos - Energia electrica": 1.117,
+    "Promedio de personas por vivienda": "2,6"
+  },
+  {
+    "Distrito": "Paso de Patria",
+    "Viviendas particulares": 644,
+    "Servicios basicos - Agua corriente (a)": 519,
+    "Servicios basicos - Desague sanitario (b)": 607,
+    "Servicios basicos - Recoleccion de basura (c)": 316,
+    "Servicios basicos - Energia electrica": 631,
+    "Promedio de personas por vivienda": "2,8"
+  },
+  {
+    "Distrito": "San Juan Bautista de Neembucu",
+    "Viviendas particulares": 1.378,
+    "Servicios basicos - Agua corriente (a)": 546,
+    "Servicios basicos - Desague sanitario (b)": 1.094,
+    "Servicios basicos - Recoleccion de basura (c)": 177,
+    "Servicios basicos - Energia electrica": 1.329,
+    "Promedio de personas por vivienda": "2,8"
+  },
+  {
+    "Distrito": "Tacuaras",
+    "Viviendas particulares": 922,
+    "Servicios basicos - Agua corriente (a)": 375,
+    "Servicios basicos - Desague sanitario (b)": 677,
+    "Servicios basicos - Recoleccion de basura (c)": 186,
+    "Servicios basicos - Energia electrica": 889,
+    "Promedio de personas por vivienda": "2,9"
+  },
+  {
+    "Distrito": "Villa Franca",
+    "Viviendas particulares": 336,
+    "Servicios basicos - Agua corriente (a)": 221,
+    "Servicios basicos - Desague sanitario (b)": 279,
+    "Servicios basicos - Recoleccion de basura (c)": 186,
+    "Servicios basicos - Energia electrica": 316,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Villa Oliva",
+    "Viviendas particulares": 1.044,
+    "Servicios basicos - Agua corriente (a)": 643,
+    "Servicios basicos - Desague sanitario (b)": 754,
+    "Servicios basicos - Recoleccion de basura (c)": 197,
+    "Servicios basicos - Energia electrica": 1.021,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Villalbin",
+    "Viviendas particulares": 628,
+    "Servicios basicos - Agua corriente (a)": 222,
+    "Servicios basicos - Desague sanitario (b)": 508,
+    "Servicios basicos - Recoleccion de basura (c)": 145,
+    "Servicios basicos - Energia electrica": 614,
+    "Promedio de personas por vivienda": "2,6"
+  }
+]

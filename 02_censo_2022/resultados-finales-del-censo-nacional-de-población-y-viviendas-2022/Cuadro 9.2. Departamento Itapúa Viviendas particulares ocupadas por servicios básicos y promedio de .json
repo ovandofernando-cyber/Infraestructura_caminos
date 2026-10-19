@@ -1,0 +1,281 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 140.097,
+    "Servicios basicos - Agua corriente (a)": 117.196,
+    "Servicios basicos - Desague sanitario (b)": 115.734,
+    "Servicios basicos - Recoleccion de basura (c)": 70.737,
+    "Servicios basicos - Energia electrica": 138.503,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Encarnacion",
+    "Viviendas particulares": 33.331,
+    "Servicios basicos - Agua corriente (a)": 28.99,
+    "Servicios basicos - Desague sanitario (b)": 31.78,
+    "Servicios basicos - Recoleccion de basura (c)": 26.817,
+    "Servicios basicos - Energia electrica": 33.237,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Bella Vista",
+    "Viviendas particulares": 3.352,
+    "Servicios basicos - Agua corriente (a)": 2.927,
+    "Servicios basicos - Desague sanitario (b)": 2.73,
+    "Servicios basicos - Recoleccion de basura (c)": 2.179,
+    "Servicios basicos - Energia electrica": 3.325,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Cambyreta",
+    "Viviendas particulares": 13.861,
+    "Servicios basicos - Agua corriente (a)": 12.49,
+    "Servicios basicos - Desague sanitario (b)": 12.962,
+    "Servicios basicos - Recoleccion de basura (c)": 9.65,
+    "Servicios basicos - Energia electrica": 13.79,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Capitan Meza",
+    "Viviendas particulares": 2.942,
+    "Servicios basicos - Agua corriente (a)": 2.397,
+    "Servicios basicos - Desague sanitario (b)": 2.209,
+    "Servicios basicos - Recoleccion de basura (c)": 719,
+    "Servicios basicos - Energia electrica": 2.922,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Capitan Miranda",
+    "Viviendas particulares": 3.031,
+    "Servicios basicos - Agua corriente (a)": 2.797,
+    "Servicios basicos - Desague sanitario (b)": 2.702,
+    "Servicios basicos - Recoleccion de basura (c)": 1.677,
+    "Servicios basicos - Energia electrica": 3.013,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Nueva Alborada",
+    "Viviendas particulares": 1.512,
+    "Servicios basicos - Agua corriente (a)": 1.303,
+    "Servicios basicos - Desague sanitario (b)": 988,
+    "Servicios basicos - Recoleccion de basura (c)": 11,
+    "Servicios basicos - Energia electrica": 1.493,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Carmen del Parana",
+    "Viviendas particulares": 2.015,
+    "Servicios basicos - Agua corriente (a)": 1.806,
+    "Servicios basicos - Desague sanitario (b)": 1.797,
+    "Servicios basicos - Recoleccion de basura (c)": 1.344,
+    "Servicios basicos - Energia electrica": 1.991,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Coronel Bogado",
+    "Viviendas particulares": 5.651,
+    "Servicios basicos - Agua corriente (a)": 5.251,
+    "Servicios basicos - Desague sanitario (b)": 5.153,
+    "Servicios basicos - Recoleccion de basura (c)": 3.387,
+    "Servicios basicos - Energia electrica": 5.603,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "Carlos Antonio Lopez",
+    "Viviendas particulares": 4.148,
+    "Servicios basicos - Agua corriente (a)": 2.801,
+    "Servicios basicos - Desague sanitario (b)": 2.94,
+    "Servicios basicos - Recoleccion de basura (c)": 1.037,
+    "Servicios basicos - Energia electrica": 4.036,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Natalio",
+    "Viviendas particulares": 4.685,
+    "Servicios basicos - Agua corriente (a)": 3.14,
+    "Servicios basicos - Desague sanitario (b)": 3.483,
+    "Servicios basicos - Recoleccion de basura (c)": 1.407,
+    "Servicios basicos - Energia electrica": 4.609,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Fram",
+    "Viviendas particulares": 2.608,
+    "Servicios basicos - Agua corriente (a)": 2.196,
+    "Servicios basicos - Desague sanitario (b)": 2.289,
+    "Servicios basicos - Recoleccion de basura (c)": 1.592,
+    "Servicios basicos - Energia electrica": 2.596,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "General Artigas",
+    "Viviendas particulares": 2.868,
+    "Servicios basicos - Agua corriente (a)": 2.666,
+    "Servicios basicos - Desague sanitario (b)": 2.346,
+    "Servicios basicos - Recoleccion de basura (c)": 781,
+    "Servicios basicos - Energia electrica": 2.827,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "General Delgado",
+    "Viviendas particulares": 1.93,
+    "Servicios basicos - Agua corriente (a)": 1.878,
+    "Servicios basicos - Desague sanitario (b)": 1.779,
+    "Servicios basicos - Recoleccion de basura (c)": 479,
+    "Servicios basicos - Energia electrica": 1.912,
+    "Promedio de personas por vivienda": "2,9"
+  },
+  {
+    "Distrito": "Hohenau",
+    "Viviendas particulares": 4.249,
+    "Servicios basicos - Agua corriente (a)": 3.999,
+    "Servicios basicos - Desague sanitario (b)": 3.879,
+    "Servicios basicos - Recoleccion de basura (c)": 3.189,
+    "Servicios basicos - Energia electrica": 4.234,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "Jesus",
+    "Viviendas particulares": 1.686,
+    "Servicios basicos - Agua corriente (a)": 1.497,
+    "Servicios basicos - Desague sanitario (b)": 1.194,
+    "Servicios basicos - Recoleccion de basura (c)": 799,
+    "Servicios basicos - Energia electrica": 1.67,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Jose Leandro Oviedo",
+    "Viviendas particulares": 850,
+    "Servicios basicos - Agua corriente (a)": 724,
+    "Servicios basicos - Desague sanitario (b)": 565,
+    "Servicios basicos - Recoleccion de basura (c)": 1,
+    "Servicios basicos - Energia electrica": 845,
+    "Promedio de personas por vivienda": "2,8"
+  },
+  {
+    "Distrito": "Obligado",
+    "Viviendas particulares": 4.304,
+    "Servicios basicos - Agua corriente (a)": 3.73,
+    "Servicios basicos - Desague sanitario (b)": 3.602,
+    "Servicios basicos - Recoleccion de basura (c)": 3.1,
+    "Servicios basicos - Energia electrica": 4.276,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Mayor Julio Dionisio Otano",
+    "Viviendas particulares": 3.017,
+    "Servicios basicos - Agua corriente (a)": 1.723,
+    "Servicios basicos - Desague sanitario (b)": 1.765,
+    "Servicios basicos - Recoleccion de basura (c)": 585,
+    "Servicios basicos - Energia electrica": 2.894,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "San Cosme y Damian",
+    "Viviendas particulares": 2.332,
+    "Servicios basicos - Agua corriente (a)": 2.056,
+    "Servicios basicos - Desague sanitario (b)": 1.865,
+    "Servicios basicos - Recoleccion de basura (c)": 627,
+    "Servicios basicos - Energia electrica": 2.226,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "San Pedro del Parana",
+    "Viviendas particulares": 7.199,
+    "Servicios basicos - Agua corriente (a)": 5.827,
+    "Servicios basicos - Desague sanitario (b)": 4.656,
+    "Servicios basicos - Recoleccion de basura (c)": 1.535,
+    "Servicios basicos - Energia electrica": 7.084,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "San Rafael del Parana",
+    "Viviendas particulares": 4.333,
+    "Servicios basicos - Agua corriente (a)": 2.753,
+    "Servicios basicos - Desague sanitario (b)": 2.917,
+    "Servicios basicos - Recoleccion de basura (c)": 778,
+    "Servicios basicos - Energia electrica": 4.281,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Trinidad",
+    "Viviendas particulares": 2.485,
+    "Servicios basicos - Agua corriente (a)": 2.246,
+    "Servicios basicos - Desague sanitario (b)": 1.901,
+    "Servicios basicos - Recoleccion de basura (c)": 742,
+    "Servicios basicos - Energia electrica": 2.448,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Edelira",
+    "Viviendas particulares": 5.451,
+    "Servicios basicos - Agua corriente (a)": 4.089,
+    "Servicios basicos - Desague sanitario (b)": 3.998,
+    "Servicios basicos - Recoleccion de basura (c)": 823,
+    "Servicios basicos - Energia electrica": 5.379,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Tomas Romero Pereira",
+    "Viviendas particulares": 7.89,
+    "Servicios basicos - Agua corriente (a)": 6.683,
+    "Servicios basicos - Desague sanitario (b)": 6.533,
+    "Servicios basicos - Recoleccion de basura (c)": 3.111,
+    "Servicios basicos - Energia electrica": 7.827,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Alto Vera",
+    "Viviendas particulares": 3.412,
+    "Servicios basicos - Agua corriente (a)": 2.286,
+    "Servicios basicos - Desague sanitario (b)": 1.298,
+    "Servicios basicos - Recoleccion de basura (c)": 21,
+    "Servicios basicos - Energia electrica": 3.174,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "La Paz",
+    "Viviendas particulares": 823,
+    "Servicios basicos - Agua corriente (a)": 626,
+    "Servicios basicos - Desague sanitario (b)": 701,
+    "Servicios basicos - Recoleccion de basura (c)": 357,
+    "Servicios basicos - Energia electrica": 820,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Yatytay",
+    "Viviendas particulares": 2.797,
+    "Servicios basicos - Agua corriente (a)": 2.347,
+    "Servicios basicos - Desague sanitario (b)": 2.094,
+    "Servicios basicos - Recoleccion de basura (c)": 787,
+    "Servicios basicos - Energia electrica": 2.78,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "San Juan del Parana",
+    "Viviendas particulares": 2.796,
+    "Servicios basicos - Agua corriente (a)": 2.558,
+    "Servicios basicos - Desague sanitario (b)": 2.57,
+    "Servicios basicos - Recoleccion de basura (c)": 2.179,
+    "Servicios basicos - Energia electrica": 2.781,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Pirapo",
+    "Viviendas particulares": 1.775,
+    "Servicios basicos - Agua corriente (a)": 1.144,
+    "Servicios basicos - Desague sanitario (b)": 1.312,
+    "Servicios basicos - Recoleccion de basura (c)": 555,
+    "Servicios basicos - Energia electrica": 1.73,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Itapua Poty",
+    "Viviendas particulares": 2.764,
+    "Servicios basicos - Agua corriente (a)": 2.266,
+    "Servicios basicos - Desague sanitario (b)": 1.726,
+    "Servicios basicos - Recoleccion de basura (c)": 468,
+    "Servicios basicos - Energia electrica": 2.7,
+    "Promedio de personas por vivienda": "3,4"
+  }
+]

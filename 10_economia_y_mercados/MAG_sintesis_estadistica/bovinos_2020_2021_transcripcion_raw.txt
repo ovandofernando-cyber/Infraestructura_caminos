@@ -1,0 +1,41 @@
+especie;cod_dpto;departamento;anio;cabezas
+bovinos;;TOTAL PAIS;2020;14.026.143
+bovinos;;REGION ORIENTAL;2020;7.354.506
+bovinos;;REGION OCCIDENTAL;2020;6.671.637
+bovinos;01;Concepción;2020;1.107.579
+bovinos;02;San Pedro;2020;1.275.015
+bovinos;03;Cordillera;2020;217.447
+bovinos;04;Guairá;2020;143.238
+bovinos;05;Caaguazú;2020;554.124
+bovinos;06;Caazapá;2020;315.908
+bovinos;07;Itapúa;2020;418.186
+bovinos;08;Misiones;2020;466.071
+bovinos;09;Paraguarí;2020;454.693
+bovinos;10;Alto Paraná;2020;196.011
+bovinos;11;Central;2020;51.140
+bovinos;12;Ñeembucú;2020;545.074
+bovinos;13;Amambay;2020;915.549
+bovinos;14;Canindeyú;2020;694.471
+bovinos;15;Pte. Hayes;2020;2.468.734
+bovinos;16;Alto Paraguay;2020;1.807.169
+bovinos;17;Boquerón;2020;2.395.734
+bovinos;;TOTAL PAIS;2021;13.919.507
+bovinos;;REGION ORIENTAL;2021;7.614.660
+bovinos;;REGION OCCIDENTAL;2021;6.304.847
+bovinos;01;Concepción;2021;1.184.583
+bovinos;02;San Pedro;2021;1.292.797
+bovinos;03;Cordillera;2021;222.369
+bovinos;04;Guairá;2021;149.014
+bovinos;05;Caaguazú;2021;577.460
+bovinos;06;Caazapá;2021;329.428
+bovinos;07;Itapúa;2021;432.950
+bovinos;08;Misiones;2021;487.735
+bovinos;09;Paraguarí;2021;471.605
+bovinos;10;Alto Paraná;2021;194.784
+bovinos;11;Central;2021;49.707
+bovinos;12;Ñeembucú;2021;548.849
+bovinos;13;Amambay;2021;950.161
+bovinos;14;Canindeyú;2021;723.218
+bovinos;15;Pte. Hayes;2021;2.359.187
+bovinos;16;Alto Paraguay;2021;1.837.093
+bovinos;17;Boquerón;2021;2.108.567

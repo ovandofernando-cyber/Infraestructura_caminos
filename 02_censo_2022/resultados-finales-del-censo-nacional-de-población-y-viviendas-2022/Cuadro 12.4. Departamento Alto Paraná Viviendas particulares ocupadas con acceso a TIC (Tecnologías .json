@@ -1,0 +1,186 @@
+[
+  {
+    "Distrito": "Total",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 192.378,
+    "Acceso a TIC - Televisor con pantalla plana": 155.799,
+    "Acceso a TIC - Computadora o notebook": 62.386,
+    "Acceso a TIC - Tablet o similares": 25.696,
+    "Acceso a TIC - Conexion a Internet": 145.614
+  },
+  {
+    "Distrito": "Ciudad del Este",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 81.746,
+    "Acceso a TIC - Televisor con pantalla plana": 67.573,
+    "Acceso a TIC - Computadora o notebook": 30.938,
+    "Acceso a TIC - Tablet o similares": 13.556,
+    "Acceso a TIC - Conexion a Internet": 66.726
+  },
+  {
+    "Distrito": "Presidente Franco",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 21.439,
+    "Acceso a TIC - Televisor con pantalla plana": 17.82,
+    "Acceso a TIC - Computadora o notebook": 6.991,
+    "Acceso a TIC - Tablet o similares": 2.878,
+    "Acceso a TIC - Conexion a Internet": 16.556
+  },
+  {
+    "Distrito": "Domingo Martinez de Irala",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.246,
+    "Acceso a TIC - Televisor con pantalla plana": 898,
+    "Acceso a TIC - Computadora o notebook": 177,
+    "Acceso a TIC - Tablet o similares": 64,
+    "Acceso a TIC - Conexion a Internet": 843
+  },
+  {
+    "Distrito": "Dr. Juan Leon Mallorquin",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 3.709,
+    "Acceso a TIC - Televisor con pantalla plana": 2.738,
+    "Acceso a TIC - Computadora o notebook": 710,
+    "Acceso a TIC - Tablet o similares": 240,
+    "Acceso a TIC - Conexion a Internet": 2.723
+  },
+  {
+    "Distrito": "Hernandarias",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 21.052,
+    "Acceso a TIC - Televisor con pantalla plana": 17.631,
+    "Acceso a TIC - Computadora o notebook": 7.199,
+    "Acceso a TIC - Tablet o similares": 3.406,
+    "Acceso a TIC - Conexion a Internet": 16.023
+  },
+  {
+    "Distrito": "Itakyry",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 5.937,
+    "Acceso a TIC - Televisor con pantalla plana": 3.74,
+    "Acceso a TIC - Computadora o notebook": 730,
+    "Acceso a TIC - Tablet o similares": 185,
+    "Acceso a TIC - Conexion a Internet": 2.74
+  },
+  {
+    "Distrito": "Juan E. Oleary",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 3.748,
+    "Acceso a TIC - Televisor con pantalla plana": 2.347,
+    "Acceso a TIC - Computadora o notebook": 574,
+    "Acceso a TIC - Tablet o similares": 199,
+    "Acceso a TIC - Conexion a Internet": 2.577
+  },
+  {
+    "Distrito": "Nacunday",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.494,
+    "Acceso a TIC - Televisor con pantalla plana": 997,
+    "Acceso a TIC - Computadora o notebook": 193,
+    "Acceso a TIC - Tablet o similares": 65,
+    "Acceso a TIC - Conexion a Internet": 774
+  },
+  {
+    "Distrito": "Yguazu",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.079,
+    "Acceso a TIC - Televisor con pantalla plana": 1.675,
+    "Acceso a TIC - Computadora o notebook": 586,
+    "Acceso a TIC - Tablet o similares": 278,
+    "Acceso a TIC - Conexion a Internet": 1.664
+  },
+  {
+    "Distrito": "Los Cedrales",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.782,
+    "Acceso a TIC - Televisor con pantalla plana": 1.395,
+    "Acceso a TIC - Computadora o notebook": 406,
+    "Acceso a TIC - Tablet o similares": 134,
+    "Acceso a TIC - Conexion a Internet": 961
+  },
+  {
+    "Distrito": "Minga Guazu",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 20.154,
+    "Acceso a TIC - Televisor con pantalla plana": 15.882,
+    "Acceso a TIC - Computadora o notebook": 4.939,
+    "Acceso a TIC - Tablet o similares": 1.993,
+    "Acceso a TIC - Conexion a Internet": 13.272
+  },
+  {
+    "Distrito": "San Cristobal",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.279,
+    "Acceso a TIC - Televisor con pantalla plana": 1.758,
+    "Acceso a TIC - Computadora o notebook": 700,
+    "Acceso a TIC - Tablet o similares": 151,
+    "Acceso a TIC - Conexion a Internet": 1.639
+  },
+  {
+    "Distrito": "Santa Rita",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 8.279,
+    "Acceso a TIC - Televisor con pantalla plana": 7.095,
+    "Acceso a TIC - Computadora o notebook": 3.432,
+    "Acceso a TIC - Tablet o similares": 1.052,
+    "Acceso a TIC - Conexion a Internet": 6.655
+  },
+  {
+    "Distrito": "Naranjal",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.007,
+    "Acceso a TIC - Televisor con pantalla plana": 1.698,
+    "Acceso a TIC - Computadora o notebook": 645,
+    "Acceso a TIC - Tablet o similares": 197,
+    "Acceso a TIC - Conexion a Internet": 1.643
+  },
+  {
+    "Distrito": "Santa Rosa del Monday",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.784,
+    "Acceso a TIC - Televisor con pantalla plana": 1.586,
+    "Acceso a TIC - Computadora o notebook": 679,
+    "Acceso a TIC - Tablet o similares": 159,
+    "Acceso a TIC - Conexion a Internet": 1.558
+  },
+  {
+    "Distrito": "Minga Pora",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 3.064,
+    "Acceso a TIC - Televisor con pantalla plana": 2.21,
+    "Acceso a TIC - Computadora o notebook": 671,
+    "Acceso a TIC - Tablet o similares": 178,
+    "Acceso a TIC - Conexion a Internet": 2.24
+  },
+  {
+    "Distrito": "Mbaracayu",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.711,
+    "Acceso a TIC - Televisor con pantalla plana": 1.293,
+    "Acceso a TIC - Computadora o notebook": 347,
+    "Acceso a TIC - Tablet o similares": 98,
+    "Acceso a TIC - Conexion a Internet": 1.1
+  },
+  {
+    "Distrito": "San Alberto",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 3.381,
+    "Acceso a TIC - Televisor con pantalla plana": 2.977,
+    "Acceso a TIC - Computadora o notebook": 1.162,
+    "Acceso a TIC - Tablet o similares": 468,
+    "Acceso a TIC - Conexion a Internet": 2.607
+  },
+  {
+    "Distrito": "Iruna",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.143,
+    "Acceso a TIC - Televisor con pantalla plana": 1.009,
+    "Acceso a TIC - Computadora o notebook": 366,
+    "Acceso a TIC - Tablet o similares": 123,
+    "Acceso a TIC - Conexion a Internet": 673
+  },
+  {
+    "Distrito": "Santa Fe del Parana",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.09,
+    "Acceso a TIC - Televisor con pantalla plana": 923,
+    "Acceso a TIC - Computadora o notebook": 278,
+    "Acceso a TIC - Tablet o similares": 110,
+    "Acceso a TIC - Conexion a Internet": 853
+  },
+  {
+    "Distrito": "Tavapy",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.739,
+    "Acceso a TIC - Televisor con pantalla plana": 1.315,
+    "Acceso a TIC - Computadora o notebook": 325,
+    "Acceso a TIC - Tablet o similares": 79,
+    "Acceso a TIC - Conexion a Internet": 631
+  },
+  {
+    "Distrito": "Dr. Raul Pena",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.515,
+    "Acceso a TIC - Televisor con pantalla plana": 1.239,
+    "Acceso a TIC - Computadora o notebook": 338,
+    "Acceso a TIC - Tablet o similares": 83,
+    "Acceso a TIC - Conexion a Internet": 1.156
+  }
+]

@@ -1,0 +1,3690 @@
+[
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Total pais",
+    "Total": 37.096,
+    "Tipo de vivienda  -  Casa": 11.716,
+    "Tipo de vivienda  -  Rancho": 23.603,
+    "Tipo de vivienda  -  Improvisada": 1.727,
+    "Tipo de vivienda  -  Galpon": 50
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 69,
+    "Tipo de vivienda  -  Casa": 11,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": 50
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 17.795,
+    "Tipo de vivienda  -  Casa": 2.046,
+    "Tipo de vivienda  -  Rancho": 14.32,
+    "Tipo de vivienda  -  Improvisada": 1.429,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 13.938,
+    "Tipo de vivienda  -  Casa": 5.709,
+    "Tipo de vivienda  -  Rancho": 8.011,
+    "Tipo de vivienda  -  Improvisada": 218,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 2.769,
+    "Tipo de vivienda  -  Casa": 1.969,
+    "Tipo de vivienda  -  Rancho": 769,
+    "Tipo de vivienda  -  Improvisada": 31,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 657,
+    "Tipo de vivienda  -  Casa": 491,
+    "Tipo de vivienda  -  Rancho": 162,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 391,
+    "Tipo de vivienda  -  Casa": 277,
+    "Tipo de vivienda  -  Rancho": 108,
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 1.477,
+    "Tipo de vivienda  -  Casa": 1.213,
+    "Tipo de vivienda  -  Rancho": 228,
+    "Tipo de vivienda  -  Improvisada": 36,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,6",
+    "Tipo de vivienda  -  Casa": "2,2",
+    "Tipo de vivienda  -  Rancho": "1,4",
+    "Tipo de vivienda  -  Improvisada": "1,2",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 5.085,
+    "Tipo de vivienda  -  Casa": 1.164,
+    "Tipo de vivienda  -  Rancho": 3.608,
+    "Tipo de vivienda  -  Improvisada": 306,
+    "Tipo de vivienda  -  Galpon": 7
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 6.631,
+    "Tipo de vivienda  -  Casa": 1.854,
+    "Tipo de vivienda  -  Rancho": 4.414,
+    "Tipo de vivienda  -  Improvisada": 349,
+    "Tipo de vivienda  -  Galpon": 14
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 7.86,
+    "Tipo de vivienda  -  Casa": 2.335,
+    "Tipo de vivienda  -  Rancho": 5.186,
+    "Tipo de vivienda  -  Improvisada": 324,
+    "Tipo de vivienda  -  Galpon": 15
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 6.461,
+    "Tipo de vivienda  -  Casa": 2.172,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": 279,
+    "Tipo de vivienda  -  Galpon": 10
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 4.459,
+    "Tipo de vivienda  -  Casa": 1.624,
+    "Tipo de vivienda  -  Rancho": 2.628,
+    "Tipo de vivienda  -  Improvisada": 206,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 2.861,
+    "Tipo de vivienda  -  Casa": 1.041,
+    "Tipo de vivienda  -  Rancho": 1.702,
+    "Tipo de vivienda  -  Improvisada": 117,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 1.738,
+    "Tipo de vivienda  -  Casa": 659,
+    "Tipo de vivienda  -  Rancho": 1.01,
+    "Tipo de vivienda  -  Improvisada": 68,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 1.226,
+    "Tipo de vivienda  -  Casa": 473,
+    "Tipo de vivienda  -  Rancho": 690,
+    "Tipo de vivienda  -  Improvisada": 62,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 314,
+    "Tipo de vivienda  -  Casa": 143,
+    "Tipo de vivienda  -  Rancho": 164,
+    "Tipo de vivienda  -  Improvisada": 7,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 461,
+    "Tipo de vivienda  -  Casa": 251,
+    "Tipo de vivienda  -  Rancho": 201,
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,7",
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": "3,5",
+    "Tipo de vivienda  -  Improvisada": "3,4",
+    "Tipo de vivienda  -  Galpon": "2,9"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Ache",
+    "Total": 536,
+    "Tipo de vivienda  -  Casa": 380,
+    "Tipo de vivienda  -  Rancho": 155,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 75,
+    "Tipo de vivienda  -  Casa": 9,
+    "Tipo de vivienda  -  Rancho": 65,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 423,
+    "Tipo de vivienda  -  Casa": 333,
+    "Tipo de vivienda  -  Rancho": 90,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 22,
+    "Tipo de vivienda  -  Casa": 22,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,9",
+    "Tipo de vivienda  -  Casa": "2,1",
+    "Tipo de vivienda  -  Rancho": "1,6",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 66,
+    "Tipo de vivienda  -  Casa": 40,
+    "Tipo de vivienda  -  Rancho": 26,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 87,
+    "Tipo de vivienda  -  Casa": 51,
+    "Tipo de vivienda  -  Rancho": 35,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 82,
+    "Tipo de vivienda  -  Casa": 64,
+    "Tipo de vivienda  -  Rancho": 18,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 95,
+    "Tipo de vivienda  -  Casa": 70,
+    "Tipo de vivienda  -  Rancho": 25,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 73,
+    "Tipo de vivienda  -  Casa": 53,
+    "Tipo de vivienda  -  Rancho": 20,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 62,
+    "Tipo de vivienda  -  Casa": 50,
+    "Tipo de vivienda  -  Rancho": 12,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 31,
+    "Tipo de vivienda  -  Casa": 24,
+    "Tipo de vivienda  -  Rancho": 7,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 12,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 12,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "4,8",
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": "4,4",
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Ava Guarani",
+    "Total": 6.989,
+    "Tipo de vivienda  -  Casa": 2.411,
+    "Tipo de vivienda  -  Rancho": 4.188,
+    "Tipo de vivienda  -  Improvisada": 387,
+    "Tipo de vivienda  -  Galpon": 3
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 9,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": 3
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 3.161,
+    "Tipo de vivienda  -  Casa": 221,
+    "Tipo de vivienda  -  Rancho": 2.63,
+    "Tipo de vivienda  -  Improvisada": 310,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 2.711,
+    "Tipo de vivienda  -  Casa": 1.25,
+    "Tipo de vivienda  -  Rancho": 1.402,
+    "Tipo de vivienda  -  Improvisada": 59,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 695,
+    "Tipo de vivienda  -  Casa": 591,
+    "Tipo de vivienda  -  Rancho": 100,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 142,
+    "Tipo de vivienda  -  Casa": 122,
+    "Tipo de vivienda  -  Rancho": 17,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 46,
+    "Tipo de vivienda  -  Casa": 41,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 225,
+    "Tipo de vivienda  -  Casa": 183,
+    "Tipo de vivienda  -  Rancho": 32,
+    "Tipo de vivienda  -  Improvisada": 10,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,7",
+    "Tipo de vivienda  -  Casa": "2,3",
+    "Tipo de vivienda  -  Rancho": "1,4",
+    "Tipo de vivienda  -  Improvisada": "1,2",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 1.46,
+    "Tipo de vivienda  -  Casa": 335,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": 123,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 1.402,
+    "Tipo de vivienda  -  Casa": 408,
+    "Tipo de vivienda  -  Rancho": 923,
+    "Tipo de vivienda  -  Improvisada": 70,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 1.379,
+    "Tipo de vivienda  -  Casa": 478,
+    "Tipo de vivienda  -  Rancho": 840,
+    "Tipo de vivienda  -  Improvisada": 61,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 1.076,
+    "Tipo de vivienda  -  Casa": 422,
+    "Tipo de vivienda  -  Rancho": 605,
+    "Tipo de vivienda  -  Improvisada": 49,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 771,
+    "Tipo de vivienda  -  Casa": 361,
+    "Tipo de vivienda  -  Rancho": 368,
+    "Tipo de vivienda  -  Improvisada": 42,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 459,
+    "Tipo de vivienda  -  Casa": 216,
+    "Tipo de vivienda  -  Rancho": 225,
+    "Tipo de vivienda  -  Improvisada": 18,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 258,
+    "Tipo de vivienda  -  Casa": 111,
+    "Tipo de vivienda  -  Rancho": 132,
+    "Tipo de vivienda  -  Improvisada": 15,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 144,
+    "Tipo de vivienda  -  Casa": 59,
+    "Tipo de vivienda  -  Rancho": 76,
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 23,
+    "Tipo de vivienda  -  Casa": 12,
+    "Tipo de vivienda  -  Rancho": 11,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 17,
+    "Tipo de vivienda  -  Casa": 9,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,2",
+    "Tipo de vivienda  -  Casa": "3,7",
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "2,9",
+    "Tipo de vivienda  -  Galpon": "1,3"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Mbya Guarani",
+    "Total": 7.369,
+    "Tipo de vivienda  -  Casa": 1.388,
+    "Tipo de vivienda  -  Rancho": 5.57,
+    "Tipo de vivienda  -  Improvisada": 410,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 4.503,
+    "Tipo de vivienda  -  Casa": 232,
+    "Tipo de vivienda  -  Rancho": 3.939,
+    "Tipo de vivienda  -  Improvisada": 332,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 2.227,
+    "Tipo de vivienda  -  Casa": 758,
+    "Tipo de vivienda  -  Rancho": 1.418,
+    "Tipo de vivienda  -  Improvisada": 51,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 337,
+    "Tipo de vivienda  -  Casa": 204,
+    "Tipo de vivienda  -  Rancho": 119,
+    "Tipo de vivienda  -  Improvisada": 14,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 64,
+    "Tipo de vivienda  -  Casa": 38,
+    "Tipo de vivienda  -  Rancho": 25,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 31,
+    "Tipo de vivienda  -  Casa": 11,
+    "Tipo de vivienda  -  Rancho": 17,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 203,
+    "Tipo de vivienda  -  Casa": 144,
+    "Tipo de vivienda  -  Rancho": 50,
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,4",
+    "Tipo de vivienda  -  Casa": "2,1",
+    "Tipo de vivienda  -  Rancho": "1,3",
+    "Tipo de vivienda  -  Improvisada": "1,2",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 1.244,
+    "Tipo de vivienda  -  Casa": 176,
+    "Tipo de vivienda  -  Rancho": 972,
+    "Tipo de vivienda  -  Improvisada": 96,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 1.204,
+    "Tipo de vivienda  -  Casa": 197,
+    "Tipo de vivienda  -  Rancho": 921,
+    "Tipo de vivienda  -  Improvisada": 85,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 1.293,
+    "Tipo de vivienda  -  Casa": 207,
+    "Tipo de vivienda  -  Rancho": 1.02,
+    "Tipo de vivienda  -  Improvisada": 66,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 1.046,
+    "Tipo de vivienda  -  Casa": 225,
+    "Tipo de vivienda  -  Rancho": 773,
+    "Tipo de vivienda  -  Improvisada": 48,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 897,
+    "Tipo de vivienda  -  Casa": 189,
+    "Tipo de vivienda  -  Rancho": 663,
+    "Tipo de vivienda  -  Improvisada": 45,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 679,
+    "Tipo de vivienda  -  Casa": 142,
+    "Tipo de vivienda  -  Rancho": 502,
+    "Tipo de vivienda  -  Improvisada": 35,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 470,
+    "Tipo de vivienda  -  Casa": 124,
+    "Tipo de vivienda  -  Rancho": 338,
+    "Tipo de vivienda  -  Improvisada": 8,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 361,
+    "Tipo de vivienda  -  Casa": 84,
+    "Tipo de vivienda  -  Rancho": 258,
+    "Tipo de vivienda  -  Improvisada": 19,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 85,
+    "Tipo de vivienda  -  Casa": 19,
+    "Tipo de vivienda  -  Rancho": 63,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 90,
+    "Tipo de vivienda  -  Casa": 25,
+    "Tipo de vivienda  -  Rancho": 60,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,8",
+    "Tipo de vivienda  -  Casa": "4,2",
+    "Tipo de vivienda  -  Rancho": "3,8",
+    "Tipo de vivienda  -  Improvisada": "3,4",
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Pai Tavytera",
+    "Total": 4.835,
+    "Tipo de vivienda  -  Casa": 829,
+    "Tipo de vivienda  -  Rancho": 3.777,
+    "Tipo de vivienda  -  Improvisada": 228,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 2.58,
+    "Tipo de vivienda  -  Casa": 114,
+    "Tipo de vivienda  -  Rancho": 2.298,
+    "Tipo de vivienda  -  Improvisada": 168,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 1.663,
+    "Tipo de vivienda  -  Casa": 425,
+    "Tipo de vivienda  -  Rancho": 1.184,
+    "Tipo de vivienda  -  Improvisada": 54,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 298,
+    "Tipo de vivienda  -  Casa": 153,
+    "Tipo de vivienda  -  Rancho": 143,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 104,
+    "Tipo de vivienda  -  Casa": 36,
+    "Tipo de vivienda  -  Rancho": 68,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 69,
+    "Tipo de vivienda  -  Casa": 24,
+    "Tipo de vivienda  -  Rancho": 43,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 120,
+    "Tipo de vivienda  -  Casa": 77,
+    "Tipo de vivienda  -  Rancho": 41,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,6",
+    "Tipo de vivienda  -  Casa": "2,2",
+    "Tipo de vivienda  -  Rancho": "1,5",
+    "Tipo de vivienda  -  Improvisada": "1,3",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 830,
+    "Tipo de vivienda  -  Casa": 89,
+    "Tipo de vivienda  -  Rancho": 703,
+    "Tipo de vivienda  -  Improvisada": 38,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 909,
+    "Tipo de vivienda  -  Casa": 135,
+    "Tipo de vivienda  -  Rancho": 731,
+    "Tipo de vivienda  -  Improvisada": 42,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 1.176,
+    "Tipo de vivienda  -  Casa": 182,
+    "Tipo de vivienda  -  Rancho": 943,
+    "Tipo de vivienda  -  Improvisada": 51,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 894,
+    "Tipo de vivienda  -  Casa": 180,
+    "Tipo de vivienda  -  Rancho": 668,
+    "Tipo de vivienda  -  Improvisada": 46,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 521,
+    "Tipo de vivienda  -  Casa": 131,
+    "Tipo de vivienda  -  Rancho": 365,
+    "Tipo de vivienda  -  Improvisada": 25,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 296,
+    "Tipo de vivienda  -  Casa": 65,
+    "Tipo de vivienda  -  Rancho": 218,
+    "Tipo de vivienda  -  Improvisada": 13,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 115,
+    "Tipo de vivienda  -  Casa": 30,
+    "Tipo de vivienda  -  Rancho": 76,
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 64,
+    "Tipo de vivienda  -  Casa": 10,
+    "Tipo de vivienda  -  Rancho": 50,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 11,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 16,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 12,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,3",
+    "Tipo de vivienda  -  Casa": "3,7",
+    "Tipo de vivienda  -  Rancho": "3,2",
+    "Tipo de vivienda  -  Improvisada": "3,3",
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Guarani OccidentalPueblo Guarani",
+    "Total": 939,
+    "Tipo de vivienda  -  Casa": 490,
+    "Tipo de vivienda  -  Rancho": 428,
+    "Tipo de vivienda  -  Improvisada": 19,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 263,
+    "Tipo de vivienda  -  Casa": 40,
+    "Tipo de vivienda  -  Rancho": 208,
+    "Tipo de vivienda  -  Improvisada": 15,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 361,
+    "Tipo de vivienda  -  Casa": 165,
+    "Tipo de vivienda  -  Rancho": 193,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 157,
+    "Tipo de vivienda  -  Casa": 140,
+    "Tipo de vivienda  -  Rancho": 17,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 63,
+    "Tipo de vivienda  -  Casa": 60,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 44,
+    "Tipo de vivienda  -  Casa": 41,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 49,
+    "Tipo de vivienda  -  Casa": 44,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "2,2",
+    "Tipo de vivienda  -  Casa": "2,8",
+    "Tipo de vivienda  -  Rancho": "1,6",
+    "Tipo de vivienda  -  Improvisada": "1,2",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 87,
+    "Tipo de vivienda  -  Casa": 39,
+    "Tipo de vivienda  -  Rancho": 47,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 123,
+    "Tipo de vivienda  -  Casa": 59,
+    "Tipo de vivienda  -  Rancho": 55,
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 165,
+    "Tipo de vivienda  -  Casa": 75,
+    "Tipo de vivienda  -  Rancho": 89,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 170,
+    "Tipo de vivienda  -  Casa": 84,
+    "Tipo de vivienda  -  Rancho": 83,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 138,
+    "Tipo de vivienda  -  Casa": 70,
+    "Tipo de vivienda  -  Rancho": 64,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 94,
+    "Tipo de vivienda  -  Casa": 53,
+    "Tipo de vivienda  -  Rancho": 41,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 53,
+    "Tipo de vivienda  -  Casa": 31,
+    "Tipo de vivienda  -  Rancho": 20,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 47,
+    "Tipo de vivienda  -  Casa": 29,
+    "Tipo de vivienda  -  Rancho": 18,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 23,
+    "Tipo de vivienda  -  Casa": 19,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 39,
+    "Tipo de vivienda  -  Casa": 31,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "4,4",
+    "Tipo de vivienda  -  Casa": "4,7",
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "3,6",
+    "Tipo de vivienda  -  Galpon": 4
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Guarani �andeva",
+    "Total": 795,
+    "Tipo de vivienda  -  Casa": 440,
+    "Tipo de vivienda  -  Rancho": 311,
+    "Tipo de vivienda  -  Improvisada": 42,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 318,
+    "Tipo de vivienda  -  Casa": 117,
+    "Tipo de vivienda  -  Rancho": 164,
+    "Tipo de vivienda  -  Improvisada": 37,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 362,
+    "Tipo de vivienda  -  Casa": 242,
+    "Tipo de vivienda  -  Rancho": 116,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 78,
+    "Tipo de vivienda  -  Casa": 55,
+    "Tipo de vivienda  -  Rancho": 23,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 25,
+    "Tipo de vivienda  -  Casa": 17,
+    "Tipo de vivienda  -  Rancho": 7,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,7",
+    "Tipo de vivienda  -  Casa": "1,9",
+    "Tipo de vivienda  -  Rancho": "1,5",
+    "Tipo de vivienda  -  Improvisada": "1,1",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 61,
+    "Tipo de vivienda  -  Casa": 32,
+    "Tipo de vivienda  -  Rancho": 29,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 151,
+    "Tipo de vivienda  -  Casa": 80,
+    "Tipo de vivienda  -  Rancho": 61,
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 172,
+    "Tipo de vivienda  -  Casa": 90,
+    "Tipo de vivienda  -  Rancho": 70,
+    "Tipo de vivienda  -  Improvisada": 11,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 169,
+    "Tipo de vivienda  -  Casa": 104,
+    "Tipo de vivienda  -  Rancho": 57,
+    "Tipo de vivienda  -  Improvisada": 8,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 98,
+    "Tipo de vivienda  -  Casa": 56,
+    "Tipo de vivienda  -  Rancho": 37,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 61,
+    "Tipo de vivienda  -  Casa": 30,
+    "Tipo de vivienda  -  Rancho": 26,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 32,
+    "Tipo de vivienda  -  Casa": 14,
+    "Tipo de vivienda  -  Rancho": 15,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 29,
+    "Tipo de vivienda  -  Casa": 19,
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 16,
+    "Tipo de vivienda  -  Casa": 11,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,9",
+    "Tipo de vivienda  -  Casa": "3,9",
+    "Tipo de vivienda  -  Rancho": "3,8",
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "2,5"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Enlhet Norte",
+    "Total": 2.625,
+    "Tipo de vivienda  -  Casa": 769,
+    "Tipo de vivienda  -  Rancho": 1.722,
+    "Tipo de vivienda  -  Improvisada": 112,
+    "Tipo de vivienda  -  Galpon": 22
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 24,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": 22
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 1.2,
+    "Tipo de vivienda  -  Casa": 214,
+    "Tipo de vivienda  -  Rancho": 887,
+    "Tipo de vivienda  -  Improvisada": 99,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 1.034,
+    "Tipo de vivienda  -  Casa": 276,
+    "Tipo de vivienda  -  Rancho": 752,
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 134,
+    "Tipo de vivienda  -  Casa": 94,
+    "Tipo de vivienda  -  Rancho": 38,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 43,
+    "Tipo de vivienda  -  Casa": 30,
+    "Tipo de vivienda  -  Rancho": 13,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 41,
+    "Tipo de vivienda  -  Casa": 30,
+    "Tipo de vivienda  -  Rancho": 11,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 149,
+    "Tipo de vivienda  -  Casa": 125,
+    "Tipo de vivienda  -  Rancho": 21,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,6",
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": "1,5",
+    "Tipo de vivienda  -  Improvisada": "1,1",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 175,
+    "Tipo de vivienda  -  Casa": 52,
+    "Tipo de vivienda  -  Rancho": 115,
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 520,
+    "Tipo de vivienda  -  Casa": 154,
+    "Tipo de vivienda  -  Rancho": 338,
+    "Tipo de vivienda  -  Improvisada": 22,
+    "Tipo de vivienda  -  Galpon": 6
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 683,
+    "Tipo de vivienda  -  Casa": 190,
+    "Tipo de vivienda  -  Rancho": 454,
+    "Tipo de vivienda  -  Improvisada": 31,
+    "Tipo de vivienda  -  Galpon": 8
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 504,
+    "Tipo de vivienda  -  Casa": 145,
+    "Tipo de vivienda  -  Rancho": 328,
+    "Tipo de vivienda  -  Improvisada": 26,
+    "Tipo de vivienda  -  Galpon": 5
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 331,
+    "Tipo de vivienda  -  Casa": 96,
+    "Tipo de vivienda  -  Rancho": 222,
+    "Tipo de vivienda  -  Improvisada": 12,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 181,
+    "Tipo de vivienda  -  Casa": 58,
+    "Tipo de vivienda  -  Rancho": 120,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 122,
+    "Tipo de vivienda  -  Casa": 38,
+    "Tipo de vivienda  -  Rancho": 79,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 74,
+    "Tipo de vivienda  -  Casa": 25,
+    "Tipo de vivienda  -  Rancho": 42,
+    "Tipo de vivienda  -  Improvisada": 7,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 20,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": 15,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 15,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,7",
+    "Tipo de vivienda  -  Casa": "3,8",
+    "Tipo de vivienda  -  Rancho": "3,7",
+    "Tipo de vivienda  -  Improvisada": "3,7",
+    "Tipo de vivienda  -  Galpon": "2,9"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Enxet Sur",
+    "Total": 2.335,
+    "Tipo de vivienda  -  Casa": 832,
+    "Tipo de vivienda  -  Rancho": 1.438,
+    "Tipo de vivienda  -  Improvisada": 60,
+    "Tipo de vivienda  -  Galpon": 5
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 5
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 995,
+    "Tipo de vivienda  -  Casa": 112,
+    "Tipo de vivienda  -  Rancho": 832,
+    "Tipo de vivienda  -  Improvisada": 51,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 1.175,
+    "Tipo de vivienda  -  Casa": 616,
+    "Tipo de vivienda  -  Rancho": 553,
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 65,
+    "Tipo de vivienda  -  Casa": 32,
+    "Tipo de vivienda  -  Rancho": 32,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 13,
+    "Tipo de vivienda  -  Casa": 10,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 9,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 73,
+    "Tipo de vivienda  -  Casa": 56,
+    "Tipo de vivienda  -  Rancho": 15,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,6",
+    "Tipo de vivienda  -  Casa": "1,9",
+    "Tipo de vivienda  -  Rancho": "1,4",
+    "Tipo de vivienda  -  Improvisada": "1,1",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 235,
+    "Tipo de vivienda  -  Casa": 78,
+    "Tipo de vivienda  -  Rancho": 150,
+    "Tipo de vivienda  -  Improvisada": 7,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 487,
+    "Tipo de vivienda  -  Casa": 146,
+    "Tipo de vivienda  -  Rancho": 315,
+    "Tipo de vivienda  -  Improvisada": 24,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 592,
+    "Tipo de vivienda  -  Casa": 209,
+    "Tipo de vivienda  -  Rancho": 370,
+    "Tipo de vivienda  -  Improvisada": 11,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 460,
+    "Tipo de vivienda  -  Casa": 176,
+    "Tipo de vivienda  -  Rancho": 276,
+    "Tipo de vivienda  -  Improvisada": 7,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 264,
+    "Tipo de vivienda  -  Casa": 119,
+    "Tipo de vivienda  -  Rancho": 141,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 152,
+    "Tipo de vivienda  -  Casa": 57,
+    "Tipo de vivienda  -  Rancho": 90,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 72,
+    "Tipo de vivienda  -  Casa": 23,
+    "Tipo de vivienda  -  Rancho": 49,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 41,
+    "Tipo de vivienda  -  Casa": 14,
+    "Tipo de vivienda  -  Rancho": 26,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 18,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 12,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,5",
+    "Tipo de vivienda  -  Casa": "3,6",
+    "Tipo de vivienda  -  Rancho": "3,5",
+    "Tipo de vivienda  -  Improvisada": "3,1",
+    "Tipo de vivienda  -  Galpon": "2,8"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sanapana",
+    "Total": 839,
+    "Tipo de vivienda  -  Casa": 311,
+    "Tipo de vivienda  -  Rancho": 472,
+    "Tipo de vivienda  -  Improvisada": 52,
+    "Tipo de vivienda  -  Galpon": 4
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 4
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 455,
+    "Tipo de vivienda  -  Casa": 137,
+    "Tipo de vivienda  -  Rancho": 271,
+    "Tipo de vivienda  -  Improvisada": 47,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 268,
+    "Tipo de vivienda  -  Casa": 75,
+    "Tipo de vivienda  -  Rancho": 191,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 81,
+    "Tipo de vivienda  -  Casa": 75,
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 24,
+    "Tipo de vivienda  -  Casa": 19,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,6",
+    "Tipo de vivienda  -  Casa": "1,8",
+    "Tipo de vivienda  -  Rancho": "1,4",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 46,
+    "Tipo de vivienda  -  Casa": 19,
+    "Tipo de vivienda  -  Rancho": 26,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 141,
+    "Tipo de vivienda  -  Casa": 54,
+    "Tipo de vivienda  -  Rancho": 74,
+    "Tipo de vivienda  -  Improvisada": 12,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 171,
+    "Tipo de vivienda  -  Casa": 66,
+    "Tipo de vivienda  -  Rancho": 97,
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 167,
+    "Tipo de vivienda  -  Casa": 51,
+    "Tipo de vivienda  -  Rancho": 103,
+    "Tipo de vivienda  -  Improvisada": 13,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 117,
+    "Tipo de vivienda  -  Casa": 52,
+    "Tipo de vivienda  -  Rancho": 59,
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 74,
+    "Tipo de vivienda  -  Casa": 23,
+    "Tipo de vivienda  -  Rancho": 47,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 58,
+    "Tipo de vivienda  -  Casa": 20,
+    "Tipo de vivienda  -  Rancho": 31,
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 41,
+    "Tipo de vivienda  -  Casa": 15,
+    "Tipo de vivienda  -  Rancho": 23,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 9,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 15,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": 7,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "4,2",
+    "Tipo de vivienda  -  Casa": "4,2",
+    "Tipo de vivienda  -  Rancho": "4,2",
+    "Tipo de vivienda  -  Improvisada": "4,3",
+    "Tipo de vivienda  -  Galpon": "3,8"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Angaite",
+    "Total": 1.803,
+    "Tipo de vivienda  -  Casa": 480,
+    "Tipo de vivienda  -  Rancho": 1.287,
+    "Tipo de vivienda  -  Improvisada": 36,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 922,
+    "Tipo de vivienda  -  Casa": 101,
+    "Tipo de vivienda  -  Rancho": 787,
+    "Tipo de vivienda  -  Improvisada": 34,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 613,
+    "Tipo de vivienda  -  Casa": 257,
+    "Tipo de vivienda  -  Rancho": 354,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 154,
+    "Tipo de vivienda  -  Casa": 31,
+    "Tipo de vivienda  -  Rancho": 123,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 12,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 87,
+    "Tipo de vivienda  -  Casa": 81,
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,6",
+    "Tipo de vivienda  -  Casa": "1,9",
+    "Tipo de vivienda  -  Rancho": "1,5",
+    "Tipo de vivienda  -  Improvisada": "1,1",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 117,
+    "Tipo de vivienda  -  Casa": 34,
+    "Tipo de vivienda  -  Rancho": 79,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 309,
+    "Tipo de vivienda  -  Casa": 65,
+    "Tipo de vivienda  -  Rancho": 234,
+    "Tipo de vivienda  -  Improvisada": 10,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 401,
+    "Tipo de vivienda  -  Casa": 113,
+    "Tipo de vivienda  -  Rancho": 282,
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 348,
+    "Tipo de vivienda  -  Casa": 95,
+    "Tipo de vivienda  -  Rancho": 247,
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 251,
+    "Tipo de vivienda  -  Casa": 73,
+    "Tipo de vivienda  -  Rancho": 171,
+    "Tipo de vivienda  -  Improvisada": 7,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 154,
+    "Tipo de vivienda  -  Casa": 39,
+    "Tipo de vivienda  -  Rancho": 113,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 107,
+    "Tipo de vivienda  -  Casa": 29,
+    "Tipo de vivienda  -  Rancho": 77,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 78,
+    "Tipo de vivienda  -  Casa": 24,
+    "Tipo de vivienda  -  Rancho": 54,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 24,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 18,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 12,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": "4,1",
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "3,3",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Guana",
+    "Total": 155,
+    "Tipo de vivienda  -  Casa": 61,
+    "Tipo de vivienda  -  Rancho": 94,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 55,
+    "Tipo de vivienda  -  Casa": 13,
+    "Tipo de vivienda  -  Rancho": 42,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 76,
+    "Tipo de vivienda  -  Casa": 26,
+    "Tipo de vivienda  -  Rancho": 50,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,9",
+    "Tipo de vivienda  -  Casa": "2,3",
+    "Tipo de vivienda  -  Rancho": "1,6",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 19,
+    "Tipo de vivienda  -  Casa": 16,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 31,
+    "Tipo de vivienda  -  Casa": 11,
+    "Tipo de vivienda  -  Rancho": 20,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 38,
+    "Tipo de vivienda  -  Casa": 13,
+    "Tipo de vivienda  -  Rancho": 25,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 26,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 20,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 23,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": 15,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,5",
+    "Tipo de vivienda  -  Casa": "3,1",
+    "Tipo de vivienda  -  Rancho": "3,7",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Toba MaskoyToba Enenlhet",
+    "Total": 658,
+    "Tipo de vivienda  -  Casa": 341,
+    "Tipo de vivienda  -  Rancho": 283,
+    "Tipo de vivienda  -  Improvisada": 34,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 426,
+    "Tipo de vivienda  -  Casa": 220,
+    "Tipo de vivienda  -  Rancho": 179,
+    "Tipo de vivienda  -  Improvisada": 27,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 151,
+    "Tipo de vivienda  -  Casa": 55,
+    "Tipo de vivienda  -  Rancho": 92,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 38,
+    "Tipo de vivienda  -  Casa": 29,
+    "Tipo de vivienda  -  Rancho": 7,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 12,
+    "Tipo de vivienda  -  Casa": 11,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 23,
+    "Tipo de vivienda  -  Casa": 18,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,5",
+    "Tipo de vivienda  -  Casa": "1,6",
+    "Tipo de vivienda  -  Rancho": "1,4",
+    "Tipo de vivienda  -  Improvisada": "1,2",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 69,
+    "Tipo de vivienda  -  Casa": 35,
+    "Tipo de vivienda  -  Rancho": 30,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 124,
+    "Tipo de vivienda  -  Casa": 63,
+    "Tipo de vivienda  -  Rancho": 49,
+    "Tipo de vivienda  -  Improvisada": 12,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 175,
+    "Tipo de vivienda  -  Casa": 92,
+    "Tipo de vivienda  -  Rancho": 74,
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 123,
+    "Tipo de vivienda  -  Casa": 61,
+    "Tipo de vivienda  -  Rancho": 59,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 76,
+    "Tipo de vivienda  -  Casa": 41,
+    "Tipo de vivienda  -  Rancho": 32,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 46,
+    "Tipo de vivienda  -  Casa": 24,
+    "Tipo de vivienda  -  Rancho": 21,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 19,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": 10,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 16,
+    "Tipo de vivienda  -  Casa": 9,
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,6",
+    "Tipo de vivienda  -  Casa": "3,6",
+    "Tipo de vivienda  -  Rancho": "3,6",
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Nivacle",
+    "Total": 4.031,
+    "Tipo de vivienda  -  Casa": 1.752,
+    "Tipo de vivienda  -  Rancho": 2.06,
+    "Tipo de vivienda  -  Improvisada": 211,
+    "Tipo de vivienda  -  Galpon": 8
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 8
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 1.462,
+    "Tipo de vivienda  -  Casa": 333,
+    "Tipo de vivienda  -  Rancho": 942,
+    "Tipo de vivienda  -  Improvisada": 187,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 1.708,
+    "Tipo de vivienda  -  Casa": 685,
+    "Tipo de vivienda  -  Rancho": 1.005,
+    "Tipo de vivienda  -  Improvisada": 18,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 359,
+    "Tipo de vivienda  -  Casa": 284,
+    "Tipo de vivienda  -  Rancho": 72,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 120,
+    "Tipo de vivienda  -  Casa": 112,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 86,
+    "Tipo de vivienda  -  Casa": 76,
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 286,
+    "Tipo de vivienda  -  Casa": 260,
+    "Tipo de vivienda  -  Rancho": 24,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,8",
+    "Tipo de vivienda  -  Casa": "2,3",
+    "Tipo de vivienda  -  Rancho": "1,6",
+    "Tipo de vivienda  -  Improvisada": "1,1",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 252,
+    "Tipo de vivienda  -  Casa": 99,
+    "Tipo de vivienda  -  Rancho": 140,
+    "Tipo de vivienda  -  Improvisada": 10,
+    "Tipo de vivienda  -  Galpon": 3
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 544,
+    "Tipo de vivienda  -  Casa": 234,
+    "Tipo de vivienda  -  Rancho": 281,
+    "Tipo de vivienda  -  Improvisada": 29,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 776,
+    "Tipo de vivienda  -  Casa": 310,
+    "Tipo de vivienda  -  Rancho": 431,
+    "Tipo de vivienda  -  Improvisada": 33,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 794,
+    "Tipo de vivienda  -  Casa": 317,
+    "Tipo de vivienda  -  Rancho": 431,
+    "Tipo de vivienda  -  Improvisada": 45,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 571,
+    "Tipo de vivienda  -  Casa": 225,
+    "Tipo de vivienda  -  Rancho": 311,
+    "Tipo de vivienda  -  Improvisada": 35,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 394,
+    "Tipo de vivienda  -  Casa": 175,
+    "Tipo de vivienda  -  Rancho": 194,
+    "Tipo de vivienda  -  Improvisada": 24,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 248,
+    "Tipo de vivienda  -  Casa": 121,
+    "Tipo de vivienda  -  Rancho": 111,
+    "Tipo de vivienda  -  Improvisada": 16,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 221,
+    "Tipo de vivienda  -  Casa": 116,
+    "Tipo de vivienda  -  Rancho": 90,
+    "Tipo de vivienda  -  Improvisada": 14,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 62,
+    "Tipo de vivienda  -  Casa": 44,
+    "Tipo de vivienda  -  Rancho": 16,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 169,
+    "Tipo de vivienda  -  Casa": 111,
+    "Tipo de vivienda  -  Rancho": 55,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "4,4",
+    "Tipo de vivienda  -  Casa": "4,7",
+    "Tipo de vivienda  -  Rancho": "4,2",
+    "Tipo de vivienda  -  Improvisada": "4,4",
+    "Tipo de vivienda  -  Galpon": "3,4"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Maka",
+    "Total": 465,
+    "Tipo de vivienda  -  Casa": 340,
+    "Tipo de vivienda  -  Rancho": 113,
+    "Tipo de vivienda  -  Improvisada": 12,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 103,
+    "Tipo de vivienda  -  Casa": 35,
+    "Tipo de vivienda  -  Rancho": 57,
+    "Tipo de vivienda  -  Improvisada": 11,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 172,
+    "Tipo de vivienda  -  Casa": 154,
+    "Tipo de vivienda  -  Rancho": 18,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 149,
+    "Tipo de vivienda  -  Casa": 113,
+    "Tipo de vivienda  -  Rancho": 35,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 16,
+    "Tipo de vivienda  -  Casa": 16,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 19,
+    "Tipo de vivienda  -  Casa": 16,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "2,2",
+    "Tipo de vivienda  -  Casa": "2,4",
+    "Tipo de vivienda  -  Rancho": "1,8",
+    "Tipo de vivienda  -  Improvisada": "1,2",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 49,
+    "Tipo de vivienda  -  Casa": 22,
+    "Tipo de vivienda  -  Rancho": 22,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 46,
+    "Tipo de vivienda  -  Casa": 30,
+    "Tipo de vivienda  -  Rancho": 15,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 78,
+    "Tipo de vivienda  -  Casa": 51,
+    "Tipo de vivienda  -  Rancho": 25,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 71,
+    "Tipo de vivienda  -  Casa": 58,
+    "Tipo de vivienda  -  Rancho": 13,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 60,
+    "Tipo de vivienda  -  Casa": 48,
+    "Tipo de vivienda  -  Rancho": 12,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 60,
+    "Tipo de vivienda  -  Casa": 49,
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 33,
+    "Tipo de vivienda  -  Casa": 28,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 40,
+    "Tipo de vivienda  -  Casa": 31,
+    "Tipo de vivienda  -  Rancho": 7,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": 9,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 18,
+    "Tipo de vivienda  -  Casa": 14,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "4,6",
+    "Tipo de vivienda  -  Casa": "4,9",
+    "Tipo de vivienda  -  Rancho": "3,8",
+    "Tipo de vivienda  -  Improvisada": "3,4",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Manjui",
+    "Total": 122,
+    "Tipo de vivienda  -  Casa": 27,
+    "Tipo de vivienda  -  Rancho": 29,
+    "Tipo de vivienda  -  Improvisada": 66,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 94,
+    "Tipo de vivienda  -  Casa": 11,
+    "Tipo de vivienda  -  Rancho": 23,
+    "Tipo de vivienda  -  Improvisada": 60,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 12,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": 4,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 9,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,2",
+    "Tipo de vivienda  -  Casa": "1,8",
+    "Tipo de vivienda  -  Rancho": "1,2",
+    "Tipo de vivienda  -  Improvisada": "1,1",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 11,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 16,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": 11,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 34,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": 18,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 24,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": 15,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 22,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": 13,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,7",
+    "Tipo de vivienda  -  Casa": "3,4",
+    "Tipo de vivienda  -  Rancho": "4,3",
+    "Tipo de vivienda  -  Improvisada": "3,5",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Ayoreo",
+    "Total": 851,
+    "Tipo de vivienda  -  Casa": 232,
+    "Tipo de vivienda  -  Rancho": 588,
+    "Tipo de vivienda  -  Improvisada": 29,
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": 2
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 418,
+    "Tipo de vivienda  -  Casa": 31,
+    "Tipo de vivienda  -  Rancho": 361,
+    "Tipo de vivienda  -  Improvisada": 26,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 280,
+    "Tipo de vivienda  -  Casa": 83,
+    "Tipo de vivienda  -  Rancho": 195,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 54,
+    "Tipo de vivienda  -  Casa": 40,
+    "Tipo de vivienda  -  Rancho": 13,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 13,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 80,
+    "Tipo de vivienda  -  Casa": 66,
+    "Tipo de vivienda  -  Rancho": 14,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,6",
+    "Tipo de vivienda  -  Casa": "2,2",
+    "Tipo de vivienda  -  Rancho": "1,4",
+    "Tipo de vivienda  -  Improvisada": "1,1",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 143,
+    "Tipo de vivienda  -  Casa": 32,
+    "Tipo de vivienda  -  Rancho": 109,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 207,
+    "Tipo de vivienda  -  Casa": 64,
+    "Tipo de vivienda  -  Rancho": 136,
+    "Tipo de vivienda  -  Improvisada": 6,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 244,
+    "Tipo de vivienda  -  Casa": 61,
+    "Tipo de vivienda  -  Rancho": 174,
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 153,
+    "Tipo de vivienda  -  Casa": 38,
+    "Tipo de vivienda  -  Rancho": 107,
+    "Tipo de vivienda  -  Improvisada": 7,
+    "Tipo de vivienda  -  Galpon": 1
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 52,
+    "Tipo de vivienda  -  Casa": 17,
+    "Tipo de vivienda  -  Rancho": 33,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 22,
+    "Tipo de vivienda  -  Casa": 10,
+    "Tipo de vivienda  -  Rancho": 10,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 20,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 13,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 4,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": "3,1",
+    "Tipo de vivienda  -  Rancho": "2,9",
+    "Tipo de vivienda  -  Improvisada": "3,4",
+    "Tipo de vivienda  -  Galpon": 3
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Ybytoso",
+    "Total": 653,
+    "Tipo de vivienda  -  Casa": 269,
+    "Tipo de vivienda  -  Rancho": 383,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 280,
+    "Tipo de vivienda  -  Casa": 39,
+    "Tipo de vivienda  -  Rancho": 240,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 259,
+    "Tipo de vivienda  -  Casa": 132,
+    "Tipo de vivienda  -  Rancho": 127,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 57,
+    "Tipo de vivienda  -  Casa": 42,
+    "Tipo de vivienda  -  Rancho": 15,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": 10,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 39,
+    "Tipo de vivienda  -  Casa": 38,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,7",
+    "Tipo de vivienda  -  Casa": "2,2",
+    "Tipo de vivienda  -  Rancho": "1,4",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 101,
+    "Tipo de vivienda  -  Casa": 37,
+    "Tipo de vivienda  -  Rancho": 63,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 129,
+    "Tipo de vivienda  -  Casa": 53,
+    "Tipo de vivienda  -  Rancho": 76,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 143,
+    "Tipo de vivienda  -  Casa": 61,
+    "Tipo de vivienda  -  Rancho": 82,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 132,
+    "Tipo de vivienda  -  Casa": 56,
+    "Tipo de vivienda  -  Rancho": 76,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 67,
+    "Tipo de vivienda  -  Casa": 29,
+    "Tipo de vivienda  -  Rancho": 38,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 38,
+    "Tipo de vivienda  -  Casa": 15,
+    "Tipo de vivienda  -  Rancho": 23,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 20,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 14,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 16,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 6,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,4",
+    "Tipo de vivienda  -  Casa": "3,5",
+    "Tipo de vivienda  -  Rancho": "3,3",
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Tomaraho",
+    "Total": 63,
+    "Tipo de vivienda  -  Casa": 23,
+    "Tipo de vivienda  -  Rancho": 40,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 50,
+    "Tipo de vivienda  -  Casa": 16,
+    "Tipo de vivienda  -  Rancho": 34,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 2,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,3",
+    "Tipo de vivienda  -  Casa": "1,5",
+    "Tipo de vivienda  -  Rancho": "1,2",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 6,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 10,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 18,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": 15,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 7,
+    "Tipo de vivienda  -  Rancho": 7,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 3,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,4",
+    "Tipo de vivienda  -  Casa": "4,1",
+    "Tipo de vivienda  -  Rancho": "2,9",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Qom",
+    "Total": 677,
+    "Tipo de vivienda  -  Casa": 181,
+    "Tipo de vivienda  -  Rancho": 485,
+    "Tipo de vivienda  -  Improvisada": 11,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 288,
+    "Tipo de vivienda  -  Casa": 23,
+    "Tipo de vivienda  -  Rancho": 256,
+    "Tipo de vivienda  -  Improvisada": 9,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 317,
+    "Tipo de vivienda  -  Casa": 111,
+    "Tipo de vivienda  -  Rancho": 204,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 32,
+    "Tipo de vivienda  -  Casa": 18,
+    "Tipo de vivienda  -  Rancho": 14,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 13,
+    "Tipo de vivienda  -  Casa": 5,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 24,
+    "Tipo de vivienda  -  Casa": 22,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,7",
+    "Tipo de vivienda  -  Casa": "2,1",
+    "Tipo de vivienda  -  Rancho": "1,5",
+    "Tipo de vivienda  -  Improvisada": "1,2",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 97,
+    "Tipo de vivienda  -  Casa": 17,
+    "Tipo de vivienda  -  Rancho": 79,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 151,
+    "Tipo de vivienda  -  Casa": 32,
+    "Tipo de vivienda  -  Rancho": 117,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 155,
+    "Tipo de vivienda  -  Casa": 51,
+    "Tipo de vivienda  -  Rancho": 104,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 131,
+    "Tipo de vivienda  -  Casa": 41,
+    "Tipo de vivienda  -  Rancho": 85,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 68,
+    "Tipo de vivienda  -  Casa": 15,
+    "Tipo de vivienda  -  Rancho": 50,
+    "Tipo de vivienda  -  Improvisada": 3,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 38,
+    "Tipo de vivienda  -  Casa": 13,
+    "Tipo de vivienda  -  Rancho": 25,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 22,
+    "Tipo de vivienda  -  Casa": 8,
+    "Tipo de vivienda  -  Rancho": 14,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 7,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 5,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 3,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 2,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,3",
+    "Tipo de vivienda  -  Casa": "3,5",
+    "Tipo de vivienda  -  Rancho": "3,2",
+    "Tipo de vivienda  -  Improvisada": "3,6",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No indigena",
+    "Total": 356,
+    "Tipo de vivienda  -  Casa": 160,
+    "Tipo de vivienda  -  Rancho": 180,
+    "Tipo de vivienda  -  Improvisada": 16,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Sin dormitorio",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 dormitorio",
+    "Total": 147,
+    "Tipo de vivienda  -  Casa": 28,
+    "Tipo de vivienda  -  Rancho": 105,
+    "Tipo de vivienda  -  Improvisada": 14,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 dormitorios",
+    "Total": 119,
+    "Tipo de vivienda  -  Casa": 60,
+    "Tipo de vivienda  -  Rancho": 58,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 dormitorios",
+    "Total": 42,
+    "Tipo de vivienda  -  Casa": 33,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 dormitorios",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 10,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 y mas dormitorios",
+    "Total": 8,
+    "Tipo de vivienda  -  Casa": 4,
+    "Tipo de vivienda  -  Rancho": 4,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "No reportado",
+    "Total": 25,
+    "Tipo de vivienda  -  Casa": 24,
+    "Tipo de vivienda  -  Rancho": 1,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de dormitorios por vivienda",
+    "Total": "1,8",
+    "Tipo de vivienda  -  Casa": "2,3",
+    "Tipo de vivienda  -  Rancho": "1,6",
+    "Tipo de vivienda  -  Improvisada": "1,2",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "",
+    "Total": "",
+    "Tipo de vivienda  -  Casa": "",
+    "Tipo de vivienda  -  Rancho": "",
+    "Tipo de vivienda  -  Improvisada": "",
+    "Tipo de vivienda  -  Galpon": ""
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "1 ocupante",
+    "Total": 67,
+    "Tipo de vivienda  -  Casa": 37,
+    "Tipo de vivienda  -  Rancho": 28,
+    "Tipo de vivienda  -  Improvisada": 2,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "2 ocupantes",
+    "Total": 61,
+    "Tipo de vivienda  -  Casa": 23,
+    "Tipo de vivienda  -  Rancho": 33,
+    "Tipo de vivienda  -  Improvisada": 5,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "3 ocupantes",
+    "Total": 80,
+    "Tipo de vivienda  -  Casa": 24,
+    "Tipo de vivienda  -  Rancho": 48,
+    "Tipo de vivienda  -  Improvisada": 8,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "4 ocupantes",
+    "Total": 77,
+    "Tipo de vivienda  -  Casa": 39,
+    "Tipo de vivienda  -  Rancho": 38,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "5 ocupantes",
+    "Total": 30,
+    "Tipo de vivienda  -  Casa": 17,
+    "Tipo de vivienda  -  Rancho": 13,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "6 ocupantes",
+    "Total": 21,
+    "Tipo de vivienda  -  Casa": 11,
+    "Tipo de vivienda  -  Rancho": 9,
+    "Tipo de vivienda  -  Improvisada": 1,
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "7 ocupantes",
+    "Total": 14,
+    "Tipo de vivienda  -  Casa": 6,
+    "Tipo de vivienda  -  Rancho": 8,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "8 ocupantes",
+    "Total": 5,
+    "Tipo de vivienda  -  Casa": 2,
+    "Tipo de vivienda  -  Rancho": 3,
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "9 ocupantes",
+    "Total": 1,
+    "Tipo de vivienda  -  Casa": 1,
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "10 y mas ocupantes",
+    "Total": "-",
+    "Tipo de vivienda  -  Casa": "-",
+    "Tipo de vivienda  -  Rancho": "-",
+    "Tipo de vivienda  -  Improvisada": "-",
+    "Tipo de vivienda  -  Galpon": "-"
+  },
+  {
+    "Pueblo, numero de dormitorios y numero de ocupantes": "Promedio de ocupantes por vivienda",
+    "Total": "3,3",
+    "Tipo de vivienda  -  Casa": "3,3",
+    "Tipo de vivienda  -  Rancho": "3,3",
+    "Tipo de vivienda  -  Improvisada": "2,6",
+    "Tipo de vivienda  -  Galpon": "-"
+  }
+]

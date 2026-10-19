@@ -1,0 +1,29 @@
+[
+  {
+    "Jefatura de hogar": "Total",
+    "Ano 2002 - Cantidad": "1.107.297",
+    "Ano 2002 - %": 100,
+    "Ano 2012 - Cantidad": "1.232.617",
+    "Ano 2012 - %": 100,
+    "Ano 2022 - Cantidad": "1.770.885",
+    "Ano 2022 - %": 100
+  },
+  {
+    "Jefatura de hogar": "Hombres",
+    "Ano 2002 - Cantidad": 820.257,
+    "Ano 2002 - %": "74,1",
+    "Ano 2012 - Cantidad": 784.272,
+    "Ano 2012 - %": "63,6",
+    "Ano 2022 - Cantidad": "1.045.542",
+    "Ano 2022 - %": 59
+  },
+  {
+    "Jefatura de hogar": "Mujeres",
+    "Ano 2002 - Cantidad": 287.04,
+    "Ano 2002 - %": "25,9",
+    "Ano 2012 - Cantidad": 448.345,
+    "Ano 2012 - %": "36,4",
+    "Ano 2022 - Cantidad": 725.343,
+    "Ano 2022 - %": 41
+  }
+]

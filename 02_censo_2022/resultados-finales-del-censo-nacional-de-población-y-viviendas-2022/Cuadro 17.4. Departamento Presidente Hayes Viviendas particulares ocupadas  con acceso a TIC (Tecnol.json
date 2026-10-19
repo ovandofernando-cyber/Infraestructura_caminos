@@ -1,0 +1,90 @@
+[
+  {
+    "Distrito": "Total",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 27.804,
+    "Acceso a TIC - Televisor con pantalla plana": 19.079,
+    "Acceso a TIC - Computadora o notebook": 6.156,
+    "Acceso a TIC - Tablet o similares": 1.987,
+    "Acceso a TIC - Conexion a Internet": 12.322
+  },
+  {
+    "Distrito": "Benjamin Aceval",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 5.039,
+    "Acceso a TIC - Televisor con pantalla plana": 4.09,
+    "Acceso a TIC - Computadora o notebook": 1.425,
+    "Acceso a TIC - Tablet o similares": 531,
+    "Acceso a TIC - Conexion a Internet": 2.57
+  },
+  {
+    "Distrito": "Puerto Pinasco",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.48,
+    "Acceso a TIC - Televisor con pantalla plana": 626,
+    "Acceso a TIC - Computadora o notebook": 149,
+    "Acceso a TIC - Tablet o similares": 37,
+    "Acceso a TIC - Conexion a Internet": 462
+  },
+  {
+    "Distrito": "Villa Hayes",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 11.276,
+    "Acceso a TIC - Televisor con pantalla plana": 8.126,
+    "Acceso a TIC - Computadora o notebook": 2.56,
+    "Acceso a TIC - Tablet o similares": 964,
+    "Acceso a TIC - Conexion a Internet": 5.183
+  },
+  {
+    "Distrito": "Nanawa",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.46,
+    "Acceso a TIC - Televisor con pantalla plana": 1.335,
+    "Acceso a TIC - Computadora o notebook": 257,
+    "Acceso a TIC - Tablet o similares": 123,
+    "Acceso a TIC - Conexion a Internet": 538
+  },
+  {
+    "Distrito": "Jose Falcon",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 858,
+    "Acceso a TIC - Televisor con pantalla plana": 679,
+    "Acceso a TIC - Computadora o notebook": 202,
+    "Acceso a TIC - Tablet o similares": 60,
+    "Acceso a TIC - Conexion a Internet": 583
+  },
+  {
+    "Distrito": "Tte. 1ero Manuel Irala Fernandez",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 4.249,
+    "Acceso a TIC - Televisor con pantalla plana": 2.121,
+    "Acceso a TIC - Computadora o notebook": 907,
+    "Acceso a TIC - Tablet o similares": 115,
+    "Acceso a TIC - Conexion a Internet": 1.374
+  },
+  {
+    "Distrito": "Teniente Esteban Martinez",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 572,
+    "Acceso a TIC - Televisor con pantalla plana": 318,
+    "Acceso a TIC - Computadora o notebook": 67,
+    "Acceso a TIC - Tablet o similares": 21,
+    "Acceso a TIC - Conexion a Internet": 92
+  },
+  {
+    "Distrito": "General Jose Maria Bruguez",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 580,
+    "Acceso a TIC - Televisor con pantalla plana": 316,
+    "Acceso a TIC - Computadora o notebook": 68,
+    "Acceso a TIC - Tablet o similares": 11,
+    "Acceso a TIC - Conexion a Internet": 299
+  },
+  {
+    "Distrito": "Campo Aceval",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.468,
+    "Acceso a TIC - Televisor con pantalla plana": 944,
+    "Acceso a TIC - Computadora o notebook": 401,
+    "Acceso a TIC - Tablet o similares": 90,
+    "Acceso a TIC - Conexion a Internet": 739
+  },
+  {
+    "Distrito": "Nueva Asuncion",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 822,
+    "Acceso a TIC - Televisor con pantalla plana": 524,
+    "Acceso a TIC - Computadora o notebook": 120,
+    "Acceso a TIC - Tablet o similares": 35,
+    "Acceso a TIC - Conexion a Internet": 482
+  }
+]

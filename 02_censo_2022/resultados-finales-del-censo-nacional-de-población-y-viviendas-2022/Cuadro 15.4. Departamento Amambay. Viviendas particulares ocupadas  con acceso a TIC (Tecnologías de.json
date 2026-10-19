@@ -1,0 +1,58 @@
+[
+  {
+    "Distrito": "Total",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 42.975,
+    "Acceso a TIC - Televisor con pantalla plana": 34.402,
+    "Acceso a TIC - Computadora o notebook": 11.326,
+    "Acceso a TIC - Tablet o similares": 5.686,
+    "Acceso a TIC - Conexion a Internet": 30.539
+  },
+  {
+    "Distrito": "Pedro Juan Caballero",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 30.802,
+    "Acceso a TIC - Televisor con pantalla plana": 25.711,
+    "Acceso a TIC - Computadora o notebook": 9.876,
+    "Acceso a TIC - Tablet o similares": 4.909,
+    "Acceso a TIC - Conexion a Internet": 24.25
+  },
+  {
+    "Distrito": "Bella Vista",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.9,
+    "Acceso a TIC - Televisor con pantalla plana": 2.137,
+    "Acceso a TIC - Computadora o notebook": 439,
+    "Acceso a TIC - Tablet o similares": 245,
+    "Acceso a TIC - Conexion a Internet": 1.658
+  },
+  {
+    "Distrito": "Capitan Bado",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 4.47,
+    "Acceso a TIC - Televisor con pantalla plana": 3.241,
+    "Acceso a TIC - Computadora o notebook": 587,
+    "Acceso a TIC - Tablet o similares": 319,
+    "Acceso a TIC - Conexion a Internet": 2.231
+  },
+  {
+    "Distrito": "Zanja Pyta",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.291,
+    "Acceso a TIC - Televisor con pantalla plana": 1.084,
+    "Acceso a TIC - Computadora o notebook": 166,
+    "Acceso a TIC - Tablet o similares": 77,
+    "Acceso a TIC - Conexion a Internet": 459
+  },
+  {
+    "Distrito": "Karapai",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.098,
+    "Acceso a TIC - Televisor con pantalla plana": 672,
+    "Acceso a TIC - Computadora o notebook": 72,
+    "Acceso a TIC - Tablet o similares": 45,
+    "Acceso a TIC - Conexion a Internet": 918
+  },
+  {
+    "Distrito": "Cerro Cora",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.414,
+    "Acceso a TIC - Televisor con pantalla plana": 1.557,
+    "Acceso a TIC - Computadora o notebook": 186,
+    "Acceso a TIC - Tablet o similares": 91,
+    "Acceso a TIC - Conexion a Internet": 1.023
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "DESTINO DE LA ENERGIA": "TOTAL",
+    "ANO 2017 - BRUTA": "15.649.819",
+    "ANO 2017 - NETA": "15.648.020",
+    "ANO 2018 - BRUTA": "16.606.035",
+    "ANO 2018 - NETA": "16.603.917",
+    "ANO 2019 - BRUTA": "17.451.242",
+    "ANO 2019 - NETA": "17.449.150",
+    "ANO 2020 - BRUTA": "18.106.566",
+    "ANO 2020 - NETA": "18.104.644",
+    "ANO 2021 - BRUTA": "18.737.224",
+    "ANO 2021 - NETA": "18.735.354"
+  },
+  {
+    "DESTINO DE LA ENERGIA": "Consumo Nacional",
+    "ANO 2017 - BRUTA": "15.576.633",
+    "ANO 2017 - NETA": "15.574.996",
+    "ANO 2018 - BRUTA": "16.578.968",
+    "ANO 2018 - NETA": "16.576.908",
+    "ANO 2019 - BRUTA": "17.320.917",
+    "ANO 2019 - NETA": "17.319.108",
+    "ANO 2020 - BRUTA": "17.957.414",
+    "ANO 2020 - NETA": "17.956.085",
+    "ANO 2021 - BRUTA": "18.585.269",
+    "ANO 2021 - NETA": "18.584.020"
+  },
+  {
+    "DESTINO DE LA ENERGIA": "Hidraulica",
+    "ANO 2017 - BRUTA": "15.575.124",
+    "ANO 2017 - NETA": "15.573.532",
+    "ANO 2018 - BRUTA": "16.577.415",
+    "ANO 2018 - NETA": "16.575.402",
+    "ANO 2019 - BRUTA": "17.319.187",
+    "ANO 2019 - NETA": "17.317.430",
+    "ANO 2020 - BRUTA": "17.955.495",
+    "ANO 2020 - NETA": "17.954.223",
+    "ANO 2021 - BRUTA": "18.583.292",
+    "ANO 2021 - NETA": "18.582.102"
+  },
+  {
+    "DESTINO DE LA ENERGIA": "Termica",
+    "ANO 2017 - BRUTA": 1.509,
+    "ANO 2017 - NETA": 1.464,
+    "ANO 2018 - BRUTA": 1.553,
+    "ANO 2018 - NETA": 1.507,
+    "ANO 2019 - BRUTA": 1.73,
+    "ANO 2019 - NETA": 1.678,
+    "ANO 2020 - BRUTA": 1.92,
+    "ANO 2020 - NETA": 1.863,
+    "ANO 2021 - BRUTA": 1.977,
+    "ANO 2021 - NETA": 1.918
+  },
+  {
+    "DESTINO DE LA ENERGIA": "Otras Empresas",
+    "ANO 2017 - BRUTA": 73.186,
+    "ANO 2017 - NETA": 73.025,
+    "ANO 2018 - BRUTA": 27.067,
+    "ANO 2018 - NETA": 27.009,
+    "ANO 2019 - BRUTA": 130.325,
+    "ANO 2019 - NETA": 130.042,
+    "ANO 2020 - BRUTA": 149.152,
+    "ANO 2020 - NETA": 148.558,
+    "ANO 2021 - BRUTA": 151.955,
+    "ANO 2021 - NETA": 151.334
+  },
+  {
+    "DESTINO DE LA ENERGIA": "EBISA (para EMSA) (Carlos A. Lopez - El Dorado)",
+    "ANO 2017 - BRUTA": 72.121,
+    "ANO 2017 - NETA": 71.963,
+    "ANO 2018 - BRUTA": 25.365,
+    "ANO 2018 - NETA": 25.311,
+    "ANO 2019 - BRUTA": 130.079,
+    "ANO 2019 - NETA": 129.796,
+    "ANO 2020 - BRUTA": 149.152,
+    "ANO 2020 - NETA": 148.558,
+    "ANO 2021 - BRUTA": 151.955,
+    "ANO 2021 - NETA": 151.334
+  },
+  {
+    "DESTINO DE LA ENERGIA": "EBISA (para REFSA) (Guarambare - Clorinda)",
+    "ANO 2017 - BRUTA": 1.065,
+    "ANO 2017 - NETA": 1.062,
+    "ANO 2018 - BRUTA": 1.701,
+    "ANO 2018 - NETA": 1.698,
+    "ANO 2019 - BRUTA": 246,
+    "ANO 2019 - NETA": 246,
+    "ANO 2020 - BRUTA": "-",
+    "ANO 2020 - NETA": "-",
+    "ANO 2021 - BRUTA": "-",
+    "ANO 2021 - NETA": "-"
+  }
+]

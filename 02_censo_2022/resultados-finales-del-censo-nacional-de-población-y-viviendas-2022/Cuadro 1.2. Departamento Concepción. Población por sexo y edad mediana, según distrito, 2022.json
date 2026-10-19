@@ -1,0 +1,107 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 206.181,
+    "Sexo - Hombres": 102.293,
+    "Sexo - Mujeres": 103.888,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Concepcion",
+    "Total": 73.36,
+    "Sexo - Hombres": 36.109,
+    "Sexo - Mujeres": 37.251,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Belen",
+    "Total": 10.605,
+    "Sexo - Hombres": 5.344,
+    "Sexo - Mujeres": 5.261,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Horqueta",
+    "Total": 39.548,
+    "Sexo - Hombres": 19.56,
+    "Sexo - Mujeres": 19.988,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Loreto",
+    "Total": 13.58,
+    "Sexo - Hombres": 6.772,
+    "Sexo - Mujeres": 6.808,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "San Carlos del Apa",
+    "Total": 856,
+    "Sexo - Hombres": 452,
+    "Sexo - Mujeres": 404,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "San Lazaro",
+    "Total": 11.192,
+    "Sexo - Hombres": 5.768,
+    "Sexo - Mujeres": 5.424,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Yby Yau",
+    "Total": 19.468,
+    "Sexo - Hombres": 9.524,
+    "Sexo - Mujeres": 9.944,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Azote'y",
+    "Total": 6.731,
+    "Sexo - Hombres": 3.266,
+    "Sexo - Mujeres": 3.465,
+    "Edad mediana": 22
+  },
+  {
+    "Distrito": "Sargento Jose Felix Lopez",
+    "Total": 6.153,
+    "Sexo - Hombres": 3.159,
+    "Sexo - Mujeres": 2.994,
+    "Edad mediana": 24
+  },
+  {
+    "Distrito": "San Alfredo",
+    "Total": 2.385,
+    "Sexo - Hombres": 1.188,
+    "Sexo - Mujeres": 1.197,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Paso Barreto",
+    "Total": 3.988,
+    "Sexo - Hombres": 1.894,
+    "Sexo - Mujeres": 2.094,
+    "Edad mediana": 25
+  },
+  {
+    "Distrito": "Arroyito",
+    "Total": 8.292,
+    "Sexo - Hombres": 4.257,
+    "Sexo - Mujeres": 4.035,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Paso Horqueta",
+    "Total": 7.646,
+    "Sexo - Hombres": 3.728,
+    "Sexo - Mujeres": 3.918,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Itacua",
+    "Total": 2.377,
+    "Sexo - Hombres": 1.272,
+    "Sexo - Mujeres": 1.105,
+    "Edad mediana": 25
+  }
+]

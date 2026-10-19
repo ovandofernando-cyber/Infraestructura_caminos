@@ -1,0 +1,727 @@
+Pueblo, sexo del jefe y relacion de parentesco con el jefe de hogar;Poblacion total;Pob. en viviendas particulares con personas pres. - Total;Pob. en viviendas particulares con personas pres. - Tipo de hogar - Unipersonal;Pob. en viviendas particulares con personas pres. - Tipo de hogar - Nuclear completo;Pob. en viviendas particulares con personas pres. - Tipo de hogar - Nuclear incompleto;Pob. en viviendas particulares con personas pres. - Tipo de hogar - Extendido;Pob. en viviendas particulares con personas pres. - Tipo de hogar - Compuesto ;Poblacion en viviendas colectivas
+      Total pais ;137.547;137.423;5.085;76.244;16.651;37.737;1.706;124
+           Jefe o jefa;37.096;37.096;5.085;19.040;5.537;7.146;288; -     
+           Esposo/a o companero/a;23.485;23.485; -     ;19.040; -     ;4.278;167; -     
+           Hijo/a;62.543;62.543; -     ;37.548;11.067;13.490;438; -     
+           Hijastro/a;902;902; -     ;616;47;226;13; -     
+           Nieto/a;6.807;6.807; -     ; -     ; -     ;6.673;134; -     
+           Yerno o Nuera;1.658;1.658; -     ; -     ; -     ;1.631;27; -     
+           Padre/Madre del Jefe/a;462;462; -     ; -     ; -     ;453;9; -     
+           Suegro/a;241;241; -     ; -     ; -     ;231;10; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);3.827;3.827; -     ; -     ; -     ;3.609;218; -     
+           No pariente;526;402; -     ; -     ; -     ; -     ;402;124
+      Total con jefes varones ;70.110;70.030;3.671;39.543;7.079;18.842;895;80
+           Jefe;20.913;20.913;3.671;12.272;905;3.885;180; -     
+           Esposo/a o companero/a;8.036;8.036; -     ;6.762; -     ;1.229;45; -     
+           Hijo/a;33.350;33.350; -     ;20.187;6.148;6.789;226; -     
+           Hijastro/a;482;482; -     ;322;26;126;8; -     
+           Nieto/a;3.626;3.626; -     ; -     ; -     ;3.559;67; -     
+           Yerno o Nuera;965;965; -     ; -     ; -     ;951;14; -     
+           Padre/Madre del Jefe/a;158;158; -     ; -     ; -     ;156;2; -     
+           Suegro/a;104;104; -     ; -     ; -     ;98;6; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);2.166;2.166; -     ; -     ; -     ;2.049;117; -     
+           No pariente;310;230; -     ; -     ; -     ; -     ;230;80
+      Total con jefas mujeres  ;67.437;67.393;1.414;36.701;9.572;18.895;811;44
+           Jefa;16.183;16.183;1.414;6.768;4.632;3.261;108; -     
+           Esposo/a o companero/a;15.449;15.449; -     ;12.278; -     ;3.049;122; -     
+           Hijo/a;29.193;29.193; -     ;17.361;4.919;6.701;212; -     
+           Hijastro/a;420;420; -     ;294;21;100;5; -     
+           Nieto/a;3.181;3.181; -     ; -     ; -     ;3.114;67; -     
+           Yerno o Nuera;693;693; -     ; -     ; -     ;680;13; -     
+           Padre/Madre del Jefe/a;304;304; -     ; -     ; -     ;297;7; -     
+           Suegro/a;137;137; -     ; -     ; -     ;133;4; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);1.661;1.661; -     ; -     ; -     ;1.560;101; -     
+           No pariente;216;172; -     ; -     ; -     ; -     ;172;44
+      Poblacion en viviendas colectivas ;124; -   ; -   ; -   ; -   ; -   ; -   ;124
+           Varon;80; -   ; -   ; -   ; -   ; -   ; -   ;80
+           Mujer;44; -   ; -   ; -   ; -   ; -   ; -   ;44
+Ache ;2.604;2.604;14;1.401;156;978;55;0
+           Jefe o jefa;536;536;14;311;43;158;10; -     
+           Esposo/a o companero/a;431;431; -     ;297; -     ;129;5; -     
+           Hijo/a;1.307;1.307; -     ;781;113;392;21; -     
+           Hijastro/a;24;24; -     ;12; -     ;12; -     ; -     
+           Nieto/a;157;157; -     ; -     ; -     ;154;3; -     
+           Yerno o Nuera;27;27; -     ; -     ; -     ;27; -     ; -     
+           Padre/Madre del Jefe/a;13;13; -     ; -     ; -     ;13; -     ; -     
+           Suegro/a;14;14; -     ; -     ; -     ;14; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);86;86; -     ; -     ; -     ;79;7; -     
+           No pariente;9;9; -     ; -     ; -     ; -     ;9; -     
+      Total con jefes varones ;1.329;1.329;12;713;77;502;25;0
+           Jefe;298;298;12;200;5;75;6; -     
+           Esposo/a o companero/a;162;162; -     ;101; -     ;60;1; -     
+           Hijo/a;685;685; -     ;404;72;199;10; -     
+           Hijastro/a;15;15; -     ;8; -     ;7; -     ; -     
+           Nieto/a;76;76; -     ; -     ; -     ;76; -     ; -     
+           Yerno o Nuera;16;16; -     ; -     ; -     ;16; -     ; -     
+           Padre/Madre del Jefe/a;8;8; -     ; -     ; -     ;8; -     ; -     
+           Suegro/a;7;7; -     ; -     ; -     ;7; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);59;59; -     ; -     ; -     ;54;5; -     
+           No pariente;3;3; -     ; -     ; -     ; -     ;3; -     
+      Total con jefas mujeres  ;1.275;1.275;2;688;79;476;30;0
+           Jefa;238;238;2;111;38;83;4; -     
+           Esposo/a o companero/a;269;269; -     ;196; -     ;69;4; -     
+           Hijo/a;622;622; -     ;377;41;193;11; -     
+           Hijastro/a;9;9; -     ;4; -     ;5; -     ; -     
+           Nieto/a;81;81; -     ; -     ; -     ;78;3; -     
+           Yerno o Nuera;11;11; -     ; -     ; -     ;11; -     ; -     
+           Padre/Madre del Jefe/a;5;5; -     ; -     ; -     ;5; -     ; -     
+           Suegro/a;7;7; -     ; -     ; -     ;7; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);27;27; -     ; -     ; -     ;25;2; -     
+           No pariente;6;6; -     ; -     ; -     ; -     ;6; -     
+Ava Guarani ;22.705;22.667;1.460;14.347;3.817;2.939;104;38
+           Jefe o jefa;6.989;6.989;1.460;3.525;1.315;664;25; -     
+           Esposo/a o companero/a;3.877;3.877; -     ;3.503; -     ;364;10; -     
+           Hijo/a;10.785;10.785; -     ;7.232;2.499;1.026;28; -     
+           Hijastro/a;99;99; -     ;87;3;8;1; -     
+           Nieto/a;506;506; -     ; -     ; -     ;502;4; -     
+           Yerno o Nuera;37;37; -     ; -     ; -     ;37; -     ; -     
+           Padre/Madre del Jefe/a;27;27; -     ; -     ; -     ;27; -     ; -     
+           Suegro/a;15;15; -     ; -     ; -     ;15; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);303;303; -     ; -     ; -     ;296;7; -     
+           No pariente;67;29; -     ; -     ; -     ; -     ;29;38
+      Total con jefes varones ;11.539;11.506;1.055;7.341;1.587;1.462;61;33
+           Jefe;3.852;3.852;1.055;2.218;263;299;17; -     
+           Esposo/a o companero/a;1.387;1.387; -     ;1.251; -     ;134;2; -     
+           Hijo/a;5.722;5.722; -     ;3.831;1.323;551;17; -     
+           Hijastro/a;46;46; -     ;41;1;3;1; -     
+           Nieto/a;273;273; -     ; -     ; -     ;271;2; -     
+           Yerno o Nuera;13;13; -     ; -     ; -     ;13; -     ; -     
+           Padre/Madre del Jefe/a;15;15; -     ; -     ; -     ;15; -     ; -     
+           Suegro/a;9;9; -     ; -     ; -     ;9; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);172;172; -     ; -     ; -     ;167;5; -     
+           No pariente;50;17; -     ; -     ; -     ; -     ;17;33
+      Total con jefas mujeres  ;11.166;11.161;405;7.006;2.230;1.477;43;5
+           Jefa;3.137;3.137;405;1.307;1.052;365;8; -     
+           Esposo/a o companero/a;2.490;2.490; -     ;2.252; -     ;230;8; -     
+           Hijo/a;5.063;5.063; -     ;3.401;1.176;475;11; -     
+           Hijastro/a;53;53; -     ;46;2;5; -     ; -     
+           Nieto/a;233;233; -     ; -     ; -     ;231;2; -     
+           Yerno o Nuera;24;24; -     ; -     ; -     ;24; -     ; -     
+           Padre/Madre del Jefe/a;12;12; -     ; -     ; -     ;12; -     ; -     
+           Suegro/a;6;6; -     ; -     ; -     ;6; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);131;131; -     ; -     ; -     ;129;2; -     
+           No pariente;17;12; -     ; -     ; -     ; -     ;12;5
+      Poblacion en viviendas colectivas ;38; -   ; -   ; -   ; -   ; -   ; -   ;38
+           Varon;33; -   ; -   ; -   ; -   ; -   ; -   ;33
+           Mujer;5; -   ; -   ; -   ; -   ; -   ; -   ;5
+Mbya Guarani ;28.278;28.270;1.244;16.935;4.821;5.068;202;8
+           Jefe o jefa;7.369;7.369;1.244;3.682;1.443;965;35; -     
+           Esposo/a o companero/a;4.195;4.195; -     ;3.666; -     ;507;22; -     
+           Hijo/a;14.874;14.874; -     ;9.348;3.363;2.094;69; -     
+           Hijastro/a;295;295; -     ;239;15;39;2; -     
+           Nieto/a;913;913; -     ; -     ; -     ;903;10; -     
+           Yerno o Nuera;42;42; -     ; -     ; -     ;42; -     ; -     
+           Padre/Madre del Jefe/a;39;39; -     ; -     ; -     ;39; -     ; -     
+           Suegro/a;11;11; -     ; -     ; -     ;10;1; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);478;478; -     ; -     ; -     ;469;9; -     
+           No pariente;62;54; -     ; -     ; -     ; -     ;54;8
+      Total con jefes varones ;14.445;14.437;956;8.785;2.088;2.501;107;8
+           Jefe;3.726;3.726;956;2.155;223;372;20; -     
+           Esposo/a o companero/a;1.727;1.727; -     ;1.492; -     ;226;9; -     
+           Hijo/a;8.004;8.004; -     ;5.018;1.857;1.097;32; -     
+           Hijastro/a;150;150; -     ;120;8;20;2; -     
+           Nieto/a;472;472; -     ; -     ; -     ;468;4; -     
+           Yerno o Nuera;14;14; -     ; -     ; -     ;14; -     ; -     
+           Padre/Madre del Jefe/a;12;12; -     ; -     ; -     ;12; -     ; -     
+           Suegro/a;6;6; -     ; -     ; -     ;6; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);291;291; -     ; -     ; -     ;286;5; -     
+           No pariente;43;35; -     ; -     ; -     ; -     ;35;8
+      Total con jefas mujeres  ;13.833;13.833;288;8.150;2.733;2.567;95;0
+           Jefa;3.643;3.643;288;1.527;1.220;593;15; -     
+           Esposo/a o companero/a;2.468;2.468; -     ;2.174; -     ;281;13; -     
+           Hijo/a;6.870;6.870; -     ;4.330;1.506;997;37; -     
+           Hijastro/a;145;145; -     ;119;7;19; -     ; -     
+           Nieto/a;441;441; -     ; -     ; -     ;435;6; -     
+           Yerno o Nuera;28;28; -     ; -     ; -     ;28; -     ; -     
+           Padre/Madre del Jefe/a;27;27; -     ; -     ; -     ;27; -     ; -     
+           Suegro/a;5;5; -     ; -     ; -     ;4;1; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);187;187; -     ; -     ; -     ;183;4; -     
+           No pariente;19;19; -     ; -     ; -     ; -     ;19; -     
+      Poblacion en viviendas colectivas ;8; -   ; -   ; -   ; -   ; -   ; -   ;8
+           Varon;8; -   ; -   ; -   ; -   ; -   ; -   ;8
+           Mujer; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   
+Pai Tavytera;15.705;15.705;830;9.972;2.010;2.785;108;0
+           Jefe o jefa;4.835;4.835;830;2.692;700;593;20; -     
+           Esposo/a o companero/a;3.035;3.035; -     ;2.663; -     ;360;12; -     
+           Hijo/a;6.865;6.865; -     ;4.538;1.301;988;38; -     
+           Hijastro/a;102;102; -     ;79;9;14; -     ; -     
+           Nieto/a;426;426; -     ; -     ; -     ;425;1; -     
+           Yerno o Nuera;53;53; -     ; -     ; -     ;53; -     ; -     
+           Padre/Madre del Jefe/a;51;51; -     ; -     ; -     ;51; -     ; -     
+           Suegro/a;13;13; -     ; -     ; -     ;13; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);298;298; -     ; -     ; -     ;288;10; -     
+           No pariente;27;27; -     ; -     ; -     ; -     ;27; -     
+      Total con jefes varones ;7.828;7.828;589;5.050;790;1.348;51;0
+           Jefe;1.727;1.727;589;883;76;176;3; -     
+           Esposo/a o companero/a;2.003;2.003; -     ;1.772; -     ;222;9; -     
+           Hijo/a;3.589;3.589; -     ;2.346;710;516;17; -     
+           Hijastro/a;60;60; -     ;49;4;7; -     ; -     
+           Nieto/a;222;222; -     ; -     ; -     ;221;1; -     
+           Yerno o Nuera;24;24; -     ; -     ; -     ;24; -     ; -     
+           Padre/Madre del Jefe/a;25;25; -     ; -     ; -     ;25; -     ; -     
+           Suegro/a;5;5; -     ; -     ; -     ;5; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);155;155; -     ; -     ; -     ;152;3; -     
+           No pariente;18;18; -     ; -     ; -     ; -     ;18; -     
+      Total con jefas mujeres  ;7.877;7.877;241;4.922;1.220;1.437;57;0
+           Jefa;3.108;3.108;241;1.809;624;417;17; -     
+           Esposo/a o companero/a;1.032;1.032; -     ;891; -     ;138;3; -     
+           Hijo/a;3.276;3.276; -     ;2.192;591;472;21; -     
+           Hijastro/a;42;42; -     ;30;5;7; -     ; -     
+           Nieto/a;204;204; -     ; -     ; -     ;204; -     ; -     
+           Yerno o Nuera;29;29; -     ; -     ; -     ;29; -     ; -     
+           Padre/Madre del Jefe/a;26;26; -     ; -     ; -     ;26; -     ; -     
+           Suegro/a;8;8; -     ; -     ; -     ;8; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);143;143; -     ; -     ; -     ;136;7; -     
+           No pariente;9;9; -     ; -     ; -     ; -     ;9; -     
+Guarani Occidental/Pueblo Guarani ;4.090;4.088;87;1.442;383;2.004;172;2
+           Jefe o jefa;939;939;87;359;126;337;30; -     
+           Esposo/a o companero/a;509;509; -     ;326; -     ;170;13; -     
+           Hijo/a;1.714;1.714; -     ;741;257;673;43; -     
+           Hijastro/a;26;26; -     ;16; -     ;10; -     ; -     
+           Nieto/a;524;524; -     ; -     ; -     ;503;21; -     
+           Yerno o Nuera;105;105; -     ; -     ; -     ;100;5; -     
+           Padre/Madre del Jefe/a;29;29; -     ; -     ; -     ;29; -     ; -     
+           Suegro/a;2;2; -     ; -     ; -     ;2; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);204;204; -     ; -     ; -     ;180;24; -     
+           No pariente;38;36; -     ; -     ; -     ; -     ;36;2
+      Total con jefes varones ;2.055;2.053;50;751;151;1.012;89;2
+           Jefe;464;464;50;219;10;171;14; -     
+           Esposo/a o companero/a;185;185; -     ;121; -     ;57;7; -     
+           Hijo/a;897;897; -     ;407;141;322;27; -     
+           Hijastro/a;10;10; -     ;4; -     ;6; -     ; -     
+           Nieto/a;287;287; -     ; -     ; -     ;278;9; -     
+           Yerno o Nuera;71;71; -     ; -     ; -     ;69;2; -     
+           Padre/Madre del Jefe/a;12;12; -     ; -     ; -     ;12; -     ; -     
+           Suegro/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);111;111; -     ; -     ; -     ;96;15; -     
+           No pariente;17;15; -     ; -     ; -     ; -     ;15;2
+      Total con jefas mujeres  ;2.035;2.035;37;691;232;992;83;0
+           Jefa;475;475;37;140;116;166;16; -     
+           Esposo/a o companero/a;324;324; -     ;205; -     ;113;6; -     
+           Hijo/a;817;817; -     ;334;116;351;16; -     
+           Hijastro/a;16;16; -     ;12; -     ;4; -     ; -     
+           Nieto/a;237;237; -     ; -     ; -     ;225;12; -     
+           Yerno o Nuera;34;34; -     ; -     ; -     ;31;3; -     
+           Padre/Madre del Jefe/a;17;17; -     ; -     ; -     ;17; -     ; -     
+           Suegro/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);93;93; -     ; -     ; -     ;84;9; -     
+           No pariente;21;21; -     ; -     ; -     ; -     ;21; -     
+      Poblacion en viviendas colectivas ;2; -   ; -   ; -   ; -   ; -   ; -   ;2
+           Varon;2; -   ; -   ; -   ; -   ; -   ; -   ;2
+           Mujer; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   
+Guarani Nandeva ;3.124;3.124;61;1.661;367;1.017;18;0
+           Jefe o jefa;795;795;61;411;130;191;2; -     
+           Esposo/a o companero/a;518;518; -     ;419; -     ;97;2; -     
+           Hijo/a;1.449;1.449; -     ;818;233;393;5; -     
+           Hijastro/a;24;24; -     ;13;4;7; -     ; -     
+           Nieto/a;170;170; -     ; -     ; -     ;167;3; -     
+           Yerno o Nuera;55;55; -     ; -     ; -     ;55; -     ; -     
+           Padre/Madre del Jefe/a;7;7; -     ; -     ; -     ;7; -     ; -     
+           Suegro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);103;103; -     ; -     ; -     ;100;3; -     
+           No pariente;3;3; -     ; -     ; -     ; -     ;3; -     
+      Total con jefes varones ;1.584;1.584;46;882;138;508;10;0
+           Jefe;537;537;46;362;14;114;1; -     
+           Esposo/a o companero/a;73;73; -     ;55; -     ;18; -     ; -     
+           Hijo/a;779;779; -     ;458;121;198;2; -     
+           Hijastro/a;13;13; -     ;7;3;3; -     ; -     
+           Nieto/a;84;84; -     ; -     ; -     ;83;1; -     
+           Yerno o Nuera;31;31; -     ; -     ; -     ;31; -     ; -     
+           Padre/Madre del Jefe/a;2;2; -     ; -     ; -     ;2; -     ; -     
+           Suegro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);62;62; -     ; -     ; -     ;59;3; -     
+           No pariente;3;3; -     ; -     ; -     ; -     ;3; -     
+      Total con jefas mujeres  ;1.540;1.540;15;779;229;509;8;0
+           Jefa;258;258;15;49;116;77;1; -     
+           Esposo/a o companero/a;445;445; -     ;364; -     ;79;2; -     
+           Hijo/a;670;670; -     ;360;112;195;3; -     
+           Hijastro/a;11;11; -     ;6;1;4; -     ; -     
+           Nieto/a;86;86; -     ; -     ; -     ;84;2; -     
+           Yerno o Nuera;24;24; -     ; -     ; -     ;24; -     ; -     
+           Padre/Madre del Jefe/a;5;5; -     ; -     ; -     ;5; -     ; -     
+           Suegro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);41;41; -     ; -     ; -     ;41; -     ; -     
+           No pariente; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+Enlhet Norte ;9.874;9.874;175;4.450;241;4.824;184;0
+           Jefe o jefa;2.625;2.625;175;1.400;87;929;34; -     
+           Esposo/a o companero/a;2.153;2.153; -     ;1.403; -     ;722;28; -     
+           Hijo/a;3.272;3.272; -     ;1.638;152;1.453;29; -     
+           Hijastro/a;30;30; -     ;9;2;16;3; -     
+           Nieto/a;759;759; -     ; -     ; -     ;743;16; -     
+           Yerno o Nuera;423;423; -     ; -     ; -     ;419;4; -     
+           Padre/Madre del Jefe/a;86;86; -     ; -     ; -     ;84;2; -     
+           Suegro/a;72;72; -     ; -     ; -     ;69;3; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);402;402; -     ; -     ; -     ;389;13; -     
+           No pariente;52;52; -     ; -     ; -     ; -     ;52; -     
+      Total con jefes varones ;5.108;5.108;138;2.317;120;2.434;99;0
+           Jefe;2.309;2.309;138;1.322;25;792;32; -     
+           Esposo/a o companero/a;101;101; -     ;72; -     ;28;1; -     
+           Hijo/a;1.706;1.706; -     ;918;95;680;13; -     
+           Hijastro/a;16;16; -     ;5; -     ;10;1; -     
+           Nieto/a;412;412; -     ; -     ; -     ;404;8; -     
+           Yerno o Nuera;249;249; -     ; -     ; -     ;247;2; -     
+           Padre/Madre del Jefe/a;29;29; -     ; -     ; -     ;28;1; -     
+           Suegro/a;28;28; -     ; -     ; -     ;27;1; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);227;227; -     ; -     ; -     ;218;9; -     
+           No pariente;31;31; -     ; -     ; -     ; -     ;31; -     
+      Total con jefas mujeres  ;4.766;4.766;37;2.133;121;2.390;85;0
+           Jefa;316;316;37;78;62;137;2; -     
+           Esposo/a o companero/a;2.052;2.052; -     ;1.331; -     ;694;27; -     
+           Hijo/a;1.566;1.566; -     ;720;57;773;16; -     
+           Hijastro/a;14;14; -     ;4;2;6;2; -     
+           Nieto/a;347;347; -     ; -     ; -     ;339;8; -     
+           Yerno o Nuera;174;174; -     ; -     ; -     ;172;2; -     
+           Padre/Madre del Jefe/a;57;57; -     ; -     ; -     ;56;1; -     
+           Suegro/a;44;44; -     ; -     ; -     ;42;2; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);175;175; -     ; -     ; -     ;171;4; -     
+           No pariente;21;21; -     ; -     ; -     ; -     ;21; -     
+Enxet Sur ;8.189;8.189;235;4.397;948;2.521;88;0
+           Jefe o jefa;2.335;2.335;235;1.213;345;527;15; -     
+           Esposo/a o companero/a;1.461;1.461; -     ;1.161; -     ;288;12; -     
+           Hijo/a;3.447;3.447; -     ;1.999;602;828;18; -     
+           Hijastro/a;45;45; -     ;24;1;19;1; -     
+           Nieto/a;439;439; -     ; -     ; -     ;436;3; -     
+           Yerno o Nuera;168;168; -     ; -     ; -     ;168; -     ; -     
+           Padre/Madre del Jefe/a;32;32; -     ; -     ; -     ;32; -     ; -     
+           Suegro/a;20;20; -     ; -     ; -     ;17;3; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);222;222; -     ; -     ; -     ;206;16; -     
+           No pariente;20;20; -     ; -     ; -     ; -     ;20; -     
+      Total con jefes varones ;4.193;4.193;165;2.304;432;1.246;46;0
+           Jefe;1.393;1.393;165;844;68;302;14; -     
+           Esposo/a o companero/a;403;403; -     ;346; -     ;57; -     ; -     
+           Hijo/a;1.876;1.876; -     ;1.100;363;404;9; -     
+           Hijastro/a;28;28; -     ;14;1;12;1; -     
+           Nieto/a;234;234; -     ; -     ; -     ;233;1; -     
+           Yerno o Nuera;104;104; -     ; -     ; -     ;104; -     ; -     
+           Padre/Madre del Jefe/a;9;9; -     ; -     ; -     ;9; -     ; -     
+           Suegro/a;8;8; -     ; -     ; -     ;6;2; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);127;127; -     ; -     ; -     ;119;8; -     
+           No pariente;11;11; -     ; -     ; -     ; -     ;11; -     
+      Total con jefas mujeres  ;3.996;3.996;70;2.093;516;1.275;42;0
+           Jefa;942;942;70;369;277;225;1; -     
+           Esposo/a o companero/a;1.058;1.058; -     ;815; -     ;231;12; -     
+           Hijo/a;1.571;1.571; -     ;899;239;424;9; -     
+           Hijastro/a;17;17; -     ;10; -     ;7; -     ; -     
+           Nieto/a;205;205; -     ; -     ; -     ;203;2; -     
+           Yerno o Nuera;64;64; -     ; -     ; -     ;64; -     ; -     
+           Padre/Madre del Jefe/a;23;23; -     ; -     ; -     ;23; -     ; -     
+           Suegro/a;12;12; -     ; -     ; -     ;11;1; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);95;95; -     ; -     ; -     ;87;8; -     
+           No pariente;9;9; -     ; -     ; -     ; -     ;9; -     
+Sanapana ;3.523;3.522;46;1.977;252;1.190;57;1
+           Jefe o jefa;839;839;46;485;84;216;8; -     
+           Esposo/a o companero/a;620;620; -     ;473; -     ;141;6; -     
+           Hijo/a;1.603;1.603; -     ;1.002;167;423;11; -     
+           Hijastro/a;26;26; -     ;17;1;8; -     ; -     
+           Nieto/a;186;186; -     ; -     ; -     ;180;6; -     
+           Yerno o Nuera;94;94; -     ; -     ; -     ;90;4; -     
+           Padre/Madre del Jefe/a;10;10; -     ; -     ; -     ;10; -     ; -     
+           Suegro/a;17;17; -     ; -     ; -     ;16;1; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);114;114; -     ; -     ; -     ;106;8; -     
+           No pariente;14;13; -     ; -     ; -     ; -     ;13;1
+      Total con jefes varones ;1.824;1.823;30;1.020;132;615;26;1
+           Jefe;618;618;30;400;21;160;7; -     
+           Esposo/a o companero/a;88;88; -     ;80; -     ;8; -     ; -     
+           Hijo/a;852;852; -     ;531;110;209;2; -     
+           Hijastro/a;14;14; -     ;9;1;4; -     ; -     
+           Nieto/a;101;101; -     ; -     ; -     ;99;2; -     
+           Yerno o Nuera;60;60; -     ; -     ; -     ;57;3; -     
+           Padre/Madre del Jefe/a;2;2; -     ; -     ; -     ;2; -     ; -     
+           Suegro/a;12;12; -     ; -     ; -     ;11;1; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);69;69; -     ; -     ; -     ;65;4; -     
+           No pariente;8;7; -     ; -     ; -     ; -     ;7;1
+      Total con jefas mujeres  ;1.699;1.699;16;957;120;575;31;0
+           Jefa;221;221;16;85;63;56;1; -     
+           Esposo/a o companero/a;532;532; -     ;393; -     ;133;6; -     
+           Hijo/a;751;751; -     ;471;57;214;9; -     
+           Hijastro/a;12;12; -     ;8; -     ;4; -     ; -     
+           Nieto/a;85;85; -     ; -     ; -     ;81;4; -     
+           Yerno o Nuera;34;34; -     ; -     ; -     ;33;1; -     
+           Padre/Madre del Jefe/a;8;8; -     ; -     ; -     ;8; -     ; -     
+           Suegro/a;5;5; -     ; -     ; -     ;5; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);45;45; -     ; -     ; -     ;41;4; -     
+           No pariente;6;6; -     ; -     ; -     ; -     ;6; -     
+      Poblacion en viviendas colectivas ;1; -   ; -   ; -   ; -   ; -   ; -   ;1
+           Varon;1; -   ; -   ; -   ; -   ; -   ; -   ;1
+           Mujer; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   
+Angaite ;7.239;7.239;117;4.491;707;1.829;95;0
+           Jefe o jefa;1.803;1.803;117;1.079;235;357;15; -     
+           Esposo/a o companero/a;1.284;1.284; -     ;1.077; -     ;197;10; -     
+           Hijo/a;3.564;3.564; -     ;2.323;471;729;41; -     
+           Hijastro/a;29;29; -     ;12;1;14;2; -     
+           Nieto/a;240;240; -     ; -     ; -     ;240; -     ; -     
+           Yerno o Nuera;97;97; -     ; -     ; -     ;96;1; -     
+           Padre/Madre del Jefe/a;21;21; -     ; -     ; -     ;21; -     ; -     
+           Suegro/a;14;14; -     ; -     ; -     ;14; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);171;171; -     ; -     ; -     ;161;10; -     
+           No pariente;16;16; -     ; -     ; -     ; -     ;16; -     
+      Total con jefes varones ;3.629;3.629;77;2.317;307;880;48;0
+           Jefe;1.036;1.036;77;758;32;159;10; -     
+           Esposo/a o companero/a;382;382; -     ;297; -     ;84;1; -     
+           Hijo/a;1.906;1.906; -     ;1.258;274;349;25; -     
+           Hijastro/a;13;13; -     ;4;1;7;1; -     
+           Nieto/a;138;138; -     ; -     ; -     ;138; -     ; -     
+           Yerno o Nuera;51;51; -     ; -     ; -     ;51; -     ; -     
+           Padre/Madre del Jefe/a;8;8; -     ; -     ; -     ;8; -     ; -     
+           Suegro/a;5;5; -     ; -     ; -     ;5; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);85;85; -     ; -     ; -     ;79;6; -     
+           No pariente;5;5; -     ; -     ; -     ; -     ;5; -     
+      Total con jefas mujeres  ;3.610;3.610;40;2.174;400;949;47;0
+           Jefa;767;767;40;321;203;198;5; -     
+           Esposo/a o companero/a;902;902; -     ;780; -     ;113;9; -     
+           Hijo/a;1.658;1.658; -     ;1.065;197;380;16; -     
+           Hijastro/a;16;16; -     ;8; -     ;7;1; -     
+           Nieto/a;102;102; -     ; -     ; -     ;102; -     ; -     
+           Yerno o Nuera;46;46; -     ; -     ; -     ;45;1; -     
+           Padre/Madre del Jefe/a;13;13; -     ; -     ; -     ;13; -     ; -     
+           Suegro/a;9;9; -     ; -     ; -     ;9; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);86;86; -     ; -     ; -     ;82;4; -     
+           No pariente;11;11; -     ; -     ; -     ; -     ;11; -     
+Guana ;556;554;19;263;106;166;0;2
+           Jefe o jefa;155;155;19;63;34;39; -     ; -     
+           Esposo/a o companero/a;76;76; -     ;66; -     ;10; -     ; -     
+           Hijo/a;264;264; -     ;132;72;60; -     ; -     
+           Hijastro/a;3;3; -     ;2; -     ;1; -     ; -     
+           Nieto/a;33;33; -     ; -     ; -     ;33; -     ; -     
+           Yerno o Nuera;4;4; -     ; -     ; -     ;4; -     ; -     
+           Padre/Madre del Jefe/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Suegro/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);18;18; -     ; -     ; -     ;18; -     ; -     
+           No pariente;2; -     ; -     ; -     ; -     ; -     ; -     ;2
+      Total con jefes varones ;290;288;9;146;51;82;0;2
+           Jefe;57;57;9;32;6;10; -     ; -     
+           Esposo/a o companero/a;35;35; -     ;29; -     ;6; -     ; -     
+           Hijo/a;164;164; -     ;85;45;34; -     ; -     
+           Hijastro/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Nieto/a;20;20; -     ; -     ; -     ;20; -     ; -     
+           Yerno o Nuera; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Padre/Madre del Jefe/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Suegro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);11;11; -     ; -     ; -     ;11; -     ; -     
+           No pariente;2; -     ; -     ; -     ; -     ; -     ; -     ;2
+      Total con jefas mujeres  ;266;266;10;117;55;84;0;0
+           Jefa;98;98;10;31;28;29; -     ; -     
+           Esposo/a o companero/a;41;41; -     ;37; -     ;4; -     ; -     
+           Hijo/a;100;100; -     ;47;27;26; -     ; -     
+           Hijastro/a;2;2; -     ;2; -     ; -     ; -     ; -     
+           Nieto/a;13;13; -     ; -     ; -     ;13; -     ; -     
+           Yerno o Nuera;4;4; -     ; -     ; -     ;4; -     ; -     
+           Padre/Madre del Jefe/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Suegro/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);7;7; -     ; -     ; -     ;7; -     ; -     
+           No pariente; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+      Poblacion en viviendas colectivas ;2; -   ; -   ; -   ; -   ; -   ; -   ;2
+           Varon;2; -   ; -   ; -   ; -   ; -   ; -   ;2
+           Mujer; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   
+Toba Maskoy/Toba Enenlhet ;2.371;2.369;69;1.373;119;793;15;2
+           Jefe o jefa;658;658;69;366;49;168;6; -     
+           Esposo/a o companero/a;485;485; -     ;377; -     ;106;2; -     
+           Hijo/a;966;966; -     ;622;70;273;1; -     
+           Hijastro/a;12;12; -     ;8; -     ;4; -     ; -     
+           Nieto/a;102;102; -     ; -     ; -     ;102; -     ; -     
+           Yerno o Nuera;38;38; -     ; -     ; -     ;38; -     ; -     
+           Padre/Madre del Jefe/a;14;14; -     ; -     ; -     ;14; -     ; -     
+           Suegro/a;9;9; -     ; -     ; -     ;8;1; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);83;83; -     ; -     ; -     ;80;3; -     
+           No pariente;4;2; -     ; -     ; -     ; -     ;2;2
+      Total con jefes varones ;1.241;1.241;45;728;55;404;9;0
+           Jefe;502;502;45;319;16;117;5; -     
+           Esposo/a o companero/a;69;69; -     ;52; -     ;17; -     ; -     
+           Hijo/a;537;537; -     ;353;39;144;1; -     
+           Hijastro/a;7;7; -     ;4; -     ;3; -     ; -     
+           Nieto/a;64;64; -     ; -     ; -     ;64; -     ; -     
+           Yerno o Nuera;20;20; -     ; -     ; -     ;20; -     ; -     
+           Padre/Madre del Jefe/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Suegro/a;6;6; -     ; -     ; -     ;5;1; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);34;34; -     ; -     ; -     ;34; -     ; -     
+           No pariente;2;2; -     ; -     ; -     ; -     ;2; -     
+      Total con jefas mujeres  ;1.130;1.128;24;645;64;389;6;2
+           Jefa;156;156;24;47;33;51;1; -     
+           Esposo/a o companero/a;416;416; -     ;325; -     ;89;2; -     
+           Hijo/a;429;429; -     ;269;31;129; -     ; -     
+           Hijastro/a;5;5; -     ;4; -     ;1; -     ; -     
+           Nieto/a;38;38; -     ; -     ; -     ;38; -     ; -     
+           Yerno o Nuera;18;18; -     ; -     ; -     ;18; -     ; -     
+           Padre/Madre del Jefe/a;14;14; -     ; -     ; -     ;14; -     ; -     
+           Suegro/a;3;3; -     ; -     ; -     ;3; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);49;49; -     ; -     ; -     ;46;3; -     
+           No pariente;2; -     ; -     ; -     ; -     ; -     ; -     ;2
+      Poblacion en viviendas colectivas ;2; -   ; -   ; -   ; -   ; -   ; -   ;2
+           Varon; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   
+           Mujer;2; -   ; -   ; -   ; -   ; -   ; -   ;2
+Nivacle ;18.280;18.253;252;8.195;1.352;8.030;424;27
+           Jefe o jefa;4.031;4.031;252;1.990;445;1.289;55; -     
+           Esposo/a o companero/a;2.736;2.736; -     ;1.990; -     ;717;29; -     
+           Hijo/a;8.061;8.061; -     ;4.160;896;2.908;97; -     
+           Hijastro/a;120;120; -     ;55;11;52;2; -     
+           Nieto/a;1.750;1.750; -     ; -     ; -     ;1.685;65; -     
+           Yerno o Nuera;362;362; -     ; -     ; -     ;352;10; -     
+           Padre/Madre del Jefe/a;102;102; -     ; -     ; -     ;96;6; -     
+           Suegro/a;34;34; -     ; -     ; -     ;34; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);990;990; -     ; -     ; -     ;897;93; -     
+           No pariente;94;67; -     ; -     ; -     ; -     ;67;27
+      Total con jefes varones ;9.180;9.172;167;4.246;554;3.983;222;8
+           Jefe;2.615;2.615;167;1.615;62;736;35; -     
+           Esposo/a o companero/a;490;490; -     ;339; -     ;143;8; -     
+           Hijo/a;4.221;4.221; -     ;2.262;485;1.423;51; -     
+           Hijastro/a;64;64; -     ;30;7;27; -     ; -     
+           Nieto/a;943;943; -     ; -     ; -     ;906;37; -     
+           Yerno o Nuera;212;212; -     ; -     ; -     ;206;6; -     
+           Padre/Madre del Jefe/a;26;26; -     ; -     ; -     ;26; -     ; -     
+           Suegro/a;10;10; -     ; -     ; -     ;10; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);553;553; -     ; -     ; -     ;506;47; -     
+           No pariente;46;38; -     ; -     ; -     ; -     ;38;8
+      Total con jefas mujeres  ;9.100;9.081;85;3.949;798;4.047;202;19
+           Jefa;1.416;1.416;85;375;383;553;20; -     
+           Esposo/a o companero/a;2.246;2.246; -     ;1.651; -     ;574;21; -     
+           Hijo/a;3.840;3.840; -     ;1.898;411;1.485;46; -     
+           Hijastro/a;56;56; -     ;25;4;25;2; -     
+           Nieto/a;807;807; -     ; -     ; -     ;779;28; -     
+           Yerno o Nuera;150;150; -     ; -     ; -     ;146;4; -     
+           Padre/Madre del Jefe/a;76;76; -     ; -     ; -     ;70;6; -     
+           Suegro/a;24;24; -     ; -     ; -     ;24; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);437;437; -     ; -     ; -     ;391;46; -     
+           No pariente;48;29; -     ; -     ; -     ; -     ;29;19
+      Poblacion en viviendas colectivas ;27; -   ; -   ; -   ; -   ; -   ; -   ;27
+           Varon;8; -   ; -   ; -   ; -   ; -   ; -   ;8
+           Mujer;19; -   ; -   ; -   ; -   ; -   ; -   ;19
+Maka;2.166;2.165;49;695;216;1.189;16;1
+           Jefe o jefa;465;465;49;142;67;202;5; -     
+           Esposo/a o companero/a;249;249; -     ;144; -     ;104;1; -     
+           Hijo/a;1.041;1.041; -     ;404;149;485;3; -     
+           Hijastro/a;14;14; -     ;5; -     ;9; -     ; -     
+           Nieto/a;228;228; -     ; -     ; -     ;228; -     ; -     
+           Yerno o Nuera;28;28; -     ; -     ; -     ;26;2; -     
+           Padre/Madre del Jefe/a;12;12; -     ; -     ; -     ;12; -     ; -     
+           Suegro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);125;125; -     ; -     ; -     ;123;2; -     
+           No pariente;4;3; -     ; -     ; -     ; -     ;3;1
+      Total con jefes varones ;1.102;1.101;41;362;109;584;5;1
+           Jefe;253;253;41;91;10;110;1; -     
+           Esposo/a o companero/a;70;70; -     ;46; -     ;24; -     ; -     
+           Hijo/a;579;579; -     ;223;99;255;2; -     
+           Hijastro/a;7;7; -     ;2; -     ;5; -     ; -     
+           Nieto/a;111;111; -     ; -     ; -     ;111; -     ; -     
+           Yerno o Nuera;14;14; -     ; -     ; -     ;14; -     ; -     
+           Padre/Madre del Jefe/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Suegro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);65;65; -     ; -     ; -     ;64;1; -     
+           No pariente;2;1; -     ; -     ; -     ; -     ;1;1
+      Total con jefas mujeres  ;1.064;1.064;8;333;107;605;11;0
+           Jefa;212;212;8;51;57;92;4; -     
+           Esposo/a o companero/a;179;179; -     ;98; -     ;80;1; -     
+           Hijo/a;462;462; -     ;181;50;230;1; -     
+           Hijastro/a;7;7; -     ;3; -     ;4; -     ; -     
+           Nieto/a;117;117; -     ; -     ; -     ;117; -     ; -     
+           Yerno o Nuera;14;14; -     ; -     ; -     ;12;2; -     
+           Padre/Madre del Jefe/a;11;11; -     ; -     ; -     ;11; -     ; -     
+           Suegro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);60;60; -     ; -     ; -     ;59;1; -     
+           No pariente;2;2; -     ; -     ; -     ; -     ;2; -     
+      Poblacion en viviendas colectivas ;1; -   ; -   ; -   ; -   ; -   ; -   ;1
+           Varon;1; -   ; -   ; -   ; -   ; -   ; -   ;1
+           Mujer; -   ; -   ; -   ; -   ; -   ; -   ; -   ; -   
+Manjui ;431;431;11;254;63;99;4;0
+           Jefe o jefa;122;122;11;67;20;23;1; -     
+           Esposo/a o companero/a;78;78; -     ;65; -     ;13; -     ; -     
+           Hijo/a;195;195; -     ;120;43;31;1; -     
+           Hijastro/a;2;2; -     ;2; -     ; -     ; -     ; -     
+           Nieto/a;22;22; -     ; -     ; -     ;22; -     ; -     
+           Yerno o Nuera;3;3; -     ; -     ; -     ;3; -     ; -     
+           Padre/Madre del Jefe/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Suegro/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);7;7; -     ; -     ; -     ;6;1; -     
+           No pariente;1;1; -     ; -     ; -     ; -     ;1; -     
+      Total con jefes varones ;220;220;5;132;33;49;1;0
+           Jefe;68;68;5;47;3;13; -     ; -     
+           Esposo/a o companero/a;19;19; -     ;16; -     ;3; -     ; -     
+           Hijo/a;115;115; -     ;67;30;18; -     ; -     
+           Hijastro/a;2;2; -     ;2; -     ; -     ; -     ; -     
+           Nieto/a;9;9; -     ; -     ; -     ;9; -     ; -     
+           Yerno o Nuera;1;1; -     ; -     ; -     ;1; -     ; -     
+           Padre/Madre del Jefe/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Suegro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);5;5; -     ; -     ; -     ;5; -     ; -     
+           No pariente;1;1; -     ; -     ; -     ; -     ;1; -     
+      Total con jefas mujeres  ;211;211;6;122;30;50;3;0
+           Jefa;54;54;6;20;17;10;1; -     
+           Esposo/a o companero/a;59;59; -     ;49; -     ;10; -     ; -     
+           Hijo/a;80;80; -     ;53;13;13;1; -     
+           Hijastro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Nieto/a;13;13; -     ; -     ; -     ;13; -     ; -     
+           Yerno o Nuera;2;2; -     ; -     ; -     ;2; -     ; -     
+           Padre/Madre del Jefe/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Suegro/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);2;2; -     ; -     ; -     ;1;1; -     
+           No pariente; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+Ayoreo ;2.520;2.516;143;1.301;270;767;35;4
+           Jefe o jefa;851;851;143;411;122;167;8; -     
+           Esposo/a o companero/a;545;545; -     ;409; -     ;132;4; -     
+           Hijo/a;883;883; -     ;470;148;260;5; -     
+           Hijastro/a;18;18; -     ;11; -     ;7; -     ; -     
+           Nieto/a;85;85; -     ; -     ; -     ;85; -     ; -     
+           Yerno o Nuera;45;45; -     ; -     ; -     ;45; -     ; -     
+           Padre/Madre del Jefe/a;8;8; -     ; -     ; -     ;8; -     ; -     
+           Suegro/a;4;4; -     ; -     ; -     ;4; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);66;66; -     ; -     ; -     ;59;7; -     
+           No pariente;15;11; -     ; -     ; -     ; -     ;11;4
+      Total con jefes varones ;1.301;1.300;93;665;119;403;20;1
+           Jefe;563;563;93;303;32;131;4; -     
+           Esposo/a o companero/a;118;118; -     ;99; -     ;17;2; -     
+           Hijo/a;475;475; -     ;258;87;127;3; -     
+           Hijastro/a;12;12; -     ;5; -     ;7; -     ; -     
+           Nieto/a;48;48; -     ; -     ; -     ;48; -     ; -     
+           Yerno o Nuera;35;35; -     ; -     ; -     ;35; -     ; -     
+           Padre/Madre del Jefe/a;3;3; -     ; -     ; -     ;3; -     ; -     
+           Suegro/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);36;36; -     ; -     ; -     ;34;2; -     
+           No pariente;10;9; -     ; -     ; -     ; -     ;9;1
+      Total con jefas mujeres  ;1.219;1.216;50;636;151;364;15;3
+           Jefa;288;288;50;108;90;36;4; -     
+           Esposo/a o companero/a;427;427; -     ;310; -     ;115;2; -     
+           Hijo/a;408;408; -     ;212;61;133;2; -     
+           Hijastro/a;6;6; -     ;6; -     ; -     ; -     ; -     
+           Nieto/a;37;37; -     ; -     ; -     ;37; -     ; -     
+           Yerno o Nuera;10;10; -     ; -     ; -     ;10; -     ; -     
+           Padre/Madre del Jefe/a;5;5; -     ; -     ; -     ;5; -     ; -     
+           Suegro/a;3;3; -     ; -     ; -     ;3; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);30;30; -     ; -     ; -     ;25;5; -     
+           No pariente;5;2; -     ; -     ; -     ; -     ;2;3
+      Poblacion en viviendas colectivas ;4; -   ; -   ; -   ; -   ; -   ; -   ;4
+           Varon;1; -   ; -   ; -   ; -   ; -   ; -   ;1
+           Mujer;3; -   ; -   ; -   ; -   ; -   ; -   ;3
+Ybytoso ;2.236;2.236;101;1.064;281;754;36;0
+           Jefe o jefa;653;653;101;291;101;153;7; -     
+           Esposo/a o companero/a;371;371; -     ;281; -     ;85;5; -     
+           Hijo/a;944;944; -     ;487;180;266;11; -     
+           Hijastro/a;6;6; -     ;5; -     ;1; -     ; -     
+           Nieto/a;140;140; -     ; -     ; -     ;140; -     ; -     
+           Yerno o Nuera;25;25; -     ; -     ; -     ;25; -     ; -     
+           Padre/Madre del Jefe/a;6;6; -     ; -     ; -     ;5;1; -     
+           Suegro/a;5;5; -     ; -     ; -     ;5; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);77;77; -     ; -     ; -     ;74;3; -     
+           No pariente;9;9; -     ; -     ; -     ; -     ;9; -     
+      Total con jefes varones ;1.135;1.135;66;549;116;378;26;0
+           Jefe;318;318;66;163;15;69;5; -     
+           Esposo/a o companero/a;154;154; -     ;120; -     ;32;2; -     
+           Hijo/a;522;522; -     ;263;101;151;7; -     
+           Hijastro/a;4;4; -     ;3; -     ;1; -     ; -     
+           Nieto/a;69;69; -     ; -     ; -     ;69; -     ; -     
+           Yerno o Nuera;10;10; -     ; -     ; -     ;10; -     ; -     
+           Padre/Madre del Jefe/a;4;4; -     ; -     ; -     ;3;1; -     
+           Suegro/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);44;44; -     ; -     ; -     ;42;2; -     
+           No pariente;9;9; -     ; -     ; -     ; -     ;9; -     
+      Total con jefas mujeres  ;1.101;1.101;35;515;165;376;10;0
+           Jefa;335;335;35;128;86;84;2; -     
+           Esposo/a o companero/a;217;217; -     ;161; -     ;53;3; -     
+           Hijo/a;422;422; -     ;224;79;115;4; -     
+           Hijastro/a;2;2; -     ;2; -     ; -     ; -     ; -     
+           Nieto/a;71;71; -     ; -     ; -     ;71; -     ; -     
+           Yerno o Nuera;15;15; -     ; -     ; -     ;15; -     ; -     
+           Padre/Madre del Jefe/a;2;2; -     ; -     ; -     ;2; -     ; -     
+           Suegro/a;4;4; -     ; -     ; -     ;4; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);33;33; -     ; -     ; -     ;32;1; -     
+           No pariente; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+Tomaraho ;213;213;8;127;44;34;0;0
+           Jefe o jefa;63;63;8;31;14;10; -     ; -     
+           Esposo/a o companero/a;33;33; -     ;31; -     ;2; -     ; -     
+           Hijo/a;102;102; -     ;64;30;8; -     ; -     
+           Hijastro/a;1;1; -     ;1; -     ; -     ; -     ; -     
+           Nieto/a;10;10; -     ; -     ; -     ;10; -     ; -     
+           Yerno o Nuera; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Padre/Madre del Jefe/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Suegro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);3;3; -     ; -     ; -     ;3; -     ; -     
+           No pariente; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+      Total con jefes varones ;110;110;7;67;17;19;0;0
+           Jefe;23;23;7;9;2;5; -     ; -     
+           Esposo/a o companero/a;22;22; -     ;22; -     ; -     ; -     ; -     
+           Hijo/a;55;55; -     ;35;15;5; -     ; -     
+           Hijastro/a;1;1; -     ;1; -     ; -     ; -     ; -     
+           Nieto/a;6;6; -     ; -     ; -     ;6; -     ; -     
+           Yerno o Nuera; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Padre/Madre del Jefe/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Suegro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);3;3; -     ; -     ; -     ;3; -     ; -     
+           No pariente; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+      Total con jefas mujeres  ;103;103;1;60;27;15;0;0
+           Jefa;40;40;1;22;12;5; -     ; -     
+           Esposo/a o companero/a;11;11; -     ;9; -     ;2; -     ; -     
+           Hijo/a;47;47; -     ;29;15;3; -     ; -     
+           Hijastro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Nieto/a;4;4; -     ; -     ; -     ;4; -     ; -     
+           Yerno o Nuera; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Padre/Madre del Jefe/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Suegro/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a); -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           No pariente; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+Qom ;2.198;2.198;97;1.090;449;530;32;0
+           Jefe o jefa;677;677;97;285;160;128;7; -     
+           Esposo/a o companero/a;315;315; -     ;262; -     ;52;1; -     
+           Hijo/a;1.025;1.025; -     ;537;289;183;16; -     
+           Hijastro/a;9;9; -     ;6; -     ;3; -     ; -     
+           Nieto/a;101;101; -     ; -     ; -     ;101; -     ; -     
+           Yerno o Nuera;11;11; -     ; -     ; -     ;11; -     ; -     
+           Padre/Madre del Jefe/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Suegro/a;2;2; -     ; -     ; -     ;1;1; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);52;52; -     ; -     ; -     ;50;2; -     
+           No pariente;5;5; -     ; -     ; -     ; -     ;5; -     
+      Total con jefes varones ;1.101;1.101;71;568;175;268;19;0
+           Jefe;265;265;71;122;17;50;5; -     
+           Esposo/a o companero/a;167;167; -     ;138; -     ;29; -     ; -     
+           Hijo/a;571;571; -     ;304;158;101;8; -     
+           Hijastro/a;5;5; -     ;4; -     ;1; -     ; -     
+           Nieto/a;44;44; -     ; -     ; -     ;44; -     ; -     
+           Yerno o Nuera;6;6; -     ; -     ; -     ;6; -     ; -     
+           Padre/Madre del Jefe/a; -     ; -     ; -     ; -     ; -     ; -     ; -     ; -     
+           Suegro/a;1;1; -     ; -     ; -     ; -     ;1; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);39;39; -     ; -     ; -     ;37;2; -     
+           No pariente;3;3; -     ; -     ; -     ; -     ;3; -     
+      Total con jefas mujeres  ;1.097;1.097;26;522;274;262;13;0
+           Jefa;412;412;26;163;143;78;2; -     
+           Esposo/a o companero/a;148;148; -     ;124; -     ;23;1; -     
+           Hijo/a;454;454; -     ;233;131;82;8; -     
+           Hijastro/a;4;4; -     ;2; -     ;2; -     ; -     
+           Nieto/a;57;57; -     ; -     ; -     ;57; -     ; -     
+           Yerno o Nuera;5;5; -     ; -     ; -     ;5; -     ; -     
+           Padre/Madre del Jefe/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Suegro/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);13;13; -     ; -     ; -     ;13; -     ; -     
+           No pariente;2;2; -     ; -     ; -     ; -     ;2; -     
+No indigena ;1.245;1.206;67;809;49;220;61;39
+           Jefe o jefa;356;356;67;237;17;30;5; -     
+           Esposo/a o companero/a;514;514; -     ;427; -     ;82;5; -     
+           Hijo/a;182;182; -     ;132;32;17;1; -     
+           Hijastro/a;17;17; -     ;13; -     ;2;2; -     
+           Nieto/a;16;16; -     ; -     ; -     ;14;2; -     
+           Yerno o Nuera;41;41; -     ; -     ; -     ;40;1; -     
+           Padre/Madre del Jefe/a;3;3; -     ; -     ; -     ;3; -     ; -     
+           Suegro/a;7;7; -     ; -     ; -     ;7; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);25;25; -     ; -     ; -     ;25; -     ; -     
+           No pariente;84;45; -     ; -     ; -     ; -     ;45;39
+      Total con jefes varones ;896;872;49;600;28;164;31;24
+           Jefe;289;289;49;210;5;24;1; -     
+           Esposo/a o companero/a;381;381; -     ;314; -     ;64;3; -     
+           Hijo/a;95;95; -     ;66;23;6; -     ; -     
+           Hijastro/a;14;14; -     ;10; -     ;2;2; -     
+           Nieto/a;13;13; -     ; -     ; -     ;11;2; -     
+           Yerno o Nuera;34;34; -     ; -     ; -     ;33;1; -     
+           Padre/Madre del Jefe/a;2;2; -     ; -     ; -     ;2; -     ; -     
+           Suegro/a;4;4; -     ; -     ; -     ;4; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);18;18; -     ; -     ; -     ;18; -     ; -     
+           No pariente;46;22; -     ; -     ; -     ; -     ;22;24
+      Total con jefas mujeres  ;349;334;18;209;21;56;30;15
+           Jefa;67;67;18;27;12;6;4; -     
+           Esposo/a o companero/a;133;133; -     ;113; -     ;18;2; -     
+           Hijo/a;87;87; -     ;66;9;11;1; -     
+           Hijastro/a;3;3; -     ;3; -     ; -     ; -     ; -     
+           Nieto/a;3;3; -     ; -     ; -     ;3; -     ; -     
+           Yerno o Nuera;7;7; -     ; -     ; -     ;7; -     ; -     
+           Padre/Madre del Jefe/a;1;1; -     ; -     ; -     ;1; -     ; -     
+           Suegro/a;3;3; -     ; -     ; -     ;3; -     ; -     
+           Otro pariente (hermano/a, primo/a, tio/a, cunado/a);7;7; -     ; -     ; -     ;7; -     ; -     
+           No pariente;38;23; -     ; -     ; -     ; -     ;23;15
+      Poblacion en viviendas colectivas ;39; -   ; -   ; -   ; -   ; -   ; -   ;39
+           Varon;24; -   ; -   ; -   ; -   ; -   ; -   ;24
+           Mujer;15; -   ; -   ; -   ; -   ; -   ; -   ;15

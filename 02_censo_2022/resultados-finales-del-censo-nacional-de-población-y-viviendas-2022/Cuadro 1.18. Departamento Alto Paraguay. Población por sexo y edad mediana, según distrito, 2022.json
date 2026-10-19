@@ -1,0 +1,37 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 17.195,
+    "Sexo - Hombres": 9.197,
+    "Sexo - Mujeres": 7.998,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Fuerte Olimpo",
+    "Total": 4.586,
+    "Sexo - Hombres": 2.39,
+    "Sexo - Mujeres": 2.196,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Puerto Casado",
+    "Total": 5.439,
+    "Sexo - Hombres": 2.921,
+    "Sexo - Mujeres": 2.518,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Bahia Negra",
+    "Total": 2.768,
+    "Sexo - Hombres": 1.59,
+    "Sexo - Mujeres": 1.178,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Carmelo Peralta",
+    "Total": 4.402,
+    "Sexo - Hombres": 2.296,
+    "Sexo - Mujeres": 2.106,
+    "Edad mediana": 25
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "Departamento y grupos de edad": "Total Pais",
+    "Total": "6.109.903",
+    "Area Urbana": "4.215.101",
+    "Area Rural": "1.894.802"
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": "1.529.030",
+    "Area Urbana": "1.008.300",
+    "Area Rural": 520.73
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": "4.057.213",
+    "Area Urbana": "2.861.356",
+    "Area Rural": "1.195.857"
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 523.66,
+    "Area Urbana": 345.445,
+    "Area Rural": 178.215
+  },
+  {
+    "Departamento y grupos de edad": "Asuncion",
+    "Total": 462.241,
+    "Area Urbana": 462.241,
+    "Area Rural": "-"
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 88.629,
+    "Area Urbana": 88.629,
+    "Area Rural": "-"
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 317.525,
+    "Area Urbana": 317.525,
+    "Area Rural": "-"
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 56.087,
+    "Area Urbana": 56.087,
+    "Area Rural": "-"
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Concepcion",
+    "Total": 206.181,
+    "Area Urbana": 111.606,
+    "Area Rural": 94.575
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 59.072,
+    "Area Urbana": 30.988,
+    "Area Rural": 28.084
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 129.657,
+    "Area Urbana": 72.068,
+    "Area Rural": 57.589
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 17.452,
+    "Area Urbana": 8.55,
+    "Area Rural": 8.902
+  },
+  {
+    "Departamento y grupos de edad": "Departamento San Pedro",
+    "Total": 355.175,
+    "Area Urbana": 90.187,
+    "Area Rural": 264.988
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 100.267,
+    "Area Urbana": 23.528,
+    "Area Rural": 76.739
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 223.898,
+    "Area Urbana": 59.08,
+    "Area Rural": 164.818
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 31.01,
+    "Area Urbana": 7.579,
+    "Area Rural": 23.431
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Cordillera",
+    "Total": 268.037,
+    "Area Urbana": 108.382,
+    "Area Rural": 159.655
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 63.187,
+    "Area Urbana": 24.692,
+    "Area Rural": 38.495
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 176.105,
+    "Area Urbana": 72.766,
+    "Area Rural": 103.339
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 28.745,
+    "Area Urbana": 10.924,
+    "Area Rural": 17.821
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Guaira",
+    "Total": 179.555,
+    "Area Urbana": 77.053,
+    "Area Rural": 102.502
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 42.695,
+    "Area Urbana": 16.535,
+    "Area Rural": 26.16
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 117.484,
+    "Area Urbana": 52.26,
+    "Area Rural": 65.224
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 19.376,
+    "Area Urbana": 8.258,
+    "Area Rural": 11.118
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Caaguazu",
+    "Total": 431.519,
+    "Area Urbana": 190.506,
+    "Area Rural": 241.013
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 117.387,
+    "Area Urbana": 49.276,
+    "Area Rural": 68.111
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 275.82,
+    "Area Urbana": 125.793,
+    "Area Rural": 150.027
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 38.312,
+    "Area Urbana": 15.437,
+    "Area Rural": 22.875
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Caazapa",
+    "Total": 139.479,
+    "Area Urbana": 33.219,
+    "Area Rural": 106.26
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 38.589,
+    "Area Urbana": 8.524,
+    "Area Rural": 30.065
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 86.568,
+    "Area Urbana": 21.454,
+    "Area Rural": 65.114
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 14.322,
+    "Area Urbana": 3.241,
+    "Area Rural": 11.081
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Itapua",
+    "Total": 449.642,
+    "Area Urbana": 226.887,
+    "Area Rural": 222.755
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 113.778,
+    "Area Urbana": 54.477,
+    "Area Rural": 59.301
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 295.452,
+    "Area Urbana": 153.881,
+    "Area Rural": 141.571
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 40.412,
+    "Area Urbana": 18.529,
+    "Area Rural": 21.883
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Misiones",
+    "Total": 111.142,
+    "Area Urbana": 67.42,
+    "Area Rural": 43.722
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 26.323,
+    "Area Urbana": 16.065,
+    "Area Rural": 10.258
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 72.764,
+    "Area Urbana": 44.712,
+    "Area Rural": 28.052
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 12.055,
+    "Area Urbana": 6.643,
+    "Area Rural": 5.412
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Paraguari",
+    "Total": 200.472,
+    "Area Urbana": 73.32,
+    "Area Rural": 127.152
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 45.591,
+    "Area Urbana": 17.151,
+    "Area Rural": 28.44
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 128.27,
+    "Area Urbana": 47.914,
+    "Area Rural": 80.356
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 26.611,
+    "Area Urbana": 8.255,
+    "Area Rural": 18.356
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Alto Parana",
+    "Total": 763.702,
+    "Area Urbana": 621.636,
+    "Area Rural": 142.066
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 202.551,
+    "Area Urbana": 159.87,
+    "Area Rural": 42.681
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 515.015,
+    "Area Urbana": 425.341,
+    "Area Rural": 89.674
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 46.136,
+    "Area Urbana": 36.425,
+    "Area Rural": 9.711
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Central",
+    "Total": "1.883.927",
+    "Area Urbana": "1.782.097",
+    "Area Rural": 101.83
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 446.973,
+    "Area Urbana": 420.567,
+    "Area Rural": 26.406
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": "1.289.874",
+    "Area Urbana": "1.222.878",
+    "Area Rural": 66.996
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 147.08,
+    "Area Urbana": 138.652,
+    "Area Rural": 8.428
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Neembucu",
+    "Total": 76.719,
+    "Area Urbana": 52.031,
+    "Area Rural": 24.688
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 15.642,
+    "Area Urbana": 11.227,
+    "Area Rural": 4.415
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 50.391,
+    "Area Urbana": 34.622,
+    "Area Rural": 15.769
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 10.686,
+    "Area Urbana": 6.182,
+    "Area Rural": 4.504
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Amambay",
+    "Total": 179.412,
+    "Area Urbana": 139.019,
+    "Area Rural": 40.393
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 50.785,
+    "Area Urbana": 37.271,
+    "Area Rural": 13.514
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 116.818,
+    "Area Urbana": 92.326,
+    "Area Rural": 24.492
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 11.809,
+    "Area Urbana": 9.422,
+    "Area Rural": 2.387
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Canindeyu",
+    "Total": 191.114,
+    "Area Urbana": 73.898,
+    "Area Rural": 117.216
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 57.655,
+    "Area Urbana": 20.142,
+    "Area Rural": 37.513
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 123.418,
+    "Area Urbana": 50.081,
+    "Area Rural": 73.337
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 10.041,
+    "Area Urbana": 3.675,
+    "Area Rural": 6.366
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Presidente Hayes",
+    "Total": 123.313,
+    "Area Urbana": 60.337,
+    "Area Rural": 62.976
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 34.384,
+    "Area Urbana": 16.712,
+    "Area Rural": 17.672
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 80.514,
+    "Area Urbana": 39.116,
+    "Area Rural": 41.398
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 8.415,
+    "Area Urbana": 4.509,
+    "Area Rural": 3.906
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Boqueron",
+    "Total": 71.078,
+    "Area Urbana": 36.54,
+    "Area Rural": 34.538
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 20.275,
+    "Area Urbana": 10.015,
+    "Area Rural": 10.26
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 46.82,
+    "Area Urbana": 24.121,
+    "Area Rural": 22.699
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 3.983,
+    "Area Urbana": 2.404,
+    "Area Rural": 1.579
+  },
+  {
+    "Departamento y grupos de edad": "Departamento Alto Paraguay",
+    "Total": 17.195,
+    "Area Urbana": 8.722,
+    "Area Rural": 8.473
+  },
+  {
+    "Departamento y grupos de edad": "De 0 - 14 anos",
+    "Total": 5.247,
+    "Area Urbana": 2.631,
+    "Area Rural": 2.616
+  },
+  {
+    "Departamento y grupos de edad": "De 15 - 64 anos",
+    "Total": 10.82,
+    "Area Urbana": 5.418,
+    "Area Rural": 5.402
+  },
+  {
+    "Departamento y grupos de edad": "De 65 anos y mas",
+    "Total": 1.128,
+    "Area Urbana": 673,
+    "Area Rural": 455
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 34.786,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 18.538,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 29.501,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 11.497,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 42.451,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 14.178,
+    "Viviendas con tenencia de bienes de confort - Microondas": 11.755,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 23.049
+  },
+  {
+    "Distrito": "Concepcion",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 12.577,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 7.065,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 11.627,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 4.816,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 15.448,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 6.34,
+    "Viviendas con tenencia de bienes de confort - Microondas": 6.219,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 10.883
+  },
+  {
+    "Distrito": "Belen",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 1.782,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 847,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 1.557,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 571,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 2.273,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 563,
+    "Viviendas con tenencia de bienes de confort - Microondas": 397,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 926
+  },
+  {
+    "Distrito": "Horqueta",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 6.617,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 3.362,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 5.89,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 2.29,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 8.351,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 2.546,
+    "Viviendas con tenencia de bienes de confort - Microondas": 1.831,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 3.892
+  },
+  {
+    "Distrito": "Loreto",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 2.415,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 988,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 1.862,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 683,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 2.848,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 684,
+    "Viviendas con tenencia de bienes de confort - Microondas": 438,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 1.07
+  },
+  {
+    "Distrito": "San Carlos del Apa",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 175,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 116,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 171,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 34,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 195,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 73,
+    "Viviendas con tenencia de bienes de confort - Microondas": 45,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 145
+  },
+  {
+    "Distrito": "San Lazaro",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 1.797,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 767,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 1.513,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 635,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 2.32,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 800,
+    "Viviendas con tenencia de bienes de confort - Microondas": 754,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 1.618
+  },
+  {
+    "Distrito": "Yby Yau",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 3.327,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 2.366,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 2.782,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 1.078,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 3.727,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 1.369,
+    "Viviendas con tenencia de bienes de confort - Microondas": 903,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 1.967
+  },
+  {
+    "Distrito": "Azotey",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 1.075,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 525,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 883,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 301,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 1.202,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 385,
+    "Viviendas con tenencia de bienes de confort - Microondas": 282,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 465
+  },
+  {
+    "Distrito": "Sargento Jose Felix Lopez",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 918,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 583,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 582,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 194,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 1.197,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 244,
+    "Viviendas con tenencia de bienes de confort - Microondas": 158,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 306
+  },
+  {
+    "Distrito": "San Alfredo",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 448,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 258,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 271,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 104,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 531,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 165,
+    "Viviendas con tenencia de bienes de confort - Microondas": 100,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 220
+  },
+  {
+    "Distrito": "Paso Barreto",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 606,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 352,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 421,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 145,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 778,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 175,
+    "Viviendas con tenencia de bienes de confort - Microondas": 125,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 331
+  },
+  {
+    "Distrito": "Arroyito",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 1.46,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 684,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 1.077,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 341,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 1.669,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 380,
+    "Viviendas con tenencia de bienes de confort - Microondas": 239,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 503
+  },
+  {
+    "Distrito": "Paso Horqueta",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 1.209,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 462,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 726,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 227,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 1.534,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 369,
+    "Viviendas con tenencia de bienes de confort - Microondas": 147,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 538
+  },
+  {
+    "Distrito": "Itacua",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 380,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 163,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 139,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 78,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 378,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 85,
+    "Viviendas con tenencia de bienes de confort - Microondas": 117,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 185
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 26.468,
+    "Tipo de vivienda - Casa": 23.452,
+    "Tipo de vivienda - Rancho": 2.069,
+    "Tipo de vivienda - Departamento o piso": 76,
+    "Tipo de vivienda - Pieza de inquilinato": 693,
+    "Tipo de vivienda - Improvisada": 105,
+    "Tipo de vivienda - Otro": 73
+  },
+  {
+    "Distrito": "Pilar",
+    "Total": 11.609,
+    "Tipo de vivienda - Casa": 10.745,
+    "Tipo de vivienda - Rancho": 166,
+    "Tipo de vivienda - Departamento o piso": 70,
+    "Tipo de vivienda - Pieza de inquilinato": 556,
+    "Tipo de vivienda - Improvisada": 32,
+    "Tipo de vivienda - Otro": 40
+  },
+  {
+    "Distrito": "Alberdi",
+    "Total": 2.309,
+    "Tipo de vivienda - Casa": 1.997,
+    "Tipo de vivienda - Rancho": 172,
+    "Tipo de vivienda - Departamento o piso": 4,
+    "Tipo de vivienda - Pieza de inquilinato": 86,
+    "Tipo de vivienda - Improvisada": 40,
+    "Tipo de vivienda - Otro": 10
+  },
+  {
+    "Distrito": "Cerrito",
+    "Total": 1.568,
+    "Tipo de vivienda - Casa": 1.195,
+    "Tipo de vivienda - Rancho": 368,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 3,
+    "Tipo de vivienda - Improvisada": 1,
+    "Tipo de vivienda - Otro": 1
+  },
+  {
+    "Distrito": "Desmochados",
+    "Total": 461,
+    "Tipo de vivienda - Casa": 426,
+    "Tipo de vivienda - Rancho": 33,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 1,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": 1
+  },
+  {
+    "Distrito": "Gral. Jose Eduvigis Diaz",
+    "Total": 1.185,
+    "Tipo de vivienda - Casa": 1.127,
+    "Tipo de vivienda - Rancho": 52,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 6,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": "-"
+  },
+  {
+    "Distrito": "Guazu-Cua",
+    "Total": 526,
+    "Tipo de vivienda - Casa": 440,
+    "Tipo de vivienda - Rancho": 85,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 1,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": "-"
+  },
+  {
+    "Distrito": "Humaita",
+    "Total": 949,
+    "Tipo de vivienda - Casa": 842,
+    "Tipo de vivienda - Rancho": 96,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 4,
+    "Tipo de vivienda - Improvisada": 5,
+    "Tipo de vivienda - Otro": 2
+  },
+  {
+    "Distrito": "Isla Umbu",
+    "Total": 883,
+    "Tipo de vivienda - Casa": 822,
+    "Tipo de vivienda - Rancho": 60,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 1,
+    "Tipo de vivienda - Improvisada": "-",
+    "Tipo de vivienda - Otro": "-"
+  },
+  {
+    "Distrito": "Laureles",
+    "Total": 874,
+    "Tipo de vivienda - Casa": 736,
+    "Tipo de vivienda - Rancho": 132,
+    "Tipo de vivienda - Departamento o piso": 2,
+    "Tipo de vivienda - Pieza de inquilinato": 3,
+    "Tipo de vivienda - Improvisada": 1,
+    "Tipo de vivienda - Otro": "-"
+  },
+  {
+    "Distrito": "Mayor Jose Dejesus Martinez",
+    "Total": 1.152,
+    "Tipo de vivienda - Casa": 1.012,
+    "Tipo de vivienda - Rancho": 123,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 11,
+    "Tipo de vivienda - Improvisada": 2,
+    "Tipo de vivienda - Otro": 4
+  },
+  {
+    "Distrito": "Paso de Patria",
+    "Total": 644,
+    "Tipo de vivienda - Casa": 597,
+    "Tipo de vivienda - Rancho": 43,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 1,
+    "Tipo de vivienda - Improvisada": 2,
+    "Tipo de vivienda - Otro": 1
+  },
+  {
+    "Distrito": "San Juan Bautista de Neembucu",
+    "Total": 1.378,
+    "Tipo de vivienda - Casa": 1.151,
+    "Tipo de vivienda - Rancho": 209,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 8,
+    "Tipo de vivienda - Improvisada": 2,
+    "Tipo de vivienda - Otro": 8
+  },
+  {
+    "Distrito": "Tacuaras",
+    "Total": 922,
+    "Tipo de vivienda - Casa": 763,
+    "Tipo de vivienda - Rancho": 149,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 5,
+    "Tipo de vivienda - Improvisada": 3,
+    "Tipo de vivienda - Otro": 2
+  },
+  {
+    "Distrito": "Villa Franca",
+    "Total": 336,
+    "Tipo de vivienda - Casa": 285,
+    "Tipo de vivienda - Rancho": 42,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 1,
+    "Tipo de vivienda - Improvisada": 7,
+    "Tipo de vivienda - Otro": 1
+  },
+  {
+    "Distrito": "Villa Oliva",
+    "Total": 1.044,
+    "Tipo de vivienda - Casa": 753,
+    "Tipo de vivienda - Rancho": 276,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 5,
+    "Tipo de vivienda - Improvisada": 7,
+    "Tipo de vivienda - Otro": 3
+  },
+  {
+    "Distrito": "Villalbin",
+    "Total": 628,
+    "Tipo de vivienda - Casa": 561,
+    "Tipo de vivienda - Rancho": 63,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 1,
+    "Tipo de vivienda - Improvisada": 3,
+    "Tipo de vivienda - Otro": "-"
+  }
+]

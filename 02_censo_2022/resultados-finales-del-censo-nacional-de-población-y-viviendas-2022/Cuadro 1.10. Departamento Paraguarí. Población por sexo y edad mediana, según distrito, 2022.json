@@ -1,0 +1,135 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 200.472,
+    "Sexo - Hombres": 100.725,
+    "Sexo - Mujeres": 99.747,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Paraguari",
+    "Total": 20.678,
+    "Sexo - Hombres": 9.972,
+    "Sexo - Mujeres": 10.706,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Acahay",
+    "Total": 12.646,
+    "Sexo - Hombres": 6.503,
+    "Sexo - Mujeres": 6.143,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Caapucu",
+    "Total": 6.045,
+    "Sexo - Hombres": 3.098,
+    "Sexo - Mujeres": 2.947,
+    "Edad mediana": 34
+  },
+  {
+    "Distrito": "Caballero",
+    "Total": 4.795,
+    "Sexo - Hombres": 2.485,
+    "Sexo - Mujeres": 2.31,
+    "Edad mediana": 37
+  },
+  {
+    "Distrito": "Carapegua",
+    "Total": 29.351,
+    "Sexo - Hombres": 14.676,
+    "Sexo - Mujeres": 14.675,
+    "Edad mediana": 35
+  },
+  {
+    "Distrito": "Escobar",
+    "Total": 4.747,
+    "Sexo - Hombres": 2.405,
+    "Sexo - Mujeres": 2.342,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "La Colmena",
+    "Total": 5.254,
+    "Sexo - Hombres": 2.639,
+    "Sexo - Mujeres": 2.615,
+    "Edad mediana": 34
+  },
+  {
+    "Distrito": "Mbuyapey",
+    "Total": 6.838,
+    "Sexo - Hombres": 3.484,
+    "Sexo - Mujeres": 3.354,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Pirayu",
+    "Total": 17.419,
+    "Sexo - Hombres": 8.786,
+    "Sexo - Mujeres": 8.633,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Quiindy",
+    "Total": 14.488,
+    "Sexo - Hombres": 7.267,
+    "Sexo - Mujeres": 7.221,
+    "Edad mediana": 35
+  },
+  {
+    "Distrito": "Quyquyho",
+    "Total": 4.589,
+    "Sexo - Hombres": 2.31,
+    "Sexo - Mujeres": 2.279,
+    "Edad mediana": 38
+  },
+  {
+    "Distrito": "Roque Gonzalez de Santa Cruz",
+    "Total": 9.637,
+    "Sexo - Hombres": 4.949,
+    "Sexo - Mujeres": 4.688,
+    "Edad mediana": 34
+  },
+  {
+    "Distrito": "Sapucai",
+    "Total": 5.218,
+    "Sexo - Hombres": 2.642,
+    "Sexo - Mujeres": 2.576,
+    "Edad mediana": 35
+  },
+  {
+    "Distrito": "Tebicuary-mi",
+    "Total": 3.225,
+    "Sexo - Hombres": 1.696,
+    "Sexo - Mujeres": 1.529,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Yaguaron",
+    "Total": 29.242,
+    "Sexo - Hombres": 14.585,
+    "Sexo - Mujeres": 14.657,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Ybycui",
+    "Total": 17.972,
+    "Sexo - Hombres": 8.91,
+    "Sexo - Mujeres": 9.062,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Ybytymi",
+    "Total": 5.36,
+    "Sexo - Hombres": 2.827,
+    "Sexo - Mujeres": 2.533,
+    "Edad mediana": 35
+  },
+  {
+    "Distrito": "Maria Antonia",
+    "Total": 2.968,
+    "Sexo - Hombres": 1.491,
+    "Sexo - Mujeres": 1.477,
+    "Edad mediana": 33
+  }
+]

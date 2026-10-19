@@ -1,0 +1,163 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 355.175,
+    "Sexo - Hombres": 180.765,
+    "Sexo - Mujeres": 174.41,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "San Pedro del Ycuamandyyu",
+    "Total": 32.267,
+    "Sexo - Hombres": 16.504,
+    "Sexo - Mujeres": 15.763,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Antequera",
+    "Total": 4.25,
+    "Sexo - Hombres": 2.156,
+    "Sexo - Mujeres": 2.094,
+    "Edad mediana": 25
+  },
+  {
+    "Distrito": "Chore",
+    "Total": 23.548,
+    "Sexo - Hombres": 11.957,
+    "Sexo - Mujeres": 11.591,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "General Elizardo Aquino",
+    "Total": 16.971,
+    "Sexo - Hombres": 8.757,
+    "Sexo - Mujeres": 8.214,
+    "Edad mediana": 34
+  },
+  {
+    "Distrito": "Itacurubi del Rosario",
+    "Total": 10.507,
+    "Sexo - Hombres": 5.356,
+    "Sexo - Mujeres": 5.151,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Lima",
+    "Total": 10.303,
+    "Sexo - Hombres": 5.276,
+    "Sexo - Mujeres": 5.027,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Nueva Germania",
+    "Total": 5.69,
+    "Sexo - Hombres": 2.974,
+    "Sexo - Mujeres": 2.716,
+    "Edad mediana": 25
+  },
+  {
+    "Distrito": "San Estanislao",
+    "Total": 46.405,
+    "Sexo - Hombres": 23.193,
+    "Sexo - Mujeres": 23.212,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "San Pablo",
+    "Total": 3.415,
+    "Sexo - Hombres": 1.803,
+    "Sexo - Mujeres": 1.612,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Tacuati",
+    "Total": 13.847,
+    "Sexo - Hombres": 7.009,
+    "Sexo - Mujeres": 6.838,
+    "Edad mediana": 23
+  },
+  {
+    "Distrito": "Union",
+    "Total": 5.032,
+    "Sexo - Hombres": 2.62,
+    "Sexo - Mujeres": 2.412,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "25 de Diciembre",
+    "Total": 8.703,
+    "Sexo - Hombres": 4.466,
+    "Sexo - Mujeres": 4.237,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Villa del Rosario",
+    "Total": 8.617,
+    "Sexo - Hombres": 4.348,
+    "Sexo - Mujeres": 4.269,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "General Francisco Isidoro Resquin",
+    "Total": 10.019,
+    "Sexo - Hombres": 5.062,
+    "Sexo - Mujeres": 4.957,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Yataity del Norte",
+    "Total": 10.113,
+    "Sexo - Hombres": 5.133,
+    "Sexo - Mujeres": 4.98,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Guajayvi",
+    "Total": 28.214,
+    "Sexo - Hombres": 14.36,
+    "Sexo - Mujeres": 13.854,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Capiibary",
+    "Total": 30.57,
+    "Sexo - Hombres": 15.694,
+    "Sexo - Mujeres": 14.876,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Santa Rosa del Aguaray",
+    "Total": 39.643,
+    "Sexo - Hombres": 19.934,
+    "Sexo - Mujeres": 19.709,
+    "Edad mediana": 24
+  },
+  {
+    "Distrito": "Yrybucua",
+    "Total": 12.271,
+    "Sexo - Hombres": 6.344,
+    "Sexo - Mujeres": 5.927,
+    "Edad mediana": 25
+  },
+  {
+    "Distrito": "Liberacion",
+    "Total": 19.1,
+    "Sexo - Hombres": 9.697,
+    "Sexo - Mujeres": 9.403,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "San Vicente Pancholo",
+    "Total": 11.571,
+    "Sexo - Hombres": 5.993,
+    "Sexo - Mujeres": 5.578,
+    "Edad mediana": 25
+  },
+  {
+    "Distrito": "San Jose del Rosario",
+    "Total": 4.119,
+    "Sexo - Hombres": 2.129,
+    "Sexo - Mujeres": 1.99,
+    "Edad mediana": 31
+  }
+]

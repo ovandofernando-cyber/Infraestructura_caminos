@@ -1,0 +1,37 @@
+[
+  {
+    "Tipo de vivienda": "Total",
+    "Ano censal 1992": 855.547,
+    "Ano censal 2002": "1.098.005",
+    "Ano censal 2012": "1.223.165",
+    "Ano censal 2022": "1.749.336"
+  },
+  {
+    "Tipo de vivienda": "Casa o rancho",
+    "Ano censal 1992": 817.137,
+    "Ano censal 2002": "1.041.095",
+    "Ano censal 2012": "1.173.210",
+    "Ano censal 2022": "1.621.209"
+  },
+  {
+    "Tipo de vivienda": "Departamento o piso",
+    "Ano censal 1992": 7.997,
+    "Ano censal 2002": 18.47,
+    "Ano censal 2012": 19.567,
+    "Ano censal 2022": 44.145
+  },
+  {
+    "Tipo de vivienda": "Pieza de inquilinato",
+    "Ano censal 1992": 22.735,
+    "Ano censal 2002": 32.393,
+    "Ano censal 2012": 25.797,
+    "Ano censal 2022": 68.402
+  },
+  {
+    "Tipo de vivienda": "Otra particular (*)",
+    "Ano censal 1992": 7.678,
+    "Ano censal 2002": 6.047,
+    "Ano censal 2012": 4.591,
+    "Ano censal 2022": 15.58
+  }
+]

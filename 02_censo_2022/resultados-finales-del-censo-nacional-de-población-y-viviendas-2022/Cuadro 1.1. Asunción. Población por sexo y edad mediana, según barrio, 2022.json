@@ -1,0 +1,478 @@
+[
+  {
+    "Barrio": "Total",
+    "Total": 462.241,
+    "Sexo - Hombres": 221.222,
+    "Sexo - Mujeres": 241.019,
+    "Edad mediana": 33
+  },
+  {
+    "Barrio": "Sajonia",
+    "Total": 2.097,
+    "Sexo - Hombres": 1.045,
+    "Sexo - Mujeres": 1.052,
+    "Edad mediana": 33
+  },
+  {
+    "Barrio": "San Antonio",
+    "Total": 9.146,
+    "Sexo - Hombres": 4.225,
+    "Sexo - Mujeres": 4.921,
+    "Edad mediana": 35
+  },
+  {
+    "Barrio": "Dr. Gaspar Rodriguez de Francia",
+    "Total": 8.903,
+    "Sexo - Hombres": 4.282,
+    "Sexo - Mujeres": 4.621,
+    "Edad mediana": 33
+  },
+  {
+    "Barrio": "Ita Pyt� Punta",
+    "Total": 2.708,
+    "Sexo - Hombres": 1.255,
+    "Sexo - Mujeres": 1.453,
+    "Edad mediana": 35
+  },
+  {
+    "Barrio": "La Encarnacion",
+    "Total": 3.712,
+    "Sexo - Hombres": 1.721,
+    "Sexo - Mujeres": 1.991,
+    "Edad mediana": 35
+  },
+  {
+    "Barrio": "Tacumbu",
+    "Total": 19.461,
+    "Sexo - Hombres": 9.489,
+    "Sexo - Mujeres": 9.972,
+    "Edad mediana": 31
+  },
+  {
+    "Barrio": "Jukyty",
+    "Total": 4.553,
+    "Sexo - Hombres": 2.33,
+    "Sexo - Mujeres": 2.223,
+    "Edad mediana": 23
+  },
+  {
+    "Barrio": "La Catedral",
+    "Total": 2.471,
+    "Sexo - Hombres": 1.219,
+    "Sexo - Mujeres": 1.252,
+    "Edad mediana": 34
+  },
+  {
+    "Barrio": "General Jose Eduvigis Diaz",
+    "Total": 5.092,
+    "Sexo - Hombres": 2.294,
+    "Sexo - Mujeres": 2.798,
+    "Edad mediana": 36
+  },
+  {
+    "Barrio": "Obrero Intendente B. Guggiari",
+    "Total": 17.055,
+    "Sexo - Hombres": 7.946,
+    "Sexo - Mujeres": 9.109,
+    "Edad mediana": 34
+  },
+  {
+    "Barrio": "Roberto L. Petit",
+    "Total": 14.452,
+    "Sexo - Hombres": 8.716,
+    "Sexo - Mujeres": 5.736,
+    "Edad mediana": 33
+  },
+  {
+    "Barrio": "Ricardo Brugada",
+    "Total": 13.153,
+    "Sexo - Hombres": 6.571,
+    "Sexo - Mujeres": 6.582,
+    "Edad mediana": 27
+  },
+  {
+    "Barrio": "San Roque",
+    "Total": 5.472,
+    "Sexo - Hombres": 2.526,
+    "Sexo - Mujeres": 2.946,
+    "Edad mediana": 35
+  },
+  {
+    "Barrio": "Tte. Silvio Pettirossi",
+    "Total": 7.782,
+    "Sexo - Hombres": 3.708,
+    "Sexo - Mujeres": 4.074,
+    "Edad mediana": 34
+  },
+  {
+    "Barrio": "San Vicente",
+    "Total": 15.449,
+    "Sexo - Hombres": 7.155,
+    "Sexo - Mujeres": 8.294,
+    "Edad mediana": 35
+  },
+  {
+    "Barrio": "Pinoza",
+    "Total": 6.504,
+    "Sexo - Hombres": 3.029,
+    "Sexo - Mujeres": 3.475,
+    "Edad mediana": 35
+  },
+  {
+    "Barrio": "Vista Alegre",
+    "Total": 12.168,
+    "Sexo - Hombres": 5.664,
+    "Sexo - Mujeres": 6.504,
+    "Edad mediana": 36
+  },
+  {
+    "Barrio": "Mburicao",
+    "Total": 5.603,
+    "Sexo - Hombres": 2.519,
+    "Sexo - Mujeres": 3.084,
+    "Edad mediana": 38
+  },
+  {
+    "Barrio": "General Bernardino Caballero",
+    "Total": 6.182,
+    "Sexo - Hombres": 2.906,
+    "Sexo - Mujeres": 3.276,
+    "Edad mediana": 36
+  },
+  {
+    "Barrio": "Ciudad Nueva",
+    "Total": 7.322,
+    "Sexo - Hombres": 3.338,
+    "Sexo - Mujeres": 3.984,
+    "Edad mediana": 34
+  },
+  {
+    "Barrio": "Las Mercedes",
+    "Total": 6.156,
+    "Sexo - Hombres": 2.876,
+    "Sexo - Mujeres": 3.28,
+    "Edad mediana": 34
+  },
+  {
+    "Barrio": "Banado Cara Cara",
+    "Total": 3.046,
+    "Sexo - Hombres": 1.535,
+    "Sexo - Mujeres": 1.511,
+    "Edad mediana": 23
+  },
+  {
+    "Barrio": "Jara",
+    "Total": 8.136,
+    "Sexo - Hombres": 3.829,
+    "Sexo - Mujeres": 4.307,
+    "Edad mediana": 35
+  },
+  {
+    "Barrio": "Mariscal Francisco Solano Lopez",
+    "Total": 3.685,
+    "Sexo - Hombres": 1.585,
+    "Sexo - Mujeres": 2.1,
+    "Edad mediana": 39
+  },
+  {
+    "Barrio": "Virgen del Huerto",
+    "Total": 3.857,
+    "Sexo - Hombres": 1.767,
+    "Sexo - Mujeres": 2.09,
+    "Edad mediana": 38
+  },
+  {
+    "Barrio": "Banco San Miguel",
+    "Total": 2.801,
+    "Sexo - Hombres": 1.475,
+    "Sexo - Mujeres": 1.326,
+    "Edad mediana": 23
+  },
+  {
+    "Barrio": "San Cayetano",
+    "Total": 11.926,
+    "Sexo - Hombres": 6.021,
+    "Sexo - Mujeres": 5.905,
+    "Edad mediana": 27
+  },
+  {
+    "Barrio": "Republicano",
+    "Total": 8.181,
+    "Sexo - Hombres": 3.948,
+    "Sexo - Mujeres": 4.233,
+    "Edad mediana": 33
+  },
+  {
+    "Barrio": "Santa Ana",
+    "Total": 6.356,
+    "Sexo - Hombres": 3.153,
+    "Sexo - Mujeres": 3.203,
+    "Edad mediana": 26
+  },
+  {
+    "Barrio": "Ita Enramada",
+    "Total": 5.802,
+    "Sexo - Hombres": 2.888,
+    "Sexo - Mujeres": 2.914,
+    "Edad mediana": 30
+  },
+  {
+    "Barrio": "Santa Librada",
+    "Total": 5.305,
+    "Sexo - Hombres": 2.515,
+    "Sexo - Mujeres": 2.79,
+    "Edad mediana": 34
+  },
+  {
+    "Barrio": "San Juan",
+    "Total": 2.796,
+    "Sexo - Hombres": 1.348,
+    "Sexo - Mujeres": 1.448,
+    "Edad mediana": 30
+  },
+  {
+    "Barrio": "Presidente Carlos Antonio Lopez",
+    "Total": 10.384,
+    "Sexo - Hombres": 4.873,
+    "Sexo - Mujeres": 5.511,
+    "Edad mediana": 35
+  },
+  {
+    "Barrio": "Nazareth",
+    "Total": 6.26,
+    "Sexo - Hombres": 2.789,
+    "Sexo - Mujeres": 3.471,
+    "Edad mediana": 36
+  },
+  {
+    "Barrio": "Terminal",
+    "Total": 3.69,
+    "Sexo - Hombres": 1.736,
+    "Sexo - Mujeres": 1.954,
+    "Edad mediana": 34
+  },
+  {
+    "Barrio": "Hipodromo",
+    "Total": 7.383,
+    "Sexo - Hombres": 3.459,
+    "Sexo - Mujeres": 3.924,
+    "Edad mediana": 33
+  },
+  {
+    "Barrio": "San Pablo",
+    "Total": 18.679,
+    "Sexo - Hombres": 8.896,
+    "Sexo - Mujeres": 9.783,
+    "Edad mediana": 34
+  },
+  {
+    "Barrio": "Villa Aurelia",
+    "Total": 8.399,
+    "Sexo - Hombres": 3.919,
+    "Sexo - Mujeres": 4.48,
+    "Edad mediana": 36
+  },
+  {
+    "Barrio": "Los Laureles",
+    "Total": 2.9,
+    "Sexo - Hombres": 1.303,
+    "Sexo - Mujeres": 1.597,
+    "Edad mediana": 37
+  },
+  {
+    "Barrio": "Tembetary",
+    "Total": 2.458,
+    "Sexo - Hombres": 1.105,
+    "Sexo - Mujeres": 1.353,
+    "Edad mediana": 37
+  },
+  {
+    "Barrio": "Recoleta",
+    "Total": 7.544,
+    "Sexo - Hombres": 3.374,
+    "Sexo - Mujeres": 4.17,
+    "Edad mediana": 36
+  },
+  {
+    "Barrio": "Villa Morra",
+    "Total": 2.782,
+    "Sexo - Hombres": 1.262,
+    "Sexo - Mujeres": 1.52,
+    "Edad mediana": 38
+  },
+  {
+    "Barrio": "Mariscal Jose Felix Estigarribia",
+    "Total": 6.524,
+    "Sexo - Hombres": 2.923,
+    "Sexo - Mujeres": 3.601,
+    "Edad mediana": 36
+  },
+  {
+    "Barrio": "San Cristobal",
+    "Total": 5.085,
+    "Sexo - Hombres": 2.24,
+    "Sexo - Mujeres": 2.845,
+    "Edad mediana": 37
+  },
+  {
+    "Barrio": "Ykua Sati",
+    "Total": 5.671,
+    "Sexo - Hombres": 2.68,
+    "Sexo - Mujeres": 2.991,
+    "Edad mediana": 37
+  },
+  {
+    "Barrio": "Luis Alberto de Herrera",
+    "Total": 4.925,
+    "Sexo - Hombres": 2.237,
+    "Sexo - Mujeres": 2.688,
+    "Edad mediana": 35
+  },
+  {
+    "Barrio": "Santa Maria",
+    "Total": 4.258,
+    "Sexo - Hombres": 2.096,
+    "Sexo - Mujeres": 2.162,
+    "Edad mediana": 33
+  },
+  {
+    "Barrio": "Ytay",
+    "Total": 2.977,
+    "Sexo - Hombres": 1.412,
+    "Sexo - Mujeres": 1.565,
+    "Edad mediana": 33
+  },
+  {
+    "Barrio": "San Jorge",
+    "Total": 5.045,
+    "Sexo - Hombres": 2.313,
+    "Sexo - Mujeres": 2.732,
+    "Edad mediana": 36
+  },
+  {
+    "Barrio": "Tablada Nueva",
+    "Total": 7.131,
+    "Sexo - Hombres": 3.62,
+    "Sexo - Mujeres": 3.511,
+    "Edad mediana": 26
+  },
+  {
+    "Barrio": "Virgen de Fatima",
+    "Total": 4.142,
+    "Sexo - Hombres": 2.054,
+    "Sexo - Mujeres": 2.088,
+    "Edad mediana": 31
+  },
+  {
+    "Barrio": "Santa Rosa",
+    "Total": 4.174,
+    "Sexo - Hombres": 2.081,
+    "Sexo - Mujeres": 2.093,
+    "Edad mediana": 31
+  },
+  {
+    "Barrio": "Virgen de la Asuncion",
+    "Total": 6.894,
+    "Sexo - Hombres": 3.264,
+    "Sexo - Mujeres": 3.63,
+    "Edad mediana": 34
+  },
+  {
+    "Barrio": "Bella Vista",
+    "Total": 6.812,
+    "Sexo - Hombres": 3.325,
+    "Sexo - Mujeres": 3.487,
+    "Edad mediana": 34
+  },
+  {
+    "Barrio": "Santo Domingo",
+    "Total": 1.722,
+    "Sexo - Hombres": 744,
+    "Sexo - Mujeres": 978,
+    "Edad mediana": 39
+  },
+  {
+    "Barrio": "Canada del Yvyray",
+    "Total": 3.324,
+    "Sexo - Hombres": 1.473,
+    "Sexo - Mujeres": 1.851,
+    "Edad mediana": 38
+  },
+  {
+    "Barrio": "Santisima Trinidad",
+    "Total": 3.803,
+    "Sexo - Hombres": 1.753,
+    "Sexo - Mujeres": 2.05,
+    "Edad mediana": 35
+  },
+  {
+    "Barrio": "Manora",
+    "Total": 1.32,
+    "Sexo - Hombres": 581,
+    "Sexo - Mujeres": 739,
+    "Edad mediana": 39
+  },
+  {
+    "Barrio": "Las Lomas",
+    "Total": 4.751,
+    "Sexo - Hombres": 2.139,
+    "Sexo - Mujeres": 2.612,
+    "Edad mediana": 37
+  },
+  {
+    "Barrio": "Mburucuya",
+    "Total": 8.209,
+    "Sexo - Hombres": 3.785,
+    "Sexo - Mujeres": 4.424,
+    "Edad mediana": 36
+  },
+  {
+    "Barrio": "Madame Elisa Alicia Lynch",
+    "Total": 7.652,
+    "Sexo - Hombres": 3.525,
+    "Sexo - Mujeres": 4.127,
+    "Edad mediana": 36
+  },
+  {
+    "Barrio": "Salvador del Mundo",
+    "Total": 2.67,
+    "Sexo - Hombres": 1.248,
+    "Sexo - Mujeres": 1.422,
+    "Edad mediana": 36
+  },
+  {
+    "Barrio": "Mbocayaty",
+    "Total": 5.359,
+    "Sexo - Hombres": 2.522,
+    "Sexo - Mujeres": 2.837,
+    "Edad mediana": 34
+  },
+  {
+    "Barrio": "Loma Pyta",
+    "Total": 16.072,
+    "Sexo - Hombres": 7.816,
+    "Sexo - Mujeres": 8.256,
+    "Edad mediana": 33
+  },
+  {
+    "Barrio": "San Blas",
+    "Total": 4.649,
+    "Sexo - Hombres": 2.204,
+    "Sexo - Mujeres": 2.445,
+    "Edad mediana": 31
+  },
+  {
+    "Barrio": "Botanico",
+    "Total": 13.105,
+    "Sexo - Hombres": 6.646,
+    "Sexo - Mujeres": 6.459,
+    "Edad mediana": 26
+  },
+  {
+    "Barrio": "Zeballos Cue",
+    "Total": 18.156,
+    "Sexo - Hombres": 8.947,
+    "Sexo - Mujeres": 9.209,
+    "Edad mediana": 29
+  }
+]

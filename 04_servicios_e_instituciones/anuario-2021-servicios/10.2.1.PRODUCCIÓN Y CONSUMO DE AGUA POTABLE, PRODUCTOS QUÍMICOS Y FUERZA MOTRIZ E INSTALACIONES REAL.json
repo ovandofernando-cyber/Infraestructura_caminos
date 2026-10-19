@@ -1,0 +1,182 @@
+[
+  {
+    "CONCEPTO": "GRAN ASUNCION Produccion de agua potable (miles de m3)",
+    "ANO 2015": "144.348,50",
+    "ANO 2016": "150.822,10",
+    "ANO 2017": "153.016,90",
+    "ANO 2018": "157.185,50",
+    "ANO 2019": "148.858,00",
+    "ANO 2020": "156.879,20",
+    "ANO 2021": "162.898,00"
+  },
+  {
+    "CONCEPTO": "GRAN ASUNCION Consumo de agua potable (miles de m3)",
+    "ANO 2015": "133.270,20",
+    "ANO 2016": "133.741,70",
+    "ANO 2017": "135.994,90",
+    "ANO 2018": "139.701,50",
+    "ANO 2019": "135.429,00",
+    "ANO 2020": "139.044,00",
+    "ANO 2021": "142.729,00"
+  },
+  {
+    "CONCEPTO": "GRAN ASUNCION Red servida instalada (en metros)",
+    "ANO 2015": "14.619,00",
+    "ANO 2016": "5.736,00",
+    "ANO 2017": "123.176,00",
+    "ANO 2018": "15.451,00",
+    "ANO 2019": "9.597,00",
+    "ANO 2020": "9.023,00",
+    "ANO 2021": "12.322,00"
+  },
+  {
+    "CONCEPTO": "GRAN ASUNCION Conexiones domiciliarias instaladas (unidades)",
+    "ANO 2015": 231.545,
+    "ANO 2016": 234.137,
+    "ANO 2017": 244.398,
+    "ANO 2018": 247.28,
+    "ANO 2019": 252.741,
+    "ANO 2020": 254.861,
+    "ANO 2021": 257.39
+  },
+  {
+    "CONCEPTO": "GRAN ASUNCION Consumo de productos quimicos (en toneladas)",
+    "ANO 2015": "95.175,00",
+    "ANO 2016": "9.369,00",
+    "ANO 2017": "9.389,00",
+    "ANO 2018": "9.480,70",
+    "ANO 2019": "10.033,00",
+    "ANO 2020": "9.579,00",
+    "ANO 2021": "10.329,00"
+  },
+  {
+    "CONCEPTO": "GRAN ASUNCION Consumo de energia electrica (Miles de Gs)",
+    "ANO 2015": "11.821.450,90",
+    "ANO 2016": "11.870.320,90",
+    "ANO 2017": "19.596.869,30",
+    "ANO 2018": "23.109.202,20",
+    "ANO 2019": "25.014.909,40",
+    "ANO 2020": "25.374.679,20",
+    "ANO 2021": "24.953.104,10"
+  },
+  {
+    "CONCEPTO": "GRAN ASUNCION Longitud de colectores de alcantarillados sanitarios instalados (en metros)",
+    "ANO 2015": "2.656,00",
+    "ANO 2016": "12.285,00",
+    "ANO 2017": "4.547,00",
+    "ANO 2018": "79.265,00",
+    "ANO 2019": "2.591,00",
+    "ANO 2020": "125.527,00",
+    "ANO 2021": "33.712,00"
+  },
+  {
+    "CONCEPTO": "GRAN ASUNCION Ramales domiciliarios de alcantarillados sanitarios instalados (en metros)",
+    "ANO 2015": "1.134,00",
+    "ANO 2016": "1.288,00",
+    "ANO 2017": "22.836,00",
+    "ANO 2018": "4.340,00",
+    "ANO 2019": "1.650,00",
+    "ANO 2020": "1.850,00",
+    "ANO 2021": "1.540,00"
+  },
+  {
+    "CONCEPTO": "GRAN ASUNCION Ramales domiciliarios de alcantarillados sanitarios instalados (unidades)",
+    "ANO 2015": 189,
+    "ANO 2016": 161,
+    "ANO 2017": 14.014,
+    "ANO 2018": 3.739,
+    "ANO 2019": 2.124,
+    "ANO 2020": 7.437,
+    "ANO 2021": 2.833
+  },
+  {
+    "CONCEPTO": "INTERIOR Produccion de agua potable (miles de m3)",
+    "ANO 2015": "40.759,00",
+    "ANO 2016": "41.417,00",
+    "ANO 2017": "44.929,00",
+    "ANO 2018": "48.334,00",
+    "ANO 2019": "42.599,00",
+    "ANO 2020": "45.913,10",
+    "ANO 2021": "55.120,00"
+  },
+  {
+    "CONCEPTO": "INTERIOR Consumo de agua potable (miles de m3)",
+    "ANO 2015": "38.692,00",
+    "ANO 2016": "39.344,00",
+    "ANO 2017": "39.956,00",
+    "ANO 2018": "44.257,00",
+    "ANO 2019": "40.974,00",
+    "ANO 2020": "40.693,30",
+    "ANO 2021": "46.320,00"
+  },
+  {
+    "CONCEPTO": "INTERIOR Red servida instalada (en metros)",
+    "ANO 2015": "-",
+    "ANO 2016": "-",
+    "ANO 2017": "-",
+    "ANO 2018": "-",
+    "ANO 2019": "-",
+    "ANO 2020": "-",
+    "ANO 2021": "-"
+  },
+  {
+    "CONCEPTO": "INTERIOR Conexiones domiciliarias instaladas (unidades)",
+    "ANO 2015": 88.016,
+    "ANO 2016": 91.32,
+    "ANO 2017": 95.143,
+    "ANO 2018": 96.965,
+    "ANO 2019": 96.077,
+    "ANO 2020": 96.969,
+    "ANO 2021": 103.173
+  },
+  {
+    "CONCEPTO": "INTERIOR Consumo de productos quimicos (en toneladas)",
+    "ANO 2015": "1.488,00",
+    "ANO 2016": "1.610,00",
+    "ANO 2017": "1.793,00",
+    "ANO 2018": "1.870,00",
+    "ANO 2019": "1.508,00",
+    "ANO 2020": "1.765,00",
+    "ANO 2021": "1.965,00"
+  },
+  {
+    "CONCEPTO": "INTERIOR Consumo de energia electrica (Miles de Gs)",
+    "ANO 2015": "4.235.657,10",
+    "ANO 2016": "6.432.689,30",
+    "ANO 2017": "8.184.658,20",
+    "ANO 2018": "11.103.377,20",
+    "ANO 2019": "12.185.733,60",
+    "ANO 2020": "11.992.009,10",
+    "ANO 2021": "13.046.744,40"
+  },
+  {
+    "CONCEPTO": "INTERIOR Longitud de colectores de alcantarillados sanitarios instalados (en metros)",
+    "ANO 2015": "-",
+    "ANO 2016": "-",
+    "ANO 2017": "-",
+    "ANO 2018": "-",
+    "ANO 2019": "-",
+    "ANO 2020": "-",
+    "ANO 2021": "-"
+  },
+  {
+    "CONCEPTO": "INTERIOR Ramales domiciliarios de alcantarillados sanitarios instalados (en metros)",
+    "ANO 2015": "-",
+    "ANO 2016": "-",
+    "ANO 2017": "-",
+    "ANO 2018": "-",
+    "ANO 2019": "-",
+    "ANO 2020": "-",
+    "ANO 2021": "-"
+  },
+  {
+    "CONCEPTO": "INTERIOR Ramales domiciliarios de alcantarillados sanitarios instalados (unidades)",
+    "ANO 2015": 4.399,
+    "ANO 2016": 1.036,
+    "ANO 2017": 408,
+    "ANO 2018": 440,
+    "ANO 2019": 795,
+    "ANO 2020": "-",
+    "ANO 2021": 2.11
+  }
+]

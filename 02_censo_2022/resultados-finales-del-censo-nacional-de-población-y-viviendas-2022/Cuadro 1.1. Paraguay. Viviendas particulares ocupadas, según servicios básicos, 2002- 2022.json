@@ -1,0 +1,47 @@
+[
+  {
+    "Servicios basicos": "Total",
+    "Ano 2002 - Cantidad": 1098005,
+    "Ano 2002 - %": 100,
+    "Ano 2012 - Cantidad": 1223165,
+    "Ano 2012 - %": 100,
+    "Ano 2022 - Cantidad": 1749336,
+    "Ano 2022 - %": 100
+  },
+  {
+    "Servicios basicos": "Enegia electrica",
+    "Ano 2002 - Cantidad": 978766,
+    "Ano 2002 - %": "89,1",
+    "Ano 2012 - Cantidad": 1179411,
+    "Ano 2012 - %": "96,4",
+    "Ano 2022 - Cantidad": 1725111,
+    "Ano 2022 - %": "98,6"
+  },
+  {
+    "Servicios basicos": "Agua corriente(a)",
+    "Ano 2002 - Cantidad": 578639,
+    "Ano 2002 - %": "52,7",
+    "Ano 2012 - Cantidad": 885653,
+    "Ano 2012 - %": "72,4",
+    "Ano 2022 - Cantidad": 1386398,
+    "Ano 2022 - %": "79,3"
+  },
+  {
+    "Servicios basicos": "Desague sanitario (b)",
+    "Ano 2002 - Cantidad": 691568,
+    "Ano 2002 - %": 63,
+    "Ano 2012 - Cantidad": 898099,
+    "Ano 2012 - %": "73,4",
+    "Ano 2022 - Cantidad": 1499944,
+    "Ano 2022 - %": "85,7"
+  },
+  {
+    "Servicios basicos": "Recoleccion de basuras (c)",
+    "Ano 2002 - Cantidad": 369231,
+    "Ano 2002 - %": "33,6",
+    "Ano 2012 - Cantidad": 468602,
+    "Ano 2012 - %": "38,3",
+    "Ano 2022 - Cantidad": 965637,
+    "Ano 2022 - %": "55,2"
+  }
+]

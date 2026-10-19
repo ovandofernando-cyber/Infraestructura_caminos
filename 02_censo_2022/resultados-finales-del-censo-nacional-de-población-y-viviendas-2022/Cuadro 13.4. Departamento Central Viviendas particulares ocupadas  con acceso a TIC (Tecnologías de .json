@@ -1,0 +1,162 @@
+[
+  {
+    "Distrito": "Total",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 462.671,
+    "Acceso a TIC - Televisor con pantalla plana": 390.368,
+    "Acceso a TIC - Computadora o notebook": 187.018,
+    "Acceso a TIC - Tablet o similares": 72.104,
+    "Acceso a TIC - Conexion a Internet": 335.178
+  },
+  {
+    "Distrito": "Aregua",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 16.911,
+    "Acceso a TIC - Televisor con pantalla plana": 13.723,
+    "Acceso a TIC - Computadora o notebook": 4.758,
+    "Acceso a TIC - Tablet o similares": 1.711,
+    "Acceso a TIC - Conexion a Internet": 8.65
+  },
+  {
+    "Distrito": "Capiata",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 58.216,
+    "Acceso a TIC - Televisor con pantalla plana": 47.96,
+    "Acceso a TIC - Computadora o notebook": 20.449,
+    "Acceso a TIC - Tablet o similares": 7.296,
+    "Acceso a TIC - Conexion a Internet": 43.272
+  },
+  {
+    "Distrito": "Fernando de la Mora",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 28.98,
+    "Acceso a TIC - Televisor con pantalla plana": 26.262,
+    "Acceso a TIC - Computadora o notebook": 18.201,
+    "Acceso a TIC - Tablet o similares": 7.915,
+    "Acceso a TIC - Conexion a Internet": 25.771
+  },
+  {
+    "Distrito": "Guarambare",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 6.493,
+    "Acceso a TIC - Televisor con pantalla plana": 5.211,
+    "Acceso a TIC - Computadora o notebook": 1.651,
+    "Acceso a TIC - Tablet o similares": 585,
+    "Acceso a TIC - Conexion a Internet": 3.079
+  },
+  {
+    "Distrito": "Ita",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 16.999,
+    "Acceso a TIC - Televisor con pantalla plana": 13.945,
+    "Acceso a TIC - Computadora o notebook": 4.012,
+    "Acceso a TIC - Tablet o similares": 1.354,
+    "Acceso a TIC - Conexion a Internet": 10.729
+  },
+  {
+    "Distrito": "Itaugua",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 23.334,
+    "Acceso a TIC - Televisor con pantalla plana": 18.623,
+    "Acceso a TIC - Computadora o notebook": 6.551,
+    "Acceso a TIC - Tablet o similares": 2.284,
+    "Acceso a TIC - Conexion a Internet": 12.319
+  },
+  {
+    "Distrito": "Lambare",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 31.351,
+    "Acceso a TIC - Televisor con pantalla plana": 28.291,
+    "Acceso a TIC - Computadora o notebook": 18.748,
+    "Acceso a TIC - Tablet o similares": 8.713,
+    "Acceso a TIC - Conexion a Internet": 28.006
+  },
+  {
+    "Distrito": "Limpio",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 33.99,
+    "Acceso a TIC - Televisor con pantalla plana": 27.223,
+    "Acceso a TIC - Computadora o notebook": 9.826,
+    "Acceso a TIC - Tablet o similares": 3.326,
+    "Acceso a TIC - Conexion a Internet": 20.824
+  },
+  {
+    "Distrito": "Luque",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 62.728,
+    "Acceso a TIC - Televisor con pantalla plana": 53.555,
+    "Acceso a TIC - Computadora o notebook": 26.643,
+    "Acceso a TIC - Tablet o similares": 10.749,
+    "Acceso a TIC - Conexion a Internet": 45.416
+  },
+  {
+    "Distrito": "Mariano Roque Alonso",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 20.336,
+    "Acceso a TIC - Televisor con pantalla plana": 17.894,
+    "Acceso a TIC - Computadora o notebook": 10.043,
+    "Acceso a TIC - Tablet o similares": 3.927,
+    "Acceso a TIC - Conexion a Internet": 16.836
+  },
+  {
+    "Distrito": "Nueva Italia",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.319,
+    "Acceso a TIC - Televisor con pantalla plana": 1.849,
+    "Acceso a TIC - Computadora o notebook": 449,
+    "Acceso a TIC - Tablet o similares": 148,
+    "Acceso a TIC - Conexion a Internet": 1.74
+  },
+  {
+    "Distrito": "Nemby",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 28.062,
+    "Acceso a TIC - Televisor con pantalla plana": 23.889,
+    "Acceso a TIC - Computadora o notebook": 11.492,
+    "Acceso a TIC - Tablet o similares": 4.056,
+    "Acceso a TIC - Conexion a Internet": 22.272
+  },
+  {
+    "Distrito": "San Antonio",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 14.006,
+    "Acceso a TIC - Televisor con pantalla plana": 11.774,
+    "Acceso a TIC - Computadora o notebook": 4.986,
+    "Acceso a TIC - Tablet o similares": 1.796,
+    "Acceso a TIC - Conexion a Internet": 10.823
+  },
+  {
+    "Distrito": "San Lorenzo",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 56.676,
+    "Acceso a TIC - Televisor con pantalla plana": 49.415,
+    "Acceso a TIC - Computadora o notebook": 29.2,
+    "Acceso a TIC - Tablet o similares": 10.858,
+    "Acceso a TIC - Conexion a Internet": 48.052
+  },
+  {
+    "Distrito": "Villa Elisa",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 17.426,
+    "Acceso a TIC - Televisor con pantalla plana": 15.396,
+    "Acceso a TIC - Computadora o notebook": 9.14,
+    "Acceso a TIC - Tablet o similares": 3.549,
+    "Acceso a TIC - Conexion a Internet": 15.253
+  },
+  {
+    "Distrito": "Villeta",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 8.995,
+    "Acceso a TIC - Televisor con pantalla plana": 7.298,
+    "Acceso a TIC - Computadora o notebook": 2.246,
+    "Acceso a TIC - Tablet o similares": 771,
+    "Acceso a TIC - Conexion a Internet": 4.169
+  },
+  {
+    "Distrito": "Ypacarai",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 5.22,
+    "Acceso a TIC - Televisor con pantalla plana": 4.318,
+    "Acceso a TIC - Computadora o notebook": 1.911,
+    "Acceso a TIC - Tablet o similares": 717,
+    "Acceso a TIC - Conexion a Internet": 3.682
+  },
+  {
+    "Distrito": "Ypane",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 16.328,
+    "Acceso a TIC - Televisor con pantalla plana": 12.594,
+    "Acceso a TIC - Computadora o notebook": 3.522,
+    "Acceso a TIC - Tablet o similares": 1.319,
+    "Acceso a TIC - Conexion a Internet": 8.392
+  },
+  {
+    "Distrito": "J. Augusto Saldivar",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 14.301,
+    "Acceso a TIC - Televisor con pantalla plana": 11.148,
+    "Acceso a TIC - Computadora o notebook": 3.19,
+    "Acceso a TIC - Tablet o similares": 1.03,
+    "Acceso a TIC - Conexion a Internet": 5.893
+  }
+]

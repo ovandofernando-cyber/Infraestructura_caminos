@@ -1,0 +1,182 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 505.449,
+    "Servicios basicos - Agua corriente (a)": 464.375,
+    "Servicios basicos - Desague sanitario (b)": 484.79,
+    "Servicios basicos - Recoleccion de basura (c)": 371.495,
+    "Servicios basicos - Energia electrica": 503.916,
+    "Promedio de personas por vivienda": "3,7"
+  },
+  {
+    "Distrito": "Aregua",
+    "Viviendas particulares": 19.001,
+    "Servicios basicos - Agua corriente (a)": 18.03,
+    "Servicios basicos - Desague sanitario (b)": 17.89,
+    "Servicios basicos - Recoleccion de basura (c)": 9.714,
+    "Servicios basicos - Energia electrica": 18.941,
+    "Promedio de personas por vivienda": "3,7"
+  },
+  {
+    "Distrito": "Capiata",
+    "Viviendas particulares": 63.236,
+    "Servicios basicos - Agua corriente (a)": 58.909,
+    "Servicios basicos - Desague sanitario (b)": 61.171,
+    "Servicios basicos - Recoleccion de basura (c)": 47.929,
+    "Servicios basicos - Energia electrica": 63.077,
+    "Promedio de personas por vivienda": "3,7"
+  },
+  {
+    "Distrito": "Fernando de la Mora",
+    "Viviendas particulares": 30.644,
+    "Servicios basicos - Agua corriente (a)": 28.129,
+    "Servicios basicos - Desague sanitario (b)": 29.864,
+    "Servicios basicos - Recoleccion de basura (c)": 29.512,
+    "Servicios basicos - Energia electrica": 30.608,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "Guarambare",
+    "Viviendas particulares": 7.359,
+    "Servicios basicos - Agua corriente (a)": 6.809,
+    "Servicios basicos - Desague sanitario (b)": 6.943,
+    "Servicios basicos - Recoleccion de basura (c)": 4.199,
+    "Servicios basicos - Energia electrica": 7.304,
+    "Promedio de personas por vivienda": "3,8"
+  },
+  {
+    "Distrito": "Ita",
+    "Viviendas particulares": 19.629,
+    "Servicios basicos - Agua corriente (a)": 17.355,
+    "Servicios basicos - Desague sanitario (b)": 18.323,
+    "Servicios basicos - Recoleccion de basura (c)": 6.559,
+    "Servicios basicos - Energia electrica": 19.491,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Itaugua",
+    "Viviendas particulares": 26.204,
+    "Servicios basicos - Agua corriente (a)": 25.077,
+    "Servicios basicos - Desague sanitario (b)": 25.133,
+    "Servicios basicos - Recoleccion de basura (c)": 12.92,
+    "Servicios basicos - Energia electrica": 26.077,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Lambare",
+    "Viviendas particulares": 33.656,
+    "Servicios basicos - Agua corriente (a)": 31.453,
+    "Servicios basicos - Desague sanitario (b)": 32.344,
+    "Servicios basicos - Recoleccion de basura (c)": 31.785,
+    "Servicios basicos - Energia electrica": 33.607,
+    "Promedio de personas por vivienda": "3,8"
+  },
+  {
+    "Distrito": "Limpio",
+    "Viviendas particulares": 37.502,
+    "Servicios basicos - Agua corriente (a)": 35.328,
+    "Servicios basicos - Desague sanitario (b)": 35.46,
+    "Servicios basicos - Recoleccion de basura (c)": 23.177,
+    "Servicios basicos - Energia electrica": 37.357,
+    "Promedio de personas por vivienda": "3,7"
+  },
+  {
+    "Distrito": "Luque",
+    "Viviendas particulares": 68.336,
+    "Servicios basicos - Agua corriente (a)": 60.841,
+    "Servicios basicos - Desague sanitario (b)": 65.404,
+    "Servicios basicos - Recoleccion de basura (c)": 51.446,
+    "Servicios basicos - Energia electrica": 68.098,
+    "Promedio de personas por vivienda": "3,8"
+  },
+  {
+    "Distrito": "Mariano Roque Alonso",
+    "Viviendas particulares": 22.084,
+    "Servicios basicos - Agua corriente (a)": 20.569,
+    "Servicios basicos - Desague sanitario (b)": 21.155,
+    "Servicios basicos - Recoleccion de basura (c)": 19.327,
+    "Servicios basicos - Energia electrica": 22.042,
+    "Promedio de personas por vivienda": "3,8"
+  },
+  {
+    "Distrito": "Nueva Italia",
+    "Viviendas particulares": 2.896,
+    "Servicios basicos - Agua corriente (a)": 2.751,
+    "Servicios basicos - Desague sanitario (b)": 2.69,
+    "Servicios basicos - Recoleccion de basura (c)": 1.236,
+    "Servicios basicos - Energia electrica": 2.875,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Nemby",
+    "Viviendas particulares": 30.183,
+    "Servicios basicos - Agua corriente (a)": 28.948,
+    "Servicios basicos - Desague sanitario (b)": 29.217,
+    "Servicios basicos - Recoleccion de basura (c)": 25.048,
+    "Servicios basicos - Energia electrica": 30.134,
+    "Promedio de personas por vivienda": "3,9"
+  },
+  {
+    "Distrito": "San Antonio",
+    "Viviendas particulares": 15.16,
+    "Servicios basicos - Agua corriente (a)": 14.427,
+    "Servicios basicos - Desague sanitario (b)": 14.617,
+    "Servicios basicos - Recoleccion de basura (c)": 12.225,
+    "Servicios basicos - Energia electrica": 15.13,
+    "Promedio de personas por vivienda": "3,8"
+  },
+  {
+    "Distrito": "San Lorenzo",
+    "Viviendas particulares": 60.769,
+    "Servicios basicos - Agua corriente (a)": 53.34,
+    "Servicios basicos - Desague sanitario (b)": 58.791,
+    "Servicios basicos - Recoleccion de basura (c)": 55.078,
+    "Servicios basicos - Energia electrica": 60.665,
+    "Promedio de personas por vivienda": "3,7"
+  },
+  {
+    "Distrito": "Villa Elisa",
+    "Viviendas particulares": 18.546,
+    "Servicios basicos - Agua corriente (a)": 16.839,
+    "Servicios basicos - Desague sanitario (b)": 18.112,
+    "Servicios basicos - Recoleccion de basura (c)": 16.896,
+    "Servicios basicos - Energia electrica": 18.523,
+    "Promedio de personas por vivienda": "3,8"
+  },
+  {
+    "Distrito": "Villeta",
+    "Viviendas particulares": 10.155,
+    "Servicios basicos - Agua corriente (a)": 9.309,
+    "Servicios basicos - Desague sanitario (b)": 9.431,
+    "Servicios basicos - Recoleccion de basura (c)": 4.187,
+    "Servicios basicos - Energia electrica": 10.105,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Ypacarai",
+    "Viviendas particulares": 5.876,
+    "Servicios basicos - Agua corriente (a)": 5.434,
+    "Servicios basicos - Desague sanitario (b)": 5.669,
+    "Servicios basicos - Recoleccion de basura (c)": 2.996,
+    "Servicios basicos - Energia electrica": 5.846,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "Ypane",
+    "Viviendas particulares": 18.021,
+    "Servicios basicos - Agua corriente (a)": 16.22,
+    "Servicios basicos - Desague sanitario (b)": 17.12,
+    "Servicios basicos - Recoleccion de basura (c)": 8.739,
+    "Servicios basicos - Energia electrica": 17.945,
+    "Promedio de personas por vivienda": "3,7"
+  },
+  {
+    "Distrito": "J. Augusto Saldivar",
+    "Viviendas particulares": 16.192,
+    "Servicios basicos - Agua corriente (a)": 14.607,
+    "Servicios basicos - Desague sanitario (b)": 15.456,
+    "Servicios basicos - Recoleccion de basura (c)": 8.522,
+    "Servicios basicos - Energia electrica": 16.091,
+    "Promedio de personas por vivienda": "3,7"
+  }
+]

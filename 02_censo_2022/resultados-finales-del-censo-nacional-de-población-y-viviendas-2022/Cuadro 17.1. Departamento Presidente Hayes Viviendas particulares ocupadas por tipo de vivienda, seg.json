@@ -1,0 +1,112 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 34.313,
+    "Tipo de vivienda - Casa": 25.21,
+    "Tipo de vivienda - Rancho": 7.573,
+    "Tipo de vivienda - Departamento o piso": 39,
+    "Tipo de vivienda - Pieza de inquilinato": 720,
+    "Tipo de vivienda - Improvisada": 536,
+    "Tipo de vivienda - Otro": 235
+  },
+  {
+    "Distrito": "Benjamin Aceval",
+    "Total": 5.956,
+    "Tipo de vivienda - Casa": 4.957,
+    "Tipo de vivienda - Rancho": 808,
+    "Tipo de vivienda - Departamento o piso": 9,
+    "Tipo de vivienda - Pieza de inquilinato": 120,
+    "Tipo de vivienda - Improvisada": 34,
+    "Tipo de vivienda - Otro": 28
+  },
+  {
+    "Distrito": "Puerto Pinasco",
+    "Total": 2.435,
+    "Tipo de vivienda - Casa": 1.031,
+    "Tipo de vivienda - Rancho": 1.308,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 16,
+    "Tipo de vivienda - Improvisada": 31,
+    "Tipo de vivienda - Otro": 49
+  },
+  {
+    "Distrito": "Villa Hayes",
+    "Total": 13.194,
+    "Tipo de vivienda - Casa": 10.529,
+    "Tipo de vivienda - Rancho": 1.991,
+    "Tipo de vivienda - Departamento o piso": 26,
+    "Tipo de vivienda - Pieza de inquilinato": 445,
+    "Tipo de vivienda - Improvisada": 110,
+    "Tipo de vivienda - Otro": 93
+  },
+  {
+    "Distrito": "Nanawa",
+    "Total": 1.863,
+    "Tipo de vivienda - Casa": 1.664,
+    "Tipo de vivienda - Rancho": 136,
+    "Tipo de vivienda - Departamento o piso": 1,
+    "Tipo de vivienda - Pieza de inquilinato": 36,
+    "Tipo de vivienda - Improvisada": 19,
+    "Tipo de vivienda - Otro": 7
+  },
+  {
+    "Distrito": "Jose Falcon",
+    "Total": 1.035,
+    "Tipo de vivienda - Casa": 866,
+    "Tipo de vivienda - Rancho": 116,
+    "Tipo de vivienda - Departamento o piso": 3,
+    "Tipo de vivienda - Pieza de inquilinato": 35,
+    "Tipo de vivienda - Improvisada": 11,
+    "Tipo de vivienda - Otro": 4
+  },
+  {
+    "Distrito": "Tte. 1ro Manuel Irala Fernandez",
+    "Total": 5.609,
+    "Tipo de vivienda - Casa": 3.127,
+    "Tipo de vivienda - Rancho": 2.215,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 29,
+    "Tipo de vivienda - Improvisada": 208,
+    "Tipo de vivienda - Otro": 30
+  },
+  {
+    "Distrito": "Teniente Esteban Martinez",
+    "Total": 763,
+    "Tipo de vivienda - Casa": 493,
+    "Tipo de vivienda - Rancho": 248,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 1,
+    "Tipo de vivienda - Improvisada": 17,
+    "Tipo de vivienda - Otro": 4
+  },
+  {
+    "Distrito": "General Jose Maria Bruguez",
+    "Total": 791,
+    "Tipo de vivienda - Casa": 393,
+    "Tipo de vivienda - Rancho": 387,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 1,
+    "Tipo de vivienda - Improvisada": 10,
+    "Tipo de vivienda - Otro": "-"
+  },
+  {
+    "Distrito": "Campo Aceval",
+    "Total": 1.702,
+    "Tipo de vivienda - Casa": 1.45,
+    "Tipo de vivienda - Rancho": 171,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 24,
+    "Tipo de vivienda - Improvisada": 43,
+    "Tipo de vivienda - Otro": 14
+  },
+  {
+    "Distrito": "Nueva Asuncion",
+    "Total": 965,
+    "Tipo de vivienda - Casa": 700,
+    "Tipo de vivienda - Rancho": 193,
+    "Tipo de vivienda - Departamento o piso": "-",
+    "Tipo de vivienda - Pieza de inquilinato": 13,
+    "Tipo de vivienda - Improvisada": 53,
+    "Tipo de vivienda - Otro": 6
+  }
+]

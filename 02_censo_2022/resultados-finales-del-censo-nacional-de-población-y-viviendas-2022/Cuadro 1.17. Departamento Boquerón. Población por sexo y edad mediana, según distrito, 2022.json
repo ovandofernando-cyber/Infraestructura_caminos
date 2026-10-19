@@ -1,0 +1,37 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 71.078,
+    "Sexo - Hombres": 36.947,
+    "Sexo - Mujeres": 34.131,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Mariscal Jose Felix Estigarribia",
+    "Total": 13.174,
+    "Sexo - Hombres": 6.999,
+    "Sexo - Mujeres": 6.175,
+    "Edad mediana": 24
+  },
+  {
+    "Distrito": "Filadelfia",
+    "Total": 20.595,
+    "Sexo - Hombres": 10.639,
+    "Sexo - Mujeres": 9.956,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Loma Plata",
+    "Total": 20.545,
+    "Sexo - Hombres": 10.564,
+    "Sexo - Mujeres": 9.981,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Boqueron",
+    "Total": 16.764,
+    "Sexo - Hombres": 8.745,
+    "Sexo - Mujeres": 8.019,
+    "Edad mediana": 25
+  }
+]

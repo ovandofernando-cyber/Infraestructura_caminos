@@ -1,0 +1,554 @@
+[
+  {
+    "Distrito y grupos de edad": "Departamento Caaguazu",
+    "Total": 431.519,
+    "Area Urbana": 190.506,
+    "Area Rural": 241.013
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 117.387,
+    "Area Urbana": 49.276,
+    "Area Rural": 68.111
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 275.82,
+    "Area Urbana": 125.793,
+    "Area Rural": 150.027
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 38.312,
+    "Area Urbana": 15.437,
+    "Area Rural": 22.875
+  },
+  {
+    "Distrito y grupos de edad": "Coronel Oviedo",
+    "Total": 98.323,
+    "Area Urbana": 67.307,
+    "Area Rural": 31.016
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 23.547,
+    "Area Urbana": 16.417,
+    "Area Rural": 7.13
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 65.983,
+    "Area Urbana": 45.436,
+    "Area Rural": 20.547
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 8.793,
+    "Area Urbana": 5.454,
+    "Area Rural": 3.339
+  },
+  {
+    "Distrito y grupos de edad": "Caaguazu",
+    "Total": 98.2,
+    "Area Urbana": 64.794,
+    "Area Rural": 33.406
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 26.003,
+    "Area Urbana": 17.068,
+    "Area Rural": 8.935
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 63.479,
+    "Area Urbana": 42.409,
+    "Area Rural": 21.07
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 8.718,
+    "Area Urbana": 5.317,
+    "Area Rural": 3.401
+  },
+  {
+    "Distrito y grupos de edad": "Carayao",
+    "Total": 10.832,
+    "Area Urbana": 2.309,
+    "Area Rural": 8.523
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 2.832,
+    "Area Urbana": 589,
+    "Area Rural": 2.243
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 6.74,
+    "Area Urbana": 1.437,
+    "Area Rural": 5.303
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 1.26,
+    "Area Urbana": 283,
+    "Area Rural": 977
+  },
+  {
+    "Distrito y grupos de edad": "Dr. Cecilio Baez",
+    "Total": 4.812,
+    "Area Urbana": 2.02,
+    "Area Rural": 2.792
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 1.286,
+    "Area Urbana": 538,
+    "Area Rural": 748
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 2.963,
+    "Area Urbana": 1.229,
+    "Area Rural": 1.734
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 563,
+    "Area Urbana": 253,
+    "Area Rural": 310
+  },
+  {
+    "Distrito y grupos de edad": "Santa Rosa del Mbutuy",
+    "Total": 8.467,
+    "Area Urbana": 1.189,
+    "Area Rural": 7.278
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 2.269,
+    "Area Urbana": 307,
+    "Area Rural": 1.962
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 5.267,
+    "Area Urbana": 743,
+    "Area Rural": 4.524
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 931,
+    "Area Urbana": 139,
+    "Area Rural": 792
+  },
+  {
+    "Distrito y grupos de edad": "Dr. Juan Manuel Frutos",
+    "Total": 20.451,
+    "Area Urbana": 5.507,
+    "Area Rural": 14.944
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 5.703,
+    "Area Urbana": 1.418,
+    "Area Rural": 4.285
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 12.766,
+    "Area Urbana": 3.563,
+    "Area Rural": 9.203
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 1.982,
+    "Area Urbana": 526,
+    "Area Rural": 1.456
+  },
+  {
+    "Distrito y grupos de edad": "Repatriacion",
+    "Total": 24.459,
+    "Area Urbana": 2.553,
+    "Area Rural": 21.906
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 7.098,
+    "Area Urbana": 641,
+    "Area Rural": 6.457
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 14.868,
+    "Area Urbana": 1.693,
+    "Area Rural": 13.175
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 2.493,
+    "Area Urbana": 219,
+    "Area Rural": 2.274
+  },
+  {
+    "Distrito y grupos de edad": "Nueva Londres",
+    "Total": 3.594,
+    "Area Urbana": 865,
+    "Area Rural": 2.729
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 759,
+    "Area Urbana": 201,
+    "Area Rural": 558
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 2.332,
+    "Area Urbana": 567,
+    "Area Rural": 1.765
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 503,
+    "Area Urbana": 97,
+    "Area Rural": 406
+  },
+  {
+    "Distrito y grupos de edad": "San Joaquin",
+    "Total": 11.949,
+    "Area Urbana": 2.242,
+    "Area Rural": 9.707
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 3.527,
+    "Area Urbana": 669,
+    "Area Rural": 2.858
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 7.209,
+    "Area Urbana": 1.385,
+    "Area Rural": 5.824
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 1.213,
+    "Area Urbana": 188,
+    "Area Rural": 1.025
+  },
+  {
+    "Distrito y grupos de edad": "San Jose de los Arroyos",
+    "Total": 13.926,
+    "Area Urbana": 5.661,
+    "Area Rural": 8.265
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 2.985,
+    "Area Urbana": 1.24,
+    "Area Rural": 1.745
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 8.951,
+    "Area Urbana": 3.701,
+    "Area Rural": 5.25
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 1.99,
+    "Area Urbana": 720,
+    "Area Rural": 1.27
+  },
+  {
+    "Distrito y grupos de edad": "Yhu",
+    "Total": 22.524,
+    "Area Urbana": 2.359,
+    "Area Rural": 20.165
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 6.902,
+    "Area Urbana": 678,
+    "Area Rural": 6.224
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 13.876,
+    "Area Urbana": 1.442,
+    "Area Rural": 12.434
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 1.746,
+    "Area Urbana": 239,
+    "Area Rural": 1.507
+  },
+  {
+    "Distrito y grupos de edad": "Dr. J. Eulogio Estigarribia",
+    "Total": 38.894,
+    "Area Urbana": 19.475,
+    "Area Rural": 19.419
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 12.35,
+    "Area Urbana": 5.548,
+    "Area Rural": 6.802
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 24.483,
+    "Area Urbana": 12.851,
+    "Area Rural": 11.632
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 2.061,
+    "Area Urbana": 1.076,
+    "Area Rural": 985
+  },
+  {
+    "Distrito y grupos de edad": "R.I. 3 Corrales",
+    "Total": 6.021,
+    "Area Urbana": 481,
+    "Area Rural": 5.54
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 1.486,
+    "Area Urbana": 142,
+    "Area Rural": 1.344
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 3.869,
+    "Area Urbana": 303,
+    "Area Rural": 3.566
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 666,
+    "Area Urbana": 36,
+    "Area Rural": 630
+  },
+  {
+    "Distrito y grupos de edad": "Raul Arsenio Oviedo",
+    "Total": 12.543,
+    "Area Urbana": 2.001,
+    "Area Rural": 10.542
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 3.927,
+    "Area Urbana": 534,
+    "Area Rural": 3.393
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 7.671,
+    "Area Urbana": 1.351,
+    "Area Rural": 6.32
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 945,
+    "Area Urbana": 116,
+    "Area Rural": 829
+  },
+  {
+    "Distrito y grupos de edad": "Jose Domingo Ocampos",
+    "Total": 7.459,
+    "Area Urbana": 2.186,
+    "Area Rural": 5.273
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 2.009,
+    "Area Urbana": 586,
+    "Area Rural": 1.423
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 4.723,
+    "Area Urbana": 1.44,
+    "Area Rural": 3.283
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 727,
+    "Area Urbana": 160,
+    "Area Rural": 567
+  },
+  {
+    "Distrito y grupos de edad": "Mariscal Francisco Solano Lopez",
+    "Total": 5.338,
+    "Area Urbana": 1.004,
+    "Area Rural": 4.334
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 1.682,
+    "Area Urbana": 274,
+    "Area Rural": 1.408
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 3.335,
+    "Area Urbana": 687,
+    "Area Rural": 2.648
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 321,
+    "Area Urbana": 43,
+    "Area Rural": 278
+  },
+  {
+    "Distrito y grupos de edad": "La Pastora",
+    "Total": 3.294,
+    "Area Urbana": 317,
+    "Area Rural": 2.977
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 727,
+    "Area Urbana": 65,
+    "Area Rural": 662
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 2.103,
+    "Area Urbana": 210,
+    "Area Rural": 1.893
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 464,
+    "Area Urbana": 42,
+    "Area Rural": 422
+  },
+  {
+    "Distrito y grupos de edad": "3 de Febrero",
+    "Total": 7.492,
+    "Area Urbana": 1.328,
+    "Area Rural": 6.164
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 1.884,
+    "Area Urbana": 348,
+    "Area Rural": 1.536
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 4.722,
+    "Area Urbana": 877,
+    "Area Rural": 3.845
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 886,
+    "Area Urbana": 103,
+    "Area Rural": 783
+  },
+  {
+    "Distrito y grupos de edad": "Simon Bolivar",
+    "Total": 4.74,
+    "Area Urbana": 1.009,
+    "Area Rural": 3.731
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 1.326,
+    "Area Urbana": 293,
+    "Area Rural": 1.033
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 2.95,
+    "Area Urbana": 636,
+    "Area Rural": 2.314
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 464,
+    "Area Urbana": 80,
+    "Area Rural": 384
+  },
+  {
+    "Distrito y grupos de edad": "Vaqueria",
+    "Total": 10.498,
+    "Area Urbana": 3.696,
+    "Area Rural": 6.802
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 3.245,
+    "Area Urbana": 1.114,
+    "Area Rural": 2.131
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 6.522,
+    "Area Urbana": 2.333,
+    "Area Rural": 4.189
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 731,
+    "Area Urbana": 249,
+    "Area Rural": 482
+  },
+  {
+    "Distrito y grupos de edad": "Tembiapora",
+    "Total": 12.877,
+    "Area Urbana": 854,
+    "Area Rural": 12.023
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 4.174,
+    "Area Urbana": 275,
+    "Area Rural": 3.899
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 8.062,
+    "Area Urbana": 548,
+    "Area Rural": 7.514
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 641,
+    "Area Urbana": 31,
+    "Area Rural": 610
+  },
+  {
+    "Distrito y grupos de edad": "Nueva Toledo",
+    "Total": 4.826,
+    "Area Urbana": 1.349,
+    "Area Rural": 3.477
+  },
+  {
+    "Distrito y grupos de edad": "De  0 - 14 anos",
+    "Total": 1.666,
+    "Area Urbana": 331,
+    "Area Rural": 1.335
+  },
+  {
+    "Distrito y grupos de edad": "De  15 - 64 anos",
+    "Total": 2.946,
+    "Area Urbana": 952,
+    "Area Rural": 1.994
+  },
+  {
+    "Distrito y grupos de edad": "De  65 anos y mas",
+    "Total": 214,
+    "Area Urbana": 66,
+    "Area Rural": 148
+  }
+]

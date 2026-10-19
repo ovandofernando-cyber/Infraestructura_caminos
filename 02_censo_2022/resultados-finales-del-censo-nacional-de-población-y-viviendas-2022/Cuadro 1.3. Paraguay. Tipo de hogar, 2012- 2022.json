@@ -1,0 +1,44 @@
+[
+  {
+    "Tipo de hogar": "Total",
+    "Ano 2012 - Cantidad": "1.232.617",
+    "Ano 2012 - %": 100,
+    "Ano 2022 - Cantidad": "1.770.885",
+    "Ano 2022 - %": 100
+  },
+  {
+    "Tipo de hogar": "Hogar unipersonal",
+    "Ano 2012 - Cantidad": 145.033,
+    "Ano 2012 - %": "11,8",
+    "Ano 2022 - Cantidad": 273.638,
+    "Ano 2022 - %": "15,5"
+  },
+  {
+    "Tipo de hogar": "Hogar nuclear completo",
+    "Ano 2012 - Cantidad": 613.388,
+    "Ano 2012 - %": "49,8",
+    "Ano 2022 - Cantidad": 788.306,
+    "Ano 2022 - %": "44,5"
+  },
+  {
+    "Tipo de hogar": "Hogar nuclear incompleto",
+    "Ano 2012 - Cantidad": 116.058,
+    "Ano 2012 - %": "9,4",
+    "Ano 2022 - Cantidad": 197.503,
+    "Ano 2022 - %": "11,2"
+  },
+  {
+    "Tipo de hogar": "Hogar extendido",
+    "Ano 2012 - Cantidad": 328.248,
+    "Ano 2012 - %": "26,6",
+    "Ano 2022 - Cantidad": 473.135,
+    "Ano 2022 - %": "26,7"
+  },
+  {
+    "Tipo de hogar": "Hogar compuesto",
+    "Ano 2012 - Cantidad": 29.89,
+    "Ano 2012 - %": "2,4",
+    "Ano 2022 - Cantidad": 38.303,
+    "Ano 2022 - %": "2,2"
+  }
+]

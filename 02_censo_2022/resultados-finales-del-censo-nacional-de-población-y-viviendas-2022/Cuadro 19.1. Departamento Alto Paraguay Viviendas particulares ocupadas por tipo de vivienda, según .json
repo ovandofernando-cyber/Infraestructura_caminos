@@ -1,0 +1,52 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 5.162,
+    "Tipo de vivienda  - Casa": 3.012,
+    "Tipo de vivienda  - Rancho": 1.981,
+    "Tipo de vivienda  - Departamento o piso": 1,
+    "Tipo de vivienda  - Pieza de inquilinato": 65,
+    "Tipo de vivienda  - Improvisada": 11,
+    "Tipo de vivienda  - Otro": 92
+  },
+  {
+    "Distrito": "Fuerte Olimpo",
+    "Total": 1.307,
+    "Tipo de vivienda  - Casa": 795,
+    "Tipo de vivienda  - Rancho": 462,
+    "Tipo de vivienda  - Departamento o piso": 1,
+    "Tipo de vivienda  - Pieza de inquilinato": 23,
+    "Tipo de vivienda  - Improvisada": 1,
+    "Tipo de vivienda  - Otro": 25
+  },
+  {
+    "Distrito": "Puerto Casado",
+    "Total": 1.681,
+    "Tipo de vivienda  - Casa": 857,
+    "Tipo de vivienda  - Rancho": 764,
+    "Tipo de vivienda  - Departamento o piso": "-",
+    "Tipo de vivienda  - Pieza de inquilinato": 19,
+    "Tipo de vivienda  - Improvisada": 4,
+    "Tipo de vivienda  - Otro": 37
+  },
+  {
+    "Distrito": "Bahia Negra",
+    "Total": 843,
+    "Tipo de vivienda  - Casa": 482,
+    "Tipo de vivienda  - Rancho": 329,
+    "Tipo de vivienda  - Departamento o piso": "-",
+    "Tipo de vivienda  - Pieza de inquilinato": 4,
+    "Tipo de vivienda  - Improvisada": 4,
+    "Tipo de vivienda  - Otro": 24
+  },
+  {
+    "Distrito": "Carmelo Peralta",
+    "Total": 1.331,
+    "Tipo de vivienda  - Casa": 878,
+    "Tipo de vivienda  - Rancho": 426,
+    "Tipo de vivienda  - Departamento o piso": "-",
+    "Tipo de vivienda  - Pieza de inquilinato": 19,
+    "Tipo de vivienda  - Improvisada": 2,
+    "Tipo de vivienda  - Otro": 6
+  }
+]

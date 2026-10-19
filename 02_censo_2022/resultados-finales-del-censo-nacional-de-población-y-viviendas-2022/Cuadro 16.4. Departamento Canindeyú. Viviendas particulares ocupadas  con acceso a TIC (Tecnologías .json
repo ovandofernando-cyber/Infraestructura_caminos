@@ -1,0 +1,138 @@
+[
+  {
+    "Distrito": "Total",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 45.893,
+    "Acceso a TIC - Televisor con pantalla plana": 33.81,
+    "Acceso a TIC - Computadora o notebook": 9.864,
+    "Acceso a TIC - Tablet o similares": 3.653,
+    "Acceso a TIC - Conexion a Internet": 28.064
+  },
+  {
+    "Distrito": "Salto del Guaira",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 8.056,
+    "Acceso a TIC - Televisor con pantalla plana": 6.563,
+    "Acceso a TIC - Computadora o notebook": 2.612,
+    "Acceso a TIC - Tablet o similares": 1.229,
+    "Acceso a TIC - Conexion a Internet": 6.182
+  },
+  {
+    "Distrito": "Corpus Christi",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.96,
+    "Acceso a TIC - Televisor con pantalla plana": 1.502,
+    "Acceso a TIC - Computadora o notebook": 396,
+    "Acceso a TIC - Tablet o similares": 144,
+    "Acceso a TIC - Conexion a Internet": 1.301
+  },
+  {
+    "Distrito": "Villa Curuguaty",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 7.719,
+    "Acceso a TIC - Televisor con pantalla plana": 5.629,
+    "Acceso a TIC - Computadora o notebook": 1.639,
+    "Acceso a TIC - Tablet o similares": 524,
+    "Acceso a TIC - Conexion a Internet": 4.497
+  },
+  {
+    "Distrito": "Villa Ygatimi",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.774,
+    "Acceso a TIC - Televisor con pantalla plana": 1.869,
+    "Acceso a TIC - Computadora o notebook": 311,
+    "Acceso a TIC - Tablet o similares": 77,
+    "Acceso a TIC - Conexion a Internet": 1.146
+  },
+  {
+    "Distrito": "Itanara",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 447,
+    "Acceso a TIC - Televisor con pantalla plana": 289,
+    "Acceso a TIC - Computadora o notebook": 43,
+    "Acceso a TIC - Tablet o similares": 29,
+    "Acceso a TIC - Conexion a Internet": 87
+  },
+  {
+    "Distrito": "Ypejhu",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.722,
+    "Acceso a TIC - Televisor con pantalla plana": 1.109,
+    "Acceso a TIC - Computadora o notebook": 207,
+    "Acceso a TIC - Tablet o similares": 67,
+    "Acceso a TIC - Conexion a Internet": 432
+  },
+  {
+    "Distrito": "Francisco Caballero Alvarez",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.063,
+    "Acceso a TIC - Televisor con pantalla plana": 1.731,
+    "Acceso a TIC - Computadora o notebook": 523,
+    "Acceso a TIC - Tablet o similares": 214,
+    "Acceso a TIC - Conexion a Internet": 1.48
+  },
+  {
+    "Distrito": "Katuete",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 3.266,
+    "Acceso a TIC - Televisor con pantalla plana": 2.768,
+    "Acceso a TIC - Computadora o notebook": 1.245,
+    "Acceso a TIC - Tablet o similares": 401,
+    "Acceso a TIC - Conexion a Internet": 2.615
+  },
+  {
+    "Distrito": "La Paloma del Espiritu Santo",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.067,
+    "Acceso a TIC - Televisor con pantalla plana": 1.791,
+    "Acceso a TIC - Computadora o notebook": 655,
+    "Acceso a TIC - Tablet o similares": 277,
+    "Acceso a TIC - Conexion a Internet": 1.515
+  },
+  {
+    "Distrito": "Nueva Esperanza",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 3.242,
+    "Acceso a TIC - Televisor con pantalla plana": 2.506,
+    "Acceso a TIC - Computadora o notebook": 996,
+    "Acceso a TIC - Tablet o similares": 350,
+    "Acceso a TIC - Conexion a Internet": 2.238
+  },
+  {
+    "Distrito": "Yasy Cany",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 4.453,
+    "Acceso a TIC - Televisor con pantalla plana": 2.9,
+    "Acceso a TIC - Computadora o notebook": 357,
+    "Acceso a TIC - Tablet o similares": 105,
+    "Acceso a TIC - Conexion a Internet": 2.369
+  },
+  {
+    "Distrito": "Ybyrarobana",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.934,
+    "Acceso a TIC - Televisor con pantalla plana": 1.313,
+    "Acceso a TIC - Computadora o notebook": 281,
+    "Acceso a TIC - Tablet o similares": 58,
+    "Acceso a TIC - Conexion a Internet": 874
+  },
+  {
+    "Distrito": "Yby Pyta",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.236,
+    "Acceso a TIC - Televisor con pantalla plana": 1.501,
+    "Acceso a TIC - Computadora o notebook": 181,
+    "Acceso a TIC - Tablet o similares": 43,
+    "Acceso a TIC - Conexion a Internet": 953
+  },
+  {
+    "Distrito": "Maracana",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.938,
+    "Acceso a TIC - Televisor con pantalla plana": 1.613,
+    "Acceso a TIC - Computadora o notebook": 244,
+    "Acceso a TIC - Tablet o similares": 80,
+    "Acceso a TIC - Conexion a Internet": 1.715
+  },
+  {
+    "Distrito": "Puerto Adela",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 387,
+    "Acceso a TIC - Televisor con pantalla plana": 316,
+    "Acceso a TIC - Computadora o notebook": 88,
+    "Acceso a TIC - Tablet o similares": 23,
+    "Acceso a TIC - Conexion a Internet": 240
+  },
+  {
+    "Distrito": "Laurel",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 629,
+    "Acceso a TIC - Televisor con pantalla plana": 410,
+    "Acceso a TIC - Computadora o notebook": 86,
+    "Acceso a TIC - Tablet o similares": 32,
+    "Acceso a TIC - Conexion a Internet": 420
+  }
+]

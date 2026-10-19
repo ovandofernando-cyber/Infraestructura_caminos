@@ -1,0 +1,57 @@
+{
+ "id": "4911445d-46db-4576-b2bd-77e7f4ffec47",
+ "name": "tablero-desempeño-distrital-de-instituciones",
+ "title": "Tablero - Desempeño distrital de instituciones ",
+ "author": "Viceministerio de Economia y Planificacion",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>Tablero - Desempeño distrital de instituciones</p>\n",
+ "url": "https://www.datos.gov.py/dataset/tablero-desempe%C3%B1o-distrital-de-instituciones",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Jue, 02/29/2024 - 16:34",
+ "metadata_created": "Jue, 10/03/2019 - 09:20",
+ "metadata_modified": "Jue, 02/29/2024 - 16:34",
+ "creator_user_id": "54cca0b6-6573-47fd-b8db-d827e2552737",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "66c1004f-3ecc-4866-882c-6de6abf51c4d",
+   "revision_id": "",
+   "url": "https://www.datos.gov.py/sites/default/files/desempenoinstitucionalpordistrito.json",
+   "description": "",
+   "format": "json",
+   "state": "Active",
+   "revision_timestamp": "Jue, 02/29/2024 - 14:11",
+   "name": "Desempeño institucional por distrito",
+   "mimetype": "application/json",
+   "size": "2.12 MB",
+   "created": "Jue, 10/03/2019 - 09:20",
+   "resource_group_id": "f61f8c6b-21b1-46df-b935-f255754a00d8",
+   "last_modified": "Date changed  Jue, 02/29/2024 - 14:11"
+  }
+ ],
+ "tags": [
+  {
+   "id": "174b1f5b-83a0-4c9c-a779-6f9a29f5392e",
+   "vocabulary_id": "2",
+   "name": "SPR"
+  },
+  {
+   "id": "31367c5a-c815-4bb5-9db6-8f359bad9092",
+   "vocabulary_id": "2",
+   "name": "STP"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>El Ministerio de Economía y Finanzas absorbe y amplía las funciones propias, establecidas previamente en las leyes vigentes asignadas al Ministerio de Hacienda, a la Secretaría de la Función Pública y a la Secretaría Técnica de Planificación del Desarrollo Económico y Social. A dicho efecto, el Ministerio de Economía y Finanzas subroga las funciones y estructuras de los organismos absorbidos.<br />\nArtÍculo 2. Naturaleza jurídica.<br />\nEl Ministerio de Economía y Finanzas se constituye como un organismo de derecho público, normativo y estratégico. Estará encargado de la planificación, coordinación y conducción de una política de desarrollo económico sostenible para el Estado. Asimismo, tendrá a su cargo la política de<br />\ngestión de las personas del sector público, del desarrollo organizacional de los Organismos y Entidades del Estado. así como de la administración de los recursos del mismo.</p>\n",
+   "id": "f61f8c6b-21b1-46df-b935-f255754a00d8",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/hacienda.PNG",
+   "title": "Ministerio de Economia y Finanzas (MEF)",
+   "name": "mh"
+  }
+ ]
+}

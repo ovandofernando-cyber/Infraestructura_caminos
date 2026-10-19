@@ -1,0 +1,47 @@
+[
+  {
+    "Bienes de confort": "Total de viviendas",
+    "Cantidad": 129806,
+    "%": 100
+  },
+  {
+    "Bienes de confort": "Lavarropa automatica",
+    "Cantidad": 102805,
+    "%": "79,2"
+  },
+  {
+    "Bienes de confort": "Secarropa",
+    "Cantidad": 49873,
+    "%": "38,4"
+  },
+  {
+    "Bienes de confort": "Ducha electrica",
+    "Cantidad": 94006,
+    "%": "72,4"
+  },
+  {
+    "Bienes de confort": "Termocalefon",
+    "Cantidad": 54187,
+    "%": "41,7"
+  },
+  {
+    "Bienes de confort": "Motocicleta",
+    "Cantidad": 26495,
+    "%": "20,4"
+  },
+  {
+    "Bienes de confort": "Automovil, camion o camioneta",
+    "Cantidad": 77570,
+    "%": "59,8"
+  },
+  {
+    "Bienes de confort": "Microondas",
+    "Cantidad": 86030,
+    "%": "66,3"
+  },
+  {
+    "Bienes de confort": "Acondicionador de aire",
+    "Cantidad": 105256,
+    "%": "81,1"
+  }
+]

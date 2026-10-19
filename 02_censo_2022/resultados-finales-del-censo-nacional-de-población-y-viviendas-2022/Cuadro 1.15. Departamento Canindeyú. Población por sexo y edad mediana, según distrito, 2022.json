@@ -1,0 +1,121 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 191.114,
+    "Sexo - Hombres": 97.403,
+    "Sexo - Mujeres": 93.711,
+    "Edad mediana": 25
+  },
+  {
+    "Distrito": "Salto del Guaira",
+    "Total": 28.553,
+    "Sexo - Hombres": 14.131,
+    "Sexo - Mujeres": 14.422,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Corpus Christi",
+    "Total": 7.739,
+    "Sexo - Hombres": 3.961,
+    "Sexo - Mujeres": 3.778,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Villa Curuguaty",
+    "Total": 33.561,
+    "Sexo - Hombres": 16.837,
+    "Sexo - Mujeres": 16.724,
+    "Edad mediana": 25
+  },
+  {
+    "Distrito": "Villa Ygatimi",
+    "Total": 13.074,
+    "Sexo - Hombres": 6.735,
+    "Sexo - Mujeres": 6.339,
+    "Edad mediana": 24
+  },
+  {
+    "Distrito": "Itanara",
+    "Total": 2.191,
+    "Sexo - Hombres": 1.147,
+    "Sexo - Mujeres": 1.044,
+    "Edad mediana": 25
+  },
+  {
+    "Distrito": "Ypejhu",
+    "Total": 8.607,
+    "Sexo - Hombres": 4.445,
+    "Sexo - Mujeres": 4.162,
+    "Edad mediana": 23
+  },
+  {
+    "Distrito": "Francisco Caballero Alvarez",
+    "Total": 7.842,
+    "Sexo - Hombres": 4.053,
+    "Sexo - Mujeres": 3.789,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Katuete",
+    "Total": 10.774,
+    "Sexo - Hombres": 5.485,
+    "Sexo - Mujeres": 5.289,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "La Paloma del Espiritu Santo",
+    "Total": 7.284,
+    "Sexo - Hombres": 3.712,
+    "Sexo - Mujeres": 3.572,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Nueva Esperanza",
+    "Total": 11.069,
+    "Sexo - Hombres": 5.654,
+    "Sexo - Mujeres": 5.415,
+    "Edad mediana": 26
+  },
+  {
+    "Distrito": "Yasy Cany",
+    "Total": 20.399,
+    "Sexo - Hombres": 10.436,
+    "Sexo - Mujeres": 9.963,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Ybyrarobana",
+    "Total": 8.468,
+    "Sexo - Hombres": 4.308,
+    "Sexo - Mujeres": 4.16,
+    "Edad mediana": 27
+  },
+  {
+    "Distrito": "Yby Pyta",
+    "Total": 12.284,
+    "Sexo - Hombres": 6.346,
+    "Sexo - Mujeres": 5.938,
+    "Edad mediana": 23
+  },
+  {
+    "Distrito": "Maracana",
+    "Total": 15.357,
+    "Sexo - Hombres": 8.028,
+    "Sexo - Mujeres": 7.329,
+    "Edad mediana": 22
+  },
+  {
+    "Distrito": "Puerto Adela",
+    "Total": 1.326,
+    "Sexo - Hombres": 722,
+    "Sexo - Mujeres": 604,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Laurel",
+    "Total": 2.586,
+    "Sexo - Hombres": 1.403,
+    "Sexo - Mujeres": 1.183,
+    "Edad mediana": 25
+  }
+]

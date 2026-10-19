@@ -1,0 +1,122 @@
+[
+  {
+    "Distrito": "Total",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 46.729,
+    "Acceso a TIC - Televisor con pantalla plana": 36.039,
+    "Acceso a TIC - Computadora o notebook": 10.119,
+    "Acceso a TIC - Tablet o similares": 3.147,
+    "Acceso a TIC - Conexion a Internet": 27.38
+  },
+  {
+    "Distrito": "Concepcion",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 16.778,
+    "Acceso a TIC - Televisor con pantalla plana": 13.749,
+    "Acceso a TIC - Computadora o notebook": 5.953,
+    "Acceso a TIC - Tablet o similares": 1.875,
+    "Acceso a TIC - Conexion a Internet": 11.944
+  },
+  {
+    "Distrito": "Belen",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.364,
+    "Acceso a TIC - Televisor con pantalla plana": 1.886,
+    "Acceso a TIC - Computadora o notebook": 286,
+    "Acceso a TIC - Tablet o similares": 79,
+    "Acceso a TIC - Conexion a Internet": 1.023
+  },
+  {
+    "Distrito": "Horqueta",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 9.134,
+    "Acceso a TIC - Televisor con pantalla plana": 6.669,
+    "Acceso a TIC - Computadora o notebook": 1.444,
+    "Acceso a TIC - Tablet o similares": 534,
+    "Acceso a TIC - Conexion a Internet": 5.392
+  },
+  {
+    "Distrito": "Loreto",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 3.138,
+    "Acceso a TIC - Televisor con pantalla plana": 2.38,
+    "Acceso a TIC - Computadora o notebook": 421,
+    "Acceso a TIC - Tablet o similares": 83,
+    "Acceso a TIC - Conexion a Internet": 1.733
+  },
+  {
+    "Distrito": "San Carlos del Apa",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 241,
+    "Acceso a TIC - Televisor con pantalla plana": 188,
+    "Acceso a TIC - Computadora o notebook": 25,
+    "Acceso a TIC - Tablet o similares": 9,
+    "Acceso a TIC - Conexion a Internet": 67
+  },
+  {
+    "Distrito": "San Lazaro",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 2.503,
+    "Acceso a TIC - Televisor con pantalla plana": 2.01,
+    "Acceso a TIC - Computadora o notebook": 572,
+    "Acceso a TIC - Tablet o similares": 173,
+    "Acceso a TIC - Conexion a Internet": 1.213
+  },
+  {
+    "Distrito": "Yby Yau",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 4.396,
+    "Acceso a TIC - Televisor con pantalla plana": 3.418,
+    "Acceso a TIC - Computadora o notebook": 635,
+    "Acceso a TIC - Tablet o similares": 217,
+    "Acceso a TIC - Conexion a Internet": 1.679
+  },
+  {
+    "Distrito": "Azotey",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.434,
+    "Acceso a TIC - Televisor con pantalla plana": 1.048,
+    "Acceso a TIC - Computadora o notebook": 171,
+    "Acceso a TIC - Tablet o similares": 30,
+    "Acceso a TIC - Conexion a Internet": 868
+  },
+  {
+    "Distrito": "Sargento Jose Felix Lopez",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.216,
+    "Acceso a TIC - Televisor con pantalla plana": 816,
+    "Acceso a TIC - Computadora o notebook": 107,
+    "Acceso a TIC - Tablet o similares": 38,
+    "Acceso a TIC - Conexion a Internet": 591
+  },
+  {
+    "Distrito": "San Alfredo",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 575,
+    "Acceso a TIC - Televisor con pantalla plana": 408,
+    "Acceso a TIC - Computadora o notebook": 74,
+    "Acceso a TIC - Tablet o similares": 17,
+    "Acceso a TIC - Conexion a Internet": 261
+  },
+  {
+    "Distrito": "Paso Barreto",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 885,
+    "Acceso a TIC - Televisor con pantalla plana": 584,
+    "Acceso a TIC - Computadora o notebook": 82,
+    "Acceso a TIC - Tablet o similares": 13,
+    "Acceso a TIC - Conexion a Internet": 271
+  },
+  {
+    "Distrito": "Arroyito",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.819,
+    "Acceso a TIC - Televisor con pantalla plana": 1.245,
+    "Acceso a TIC - Computadora o notebook": 153,
+    "Acceso a TIC - Tablet o similares": 28,
+    "Acceso a TIC - Conexion a Internet": 970
+  },
+  {
+    "Distrito": "Paso Horqueta",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 1.746,
+    "Acceso a TIC - Televisor con pantalla plana": 1.242,
+    "Acceso a TIC - Computadora o notebook": 134,
+    "Acceso a TIC - Tablet o similares": 37,
+    "Acceso a TIC - Conexion a Internet": 1.019
+  },
+  {
+    "Distrito": "Itacua",
+    "Acceso a TIC - Telefono celular con pantalla tactil": 500,
+    "Acceso a TIC - Televisor con pantalla plana": 396,
+    "Acceso a TIC - Computadora o notebook": 62,
+    "Acceso a TIC - Tablet o similares": 14,
+    "Acceso a TIC - Conexion a Internet": 349
+  }
+]

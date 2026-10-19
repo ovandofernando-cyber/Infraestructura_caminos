@@ -1,0 +1,135 @@
+[
+  {
+    "Departamento": "Total",
+    "Total": "6.109.903",
+    "Sexo - Hombres": "3.057.674",
+    "Sexo - Mujeres": "3.052.229",
+    "Edad mediana": 29
+  },
+  {
+    "Departamento": "Asuncion",
+    "Total": 462.241,
+    "Sexo - Hombres": 221.222,
+    "Sexo - Mujeres": 241.019,
+    "Edad mediana": 33
+  },
+  {
+    "Departamento": "Concepcion",
+    "Total": 206.181,
+    "Sexo - Hombres": 102.293,
+    "Sexo - Mujeres": 103.888,
+    "Edad mediana": 27
+  },
+  {
+    "Departamento": "San Pedro",
+    "Total": 355.175,
+    "Sexo - Hombres": 180.765,
+    "Sexo - Mujeres": 174.41,
+    "Edad mediana": 28
+  },
+  {
+    "Departamento": "Cordillera",
+    "Total": 268.037,
+    "Sexo - Hombres": 137.118,
+    "Sexo - Mujeres": 130.919,
+    "Edad mediana": 31
+  },
+  {
+    "Departamento": "Guaira",
+    "Total": 179.555,
+    "Sexo - Hombres": 90.197,
+    "Sexo - Mujeres": 89.358,
+    "Edad mediana": 31
+  },
+  {
+    "Departamento": "Caaguazu",
+    "Total": 431.519,
+    "Sexo - Hombres": 218.731,
+    "Sexo - Mujeres": 212.788,
+    "Edad mediana": 28
+  },
+  {
+    "Departamento": "Caazapa",
+    "Total": 139.479,
+    "Sexo - Hombres": 71.157,
+    "Sexo - Mujeres": 68.322,
+    "Edad mediana": 29
+  },
+  {
+    "Departamento": "Itapua",
+    "Total": 449.642,
+    "Sexo - Hombres": 228.057,
+    "Sexo - Mujeres": 221.585,
+    "Edad mediana": 29
+  },
+  {
+    "Departamento": "Misiones",
+    "Total": 111.142,
+    "Sexo - Hombres": 55.756,
+    "Sexo - Mujeres": 55.386,
+    "Edad mediana": 31
+  },
+  {
+    "Departamento": "Paraguari",
+    "Total": 200.472,
+    "Sexo - Hombres": 100.725,
+    "Sexo - Mujeres": 99.747,
+    "Edad mediana": 33
+  },
+  {
+    "Departamento": "Alto Parana",
+    "Total": 763.702,
+    "Sexo - Hombres": 384.226,
+    "Sexo - Mujeres": 379.476,
+    "Edad mediana": 28
+  },
+  {
+    "Departamento": "Central",
+    "Total": "1.883.927",
+    "Sexo - Hombres": 933.196,
+    "Sexo - Mujeres": 950.731,
+    "Edad mediana": 29
+  },
+  {
+    "Departamento": "Neembucu",
+    "Total": 76.719,
+    "Sexo - Hombres": 38.355,
+    "Sexo - Mujeres": 38.364,
+    "Edad mediana": 35
+  },
+  {
+    "Departamento": "Amambay",
+    "Total": 179.412,
+    "Sexo - Hombres": 88.481,
+    "Sexo - Mujeres": 90.931,
+    "Edad mediana": 27
+  },
+  {
+    "Departamento": "Canindeyu",
+    "Total": 191.114,
+    "Sexo - Hombres": 97.403,
+    "Sexo - Mujeres": 93.711,
+    "Edad mediana": 25
+  },
+  {
+    "Departamento": "Presidente Hayes",
+    "Total": 123.313,
+    "Sexo - Hombres": 63.848,
+    "Sexo - Mujeres": 59.465,
+    "Edad mediana": 27
+  },
+  {
+    "Departamento": "Boqueron",
+    "Total": 71.078,
+    "Sexo - Hombres": 36.947,
+    "Sexo - Mujeres": 34.131,
+    "Edad mediana": 26
+  },
+  {
+    "Departamento": "Alto Paraguay",
+    "Total": 17.195,
+    "Sexo - Hombres": 9.197,
+    "Sexo - Mujeres": 7.998,
+    "Edad mediana": 26
+  }
+]

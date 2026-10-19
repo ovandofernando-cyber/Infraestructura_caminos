@@ -1,0 +1,51 @@
+{
+ "id": "3be41550-c3f6-4e72-87ec-31555ce1197e",
+ "name": "estructura-y-características-sociodemográficas-de-la-población",
+ "title": "Estructura y características sociodemográficas de la población",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>En el marco del programa de explotación y difusión de la información del Censo Nacional de Población y Viviendas 2022, el Instituto Nacional de Estadística (INE), presenta el documento “Estructura y características sociodemográficas de la población”. El mismo forma parte de una serie de investigaciones que abarca una diversidad de temas de interés nacional, que aprovechan al máximo la información censal y la oportunidad de la desagregación geográfica de áreas menores y de subpoblaciones específicas. Contar con este acervo de conocimientos fue posible gracias al sustancial aporte de investigadoras e investigadores que han sido seleccionados a través de un riguroso proceso de concurso; a todos ellos nuestro agradecimiento por su compromiso.<br />\nEn esta oportunidad, el estudio “Estructura y características sociodemográficas de la población” que basa su análisis en la composición de la población por sexo y edad, examina la dinámica de la trayectoria poblacional en cuanto a las transformaciones estructurales del país, haciendo uso de pirámides de población a lo largo del periodo 1950-2022 y complementa con un enfoque territorial que permite conocer patrones subnacionales y clasificarlos en distintas etapas de la transición demográfica, tanto por área urbana/rural, como por departamentos. Además, incluye un apartado específico sobre la dinámica de las poblaciones indígenas y sus matices territoriales. Finalmente, se complementa con la visualización de indicadores demográficos como el índice de envejecimiento, la edad mediana y el índice de masculinidad, a través de mapas temáticos a escala distrital, con los cuales es posible identificar asimetrías territoriales de la dinámica demográfica.</p>\n",
+ "url": "https://www.datos.gov.py/dataset/estructura-y-caracter%C3%ADsticas-sociodemogr%C3%A1ficas-de-la-poblaci%C3%B3n",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Vie, 10/02/2026 - 09:55",
+ "metadata_created": "Vie, 10/02/2026 - 09:27",
+ "metadata_modified": "Vie, 10/02/2026 - 09:55",
+ "creator_user_id": "6e460875-5d75-4a20-b4c0-160a50bb251b",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "7ec07138-450d-4ac9-9467-dec5898ae8be",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/315/Estructura_y_caract._sociodemog.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Vie, 10/02/2026 - 09:28",
+   "name": "Estructura y caracteristicas sociodemograficas de la poblacion",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Vie, 10/02/2026 - 09:28",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Vie, 10/02/2026 - 09:28"
+  }
+ ],
+ "tags": [
+  {
+   "id": "7330c913-71d0-4984-b09b-9f44262c4a25",
+   "vocabulary_id": "2",
+   "name": "población"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>Ley N° 6770 \"Que establece la modernización del Sistema Estadístico Nacional (SISEN) y crea el Instituto Nacional de Estadística (INE)\" la Dirección General de Estadística, Encuestas y Censos pasa a denominarse Instituto Nacional de Estadística (INE) como persona jurídica de derecho público, con carácter autárquico y autónomo</p>\n",
+   "id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/ine.PNG",
+   "title": "INSTITUTO NACIONAL DE ESTADISTICA (INE)",
+   "name": "group/instituto-nacional-de-estadistica-ine"
+  }
+ ]
+}

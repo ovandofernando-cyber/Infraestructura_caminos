@@ -1,0 +1,47 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 5.162,
+    "Servicios basicos - Agua corriente(a)": 3.512,
+    "Servicios basicos - Desague sanitario (b)": 2.662,
+    "Servicios basicos - Recoleccion de basura (c)": 645,
+    "Servicios basicos - Energia electrica": 4.746,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Fuerte Olimpo",
+    "Viviendas particulares": 1.307,
+    "Servicios basicos - Agua corriente(a)": 992,
+    "Servicios basicos - Desague sanitario (b)": 696,
+    "Servicios basicos - Recoleccion de basura (c)": 369,
+    "Servicios basicos - Energia electrica": 1.263,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Puerto Casado",
+    "Viviendas particulares": 1.681,
+    "Servicios basicos - Agua corriente(a)": 909,
+    "Servicios basicos - Desague sanitario (b)": 740,
+    "Servicios basicos - Recoleccion de basura (c)": 227,
+    "Servicios basicos - Energia electrica": 1.516,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Bahia Negra",
+    "Viviendas particulares": 843,
+    "Servicios basicos - Agua corriente(a)": 519,
+    "Servicios basicos - Desague sanitario (b)": 417,
+    "Servicios basicos - Recoleccion de basura (c)": 12,
+    "Servicios basicos - Energia electrica": 664,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Carmelo Peralta",
+    "Viviendas particulares": 1.331,
+    "Servicios basicos - Agua corriente(a)": 1.092,
+    "Servicios basicos - Desague sanitario (b)": 809,
+    "Servicios basicos - Recoleccion de basura (c)": 37,
+    "Servicios basicos - Energia electrica": 1.303,
+    "Promedio de personas por vivienda": "3,3"
+  }
+]

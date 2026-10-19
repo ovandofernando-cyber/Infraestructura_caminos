@@ -1,0 +1,101 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 34.267,
+    "Servicios basicos - Agua corriente(a)": 31.137,
+    "Servicios basicos - Desague sanitario (b)": 31.565,
+    "Servicios basicos - Recoleccion de basura (c)": 18.307,
+    "Servicios basicos - Energia electrica": 33.882,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "San Juan Bautista de las Misiones",
+    "Viviendas particulares": 5.877,
+    "Servicios basicos - Agua corriente(a)": 5.524,
+    "Servicios basicos - Desague sanitario (b)": 5.62,
+    "Servicios basicos - Recoleccion de basura (c)": 3.66,
+    "Servicios basicos - Energia electrica": 5.826,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Ayolas",
+    "Viviendas particulares": 5.218,
+    "Servicios basicos - Agua corriente(a)": 4.573,
+    "Servicios basicos - Desague sanitario (b)": 4.919,
+    "Servicios basicos - Recoleccion de basura (c)": 3.767,
+    "Servicios basicos - Energia electrica": 5.171,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "San Ignacio",
+    "Viviendas particulares": 8.973,
+    "Servicios basicos - Agua corriente(a)": 8.277,
+    "Servicios basicos - Desague sanitario (b)": 8.265,
+    "Servicios basicos - Recoleccion de basura (c)": 5.202,
+    "Servicios basicos - Energia electrica": 8.876,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "San Miguel",
+    "Viviendas particulares": 1.685,
+    "Servicios basicos - Agua corriente(a)": 1.613,
+    "Servicios basicos - Desague sanitario (b)": 1.538,
+    "Servicios basicos - Recoleccion de basura (c)": 419,
+    "Servicios basicos - Energia electrica": 1.666,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "San Patricio",
+    "Viviendas particulares": 1.099,
+    "Servicios basicos - Agua corriente(a)": 1.067,
+    "Servicios basicos - Desague sanitario (b)": 945,
+    "Servicios basicos - Recoleccion de basura (c)": 552,
+    "Servicios basicos - Energia electrica": 1.082,
+    "Promedio de personas por vivienda": "2,9"
+  },
+  {
+    "Distrito": "Santa Maria",
+    "Viviendas particulares": 2.464,
+    "Servicios basicos - Agua corriente(a)": 2.373,
+    "Servicios basicos - Desague sanitario (b)": 2.128,
+    "Servicios basicos - Recoleccion de basura (c)": 987,
+    "Servicios basicos - Energia electrica": 2.431,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "Santa Rosa",
+    "Viviendas particulares": 5.32,
+    "Servicios basicos - Agua corriente(a)": 4.585,
+    "Servicios basicos - Desague sanitario (b)": 4.764,
+    "Servicios basicos - Recoleccion de basura (c)": 2.026,
+    "Servicios basicos - Energia electrica": 5.253,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Santiago",
+    "Viviendas particulares": 1.932,
+    "Servicios basicos - Agua corriente(a)": 1.795,
+    "Servicios basicos - Desague sanitario (b)": 1.819,
+    "Servicios basicos - Recoleccion de basura (c)": 944,
+    "Servicios basicos - Energia electrica": 1.894,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Villa Florida",
+    "Viviendas particulares": 944,
+    "Servicios basicos - Agua corriente(a)": 915,
+    "Servicios basicos - Desague sanitario (b)": 906,
+    "Servicios basicos - Recoleccion de basura (c)": 630,
+    "Servicios basicos - Energia electrica": 940,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Yabebyry",
+    "Viviendas particulares": 755,
+    "Servicios basicos - Agua corriente(a)": 415,
+    "Servicios basicos - Desague sanitario (b)": 661,
+    "Servicios basicos - Recoleccion de basura (c)": 120,
+    "Servicios basicos - Energia electrica": 743,
+    "Promedio de personas por vivienda": "2,8"
+  }
+]

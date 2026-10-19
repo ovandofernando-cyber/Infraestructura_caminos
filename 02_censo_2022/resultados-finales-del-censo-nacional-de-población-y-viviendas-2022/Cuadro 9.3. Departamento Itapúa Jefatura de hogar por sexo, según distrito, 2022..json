@@ -1,0 +1,188 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 141.154,
+    "Jefatura de hogar - Hombres": 88.673,
+    "Jefatura de hogar - Mujeres": 52.481
+  },
+  {
+    "Distrito": "Encarnacion",
+    "Total": 33.85,
+    "Jefatura de hogar - Hombres": 19.63,
+    "Jefatura de hogar - Mujeres": 14.22
+  },
+  {
+    "Distrito": "Bella Vista",
+    "Total": 3.378,
+    "Jefatura de hogar - Hombres": 2.31,
+    "Jefatura de hogar - Mujeres": 1.068
+  },
+  {
+    "Distrito": "Cambyreta",
+    "Total": 14.002,
+    "Jefatura de hogar - Hombres": 8.704,
+    "Jefatura de hogar - Mujeres": 5.298
+  },
+  {
+    "Distrito": "Capitan Meza",
+    "Total": 2.948,
+    "Jefatura de hogar - Hombres": 2.093,
+    "Jefatura de hogar - Mujeres": 855
+  },
+  {
+    "Distrito": "Capitan Miranda",
+    "Total": 3.056,
+    "Jefatura de hogar - Hombres": 1.997,
+    "Jefatura de hogar - Mujeres": 1.059
+  },
+  {
+    "Distrito": "Nueva Alborada",
+    "Total": 1.513,
+    "Jefatura de hogar - Hombres": 1.077,
+    "Jefatura de hogar - Mujeres": 436
+  },
+  {
+    "Distrito": "Carmen del Parana",
+    "Total": 2.029,
+    "Jefatura de hogar - Hombres": 1.311,
+    "Jefatura de hogar - Mujeres": 718
+  },
+  {
+    "Distrito": "Coronel Bogado",
+    "Total": 5.68,
+    "Jefatura de hogar - Hombres": 3.272,
+    "Jefatura de hogar - Mujeres": 2.408
+  },
+  {
+    "Distrito": "Carlos Antonio Lopez",
+    "Total": 4.168,
+    "Jefatura de hogar - Hombres": 2.797,
+    "Jefatura de hogar - Mujeres": 1.371
+  },
+  {
+    "Distrito": "Natalio",
+    "Total": 4.697,
+    "Jefatura de hogar - Hombres": 3.038,
+    "Jefatura de hogar - Mujeres": 1.659
+  },
+  {
+    "Distrito": "Fram",
+    "Total": 2.632,
+    "Jefatura de hogar - Hombres": 1.742,
+    "Jefatura de hogar - Mujeres": 890
+  },
+  {
+    "Distrito": "General Artigas",
+    "Total": 2.874,
+    "Jefatura de hogar - Hombres": 1.807,
+    "Jefatura de hogar - Mujeres": 1.067
+  },
+  {
+    "Distrito": "General Delgado",
+    "Total": 1.934,
+    "Jefatura de hogar - Hombres": 1.118,
+    "Jefatura de hogar - Mujeres": 816
+  },
+  {
+    "Distrito": "Hohenau",
+    "Total": 4.276,
+    "Jefatura de hogar - Hombres": 2.817,
+    "Jefatura de hogar - Mujeres": 1.459
+  },
+  {
+    "Distrito": "Jesus",
+    "Total": 1.692,
+    "Jefatura de hogar - Hombres": 1.058,
+    "Jefatura de hogar - Mujeres": 634
+  },
+  {
+    "Distrito": "Jose Leandro Oviedo",
+    "Total": 853,
+    "Jefatura de hogar - Hombres": 519,
+    "Jefatura de hogar - Mujeres": 334
+  },
+  {
+    "Distrito": "Obligado",
+    "Total": 4.34,
+    "Jefatura de hogar - Hombres": 2.858,
+    "Jefatura de hogar - Mujeres": 1.482
+  },
+  {
+    "Distrito": "Mayor Julio Dionisio Otano",
+    "Total": 3.024,
+    "Jefatura de hogar - Hombres": 1.951,
+    "Jefatura de hogar - Mujeres": 1.073
+  },
+  {
+    "Distrito": "San Cosme y Damian",
+    "Total": 2.343,
+    "Jefatura de hogar - Hombres": 1.372,
+    "Jefatura de hogar - Mujeres": 971
+  },
+  {
+    "Distrito": "San Pedro del Parana",
+    "Total": 7.213,
+    "Jefatura de hogar - Hombres": 4.694,
+    "Jefatura de hogar - Mujeres": 2.519
+  },
+  {
+    "Distrito": "San Rafael del Parana",
+    "Total": 4.349,
+    "Jefatura de hogar - Hombres": 2.844,
+    "Jefatura de hogar - Mujeres": 1.505
+  },
+  {
+    "Distrito": "Trinidad",
+    "Total": 2.494,
+    "Jefatura de hogar - Hombres": 1.575,
+    "Jefatura de hogar - Mujeres": 919
+  },
+  {
+    "Distrito": "Edelira",
+    "Total": 5.461,
+    "Jefatura de hogar - Hombres": 3.729,
+    "Jefatura de hogar - Mujeres": 1.732
+  },
+  {
+    "Distrito": "Tomas Romero Pereira",
+    "Total": 7.912,
+    "Jefatura de hogar - Hombres": 4.843,
+    "Jefatura de hogar - Mujeres": 3.069
+  },
+  {
+    "Distrito": "Alto Vera",
+    "Total": 3.414,
+    "Jefatura de hogar - Hombres": 2.156,
+    "Jefatura de hogar - Mujeres": 1.258
+  },
+  {
+    "Distrito": "La Paz",
+    "Total": 834,
+    "Jefatura de hogar - Hombres": 626,
+    "Jefatura de hogar - Mujeres": 208
+  },
+  {
+    "Distrito": "Yatytay",
+    "Total": 2.804,
+    "Jefatura de hogar - Hombres": 1.917,
+    "Jefatura de hogar - Mujeres": 887
+  },
+  {
+    "Distrito": "San Juan del Parana",
+    "Total": 2.809,
+    "Jefatura de hogar - Hombres": 1.685,
+    "Jefatura de hogar - Mujeres": 1.124
+  },
+  {
+    "Distrito": "Pirapo",
+    "Total": 1.807,
+    "Jefatura de hogar - Hombres": 1.318,
+    "Jefatura de hogar - Mujeres": 489
+  },
+  {
+    "Distrito": "Itapua Poty",
+    "Total": 2.768,
+    "Jefatura de hogar - Hombres": 1.815,
+    "Jefatura de hogar - Mujeres": 953
+  }
+]

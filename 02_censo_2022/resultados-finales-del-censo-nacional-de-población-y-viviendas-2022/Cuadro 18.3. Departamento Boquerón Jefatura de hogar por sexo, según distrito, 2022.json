@@ -1,0 +1,32 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 20.398,
+    "Jefatura de hogar - Hombres": 14.284,
+    "Jefatura de hogar - Mujeres": 6.114
+  },
+  {
+    "Distrito": "Mariscal Jose Felix Estigarribia",
+    "Total": 3.412,
+    "Jefatura de hogar - Hombres": 2.139,
+    "Jefatura de hogar - Mujeres": 1.273
+  },
+  {
+    "Distrito": "Filadelfia",
+    "Total": 6.096,
+    "Jefatura de hogar - Hombres": 4.059,
+    "Jefatura de hogar - Mujeres": 2.037
+  },
+  {
+    "Distrito": "Loma Plata",
+    "Total": 6.306,
+    "Jefatura de hogar - Hombres": 4.683,
+    "Jefatura de hogar - Mujeres": 1.623
+  },
+  {
+    "Distrito": "Boqueron",
+    "Total": 4.584,
+    "Jefatura de hogar - Hombres": 3.403,
+    "Jefatura de hogar - Mujeres": 1.181
+  }
+]

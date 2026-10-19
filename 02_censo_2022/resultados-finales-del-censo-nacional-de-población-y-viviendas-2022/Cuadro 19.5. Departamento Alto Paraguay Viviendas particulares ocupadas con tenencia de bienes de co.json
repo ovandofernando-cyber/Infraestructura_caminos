@@ -1,0 +1,57 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 2.04,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 1.053,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 1.546,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 696,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 2.577,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 791,
+    "Viviendas con tenencia de bienes de confort - Microondas": 720,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 1.492
+  },
+  {
+    "Distrito": "Fuerte Olimpo",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 546,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 356,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 458,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 235,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 712,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 236,
+    "Viviendas con tenencia de bienes de confort - Microondas": 245,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 450
+  },
+  {
+    "Distrito": "Puerto Casado",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 557,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 213,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 350,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 144,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 793,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 178,
+    "Viviendas con tenencia de bienes de confort - Microondas": 178,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 365
+  },
+  {
+    "Distrito": "Bahia Negra",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 238,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 71,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 159,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 46,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 306,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 128,
+    "Viviendas con tenencia de bienes de confort - Microondas": 74,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 155
+  },
+  {
+    "Distrito": "Carmelo Peralta",
+    "Viviendas con tenencia de bienes de confort - Lavarropa automatica": 699,
+    "Viviendas con tenencia de bienes de confort - Secarropa": 413,
+    "Viviendas con tenencia de bienes de confort - Ducha electrica": 579,
+    "Viviendas con tenencia de bienes de confort - Termocalefon": 271,
+    "Viviendas con tenencia de bienes de confort - Motocicleta": 766,
+    "Viviendas con tenencia de bienes de confort - Automovil, camion o camioneta": 249,
+    "Viviendas con tenencia de bienes de confort - Microondas": 223,
+    "Viviendas con tenencia de bienes de confort - Acondicionador de aire": 522
+  }
+]

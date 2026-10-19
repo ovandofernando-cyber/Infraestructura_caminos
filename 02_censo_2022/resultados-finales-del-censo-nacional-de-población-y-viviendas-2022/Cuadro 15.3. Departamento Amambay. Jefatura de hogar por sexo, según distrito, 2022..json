@@ -1,0 +1,44 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 51.684,
+    "Jefatura de hogar - Hombres": 25.808,
+    "Jefatura de hogar - Mujeres": 25.876
+  },
+  {
+    "Distrito": "Pedro Juan Caballero",
+    "Total": 36.019,
+    "Jefatura de hogar - Hombres": 17.952,
+    "Jefatura de hogar - Mujeres": 18.067
+  },
+  {
+    "Distrito": "Bella Vista",
+    "Total": 3.638,
+    "Jefatura de hogar - Hombres": 1.643,
+    "Jefatura de hogar - Mujeres": 1.995
+  },
+  {
+    "Distrito": "Capitan Bado",
+    "Total": 5.698,
+    "Jefatura de hogar - Hombres": 2.662,
+    "Jefatura de hogar - Mujeres": 3.036
+  },
+  {
+    "Distrito": "Zanja Pyta",
+    "Total": 1.702,
+    "Jefatura de hogar - Hombres": 815,
+    "Jefatura de hogar - Mujeres": 887
+  },
+  {
+    "Distrito": "Karapai",
+    "Total": 1.392,
+    "Jefatura de hogar - Hombres": 889,
+    "Jefatura de hogar - Mujeres": 503
+  },
+  {
+    "Distrito": "Cerro Cora",
+    "Total": 3.235,
+    "Jefatura de hogar - Hombres": 1.847,
+    "Jefatura de hogar - Mujeres": 1.388
+  }
+]

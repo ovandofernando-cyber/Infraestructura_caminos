@@ -1,0 +1,155 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 57.353,
+    "Servicios basicos - Agua corriente (a)": 42.646,
+    "Servicios basicos - Desague sanitario (b)": 40.855,
+    "Servicios basicos - Recoleccion de basura (c)": 20.372,
+    "Servicios basicos - Energia electrica": 55.343,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Salto del Guaira",
+    "Viviendas particulares": 8.663,
+    "Servicios basicos - Agua corriente (a)": 7.363,
+    "Servicios basicos - Desague sanitario (b)": 8.229,
+    "Servicios basicos - Recoleccion de basura (c)": 7.188,
+    "Servicios basicos - Energia electrica": 8.652,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Corpus Christi",
+    "Viviendas particulares": 2.42,
+    "Servicios basicos - Agua corriente (a)": 1.142,
+    "Servicios basicos - Desague sanitario (b)": 1.846,
+    "Servicios basicos - Recoleccion de basura (c)": 1.012,
+    "Servicios basicos - Energia electrica": 2.276,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Villa Curuguaty",
+    "Viviendas particulares": 9.781,
+    "Servicios basicos - Agua corriente (a)": 8.08,
+    "Servicios basicos - Desague sanitario (b)": 6.898,
+    "Servicios basicos - Recoleccion de basura (c)": 2.741,
+    "Servicios basicos - Energia electrica": 9.5,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Villa Ygatimi",
+    "Viviendas particulares": 3.74,
+    "Servicios basicos - Agua corriente (a)": 2.334,
+    "Servicios basicos - Desague sanitario (b)": 2,
+    "Servicios basicos - Recoleccion de basura (c)": 333,
+    "Servicios basicos - Energia electrica": 3.514,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Itanara",
+    "Viviendas particulares": 743,
+    "Servicios basicos - Agua corriente (a)": 409,
+    "Servicios basicos - Desague sanitario (b)": 297,
+    "Servicios basicos - Recoleccion de basura (c)": 104,
+    "Servicios basicos - Energia electrica": 585,
+    "Promedio de personas por vivienda": "2,9"
+  },
+  {
+    "Distrito": "Ypejhu",
+    "Viviendas particulares": 2.574,
+    "Servicios basicos - Agua corriente (a)": 1.919,
+    "Servicios basicos - Desague sanitario (b)": 1.23,
+    "Servicios basicos - Recoleccion de basura (c)": 279,
+    "Servicios basicos - Energia electrica": 2.268,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Francisco Caballero Alvarez",
+    "Viviendas particulares": 2.374,
+    "Servicios basicos - Agua corriente (a)": 1.571,
+    "Servicios basicos - Desague sanitario (b)": 1.973,
+    "Servicios basicos - Recoleccion de basura (c)": 1.233,
+    "Servicios basicos - Energia electrica": 2.342,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Katuete",
+    "Viviendas particulares": 3.525,
+    "Servicios basicos - Agua corriente (a)": 2.625,
+    "Servicios basicos - Desague sanitario (b)": 3.373,
+    "Servicios basicos - Recoleccion de basura (c)": 3.133,
+    "Servicios basicos - Energia electrica": 3.523,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "La Paloma del Espiritu Santo",
+    "Viviendas particulares": 2.324,
+    "Servicios basicos - Agua corriente (a)": 1.958,
+    "Servicios basicos - Desague sanitario (b)": 2.123,
+    "Servicios basicos - Recoleccion de basura (c)": 1.581,
+    "Servicios basicos - Energia electrica": 2.317,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Nueva Esperanza",
+    "Viviendas particulares": 3.515,
+    "Servicios basicos - Agua corriente (a)": 2.336,
+    "Servicios basicos - Desague sanitario (b)": 3.136,
+    "Servicios basicos - Recoleccion de basura (c)": 2.544,
+    "Servicios basicos - Energia electrica": 3.461,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Yasy Cany",
+    "Viviendas particulares": 6.215,
+    "Servicios basicos - Agua corriente (a)": 5.311,
+    "Servicios basicos - Desague sanitario (b)": 3.289,
+    "Servicios basicos - Recoleccion de basura (c)": 41,
+    "Servicios basicos - Energia electrica": 5.997,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Ybyrarobana",
+    "Viviendas particulares": 2.666,
+    "Servicios basicos - Agua corriente (a)": 1.518,
+    "Servicios basicos - Desague sanitario (b)": 1.727,
+    "Servicios basicos - Recoleccion de basura (c)": 25,
+    "Servicios basicos - Energia electrica": 2.546,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Yby Pyta",
+    "Viviendas particulares": 3.43,
+    "Servicios basicos - Agua corriente (a)": 2.317,
+    "Servicios basicos - Desague sanitario (b)": 1.681,
+    "Servicios basicos - Recoleccion de basura (c)": 7,
+    "Servicios basicos - Energia electrica": 3.331,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "Maracana",
+    "Viviendas particulares": 4.177,
+    "Servicios basicos - Agua corriente (a)": 3.243,
+    "Servicios basicos - Desague sanitario (b)": 2.158,
+    "Servicios basicos - Recoleccion de basura (c)": 14,
+    "Servicios basicos - Energia electrica": 3.878,
+    "Promedio de personas por vivienda": "3,7"
+  },
+  {
+    "Distrito": "Puerto Adela",
+    "Viviendas particulares": 432,
+    "Servicios basicos - Agua corriente (a)": 113,
+    "Servicios basicos - Desague sanitario (b)": 356,
+    "Servicios basicos - Recoleccion de basura (c)": 14,
+    "Servicios basicos - Energia electrica": 423,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Laurel",
+    "Viviendas particulares": 774,
+    "Servicios basicos - Agua corriente (a)": 407,
+    "Servicios basicos - Desague sanitario (b)": 539,
+    "Servicios basicos - Recoleccion de basura (c)": 123,
+    "Servicios basicos - Energia electrica": 730,
+    "Promedio de personas por vivienda": "3,3"
+  }
+]

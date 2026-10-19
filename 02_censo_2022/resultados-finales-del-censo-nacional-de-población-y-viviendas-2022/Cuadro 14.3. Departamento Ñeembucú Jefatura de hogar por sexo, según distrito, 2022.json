@@ -1,0 +1,104 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 26.667,
+    "Jefatura de hogar - Hombres": 16.533,
+    "Jefatura de hogar - Mujeres": 10.134
+  },
+  {
+    "Distrito": "Pilar",
+    "Total": 11.748,
+    "Jefatura de hogar - Hombres": 6.955,
+    "Jefatura de hogar - Mujeres": 4.793
+  },
+  {
+    "Distrito": "Alberdi",
+    "Total": 2.342,
+    "Jefatura de hogar - Hombres": 1.443,
+    "Jefatura de hogar - Mujeres": 899
+  },
+  {
+    "Distrito": "Cerrito",
+    "Total": 1.568,
+    "Jefatura de hogar - Hombres": 1.042,
+    "Jefatura de hogar - Mujeres": 526
+  },
+  {
+    "Distrito": "Desmochados",
+    "Total": 462,
+    "Jefatura de hogar - Hombres": 335,
+    "Jefatura de hogar - Mujeres": 127
+  },
+  {
+    "Distrito": "Gral. Jose Eduvigis Diaz",
+    "Total": 1.187,
+    "Jefatura de hogar - Hombres": 750,
+    "Jefatura de hogar - Mujeres": 437
+  },
+  {
+    "Distrito": "Guazu-Cua",
+    "Total": 531,
+    "Jefatura de hogar - Hombres": 376,
+    "Jefatura de hogar - Mujeres": 155
+  },
+  {
+    "Distrito": "Humaita",
+    "Total": 954,
+    "Jefatura de hogar - Hombres": 634,
+    "Jefatura de hogar - Mujeres": 320
+  },
+  {
+    "Distrito": "Isla Umbu",
+    "Total": 884,
+    "Jefatura de hogar - Hombres": 562,
+    "Jefatura de hogar - Mujeres": 322
+  },
+  {
+    "Distrito": "Laureles",
+    "Total": 875,
+    "Jefatura de hogar - Hombres": 556,
+    "Jefatura de hogar - Mujeres": 319
+  },
+  {
+    "Distrito": "Mayor Jose Dejesus Martinez",
+    "Total": 1.153,
+    "Jefatura de hogar - Hombres": 728,
+    "Jefatura de hogar - Mujeres": 425
+  },
+  {
+    "Distrito": "Paso de Patria",
+    "Total": 644,
+    "Jefatura de hogar - Hombres": 431,
+    "Jefatura de hogar - Mujeres": 213
+  },
+  {
+    "Distrito": "San Juan Bautista de Neembucu",
+    "Total": 1.38,
+    "Jefatura de hogar - Hombres": 830,
+    "Jefatura de hogar - Mujeres": 550
+  },
+  {
+    "Distrito": "Tacuaras",
+    "Total": 924,
+    "Jefatura de hogar - Hombres": 611,
+    "Jefatura de hogar - Mujeres": 313
+  },
+  {
+    "Distrito": "Villa Franca",
+    "Total": 336,
+    "Jefatura de hogar - Hombres": 217,
+    "Jefatura de hogar - Mujeres": 119
+  },
+  {
+    "Distrito": "Villa Oliva",
+    "Total": 1.05,
+    "Jefatura de hogar - Hombres": 678,
+    "Jefatura de hogar - Mujeres": 372
+  },
+  {
+    "Distrito": "Villalbin",
+    "Total": 629,
+    "Jefatura de hogar - Hombres": 385,
+    "Jefatura de hogar - Mujeres": 244
+  }
+]

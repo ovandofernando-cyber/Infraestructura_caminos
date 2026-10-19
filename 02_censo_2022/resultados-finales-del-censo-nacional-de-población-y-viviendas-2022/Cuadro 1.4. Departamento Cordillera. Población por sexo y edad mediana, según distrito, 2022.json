@@ -1,0 +1,149 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 268.037,
+    "Sexo - Hombres": 137.118,
+    "Sexo - Mujeres": 130.919,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Caacupe",
+    "Total": 50.409,
+    "Sexo - Hombres": 25.023,
+    "Sexo - Mujeres": 25.386,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Altos",
+    "Total": 14.641,
+    "Sexo - Hombres": 7.47,
+    "Sexo - Mujeres": 7.171,
+    "Edad mediana": 29
+  },
+  {
+    "Distrito": "Arroyos y Esteros",
+    "Total": 20.347,
+    "Sexo - Hombres": 10.435,
+    "Sexo - Mujeres": 9.912,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Atyra",
+    "Total": 15.988,
+    "Sexo - Hombres": 8.11,
+    "Sexo - Mujeres": 7.878,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Caraguatay",
+    "Total": 10.143,
+    "Sexo - Hombres": 5.162,
+    "Sexo - Mujeres": 4.981,
+    "Edad mediana": 35
+  },
+  {
+    "Distrito": "Emboscada",
+    "Total": 21.182,
+    "Sexo - Hombres": 11.985,
+    "Sexo - Mujeres": 9.197,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Eusebio Ayala",
+    "Total": 19.334,
+    "Sexo - Hombres": 9.703,
+    "Sexo - Mujeres": 9.631,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Isla Pucu",
+    "Total": 5.304,
+    "Sexo - Hombres": 2.689,
+    "Sexo - Mujeres": 2.615,
+    "Edad mediana": 36
+  },
+  {
+    "Distrito": "Itacurubi de la Cordillera",
+    "Total": 8.961,
+    "Sexo - Hombres": 4.401,
+    "Sexo - Mujeres": 4.56,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Juan de Mena",
+    "Total": 6.341,
+    "Sexo - Hombres": 3.163,
+    "Sexo - Mujeres": 3.178,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Loma Grande",
+    "Total": 3.836,
+    "Sexo - Hombres": 1.947,
+    "Sexo - Mujeres": 1.889,
+    "Edad mediana": 30
+  },
+  {
+    "Distrito": "Mbocayaty del Yhaguy",
+    "Total": 3.316,
+    "Sexo - Hombres": 1.714,
+    "Sexo - Mujeres": 1.602,
+    "Edad mediana": 36
+  },
+  {
+    "Distrito": "Nueva Colombia",
+    "Total": 4.602,
+    "Sexo - Hombres": 2.392,
+    "Sexo - Mujeres": 2.21,
+    "Edad mediana": 31
+  },
+  {
+    "Distrito": "Piribebuy",
+    "Total": 25.758,
+    "Sexo - Hombres": 12.971,
+    "Sexo - Mujeres": 12.787,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Primero de Marzo",
+    "Total": 4.997,
+    "Sexo - Hombres": 2.634,
+    "Sexo - Mujeres": 2.363,
+    "Edad mediana": 35
+  },
+  {
+    "Distrito": "San Bernardino",
+    "Total": 12.216,
+    "Sexo - Hombres": 6.215,
+    "Sexo - Mujeres": 6.001,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Santa Elena",
+    "Total": 4.346,
+    "Sexo - Hombres": 2.186,
+    "Sexo - Mujeres": 2.16,
+    "Edad mediana": 34
+  },
+  {
+    "Distrito": "Tobati",
+    "Total": 27.435,
+    "Sexo - Hombres": 14.303,
+    "Sexo - Mujeres": 13.132,
+    "Edad mediana": 28
+  },
+  {
+    "Distrito": "Valenzuela",
+    "Total": 5.907,
+    "Sexo - Hombres": 3.066,
+    "Sexo - Mujeres": 2.841,
+    "Edad mediana": 34
+  },
+  {
+    "Distrito": "San Jose Obrero",
+    "Total": 2.974,
+    "Sexo - Hombres": 1.549,
+    "Sexo - Mujeres": 1.425,
+    "Edad mediana": 38
+  }
+]

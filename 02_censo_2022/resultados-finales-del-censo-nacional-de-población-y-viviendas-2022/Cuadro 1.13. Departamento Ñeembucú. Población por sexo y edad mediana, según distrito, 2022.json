@@ -1,0 +1,121 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 76.719,
+    "Sexo - Hombres": 38.355,
+    "Sexo - Mujeres": 38.364,
+    "Edad mediana": 35
+  },
+  {
+    "Distrito": "Pilar",
+    "Total": 34.741,
+    "Sexo - Hombres": 16.662,
+    "Sexo - Mujeres": 18.079,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Alberdi",
+    "Total": 7.536,
+    "Sexo - Hombres": 3.846,
+    "Sexo - Mujeres": 3.69,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Cerrito",
+    "Total": 4.34,
+    "Sexo - Hombres": 2.274,
+    "Sexo - Mujeres": 2.066,
+    "Edad mediana": 37
+  },
+  {
+    "Distrito": "Desmochados",
+    "Total": 1.171,
+    "Sexo - Hombres": 598,
+    "Sexo - Mujeres": 573,
+    "Edad mediana": 48
+  },
+  {
+    "Distrito": "Gral. Jose Eduvigis Diaz",
+    "Total": 3.164,
+    "Sexo - Hombres": 1.588,
+    "Sexo - Mujeres": 1.576,
+    "Edad mediana": 39
+  },
+  {
+    "Distrito": "Guazu-Cua",
+    "Total": 1.393,
+    "Sexo - Hombres": 761,
+    "Sexo - Mujeres": 632,
+    "Edad mediana": 43
+  },
+  {
+    "Distrito": "Humaita",
+    "Total": 2.391,
+    "Sexo - Hombres": 1.242,
+    "Sexo - Mujeres": 1.149,
+    "Edad mediana": 40
+  },
+  {
+    "Distrito": "Isla Umbu",
+    "Total": 2.166,
+    "Sexo - Hombres": 1.098,
+    "Sexo - Mujeres": 1.068,
+    "Edad mediana": 44
+  },
+  {
+    "Distrito": "Laureles",
+    "Total": 2.323,
+    "Sexo - Hombres": 1.202,
+    "Sexo - Mujeres": 1.121,
+    "Edad mediana": 42
+  },
+  {
+    "Distrito": "Mayor Jose Dejesus Martinez",
+    "Total": 3.037,
+    "Sexo - Hombres": 1.521,
+    "Sexo - Mujeres": 1.516,
+    "Edad mediana": 41
+  },
+  {
+    "Distrito": "Paso de Patria",
+    "Total": 1.809,
+    "Sexo - Hombres": 947,
+    "Sexo - Mujeres": 862,
+    "Edad mediana": 36
+  },
+  {
+    "Distrito": "San Juan Bautista de Neembucu",
+    "Total": 3.803,
+    "Sexo - Hombres": 1.907,
+    "Sexo - Mujeres": 1.896,
+    "Edad mediana": 39
+  },
+  {
+    "Distrito": "Tacuaras",
+    "Total": 2.717,
+    "Sexo - Hombres": 1.431,
+    "Sexo - Mujeres": 1.286,
+    "Edad mediana": 35
+  },
+  {
+    "Distrito": "Villa Franca",
+    "Total": 1.138,
+    "Sexo - Hombres": 657,
+    "Sexo - Mujeres": 481,
+    "Edad mediana": 33
+  },
+  {
+    "Distrito": "Villa Oliva",
+    "Total": 3.377,
+    "Sexo - Hombres": 1.832,
+    "Sexo - Mujeres": 1.545,
+    "Edad mediana": 32
+  },
+  {
+    "Distrito": "Villalbin",
+    "Total": 1.613,
+    "Sexo - Hombres": 789,
+    "Sexo - Mujeres": 824,
+    "Edad mediana": 40
+  }
+]

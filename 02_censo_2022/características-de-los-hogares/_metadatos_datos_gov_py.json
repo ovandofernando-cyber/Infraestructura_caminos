@@ -1,0 +1,51 @@
+{
+ "id": "5aa43548-420a-48dc-bcb1-cdb6947f2807",
+ "name": "características-de-los-hogares",
+ "title": "Características de los hogares",
+ "maintainer": "Datos.gov.py",
+ "maintainer_email": "mmeza@mitic.gov.py",
+ "license_title": "https://www.paraguay.gov.py/datos-abiertos/licencias",
+ "notes": "<p>En el marco del programa de explotación y difusión de la información del Censo Nacional de Población y Viviendas 2022, el Instituto Nacional de Estadística (INE), presenta el documento \"Características de los hogares\". El mismo forma parte de una serie de investigaciones que abarca una diversidad de temas de interés nacional, que aprovechan al máximo la información censal y la oportunidad de la desagregación geográfica de áreas menores y de subpoblaciones específicas. Contar con este acervo de conocimientos fue posible gracias al sustancial aporte de investigadoras e investigadores que han sido seleccionados a través de un riguroso proceso de concurso; a todos ellos nuestro agradecimiento por su compromiso.<br />\nEn esta oportunidad, el estudio \"Características de los hogares\" tiene el propósito de identificar continuidades y cambios de los hogares, familiares y no familiares en el periodo 2002-2022, tomando como eje principal de análisis la tipología de hogares. En este contexto, se analiza la dinámica de los hogares combinando factores demográficos, sociales y culturales, a través de variables como el tamaño y composición de los hogares, la jefatura de hogar con énfasis en jefas mujeres, el ciclo de vida familiar, el estado civil y el perfil educativo de los jefes, así como las condiciones de necesidades básicas de sus hogares, diferenciando el ámbito urbano y rural. El estudio contempla además un apartado sobre hogares indígenas.</p>\n",
+ "url": "https://www.datos.gov.py/dataset/caracter%C3%ADsticas-de-los-hogares",
+ "state": "Active",
+ "log_message": "Update to resource 'Property title'",
+ "private": true,
+ "revision_timestamp": "Vie, 10/02/2026 - 12:55",
+ "metadata_created": "Vie, 10/02/2026 - 10:37",
+ "metadata_modified": "Vie, 10/02/2026 - 12:55",
+ "creator_user_id": "6e460875-5d75-4a20-b4c0-160a50bb251b",
+ "type": "Dataset",
+ "resources": [
+  {
+   "id": "d8385056-7ca4-4640-bcd3-3435dc0c7db1",
+   "revision_id": "",
+   "url": "https://www.ine.gov.py/Publicaciones/Biblioteca/documento/324/Caracteristicas_de_los_hogares.pdf",
+   "description": "",
+   "format": "pdf",
+   "state": "Active",
+   "revision_timestamp": "Vie, 10/02/2026 - 10:37",
+   "name": "Caracteristicas de los hogares",
+   "mimetype": "pdf",
+   "size": "",
+   "created": "Vie, 10/02/2026 - 10:37",
+   "resource_group_id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "last_modified": "Date changed  Vie, 10/02/2026 - 10:37"
+  }
+ ],
+ "tags": [
+  {
+   "id": "221daf1f-0a47-47b3-83d2-bfd224bfd170",
+   "vocabulary_id": "2",
+   "name": "Hogares"
+  }
+ ],
+ "groups": [
+  {
+   "description": "<p>Ley N° 6770 \"Que establece la modernización del Sistema Estadístico Nacional (SISEN) y crea el Instituto Nacional de Estadística (INE)\" la Dirección General de Estadística, Encuestas y Censos pasa a denominarse Instituto Nacional de Estadística (INE) como persona jurídica de derecho público, con carácter autárquico y autónomo</p>\n",
+   "id": "9eaed2c1-6f67-4fe8-8dd4-daef8833beeb",
+   "image_display_url": "https://www.datos.gov.py/sites/default/files/ine.PNG",
+   "title": "INSTITUTO NACIONAL DE ESTADISTICA (INE)",
+   "name": "group/instituto-nacional-de-estadistica-ine"
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "Distrito": "Total",
+    "Total": 5.199,
+    "Jefatura de hogar - Hombres": 2.798,
+    "Jefatura de hogar - Mujeres": 2.401
+  },
+  {
+    "Distrito": "Fuerte Olimpo",
+    "Total": 1.32,
+    "Jefatura de hogar - Hombres": 694,
+    "Jefatura de hogar - Mujeres": 626
+  },
+  {
+    "Distrito": "Puerto Casado",
+    "Total": 1.689,
+    "Jefatura de hogar - Hombres": 866,
+    "Jefatura de hogar - Mujeres": 823
+  },
+  {
+    "Distrito": "Bahia Negra",
+    "Total": 850,
+    "Jefatura de hogar - Hombres": 531,
+    "Jefatura de hogar - Mujeres": 319
+  },
+  {
+    "Distrito": "Carmelo Peralta",
+    "Total": 1.34,
+    "Jefatura de hogar - Hombres": 707,
+    "Jefatura de hogar - Mujeres": 633
+  }
+]

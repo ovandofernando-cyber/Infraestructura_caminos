@@ -1,0 +1,209 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 105.238,
+    "Servicios basicos - Agua corriente(a)": 92.767,
+    "Servicios basicos - Desague sanitario (b)": 73.33,
+    "Servicios basicos - Recoleccion de basura (c)": 17.32,
+    "Servicios basicos - Energia electrica": 103.82,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "San Pedro del Ycuamandyyu",
+    "Viviendas particulares": 9.391,
+    "Servicios basicos - Agua corriente(a)": 8.583,
+    "Servicios basicos - Desague sanitario (b)": 7.526,
+    "Servicios basicos - Recoleccion de basura (c)": 2.715,
+    "Servicios basicos - Energia electrica": 9.328,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Antequera",
+    "Viviendas particulares": 1.2,
+    "Servicios basicos - Agua corriente(a)": 1.134,
+    "Servicios basicos - Desague sanitario (b)": 972,
+    "Servicios basicos - Recoleccion de basura (c)": 327,
+    "Servicios basicos - Energia electrica": 1.183,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Chore",
+    "Viviendas particulares": 6.945,
+    "Servicios basicos - Agua corriente(a)": 6.607,
+    "Servicios basicos - Desague sanitario (b)": 4.824,
+    "Servicios basicos - Recoleccion de basura (c)": 1.042,
+    "Servicios basicos - Energia electrica": 6.871,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "General Elizardo Aquino",
+    "Viviendas particulares": 5.421,
+    "Servicios basicos - Agua corriente(a)": 4.899,
+    "Servicios basicos - Desague sanitario (b)": 3.81,
+    "Servicios basicos - Recoleccion de basura (c)": 471,
+    "Servicios basicos - Energia electrica": 5.378,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Itacurubi del Rosario",
+    "Viviendas particulares": 3.454,
+    "Servicios basicos - Agua corriente(a)": 2.326,
+    "Servicios basicos - Desague sanitario (b)": 2.259,
+    "Servicios basicos - Recoleccion de basura (c)": 785,
+    "Servicios basicos - Energia electrica": 3.421,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "Lima",
+    "Viviendas particulares": 3.12,
+    "Servicios basicos - Agua corriente(a)": 2.907,
+    "Servicios basicos - Desague sanitario (b)": 1.945,
+    "Servicios basicos - Recoleccion de basura (c)": 232,
+    "Servicios basicos - Energia electrica": 3.069,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Nueva Germania",
+    "Viviendas particulares": 1.551,
+    "Servicios basicos - Agua corriente(a)": 1.047,
+    "Servicios basicos - Desague sanitario (b)": 1.32,
+    "Servicios basicos - Recoleccion de basura (c)": 151,
+    "Servicios basicos - Energia electrica": 1.513,
+    "Promedio de personas por vivienda": "3,6"
+  },
+  {
+    "Distrito": "San Estanislao",
+    "Viviendas particulares": 13.947,
+    "Servicios basicos - Agua corriente(a)": 11.644,
+    "Servicios basicos - Desague sanitario (b)": 10.285,
+    "Servicios basicos - Recoleccion de basura (c)": 4.037,
+    "Servicios basicos - Energia electrica": 13.794,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "San Pablo",
+    "Viviendas particulares": 1,
+    "Servicios basicos - Agua corriente(a)": 956,
+    "Servicios basicos - Desague sanitario (b)": 586,
+    "Servicios basicos - Recoleccion de basura (c)": 3,
+    "Servicios basicos - Energia electrica": 993,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Tacuati",
+    "Viviendas particulares": 3.963,
+    "Servicios basicos - Agua corriente(a)": 3.19,
+    "Servicios basicos - Desague sanitario (b)": 2.533,
+    "Servicios basicos - Recoleccion de basura (c)": 379,
+    "Servicios basicos - Energia electrica": 3.871,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Union",
+    "Viviendas particulares": 1.559,
+    "Servicios basicos - Agua corriente(a)": 1.269,
+    "Servicios basicos - Desague sanitario (b)": 827,
+    "Servicios basicos - Recoleccion de basura (c)": 85,
+    "Servicios basicos - Energia electrica": 1.542,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "25 de Diciembre",
+    "Viviendas particulares": 2.761,
+    "Servicios basicos - Agua corriente(a)": 2.622,
+    "Servicios basicos - Desague sanitario (b)": 2.067,
+    "Servicios basicos - Recoleccion de basura (c)": 202,
+    "Servicios basicos - Energia electrica": 2.73,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Villa del Rosario",
+    "Viviendas particulares": 2.474,
+    "Servicios basicos - Agua corriente(a)": 2.066,
+    "Servicios basicos - Desague sanitario (b)": 1.899,
+    "Servicios basicos - Recoleccion de basura (c)": 761,
+    "Servicios basicos - Energia electrica": 2.447,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "General Francisco Isidoro Resquin",
+    "Viviendas particulares": 2.862,
+    "Servicios basicos - Agua corriente(a)": 2.656,
+    "Servicios basicos - Desague sanitario (b)": 1.658,
+    "Servicios basicos - Recoleccion de basura (c)": 514,
+    "Servicios basicos - Energia electrica": 2.798,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Yataity del Norte",
+    "Viviendas particulares": 3.161,
+    "Servicios basicos - Agua corriente(a)": 2.72,
+    "Servicios basicos - Desague sanitario (b)": 2.211,
+    "Servicios basicos - Recoleccion de basura (c)": 373,
+    "Servicios basicos - Energia electrica": 3.103,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Guajayvi",
+    "Viviendas particulares": 8.246,
+    "Servicios basicos - Agua corriente(a)": 7.722,
+    "Servicios basicos - Desague sanitario (b)": 6.159,
+    "Servicios basicos - Recoleccion de basura (c)": 620,
+    "Servicios basicos - Energia electrica": 8.144,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Capiibary",
+    "Viviendas particulares": 9.076,
+    "Servicios basicos - Agua corriente(a)": 8.354,
+    "Servicios basicos - Desague sanitario (b)": 5.477,
+    "Servicios basicos - Recoleccion de basura (c)": 828,
+    "Servicios basicos - Energia electrica": 8.909,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Santa Rosa del Aguaray",
+    "Viviendas particulares": 11.504,
+    "Servicios basicos - Agua corriente(a)": 9.845,
+    "Servicios basicos - Desague sanitario (b)": 8.809,
+    "Servicios basicos - Recoleccion de basura (c)": 2.733,
+    "Servicios basicos - Energia electrica": 11.426,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Yrybucua",
+    "Viviendas particulares": 3.51,
+    "Servicios basicos - Agua corriente(a)": 3.147,
+    "Servicios basicos - Desague sanitario (b)": 1.878,
+    "Servicios basicos - Recoleccion de basura (c)": 242,
+    "Servicios basicos - Energia electrica": 3.435,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "Liberacion",
+    "Viviendas particulares": 5.441,
+    "Servicios basicos - Agua corriente(a)": 5.129,
+    "Servicios basicos - Desague sanitario (b)": 3.552,
+    "Servicios basicos - Recoleccion de basura (c)": 585,
+    "Servicios basicos - Energia electrica": 5.349,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "San Vicente Pancholo",
+    "Viviendas particulares": 3.343,
+    "Servicios basicos - Agua corriente(a)": 3.006,
+    "Servicios basicos - Desague sanitario (b)": 1.902,
+    "Servicios basicos - Recoleccion de basura (c)": 97,
+    "Servicios basicos - Energia electrica": 3.217,
+    "Promedio de personas por vivienda": "3,5"
+  },
+  {
+    "Distrito": "San Jose del Rosario",
+    "Viviendas particulares": 1.309,
+    "Servicios basicos - Agua corriente(a)": 938,
+    "Servicios basicos - Desague sanitario (b)": 831,
+    "Servicios basicos - Recoleccion de basura (c)": 138,
+    "Servicios basicos - Energia electrica": 1.299,
+    "Promedio de personas por vivienda": "3,1"
+  }
+]

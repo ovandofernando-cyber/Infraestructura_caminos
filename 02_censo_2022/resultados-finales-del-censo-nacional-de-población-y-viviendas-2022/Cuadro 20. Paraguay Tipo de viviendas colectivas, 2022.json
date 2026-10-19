@@ -1,0 +1,42 @@
+[
+  {
+    "Tipo de viviendas colectivas": "Viviendas colectivas",
+    "Cantidad": 4.268
+  },
+  {
+    "Tipo de viviendas colectivas": "Reparticion militar o policial",
+    "Cantidad": 639
+  },
+  {
+    "Tipo de viviendas colectivas": "Hotel, pension",
+    "Cantidad": 1.186
+  },
+  {
+    "Tipo de viviendas colectivas": "Comunidad religiosa",
+    "Cantidad": 770
+  },
+  {
+    "Tipo de viviendas colectivas": "Hospital, Sanatorio, Clinica con internacion",
+    "Cantidad": 262
+  },
+  {
+    "Tipo de viviendas colectivas": "Internado educacional, Residencia de Estudiantes",
+    "Cantidad": 218
+  },
+  {
+    "Tipo de viviendas colectivas": "Asilo de ancianos",
+    "Cantidad": 50
+  },
+  {
+    "Tipo de viviendas colectivas": "Orfanato",
+    "Cantidad": 47
+  },
+  {
+    "Tipo de viviendas colectivas": "Carcel o reformatorio",
+    "Cantidad": 31
+  },
+  {
+    "Tipo de viviendas colectivas": "Otra colectiva",
+    "Cantidad": 1.065
+  }
+]

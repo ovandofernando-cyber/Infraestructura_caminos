@@ -1,0 +1,173 @@
+[
+  {
+    "Distrito": "Total",
+    "Viviendas particulares": 56.093,
+    "Servicios basicos - Agua corriente(a)": 43.761,
+    "Servicios basicos - Desague sanitario (b)": 44.501,
+    "Servicios basicos - Recoleccion de basura (c)": 20.325,
+    "Servicios basicos - Energia electrica": 55.448,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Villarrica",
+    "Viviendas particulares": 19.571,
+    "Servicios basicos - Agua corriente(a)": 14.268,
+    "Servicios basicos - Desague sanitario (b)": 17.858,
+    "Servicios basicos - Recoleccion de basura (c)": 13.498,
+    "Servicios basicos - Energia electrica": 19.475,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Borja",
+    "Viviendas particulares": 2.498,
+    "Servicios basicos - Agua corriente(a)": 2.109,
+    "Servicios basicos - Desague sanitario (b)": 1.576,
+    "Servicios basicos - Recoleccion de basura (c)": 90,
+    "Servicios basicos - Energia electrica": 2.458,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Capitan Mauricio Jose Troche",
+    "Viviendas particulares": 2.916,
+    "Servicios basicos - Agua corriente(a)": 2.522,
+    "Servicios basicos - Desague sanitario (b)": 2.12,
+    "Servicios basicos - Recoleccion de basura (c)": 834,
+    "Servicios basicos - Energia electrica": 2.879,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Coronel Martinez",
+    "Viviendas particulares": 1.373,
+    "Servicios basicos - Agua corriente(a)": 1.17,
+    "Servicios basicos - Desague sanitario (b)": 1.063,
+    "Servicios basicos - Recoleccion de basura (c)": 433,
+    "Servicios basicos - Energia electrica": 1.362,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Felix Perez Cardozo",
+    "Viviendas particulares": 1.514,
+    "Servicios basicos - Agua corriente(a)": 932,
+    "Servicios basicos - Desague sanitario (b)": 1.146,
+    "Servicios basicos - Recoleccion de basura (c)": 141,
+    "Servicios basicos - Energia electrica": 1.497,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Gral. Eugenio A. Garay",
+    "Viviendas particulares": 2.21,
+    "Servicios basicos - Agua corriente(a)": 1.831,
+    "Servicios basicos - Desague sanitario (b)": 1.429,
+    "Servicios basicos - Recoleccion de basura (c)": 11,
+    "Servicios basicos - Energia electrica": 2.128,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Independencia",
+    "Viviendas particulares": 5.898,
+    "Servicios basicos - Agua corriente(a)": 4.156,
+    "Servicios basicos - Desague sanitario (b)": 4.338,
+    "Servicios basicos - Recoleccion de basura (c)": 908,
+    "Servicios basicos - Energia electrica": 5.823,
+    "Promedio de personas por vivienda": "3,3"
+  },
+  {
+    "Distrito": "Itape",
+    "Viviendas particulares": 1.952,
+    "Servicios basicos - Agua corriente(a)": 1.669,
+    "Servicios basicos - Desague sanitario (b)": 1.434,
+    "Servicios basicos - Recoleccion de basura (c)": 221,
+    "Servicios basicos - Energia electrica": 1.934,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Iturbe",
+    "Viviendas particulares": 2.353,
+    "Servicios basicos - Agua corriente(a)": 2.014,
+    "Servicios basicos - Desague sanitario (b)": 1.902,
+    "Servicios basicos - Recoleccion de basura (c)": 1.111,
+    "Servicios basicos - Energia electrica": 2.325,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "Jose Fassardi",
+    "Viviendas particulares": 1.603,
+    "Servicios basicos - Agua corriente(a)": 1.374,
+    "Servicios basicos - Desague sanitario (b)": 915,
+    "Servicios basicos - Recoleccion de basura (c)": 17,
+    "Servicios basicos - Energia electrica": 1.591,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Mbocayaty",
+    "Viviendas particulares": 2.579,
+    "Servicios basicos - Agua corriente(a)": 1.955,
+    "Servicios basicos - Desague sanitario (b)": 2.192,
+    "Servicios basicos - Recoleccion de basura (c)": 892,
+    "Servicios basicos - Energia electrica": 2.567,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Natalicio Talavera",
+    "Viviendas particulares": 1.194,
+    "Servicios basicos - Agua corriente(a)": 1.046,
+    "Servicios basicos - Desague sanitario (b)": 998,
+    "Servicios basicos - Recoleccion de basura (c)": 435,
+    "Servicios basicos - Energia electrica": 1.184,
+    "Promedio de personas por vivienda": "3,2"
+  },
+  {
+    "Distrito": "Numi",
+    "Viviendas particulares": 969,
+    "Servicios basicos - Agua corriente(a)": 824,
+    "Servicios basicos - Desague sanitario (b)": 713,
+    "Servicios basicos - Recoleccion de basura (c)": 11,
+    "Servicios basicos - Energia electrica": 962,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "San Salvador",
+    "Viviendas particulares": 859,
+    "Servicios basicos - Agua corriente(a)": 726,
+    "Servicios basicos - Desague sanitario (b)": 538,
+    "Servicios basicos - Recoleccion de basura (c)": 99,
+    "Servicios basicos - Energia electrica": 841,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "Yataity",
+    "Viviendas particulares": 1.399,
+    "Servicios basicos - Agua corriente(a)": 1.102,
+    "Servicios basicos - Desague sanitario (b)": 1.132,
+    "Servicios basicos - Recoleccion de basura (c)": 476,
+    "Servicios basicos - Energia electrica": 1.39,
+    "Promedio de personas por vivienda": 3
+  },
+  {
+    "Distrito": "Doctor Bottrell",
+    "Viviendas particulares": 422,
+    "Servicios basicos - Agua corriente(a)": 399,
+    "Servicios basicos - Desague sanitario (b)": 296,
+    "Servicios basicos - Recoleccion de basura (c)": 13,
+    "Servicios basicos - Energia electrica": 419,
+    "Promedio de personas por vivienda": "3,1"
+  },
+  {
+    "Distrito": "Paso Yobai",
+    "Viviendas particulares": 6.03,
+    "Servicios basicos - Agua corriente(a)": 4.936,
+    "Servicios basicos - Desague sanitario (b)": 4.142,
+    "Servicios basicos - Recoleccion de basura (c)": 476,
+    "Servicios basicos - Energia electrica": 5.86,
+    "Promedio de personas por vivienda": "3,4"
+  },
+  {
+    "Distrito": "Tebicuary",
+    "Viviendas particulares": 753,
+    "Servicios basicos - Agua corriente(a)": 728,
+    "Servicios basicos - Desague sanitario (b)": 709,
+    "Servicios basicos - Recoleccion de basura (c)": 659,
+    "Servicios basicos - Energia electrica": 753,
+    "Promedio de personas por vivienda": "3,5"
+  }
+]

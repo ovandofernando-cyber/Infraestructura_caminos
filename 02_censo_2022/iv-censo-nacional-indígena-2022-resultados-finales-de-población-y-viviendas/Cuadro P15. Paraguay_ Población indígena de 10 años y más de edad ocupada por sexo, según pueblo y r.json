@@ -1,0 +1,2900 @@
+[
+  {
+    "Pueblo y Rama de Actividad Economica": "Total poblacion economicamente activa",
+    "Total": 35.189,
+    "Sexo Varon": 25.784,
+    "Sexo Mujer": 9.405
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 20.902,
+    "Sexo Varon": 16.704,
+    "Sexo Mujer": 4.198
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": 12,
+    "Sexo Varon": 12,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 2.355,
+    "Sexo Varon": 1.156,
+    "Sexo Mujer": 1.199
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": 12,
+    "Sexo Varon": 10,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 47,
+    "Sexo Varon": 44,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 1.546,
+    "Sexo Varon": 1.538,
+    "Sexo Mujer": 8
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 1.247,
+    "Sexo Varon": 797,
+    "Sexo Mujer": 450
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 108,
+    "Sexo Varon": 104,
+    "Sexo Mujer": 4
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 101,
+    "Sexo Varon": 32,
+    "Sexo Mujer": 69
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": 13,
+    "Sexo Varon": 11,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": 33,
+    "Sexo Varon": 29,
+    "Sexo Mujer": 4
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": 1,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 37,
+    "Sexo Varon": 25,
+    "Sexo Mujer": 12
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 505,
+    "Sexo Varon": 281,
+    "Sexo Mujer": 224
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 273,
+    "Sexo Varon": 192,
+    "Sexo Mujer": 81
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 1.102,
+    "Sexo Varon": 584,
+    "Sexo Mujer": 518
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 281,
+    "Sexo Varon": 106,
+    "Sexo Mujer": 175
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 72,
+    "Sexo Varon": 25,
+    "Sexo Mujer": 47
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 1.052,
+    "Sexo Varon": 818,
+    "Sexo Mujer": 234
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 1.081,
+    "Sexo Varon": 73,
+    "Sexo Mujer": 1.008
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": 4,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 4.405,
+    "Sexo Varon": 3.241,
+    "Sexo Mujer": 1.164
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ache",
+    "Total": 610,
+    "Sexo Varon": 476,
+    "Sexo Mujer": 134
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 458,
+    "Sexo Varon": 394,
+    "Sexo Mujer": 64
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 16,
+    "Sexo Varon": 8,
+    "Sexo Mujer": 8
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 9,
+    "Sexo Varon": 9,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 16,
+    "Sexo Varon": 7,
+    "Sexo Mujer": 9
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 8,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 7
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 3,
+    "Sexo Varon": 3,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 4,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 4,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 47,
+    "Sexo Varon": 26,
+    "Sexo Mujer": 21
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 6,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 4
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 4,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 33,
+    "Sexo Varon": 19,
+    "Sexo Mujer": 14
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ava Guarani",
+    "Total": 5.623,
+    "Sexo Varon": 4.234,
+    "Sexo Mujer": 1.389
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 3.946,
+    "Sexo Varon": 3.205,
+    "Sexo Mujer": 741
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 46,
+    "Sexo Varon": 35,
+    "Sexo Mujer": 11
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 139,
+    "Sexo Varon": 139,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 165,
+    "Sexo Varon": 88,
+    "Sexo Mujer": 77
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 12,
+    "Sexo Varon": 12,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 12,
+    "Sexo Varon": 5,
+    "Sexo Mujer": 7
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": 2,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 29,
+    "Sexo Varon": 15,
+    "Sexo Mujer": 14
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 36,
+    "Sexo Varon": 24,
+    "Sexo Mujer": 12
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 280,
+    "Sexo Varon": 165,
+    "Sexo Mujer": 115
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 27,
+    "Sexo Varon": 12,
+    "Sexo Mujer": 15
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 3,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 201,
+    "Sexo Varon": 159,
+    "Sexo Mujer": 42
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 140,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 138
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 581,
+    "Sexo Varon": 366,
+    "Sexo Mujer": 215
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Mbya Guarani",
+    "Total": 6.291,
+    "Sexo Varon": 4.59,
+    "Sexo Mujer": 1.701
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 5.178,
+    "Sexo Varon": 3.927,
+    "Sexo Mujer": 1.251
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 102,
+    "Sexo Varon": 55,
+    "Sexo Mujer": 47
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 3,
+    "Sexo Varon": 3,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 62,
+    "Sexo Varon": 62,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 145,
+    "Sexo Varon": 79,
+    "Sexo Mujer": 66
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 14,
+    "Sexo Varon": 14,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 3,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 24,
+    "Sexo Varon": 13,
+    "Sexo Mujer": 11
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 21,
+    "Sexo Varon": 14,
+    "Sexo Mujer": 7
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 101,
+    "Sexo Varon": 52,
+    "Sexo Mujer": 49
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 11,
+    "Sexo Varon": 6,
+    "Sexo Mujer": 5
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 25,
+    "Sexo Varon": 7,
+    "Sexo Mujer": 18
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 149,
+    "Sexo Varon": 106,
+    "Sexo Mujer": 43
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 59,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 57
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": 1,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 392,
+    "Sexo Varon": 249,
+    "Sexo Mujer": 143
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Pai Tavytera",
+    "Total": 5.386,
+    "Sexo Varon": 3.631,
+    "Sexo Mujer": 1.755
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 4.22,
+    "Sexo Varon": 2.96,
+    "Sexo Mujer": 1.26
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 30,
+    "Sexo Varon": 10,
+    "Sexo Mujer": 20
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 40,
+    "Sexo Varon": 40,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 25,
+    "Sexo Varon": 10,
+    "Sexo Mujer": 15
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 3,
+    "Sexo Varon": 3,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 2,
+    "Sexo Varon": 2,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 23,
+    "Sexo Varon": 10,
+    "Sexo Mujer": 13
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 8,
+    "Sexo Varon": 6,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 79,
+    "Sexo Varon": 38,
+    "Sexo Mujer": 41
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 4,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 305,
+    "Sexo Varon": 265,
+    "Sexo Mujer": 40
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 206,
+    "Sexo Varon": 10,
+    "Sexo Mujer": 196
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 438,
+    "Sexo Varon": 273,
+    "Sexo Mujer": 165
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Guarani Occidental/Pueblo Guarani",
+    "Total": 1.314,
+    "Sexo Varon": 895,
+    "Sexo Mujer": 419
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 231,
+    "Sexo Varon": 216,
+    "Sexo Mujer": 15
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 99,
+    "Sexo Varon": 75,
+    "Sexo Mujer": 24
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": 7,
+    "Sexo Varon": 7,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 2,
+    "Sexo Varon": 2,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 258,
+    "Sexo Varon": 258,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 174,
+    "Sexo Varon": 103,
+    "Sexo Mujer": 71
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 17,
+    "Sexo Varon": 15,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 20,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 18
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": 2,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": 1,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 9,
+    "Sexo Varon": 4,
+    "Sexo Mujer": 5
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 38,
+    "Sexo Varon": 17,
+    "Sexo Mujer": 21
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 65,
+    "Sexo Varon": 44,
+    "Sexo Mujer": 21
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 71,
+    "Sexo Varon": 16,
+    "Sexo Mujer": 55
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 59,
+    "Sexo Varon": 15,
+    "Sexo Mujer": 44
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 4,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 24,
+    "Sexo Varon": 11,
+    "Sexo Mujer": 13
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 97,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 95
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": 1,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 134,
+    "Sexo Varon": 103,
+    "Sexo Mujer": 31
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Guarani Nandeva",
+    "Total": 568,
+    "Sexo Varon": 464,
+    "Sexo Mujer": 104
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 272,
+    "Sexo Varon": 233,
+    "Sexo Mujer": 39
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 38,
+    "Sexo Varon": 16,
+    "Sexo Mujer": 22
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 18,
+    "Sexo Varon": 18,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 18,
+    "Sexo Varon": 17,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 1,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 2,
+    "Sexo Varon": 2,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 5,
+    "Sexo Varon": 4,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 6,
+    "Sexo Varon": 6,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 18,
+    "Sexo Varon": 9,
+    "Sexo Mujer": 9
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 7,
+    "Sexo Varon": 6,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 20,
+    "Sexo Varon": 17,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 13,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 13
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 150,
+    "Sexo Varon": 136,
+    "Sexo Mujer": 14
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Enlhet Norte",
+    "Total": 2.66,
+    "Sexo Varon": 2.047,
+    "Sexo Mujer": 613
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 979,
+    "Sexo Varon": 825,
+    "Sexo Mujer": 154
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 212,
+    "Sexo Varon": 196,
+    "Sexo Mujer": 16
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": 3,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 16,
+    "Sexo Varon": 14,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 70,
+    "Sexo Varon": 70,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 170,
+    "Sexo Varon": 145,
+    "Sexo Mujer": 25
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 21,
+    "Sexo Varon": 21,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 15,
+    "Sexo Varon": 8,
+    "Sexo Mujer": 7
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": 14,
+    "Sexo Varon": 13,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 5,
+    "Sexo Varon": 4,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 123,
+    "Sexo Varon": 59,
+    "Sexo Mujer": 64
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 22,
+    "Sexo Varon": 21,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 52,
+    "Sexo Varon": 27,
+    "Sexo Mujer": 25
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 22,
+    "Sexo Varon": 11,
+    "Sexo Mujer": 11
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 13,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 10
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 53,
+    "Sexo Varon": 45,
+    "Sexo Mujer": 8
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 88,
+    "Sexo Varon": 6,
+    "Sexo Mujer": 82
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 780,
+    "Sexo Varon": 576,
+    "Sexo Mujer": 204
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Enxet Sur",
+    "Total": 1.702,
+    "Sexo Varon": 1.46,
+    "Sexo Mujer": 242
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 1.196,
+    "Sexo Varon": 1.108,
+    "Sexo Mujer": 88
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 29,
+    "Sexo Varon": 9,
+    "Sexo Mujer": 20
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 30,
+    "Sexo Varon": 29,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 20,
+    "Sexo Varon": 11,
+    "Sexo Mujer": 9
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 12,
+    "Sexo Varon": 6,
+    "Sexo Mujer": 6
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 3,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 16,
+    "Sexo Varon": 12,
+    "Sexo Mujer": 4
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 10,
+    "Sexo Varon": 10,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 43,
+    "Sexo Varon": 25,
+    "Sexo Mujer": 18
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 16,
+    "Sexo Varon": 6,
+    "Sexo Mujer": 10
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 5,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 23,
+    "Sexo Varon": 17,
+    "Sexo Mujer": 6
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 35,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 33
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 262,
+    "Sexo Varon": 218,
+    "Sexo Mujer": 44
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Sanapana",
+    "Total": 930,
+    "Sexo Varon": 716,
+    "Sexo Mujer": 214
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 707,
+    "Sexo Varon": 567,
+    "Sexo Mujer": 140
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 10,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 9
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 6,
+    "Sexo Varon": 6,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 43,
+    "Sexo Varon": 38,
+    "Sexo Mujer": 5
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 3,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 6,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 5
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 2,
+    "Sexo Varon": 2,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 29,
+    "Sexo Varon": 21,
+    "Sexo Mujer": 8
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 3,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 6,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 5
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 19,
+    "Sexo Varon": 16,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 5,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 5
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 90,
+    "Sexo Varon": 59,
+    "Sexo Mujer": 31
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Angaite",
+    "Total": 1.163,
+    "Sexo Varon": 872,
+    "Sexo Mujer": 291
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 734,
+    "Sexo Varon": 612,
+    "Sexo Mujer": 122
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": 10,
+    "Sexo Varon": 10,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 8,
+    "Sexo Varon": 8,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 7,
+    "Sexo Varon": 6,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 28,
+    "Sexo Varon": 19,
+    "Sexo Mujer": 9
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 2,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 4,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 26,
+    "Sexo Varon": 8,
+    "Sexo Mujer": 18
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 9,
+    "Sexo Varon": 7,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 33,
+    "Sexo Varon": 23,
+    "Sexo Mujer": 10
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 13,
+    "Sexo Varon": 7,
+    "Sexo Mujer": 6
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 4,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 65,
+    "Sexo Varon": 37,
+    "Sexo Mujer": 28
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 46,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 44
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 173,
+    "Sexo Varon": 129,
+    "Sexo Mujer": 44
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Guana",
+    "Total": 121,
+    "Sexo Varon": 74,
+    "Sexo Mujer": 47
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 36,
+    "Sexo Varon": 28,
+    "Sexo Mujer": 8
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 22,
+    "Sexo Varon": 19,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 3,
+    "Sexo Varon": 3,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 8,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 5
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 1,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 4,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 4,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 3,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 4,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 4
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 3,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 13,
+    "Sexo Varon": 8,
+    "Sexo Mujer": 5
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 8,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 7
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 12,
+    "Sexo Varon": 5,
+    "Sexo Mujer": 7
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Toba Maskoy/Toba Enenlhet",
+    "Total": 559,
+    "Sexo Varon": 392,
+    "Sexo Mujer": 167
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 278,
+    "Sexo Varon": 211,
+    "Sexo Mujer": 67
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 16,
+    "Sexo Varon": 15,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 3,
+    "Sexo Varon": 3,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 7,
+    "Sexo Varon": 7,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 62,
+    "Sexo Varon": 30,
+    "Sexo Mujer": 32
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 2,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 3,
+    "Sexo Varon": 3,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 16,
+    "Sexo Varon": 5,
+    "Sexo Mujer": 11
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 11,
+    "Sexo Varon": 7,
+    "Sexo Mujer": 4
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 5,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 4
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 3,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 8,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 5
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 14,
+    "Sexo Varon": 6,
+    "Sexo Mujer": 8
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 131,
+    "Sexo Varon": 99,
+    "Sexo Mujer": 32
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Nivacle",
+    "Total": 4.147,
+    "Sexo Varon": 3.301,
+    "Sexo Mujer": 846
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 1.389,
+    "Sexo Varon": 1.224,
+    "Sexo Mujer": 165
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 432,
+    "Sexo Varon": 293,
+    "Sexo Mujer": 139
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 6,
+    "Sexo Varon": 6,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 675,
+    "Sexo Varon": 671,
+    "Sexo Mujer": 4
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 186,
+    "Sexo Varon": 154,
+    "Sexo Mujer": 32
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 25,
+    "Sexo Varon": 25,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 9,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 9
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": 3,
+    "Sexo Varon": 3,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": 14,
+    "Sexo Varon": 13,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 4,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 133,
+    "Sexo Varon": 85,
+    "Sexo Mujer": 48
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 37,
+    "Sexo Varon": 26,
+    "Sexo Mujer": 11
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 130,
+    "Sexo Varon": 63,
+    "Sexo Mujer": 67
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 48,
+    "Sexo Varon": 20,
+    "Sexo Mujer": 28
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 76,
+    "Sexo Varon": 62,
+    "Sexo Mujer": 14
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 264,
+    "Sexo Varon": 32,
+    "Sexo Mujer": 232
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 716,
+    "Sexo Varon": 621,
+    "Sexo Mujer": 95
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Maka",
+    "Total": 938,
+    "Sexo Varon": 441,
+    "Sexo Mujer": 497
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 31,
+    "Sexo Varon": 28,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 708,
+    "Sexo Varon": 300,
+    "Sexo Mujer": 408
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 10,
+    "Sexo Varon": 9,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 7,
+    "Sexo Varon": 7,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 81,
+    "Sexo Varon": 29,
+    "Sexo Mujer": 52
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": 1,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 2,
+    "Sexo Varon": 2,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 23,
+    "Sexo Varon": 17,
+    "Sexo Mujer": 6
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 1,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 73,
+    "Sexo Varon": 48,
+    "Sexo Mujer": 25
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Manjui",
+    "Total": 101,
+    "Sexo Varon": 68,
+    "Sexo Mujer": 33
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 35,
+    "Sexo Varon": 32,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 46,
+    "Sexo Varon": 21,
+    "Sexo Mujer": 25
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 1,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 4,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 14,
+    "Sexo Varon": 13,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ayoreo",
+    "Total": 568,
+    "Sexo Varon": 447,
+    "Sexo Mujer": 121
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 271,
+    "Sexo Varon": 233,
+    "Sexo Mujer": 38
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 32,
+    "Sexo Varon": 9,
+    "Sexo Mujer": 23
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 8,
+    "Sexo Varon": 8,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 6,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 14,
+    "Sexo Varon": 14,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 5,
+    "Sexo Varon": 5,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 20,
+    "Sexo Varon": 16,
+    "Sexo Mujer": 4
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 5,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 11,
+    "Sexo Varon": 11,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 16,
+    "Sexo Varon": 2,
+    "Sexo Mujer": 14
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 178,
+    "Sexo Varon": 142,
+    "Sexo Mujer": 36
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ybytoso",
+    "Total": 836,
+    "Sexo Varon": 549,
+    "Sexo Mujer": 287
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 329,
+    "Sexo Varon": 315,
+    "Sexo Mujer": 14
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 104,
+    "Sexo Varon": 15,
+    "Sexo Mujer": 89
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 85,
+    "Sexo Varon": 85,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 16,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 13
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 2,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 3,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 19,
+    "Sexo Varon": 16,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 21,
+    "Sexo Varon": 8,
+    "Sexo Mujer": 13
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 46,
+    "Sexo Varon": 20,
+    "Sexo Mujer": 26
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 17,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 14
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 4,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 34,
+    "Sexo Varon": 19,
+    "Sexo Mujer": 15
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 60,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 60
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 92,
+    "Sexo Varon": 59,
+    "Sexo Mujer": 33
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Tomaraho",
+    "Total": 108,
+    "Sexo Varon": 58,
+    "Sexo Mujer": 50
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 45,
+    "Sexo Varon": 41,
+    "Sexo Mujer": 4
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 41,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 40
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 3,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 14,
+    "Sexo Varon": 11,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Qom",
+    "Total": 804,
+    "Sexo Varon": 429,
+    "Sexo Mujer": 375
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 254,
+    "Sexo Varon": 246,
+    "Sexo Mujer": 8
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 331,
+    "Sexo Varon": 38,
+    "Sexo Mujer": 293
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 23,
+    "Sexo Varon": 22,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 11,
+    "Sexo Varon": 6,
+    "Sexo Mujer": 5
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 2,
+    "Sexo Varon": 2,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 2,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 11,
+    "Sexo Varon": 7,
+    "Sexo Mujer": 4
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 7,
+    "Sexo Varon": 4,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 48,
+    "Sexo Varon": 28,
+    "Sexo Mujer": 20
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 7,
+    "Sexo Varon": 4,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 27,
+    "Sexo Varon": 22,
+    "Sexo Mujer": 5
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 20,
+    "Sexo Varon": 4,
+    "Sexo Mujer": 16
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 60,
+    "Sexo Varon": 45,
+    "Sexo Mujer": 15
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No indigena",
+    "Total": 760,
+    "Sexo Varon": 640,
+    "Sexo Mujer": 120
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Agricultura, Ganaderia, Caza, Silvicultura y Pesca",
+    "Total": 313,
+    "Sexo Varon": 299,
+    "Sexo Mujer": 14
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Explotacion de minas y canteras",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Industria manufacturera",
+    "Total": 33,
+    "Sexo Varon": 32,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de electricidad,  gas, vapor y aire acondicionado",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Suministro de agua; alcantarillado, gestion de desechos y actividades de saneamiento",
+    "Total": 2,
+    "Sexo Varon": 2,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Construccion",
+    "Total": 98,
+    "Sexo Varon": 97,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Comercio al por mayor y al por menor; reparacion de vehiculos automotores y motocicletas",
+    "Total": 72,
+    "Sexo Varon": 51,
+    "Sexo Mujer": 21
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Transporte y almacenamiento",
+    "Total": 7,
+    "Sexo Varon": 7,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Alojamiento y servicios de comidas",
+    "Total": 5,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Informacion y comunicacion",
+    "Total": 4,
+    "Sexo Varon": 3,
+    "Sexo Mujer": 1
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades financieras y de seguros",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades inmobiliarias",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades profesionales, cientificas y tecnicas",
+    "Total": 3,
+    "Sexo Varon": 1,
+    "Sexo Mujer": 2
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades administrativas y servicios de apoyo",
+    "Total": 14,
+    "Sexo Varon": 11,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Administracion publica y defensa; planes de seguro social obligatorio",
+    "Total": 14,
+    "Sexo Varon": 9,
+    "Sexo Mujer": 5
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Ensenanza",
+    "Total": 64,
+    "Sexo Varon": 31,
+    "Sexo Mujer": 33
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Salud humana y servicios sociales",
+    "Total": 24,
+    "Sexo Varon": 6,
+    "Sexo Mujer": 18
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Artes, entretenimiento y recreacion",
+    "Total": 1,
+    "Sexo Varon": 1,
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Otras actividades de servicios",
+    "Total": 19,
+    "Sexo Varon": 16,
+    "Sexo Mujer": 3
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de los hogares como empleadores del personal domestico; actividades de los hogares como productores de bienes y servicios para uso propio",
+    "Total": 4,
+    "Sexo Varon": "-",
+    "Sexo Mujer": 4
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "Actividades de organizaciones y organismos extraterritoriales",
+    "Total": "-",
+    "Sexo Varon": "-",
+    "Sexo Mujer": "-"
+  },
+  {
+    "Pueblo y Rama de Actividad Economica": "No reportado",
+    "Total": 82,
+    "Sexo Varon": 70,
+    "Sexo Mujer": 12
+  }
+]

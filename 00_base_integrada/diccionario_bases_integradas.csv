@@ -1,0 +1,31 @@
+﻿base,variable,descripcion,fuente
+distrital,cod_dpto,Código de departamento INE (2 dígitos),INE – Códigos geográficos 2022
+distrital,departamento,Nombre del departamento,INE – Códigos geográficos 2022
+distrital,cod_dist,Código de distrito INE (4 dígitos: dpto+distrito). Igual al P-code OCHA sin el prefijo PY,INE – Códigos geográficos 2022
+distrital,distrito,Nombre del distrito,INE – Códigos geográficos 2022
+distrital,departamento_foco,"Sí = Concepción, San Pedro, Caaguazú, Caazapá o Canindeyú",Definición del estudio
+distrital,ipm_H_total / _urbana / _rural,Incidencia de pobreza multidimensional (% de personas pobres) por área,"INE – IPM distrital, Censo 2022"
+distrital,ipm_A_total / _urbana / _rural,Intensidad de la pobreza entre los pobres (%),"INE – IPM distrital, Censo 2022"
+distrital,ipm_M0_total / _urbana / _rural,Tasa de recuento ajustada M0 (IPM),"INE – IPM distrital, Censo 2022"
+distrital,hogares_total,Total de hogares,INE – NBI 2022 (Censo)
+distrital,nbi_al_menos_una_pct,% de hogares con al menos una necesidad básica insatisfecha,INE – NBI 2022
+distrital,nbi_vivienda_pct / nbi_sanitaria_pct / nbi_educacion_pct / nbi_subsistencia_pct,"% de hogares con NBI en calidad de vivienda, infraestructura sanitaria, acceso a la educación y capacidad de subsistencia",INE – NBI 2022
+distrital,censo_pob_total / _urbana / _rural,Población censada por área (vacío en rural = distrito 100 % urbano),"INE – Censo 2022, Cuadro A1 (datos.gov.py)"
+distrital,censo_pct_rural,% de población rural,Calculado
+distrital,heigit_pob_total_worldpop,Población estimada (WorldPop) usada por HeiGIT; puede diferir del censo,HeiGIT – Risk Assessment Indicators (HDX)
+distrital,heigit_pob_rural / heigit_pct_rural,Población rural estimada y % rural (HeiGIT),HeiGIT (HDX)
+distrital,heigit_pob_rural_a_2km_camino_todo_tiempo,Población rural a menos de 2 km de un camino de todo tiempo,HeiGIT – PRY_ADM2_rai.csv
+distrital,RAI_pct,Rural Access Index (ODS 9.1.1): % de población rural a menos de 2 km de un camino de todo tiempo,HeiGIT – PRY_ADM2_rai.csv
+distrital,access_pop_*,"Población a menos de X km/min de escuelas, hospitales y atención primaria (en auto, red OSM)",HeiGIT – PRY_ADM2_access.csv
+distrital,pct_pob_acceso_*,access_pop_* dividido por la población total HeiGIT (%),Calculado
+distrital,education_count / hospitals_count / primary_healthcare_count,Cantidad de establecimientos en el distrito (OSM),HeiGIT – PRY_ADM2_facilities.csv
+distrital,dpto_km_vecinal_total / dpto_km_vecinal_todo_tiempo / dpto_pct_vecinal_tierra,"Red vecinal del DEPARTAMENTO (se repite en cada distrito): km totales, km no de tierra y % de tierra",MOPC – Inventario vial corte dic. 2025
+departamental,ephc2025_rural_*,"Indicadores de la población rural, EPHC 2025 anual, ponderados con FACTOR",INE – EPHC anual 2025 (REG02)
+departamental,ephc2022_25_rural_pobreza_pct,Pobreza total rural juntando 2022-2025 (cada año con su línea de pobreza),INE – EPHC anual 2022-2025
+departamental,ephc2022_25_noasiste_por_falta_institucion_cercana_pct,"Entre quienes no asisten a una institución educativa (ED10), % que responde ""No existe institución cercana"" (código 6). Incluye adultos que ya terminaron: es un indicador relativo",INE – EPHC anual 2022-2025
+departamental,ephc2022_25_noconsulta_por_falta_atencion_cercana_pct,"Entre enfermos que no consultaron (S05), % que responde ""No hay atención cercana"" (código 2)",INE – EPHC anual 2022-2025
+departamental,*_n / *_n_upm,Tamaño muestral (personas o UPM) detrás de cada indicador,INE – EPHC
+departamental,mopc_km_vecinal_total / mopc_km_vecinal_tierra / mopc_pct_vecinal_tierra,Red vecinal por departamento (Misiones sin dato: el PDF de origen trae la tabla de Itapúa),MOPC – Inventario vial dic. 2025
+departamental,mopc_km_red_total / mopc_km_red_tierra,Red total (nacional + departamental + vecinal),MOPC – Inventario vial dic. 2025
+departamental,heigit_RAI_pct_ponderado,RAI departamental: suma de población rural con acceso / suma de población rural,"HeiGIT (HDX), agregado"
+departamental,mopc_km_vecinal_por_1000_hab_rurales,km de red vecinal por cada 1.000 habitantes rurales (Censo 2022),Calculado

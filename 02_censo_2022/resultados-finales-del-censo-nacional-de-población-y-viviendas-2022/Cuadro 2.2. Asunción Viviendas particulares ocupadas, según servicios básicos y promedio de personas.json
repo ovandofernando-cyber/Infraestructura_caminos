@@ -1,0 +1,32 @@
+[
+  {
+    "Servicios basicos": "Total de viviendas",
+    "Cantidad": 129.806,
+    "%": 100
+  },
+  {
+    "Servicios basicos": "Agua corriente (a)",
+    "Cantidad": 123.791,
+    "%": "95,4"
+  },
+  {
+    "Servicios basicos": "Desague sanitario (b)",
+    "Cantidad": 121.447,
+    "%": "93,6"
+  },
+  {
+    "Servicios basicos": "Recoleccion de basuras (c)",
+    "Cantidad": 116.666,
+    "%": "89,9"
+  },
+  {
+    "Servicios basicos": "Energia electrica",
+    "Cantidad": 129.546,
+    "%": "99,8"
+  },
+  {
+    "Servicios basicos": "Promedio de personas por viviendas",
+    "Cantidad": "3,5",
+    "%": "-"
+  }
+]

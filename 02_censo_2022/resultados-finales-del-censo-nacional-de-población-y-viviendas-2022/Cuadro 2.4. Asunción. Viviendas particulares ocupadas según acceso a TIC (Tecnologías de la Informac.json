@@ -1,0 +1,32 @@
+[
+  {
+    "Acceso a TIC (Tecnologias de la Informacion y Comunicacion)": "Total de viviendas",
+    "Cantidad": 129806,
+    "%": 100
+  },
+  {
+    "Acceso a TIC (Tecnologias de la Informacion y Comunicacion)": "Telefono celular con pantalla tactil",
+    "Cantidad": 119368,
+    "%": 92
+  },
+  {
+    "Acceso a TIC (Tecnologias de la Informacion y Comunicacion)": "Televisor con pantalla plana",
+    "Cantidad": 108843,
+    "%": "83,9"
+  },
+  {
+    "Acceso a TIC (Tecnologias de la Informacion y Comunicacion)": "Computadora o notebook",
+    "Cantidad": 74533,
+    "%": "57,4"
+  },
+  {
+    "Acceso a TIC (Tecnologias de la Informacion y Comunicacion)": "Tablet o similares",
+    "Cantidad": 38703,
+    "%": "29,8"
+  },
+  {
+    "Acceso a TIC (Tecnologias de la Informacion y Comunicacion)": "Conexion a Internet",
+    "Cantidad": 102853,
+    "%": "79,2"
+  }
+]

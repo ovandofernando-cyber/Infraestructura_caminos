@@ -1,0 +1,674 @@
+[
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Total pais - Caza",
+    "Total": 14.801,
+    "Destino de la actividad  -  Venta": 302,
+    "Destino de la actividad  -  Consumo": 13.21,
+    "Destino de la actividad  -  Venta y consumo": 913,
+    "Destino de la actividad  -  No reportado": 376
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Total pais - Pesca",
+    "Total": 17.859,
+    "Destino de la actividad  -  Venta": 306,
+    "Destino de la actividad  -  Consumo": 16.033,
+    "Destino de la actividad  -  Venta y consumo": 1.191,
+    "Destino de la actividad  -  No reportado": 329
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Total pais - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 16.076,
+    "Destino de la actividad  -  Venta": 361,
+    "Destino de la actividad  -  Consumo": 13.786,
+    "Destino de la actividad  -  Venta y consumo": 1.506,
+    "Destino de la actividad  -  No reportado": 423
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Total pais - Cultivo",
+    "Total": 21.992,
+    "Destino de la actividad  -  Venta": 471,
+    "Destino de la actividad  -  Consumo": 17.996,
+    "Destino de la actividad  -  Venta y consumo": 3.08,
+    "Destino de la actividad  -  No reportado": 445
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ache - Caza",
+    "Total": 261,
+    "Destino de la actividad  -  Venta": 1,
+    "Destino de la actividad  -  Consumo": 244,
+    "Destino de la actividad  -  Venta y consumo": "-",
+    "Destino de la actividad  -  No reportado": 16
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ache - Pesca",
+    "Total": 306,
+    "Destino de la actividad  -  Venta": "-",
+    "Destino de la actividad  -  Consumo": 292,
+    "Destino de la actividad  -  Venta y consumo": 3,
+    "Destino de la actividad  -  No reportado": 11
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ache - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 283,
+    "Destino de la actividad  -  Venta": 2,
+    "Destino de la actividad  -  Consumo": 270,
+    "Destino de la actividad  -  Venta y consumo": 2,
+    "Destino de la actividad  -  No reportado": 9
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ache - Cultivo",
+    "Total": 381,
+    "Destino de la actividad  -  Venta": 10,
+    "Destino de la actividad  -  Consumo": 323,
+    "Destino de la actividad  -  Venta y consumo": 32,
+    "Destino de la actividad  -  No reportado": 16
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ava Guarani - Caza",
+    "Total": 2.904,
+    "Destino de la actividad  -  Venta": 55,
+    "Destino de la actividad  -  Consumo": 2.677,
+    "Destino de la actividad  -  Venta y consumo": 136,
+    "Destino de la actividad  -  No reportado": 36
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ava Guarani - Pesca",
+    "Total": 4.109,
+    "Destino de la actividad  -  Venta": 45,
+    "Destino de la actividad  -  Consumo": 3.872,
+    "Destino de la actividad  -  Venta y consumo": 160,
+    "Destino de la actividad  -  No reportado": 32
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ava Guarani - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 2.696,
+    "Destino de la actividad  -  Venta": 25,
+    "Destino de la actividad  -  Consumo": 2.448,
+    "Destino de la actividad  -  Venta y consumo": 190,
+    "Destino de la actividad  -  No reportado": 33
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ava Guarani - Cultivo",
+    "Total": 5.234,
+    "Destino de la actividad  -  Venta": 67,
+    "Destino de la actividad  -  Consumo": 4.089,
+    "Destino de la actividad  -  Venta y consumo": 1.006,
+    "Destino de la actividad  -  No reportado": 72
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Mbya Guarani - Caza",
+    "Total": 2.97,
+    "Destino de la actividad  -  Venta": 44,
+    "Destino de la actividad  -  Consumo": 2.747,
+    "Destino de la actividad  -  Venta y consumo": 110,
+    "Destino de la actividad  -  No reportado": 69
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Mbya Guarani - Pesca",
+    "Total": 4.198,
+    "Destino de la actividad  -  Venta": 45,
+    "Destino de la actividad  -  Consumo": 4.003,
+    "Destino de la actividad  -  Venta y consumo": 98,
+    "Destino de la actividad  -  No reportado": 52
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Mbya Guarani - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 3.095,
+    "Destino de la actividad  -  Venta": 43,
+    "Destino de la actividad  -  Consumo": 2.831,
+    "Destino de la actividad  -  Venta y consumo": 151,
+    "Destino de la actividad  -  No reportado": 70
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Mbya Guarani - Cultivo",
+    "Total": 5.35,
+    "Destino de la actividad  -  Venta": 56,
+    "Destino de la actividad  -  Consumo": 4.706,
+    "Destino de la actividad  -  Venta y consumo": 507,
+    "Destino de la actividad  -  No reportado": 81
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Pai Tavytera - Caza",
+    "Total": 2.814,
+    "Destino de la actividad  -  Venta": 36,
+    "Destino de la actividad  -  Consumo": 2.559,
+    "Destino de la actividad  -  Venta y consumo": 133,
+    "Destino de la actividad  -  No reportado": 86
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Pai Tavytera - Pesca",
+    "Total": 3.294,
+    "Destino de la actividad  -  Venta": 41,
+    "Destino de la actividad  -  Consumo": 3.019,
+    "Destino de la actividad  -  Venta y consumo": 154,
+    "Destino de la actividad  -  No reportado": 80
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Pai Tavytera - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 2.825,
+    "Destino de la actividad  -  Venta": 36,
+    "Destino de la actividad  -  Consumo": 2.525,
+    "Destino de la actividad  -  Venta y consumo": 194,
+    "Destino de la actividad  -  No reportado": 70
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Pai Tavytera- Cultivo",
+    "Total": 3.64,
+    "Destino de la actividad  -  Venta": 43,
+    "Destino de la actividad  -  Consumo": 3.09,
+    "Destino de la actividad  -  Venta y consumo": 412,
+    "Destino de la actividad  -  No reportado": 95
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Guarani Occidental/Pueblo Guarani - Caza",
+    "Total": 116,
+    "Destino de la actividad  -  Venta": "-",
+    "Destino de la actividad  -  Consumo": 109,
+    "Destino de la actividad  -  Venta y consumo": 5,
+    "Destino de la actividad  -  No reportado": 2
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Guarani Occidental/Pueblo Guarani - Pesca",
+    "Total": 121,
+    "Destino de la actividad  -  Venta": "-",
+    "Destino de la actividad  -  Consumo": 103,
+    "Destino de la actividad  -  Venta y consumo": 17,
+    "Destino de la actividad  -  No reportado": 1
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Guarani Occidental/Pueblo Guarani - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 115,
+    "Destino de la actividad  -  Venta": 6,
+    "Destino de la actividad  -  Consumo": 86,
+    "Destino de la actividad  -  Venta y consumo": 22,
+    "Destino de la actividad  -  No reportado": 1
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Guarani Occidental/Pueblo Guarani- Cultivo",
+    "Total": 166,
+    "Destino de la actividad  -  Venta": 5,
+    "Destino de la actividad  -  Consumo": 106,
+    "Destino de la actividad  -  Venta y consumo": 53,
+    "Destino de la actividad  -  No reportado": 2
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Guarani Nandeva - Caza",
+    "Total": 204,
+    "Destino de la actividad  -  Venta": "-",
+    "Destino de la actividad  -  Consumo": 186,
+    "Destino de la actividad  -  Venta y consumo": 14,
+    "Destino de la actividad  -  No reportado": 4
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Guarani Nandeva - Pesca",
+    "Total": 39,
+    "Destino de la actividad  -  Venta": 2,
+    "Destino de la actividad  -  Consumo": 33,
+    "Destino de la actividad  -  Venta y consumo": 2,
+    "Destino de la actividad  -  No reportado": 2
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Guarani Nandeva - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 311,
+    "Destino de la actividad  -  Venta": 4,
+    "Destino de la actividad  -  Consumo": 275,
+    "Destino de la actividad  -  Venta y consumo": 27,
+    "Destino de la actividad  -  No reportado": 5
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Guarani Nandeva - Cultivo",
+    "Total": 507,
+    "Destino de la actividad  -  Venta": 14,
+    "Destino de la actividad  -  Consumo": 286,
+    "Destino de la actividad  -  Venta y consumo": 201,
+    "Destino de la actividad  -  No reportado": 6
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Enlhet Norte - Caza",
+    "Total": 801,
+    "Destino de la actividad  -  Venta": 25,
+    "Destino de la actividad  -  Consumo": 695,
+    "Destino de la actividad  -  Venta y consumo": 52,
+    "Destino de la actividad  -  No reportado": 29
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Enlhet Norte - Pesca",
+    "Total": 754,
+    "Destino de la actividad  -  Venta": 13,
+    "Destino de la actividad  -  Consumo": 699,
+    "Destino de la actividad  -  Venta y consumo": 20,
+    "Destino de la actividad  -  No reportado": 22
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Enlhet Norte - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 1.013,
+    "Destino de la actividad  -  Venta": 48,
+    "Destino de la actividad  -  Consumo": 818,
+    "Destino de la actividad  -  Venta y consumo": 91,
+    "Destino de la actividad  -  No reportado": 56
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Enlhet Norte - Cultivo",
+    "Total": 1.106,
+    "Destino de la actividad  -  Venta": 114,
+    "Destino de la actividad  -  Consumo": 850,
+    "Destino de la actividad  -  Venta y consumo": 95,
+    "Destino de la actividad  -  No reportado": 47
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Enxet Sur - Caza",
+    "Total": 1.079,
+    "Destino de la actividad  -  Venta": 26,
+    "Destino de la actividad  -  Consumo": 966,
+    "Destino de la actividad  -  Venta y consumo": 48,
+    "Destino de la actividad  -  No reportado": 39
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Enxet Sur - Pesca",
+    "Total": 1.394,
+    "Destino de la actividad  -  Venta": 5,
+    "Destino de la actividad  -  Consumo": 1.31,
+    "Destino de la actividad  -  Venta y consumo": 42,
+    "Destino de la actividad  -  No reportado": 37
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Enxet Sur - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 1.116,
+    "Destino de la actividad  -  Venta": 30,
+    "Destino de la actividad  -  Consumo": 911,
+    "Destino de la actividad  -  Venta y consumo": 130,
+    "Destino de la actividad  -  No reportado": 45
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Enxet Sur - Cultivo",
+    "Total": 1.04,
+    "Destino de la actividad  -  Venta": 29,
+    "Destino de la actividad  -  Consumo": 883,
+    "Destino de la actividad  -  Venta y consumo": 94,
+    "Destino de la actividad  -  No reportado": 34
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Sanapana - Caza",
+    "Total": 563,
+    "Destino de la actividad  -  Venta": "-",
+    "Destino de la actividad  -  Consumo": 525,
+    "Destino de la actividad  -  Venta y consumo": 32,
+    "Destino de la actividad  -  No reportado": 6
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Sanapana - Pesca",
+    "Total": 644,
+    "Destino de la actividad  -  Venta": 6,
+    "Destino de la actividad  -  Consumo": 619,
+    "Destino de la actividad  -  Venta y consumo": 12,
+    "Destino de la actividad  -  No reportado": 7
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Sanapana - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 585,
+    "Destino de la actividad  -  Venta": 10,
+    "Destino de la actividad  -  Consumo": 474,
+    "Destino de la actividad  -  Venta y consumo": 94,
+    "Destino de la actividad  -  No reportado": 7
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Sanapana - Cultivo",
+    "Total": 594,
+    "Destino de la actividad  -  Venta": 21,
+    "Destino de la actividad  -  Consumo": 460,
+    "Destino de la actividad  -  Venta y consumo": 105,
+    "Destino de la actividad  -  No reportado": 8
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Angaite - Caza",
+    "Total": 864,
+    "Destino de la actividad  -  Venta": 23,
+    "Destino de la actividad  -  Consumo": 785,
+    "Destino de la actividad  -  Venta y consumo": 42,
+    "Destino de la actividad  -  No reportado": 14
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Angaite - Pesca",
+    "Total": 992,
+    "Destino de la actividad  -  Venta": 9,
+    "Destino de la actividad  -  Consumo": 953,
+    "Destino de la actividad  -  Venta y consumo": 19,
+    "Destino de la actividad  -  No reportado": 11
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Angaite - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 915,
+    "Destino de la actividad  -  Venta": 18,
+    "Destino de la actividad  -  Consumo": 827,
+    "Destino de la actividad  -  Venta y consumo": 43,
+    "Destino de la actividad  -  No reportado": 27
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Angaite - Cultivo",
+    "Total": 868,
+    "Destino de la actividad  -  Venta": 10,
+    "Destino de la actividad  -  Consumo": 800,
+    "Destino de la actividad  -  Venta y consumo": 36,
+    "Destino de la actividad  -  No reportado": 22
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Guana - Caza",
+    "Total": 38,
+    "Destino de la actividad  -  Venta": 1,
+    "Destino de la actividad  -  Consumo": 29,
+    "Destino de la actividad  -  Venta y consumo": 5,
+    "Destino de la actividad  -  No reportado": 3
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Guana - Pesca",
+    "Total": 58,
+    "Destino de la actividad  -  Venta": 1,
+    "Destino de la actividad  -  Consumo": 53,
+    "Destino de la actividad  -  Venta y consumo": 3,
+    "Destino de la actividad  -  No reportado": 1
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Guana - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 37,
+    "Destino de la actividad  -  Venta": 2,
+    "Destino de la actividad  -  Consumo": 28,
+    "Destino de la actividad  -  Venta y consumo": 7,
+    "Destino de la actividad  -  No reportado": "-"
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Guana - Cultivo",
+    "Total": 37,
+    "Destino de la actividad  -  Venta": 2,
+    "Destino de la actividad  -  Consumo": 25,
+    "Destino de la actividad  -  Venta y consumo": 8,
+    "Destino de la actividad  -  No reportado": 2
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Toba Maskoy/Toba Enenlhet - Caza",
+    "Total": 232,
+    "Destino de la actividad  -  Venta": 4,
+    "Destino de la actividad  -  Consumo": 216,
+    "Destino de la actividad  -  Venta y consumo": 9,
+    "Destino de la actividad  -  No reportado": 3
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Toba Maskoy/Toba Enenlhet - Pesca",
+    "Total": 287,
+    "Destino de la actividad  -  Venta": 5,
+    "Destino de la actividad  -  Consumo": 271,
+    "Destino de la actividad  -  Venta y consumo": 8,
+    "Destino de la actividad  -  No reportado": 3
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Toba Maskoy/Toba Enenlhet - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 283,
+    "Destino de la actividad  -  Venta": 15,
+    "Destino de la actividad  -  Consumo": 246,
+    "Destino de la actividad  -  Venta y consumo": 10,
+    "Destino de la actividad  -  No reportado": 12
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Toba Maskoy/Toba Enenlhet- Cultivo",
+    "Total": 337,
+    "Destino de la actividad  -  Venta": 6,
+    "Destino de la actividad  -  Consumo": 313,
+    "Destino de la actividad  -  Venta y consumo": 13,
+    "Destino de la actividad  -  No reportado": 5
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Nivacle - Caza",
+    "Total": 924,
+    "Destino de la actividad  -  Venta": 17,
+    "Destino de la actividad  -  Consumo": 779,
+    "Destino de la actividad  -  Venta y consumo": 105,
+    "Destino de la actividad  -  No reportado": 23
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Nivacle - Pesca",
+    "Total": 448,
+    "Destino de la actividad  -  Venta": 12,
+    "Destino de la actividad  -  Consumo": 326,
+    "Destino de la actividad  -  Venta y consumo": 92,
+    "Destino de la actividad  -  No reportado": 18
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Nivacle - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 1.758,
+    "Destino de la actividad  -  Venta": 65,
+    "Destino de la actividad  -  Consumo": 1.404,
+    "Destino de la actividad  -  Venta y consumo": 243,
+    "Destino de la actividad  -  No reportado": 46
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Nivacle - Cultivo",
+    "Total": 1.774,
+    "Destino de la actividad  -  Venta": 55,
+    "Destino de la actividad  -  Consumo": 1.422,
+    "Destino de la actividad  -  Venta y consumo": 262,
+    "Destino de la actividad  -  No reportado": 35
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Maka- Caza",
+    "Total": 63,
+    "Destino de la actividad  -  Venta": 5,
+    "Destino de la actividad  -  Consumo": 17,
+    "Destino de la actividad  -  Venta y consumo": 32,
+    "Destino de la actividad  -  No reportado": 9
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Maka - Pesca",
+    "Total": 126,
+    "Destino de la actividad  -  Venta": 5,
+    "Destino de la actividad  -  Consumo": 23,
+    "Destino de la actividad  -  Venta y consumo": 81,
+    "Destino de la actividad  -  No reportado": 17
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Maka - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 46,
+    "Destino de la actividad  -  Venta": "-",
+    "Destino de la actividad  -  Consumo": 29,
+    "Destino de la actividad  -  Venta y consumo": 15,
+    "Destino de la actividad  -  No reportado": 2
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Maka - Cultivo",
+    "Total": 46,
+    "Destino de la actividad  -  Venta": 2,
+    "Destino de la actividad  -  Consumo": 26,
+    "Destino de la actividad  -  Venta y consumo": 17,
+    "Destino de la actividad  -  No reportado": 1
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Manjui- Caza",
+    "Total": 57,
+    "Destino de la actividad  -  Venta": 1,
+    "Destino de la actividad  -  Consumo": 36,
+    "Destino de la actividad  -  Venta y consumo": 20,
+    "Destino de la actividad  -  No reportado": "-"
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Manjui - Pesca",
+    "Total": 18,
+    "Destino de la actividad  -  Venta": 1,
+    "Destino de la actividad  -  Consumo": 2,
+    "Destino de la actividad  -  Venta y consumo": 13,
+    "Destino de la actividad  -  No reportado": 2
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Manjui - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 77,
+    "Destino de la actividad  -  Venta": 1,
+    "Destino de la actividad  -  Consumo": 61,
+    "Destino de la actividad  -  Venta y consumo": 13,
+    "Destino de la actividad  -  No reportado": 2
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Manjui - Cultivo",
+    "Total": 34,
+    "Destino de la actividad  -  Venta": "-",
+    "Destino de la actividad  -  Consumo": 19,
+    "Destino de la actividad  -  Venta y consumo": 14,
+    "Destino de la actividad  -  No reportado": 1
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ayoreo - Caza",
+    "Total": 267,
+    "Destino de la actividad  -  Venta": 29,
+    "Destino de la actividad  -  Consumo": 156,
+    "Destino de la actividad  -  Venta y consumo": 67,
+    "Destino de la actividad  -  No reportado": 15
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ayoreo - Pesca",
+    "Total": 188,
+    "Destino de la actividad  -  Venta": 67,
+    "Destino de la actividad  -  Consumo": 64,
+    "Destino de la actividad  -  Venta y consumo": 44,
+    "Destino de la actividad  -  No reportado": 13
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ayoreo - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 282,
+    "Destino de la actividad  -  Venta": 29,
+    "Destino de la actividad  -  Consumo": 160,
+    "Destino de la actividad  -  Venta y consumo": 69,
+    "Destino de la actividad  -  No reportado": 24
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ayoreo - Cultivo",
+    "Total": 296,
+    "Destino de la actividad  -  Venta": 23,
+    "Destino de la actividad  -  Consumo": 197,
+    "Destino de la actividad  -  Venta y consumo": 69,
+    "Destino de la actividad  -  No reportado": 7
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ybytoso- Caza",
+    "Total": 314,
+    "Destino de la actividad  -  Venta": 6,
+    "Destino de la actividad  -  Consumo": 282,
+    "Destino de la actividad  -  Venta y consumo": 16,
+    "Destino de la actividad  -  No reportado": 10
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ybytoso - Pesca",
+    "Total": 380,
+    "Destino de la actividad  -  Venta": 6,
+    "Destino de la actividad  -  Consumo": 71,
+    "Destino de la actividad  -  Venta y consumo": 296,
+    "Destino de la actividad  -  No reportado": 7
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ybytoso - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 280,
+    "Destino de la actividad  -  Venta": 5,
+    "Destino de la actividad  -  Consumo": 163,
+    "Destino de la actividad  -  Venta y consumo": 104,
+    "Destino de la actividad  -  No reportado": 8
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Ybytoso - Cultivo",
+    "Total": 159,
+    "Destino de la actividad  -  Venta": 1,
+    "Destino de la actividad  -  Consumo": 93,
+    "Destino de la actividad  -  Venta y consumo": 60,
+    "Destino de la actividad  -  No reportado": 5
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Tomaraho - Caza",
+    "Total": 38,
+    "Destino de la actividad  -  Venta": 3,
+    "Destino de la actividad  -  Consumo": 19,
+    "Destino de la actividad  -  Venta y consumo": 15,
+    "Destino de la actividad  -  No reportado": 1
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Tomaraho - Pesca",
+    "Total": 46,
+    "Destino de la actividad  -  Venta": 3,
+    "Destino de la actividad  -  Consumo": 18,
+    "Destino de la actividad  -  Venta y consumo": 24,
+    "Destino de la actividad  -  No reportado": 1
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Tomaraho - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 43,
+    "Destino de la actividad  -  Venta": 2,
+    "Destino de la actividad  -  Consumo": 27,
+    "Destino de la actividad  -  Venta y consumo": 14,
+    "Destino de la actividad  -  No reportado": "-"
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Tomaraho - Cultivo",
+    "Total": 43,
+    "Destino de la actividad  -  Venta": 2,
+    "Destino de la actividad  -  Consumo": 23,
+    "Destino de la actividad  -  Venta y consumo": 18,
+    "Destino de la actividad  -  No reportado": "-"
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Qom - Caza",
+    "Total": 204,
+    "Destino de la actividad  -  Venta": 24,
+    "Destino de la actividad  -  Consumo": 102,
+    "Destino de la actividad  -  Venta y consumo": 70,
+    "Destino de la actividad  -  No reportado": 8
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Qom - Pesca",
+    "Total": 331,
+    "Destino de la actividad  -  Venta": 36,
+    "Destino de la actividad  -  Consumo": 186,
+    "Destino de la actividad  -  Venta y consumo": 99,
+    "Destino de la actividad  -  No reportado": 10
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Qom - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 241,
+    "Destino de la actividad  -  Venta": 18,
+    "Destino de la actividad  -  Consumo": 138,
+    "Destino de la actividad  -  Venta y consumo": 80,
+    "Destino de la actividad  -  No reportado": 5
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "Qom - Cultivo",
+    "Total": 222,
+    "Destino de la actividad  -  Venta": 6,
+    "Destino de la actividad  -  Consumo": 160,
+    "Destino de la actividad  -  Venta y consumo": 51,
+    "Destino de la actividad  -  No reportado": 5
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "No indigena - Caza",
+    "Total": 88,
+    "Destino de la actividad  -  Venta": 2,
+    "Destino de la actividad  -  Consumo": 81,
+    "Destino de la actividad  -  Venta y consumo": 2,
+    "Destino de la actividad  -  No reportado": 3
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "No indigena - Pesca",
+    "Total": 126,
+    "Destino de la actividad  -  Venta": 4,
+    "Destino de la actividad  -  Consumo": 116,
+    "Destino de la actividad  -  Venta y consumo": 4,
+    "Destino de la actividad  -  No reportado": 2
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "No indigena - Recoleccion de alimentos del bosque, campo u otros lugares",
+    "Total": 75,
+    "Destino de la actividad  -  Venta": 2,
+    "Destino de la actividad  -  Consumo": 65,
+    "Destino de la actividad  -  Venta y consumo": 7,
+    "Destino de la actividad  -  No reportado": 1
+  },
+  {
+    "Pueblo y tipo de actividades de subsistencia": "No indigena - Cultivo",
+    "Total": 158,
+    "Destino de la actividad  -  Venta": 5,
+    "Destino de la actividad  -  Consumo": 125,
+    "Destino de la actividad  -  Venta y consumo": 27,
+    "Destino de la actividad  -  No reportado": 1
+  }
+]
