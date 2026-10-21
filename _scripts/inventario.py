@@ -1,7 +1,8 @@
 import os, csv, datetime
-R='/home/user/repositorio_caminos_vecinales'
+R='/home/user/infraestructura_caminos'
 rows=[]
-for d,_,fs in os.walk(R):
+for d,dirs,fs in os.walk(R):
+    dirs[:]=[x for x in dirs if x!='.git']
     for f in fs:
         p=os.path.join(d,f); rel=os.path.relpath(p,R)
         if rel.startswith('_inventario'): continue

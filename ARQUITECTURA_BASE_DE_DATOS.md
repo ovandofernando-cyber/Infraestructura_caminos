@@ -53,6 +53,7 @@ El detalle fuente por fuente (93 fuentes, con URL, licencia y notas de calidad) 
 | | Silos y acopios | OSM | Continua | oct. 2026 | Punto / distrito | `cod_dist` | `10_` |
 | **Contexto** | Lluvia CHIRPS | CHC / WFP | Decádica / mensual | 1981-2026 | Distrito (214) | P-code | `07_` |
 | | Riqueza relativa, población WorldPop | Meta, WorldPop | Única | 2020-2021 | Tesela / ráster | espacial | `07_` |
+| | Luces nocturnas VIIRS (VNL V2) | EOG / Zenodo | Anual | 2012-2024 | Píxel 500 m / distrito (263) | `cod_dist` + año | `07_` |
 | **Cartografía** | Cartografía censal y códigos | INE, OCHA | Censal | 2012, 2022 | Polígono | `cod_dist` | `05_` |
 
 ## 3. Claves y unidad de análisis
@@ -71,6 +72,7 @@ El detalle fuente por fuente (93 fuentes, con URL, licencia y notas de calidad) 
 | DNCP | Continua (API OCDS) |
 | OSM, Overture Maps, Ookla | Mensual y trimestral |
 | CHIRPS | Cada 10 días |
+| Luces nocturnas VIIRS | Anual (el año anterior sale a mediados del año siguiente) |
 | Royalties y transferencias MEF | Mensual acumulado |
 | Precios mayoristas SIMA-MAG | Diaria (boletín anual en el primer trimestre) |
 | Cobertura móvil CONATEL | Anual (matriz por localidad) |

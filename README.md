@@ -21,7 +21,7 @@ Ampliado el 19/10/2026 por el equipo de agentes (carpetas 09 a 12). **La arquite
 | `04_servicios_e_instituciones/` | Accesibilidad a escuelas, hospitales y atención primaria (HeiGIT); establecimientos sanitarios y escolares (datos.gov.py); puntos de interés de OSM; healthsites.io |
 | `05_cartografia_y_codigos/` | Cartografía censal 2022 en SHP (país y departamentos foco, en RAR); códigos INE 2012 y 2022; límites COD-AB de OCHA; GeoJSON |
 | `06_produccion_CAN_2022/` | Tablas del Censo Agropecuario 2022; Atlas de la producción y presentación (geoportal MAG) |
-| `07_clima_y_contexto/` | Lluvia CHIRPS por departamento y distrito 1981-2026; índice de riqueza relativa (Meta); WorldPop 2020 |
+| `07_clima_y_contexto/` | Lluvia CHIRPS por departamento y distrito 1981-2026; **luces nocturnas VIIRS anuales 2012-2024** (13 GeoTIFF recortados a Paraguay y `luces_nocturnas_por_distrito_2012_2024.csv`); índice de riqueza relativa (Meta); WorldPop 2020 |
 | `08_contrataciones_DNCP/` | Llamados públicos de obras viales 2018-2026 (API OCDS de la DNCP) |
 | `09_servicios_complementarios/` | Conectividad a internet Ookla (trimestral), electrificación HREA 2013/2020 e instituciones OSM (comisarías, municipios, bancos, mercados), todo también por distrito; capas del geoportal del INE (locales educativos, puestos de salud, antenas, tanques y juntas de agua, comunidades indígenas) con conteo por distrito; cobertura de telefonía e internet móvil de CONATEL por localidad 2017-2025 |
 | `10_economia_y_mercados/` | Royalties 2025 y transferencias 2024 a municipios (MEF), producción agrícola por departamento (MAG), PIB departamental 2021-2024 por actividad (BCP, anexo xlsx y tabla larga), crédito CAH; precios mayoristas SIMA-MAG (boletines anuales 2022-2025 y diarios nov. 2025-oct. 2026, con CECOPROA), precios WFP 2010-2022, silos y acopios OSM por distrito, calendario de ferias de la agricultura familiar |
@@ -44,6 +44,14 @@ Ampliado el 19/10/2026 por el equipo de agentes (carpetas 09 a 12). **La arquite
 2. **Censo 2022, Cuadro A1:** el encabezado de Cordillera dice "Departamento Concepcion". En la base integrada los departamentos se asignaron por orden.
 3. **Mapa de pobreza distrital:** el Excel enlazado en datos.gov.py da error 404. Solo están los PDF.
 4. **Población WorldPop (HeiGIT) vs. Censo:** en algunos distritos difieren mucho (p. ej., San Alfredo). Para tasas, usar los RAI de HeiGIT (que comparten denominador) y la población del censo para ponderar.
+
+## Luces nocturnas (VIIRS)
+
+- Fuente: Annual VNL V2 (Elvidge et al., 2021, *Remote Sensing* 13(5):922), copia abierta en Zenodo (doi:10.5281/zenodo.17294744, CC BY 4.0). El original en eogdata.mines.edu pide una cuenta gratuita.
+- Unidad armonizada: nW/cm²/sr. La copia de Zenodo trae 2012-2021 multiplicado por 10 y 2022-2024 sin multiplicar; acá todo quedó en la misma escala (verificado: la serie nacional no salta entre 2021 y 2022).
+- Calculado por distrito con los límites COD-AB de OCHA (`05_cartografia_y_codigos/COD-AB_OCHA_limites_admin/pry_admin_boundaries.gdb.zip`): cubre los 263 distritos, incluidos los 13 nuevos de 2022. Las columnas `luz_*` ya están en la base distrital integrada.
+- Limitaciones: valores enteros (precisión de 1 nW), así que la luz rural muy tenue queda en 0; 2012 cubre solo abril-diciembre; hay píxeles atípicos (incendios) en 2012 y 2018.
+- Uso sugerido: resultado anual por distrito para el diseño de diferencias en diferencias escalonado (antes y después de la mejora de caminos).
 
 ## Advertencias para el análisis
 

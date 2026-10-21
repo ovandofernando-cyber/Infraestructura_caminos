@@ -29,3 +29,7 @@ departamental,mopc_km_vecinal_total / mopc_km_vecinal_tierra / mopc_pct_vecinal_
 departamental,mopc_km_red_total / mopc_km_red_tierra,Red total (nacional + departamental + vecinal),MOPC – Inventario vial dic. 2025
 departamental,heigit_RAI_pct_ponderado,RAI departamental: suma de población rural con acceso / suma de población rural,"HeiGIT (HDX), agregado"
 departamental,mopc_km_vecinal_por_1000_hab_rurales,km de red vecinal por cada 1.000 habitantes rurales (Censo 2022),Calculado
+distrital,luz_suma_2013 / 2015 / 2022 / 2024,Suma de radiancia nocturna VIIRS del distrito (nW/cm²/sr × píxeles de 500 m),"EOG Annual VNL V2 vía Zenodo 10.5281/zenodo.17294744, recortado y armonizado"
+distrital,luz_pct_pixeles_iluminados_2024,% de píxeles del distrito con luz > 0 en 2024,Ídem
+distrital,luz_crec_pct_2015_2024,Variación % de la suma de luz entre 2015 y 2024,Calculado
+distrital,luz_por_1000_hab_2022,Suma de luz 2022 por cada 1.000 habitantes (Censo 2022),Calculado
