@@ -79,6 +79,52 @@ Todos los coeficientes son significativos (p < 0,01; n = 4.785).
 - **La conclusión no depende de la elección:** en las cuatro versiones la asociación es positiva y muy significativa; solo cambia la magnitud, entre un 10 y un 25 %.
 - **Salvedad:** la luz de 2013 tampoco es estrictamente anterior a todos los caminos. Los tramos que ya existían antes de 2013 pudieron influir en ella, así que este control también puede quitar algo de efecto. Es la mejor opción disponible, no una solución completa.
 
+## ¿Lejos del camino o lejos del servicio?
+
+Una localidad lejos del camino de todo tiempo suele estar también lejos de la escuela y del puesto de salud. Para separar los dos factores se calculó la distancia en línea recta de cada localidad a la **escuela básica**, el **colegio** (secundaria), la **atención primaria de salud** (USF, puesto o centro de salud) y el **hospital** más cercanos, con las capas del geoportal del INE (`distancias_servicios_localidades_2022.csv`, `resultados_camino_vs_servicio.csv`, `cuadro_2x2_camino_salud.csv`; script `_scripts/analisis_localidad_2022_servicios.py`).
+
+Distancias medianas de las localidades rurales: camino de todo tiempo 3,2 km · escuela básica 1,4 km · colegio 3,2 km · atención primaria 3,9 km · hospital 21 km.
+
+### 1. El camino sigue importando después de considerar los servicios
+
+Coeficiente de log(1 + distancia al camino), efectos fijos de distrito:
+
+| Resultado | Solo camino | Camino + distancia a los 4 servicios |
+|---|---|---|
+| Índice de privaciones | 0,134 *** | 0,121 *** |
+| % piso de tierra | 4,57 *** | 3,95 *** |
+| % cocina con leña | 5,26 *** | 5,43 *** |
+| % con vehículo | −3,92 *** | −3,90 *** |
+| % con electricidad | −1,55 *** | −0,99 *** |
+| % con agua corriente | −0,69 | 0,31 |
+
+- Para el índice, el piso de tierra, la leña y el vehículo, **la distancia al camino casi no cambia** al sumar la distancia a los servicios: el camino importa por sí mismo, no solo porque marca lejanía de la escuela o del puesto de salud.
+- **Electricidad y agua corriente** se explican más por la lejanía de los centros de servicios (colegio, atención primaria): las redes de luz y agua llegan a los mismos núcleos donde están la escuela y el puesto. Para el agua, el camino deja de ser relevante.
+
+### 2. Los servicios están donde están los caminos
+
+Con la distancia al servicio como resultado: las localidades más alejadas del camino también están más lejos de la escuela básica (0,06), del colegio (0,12) y de la atención primaria (0,08), todas con p < 0,01. No pasa con el hospital, que está en las cabeceras distritales. Es decir, **el camino también es una vía por la que llegan los servicios**: el coeficiente de la columna "camino + servicios" es la parte de la asociación que no pasa por la cercanía a los servicios, no el total.
+
+### 3. Peor cuando faltan los dos
+
+Índice de privaciones, comparado con localidades cerca de ambos (≤ 5 km del camino y de la atención primaria), efectos fijos de distrito:
+
+| Grupo | Localidades | Diferencia (desvíos estándar) |
+|---|---|---|
+| Cerca del camino y de la atención primaria | 2.373 | referencia |
+| Cerca del camino, lejos de la atención primaria | 827 | +0,04 (no significativo) |
+| Lejos del camino, cerca de la atención primaria | 755 | **+0,10** *** |
+| Lejos de ambos | 830 | **+0,22** *** |
+
+La interacción también lo muestra: **la distancia al camino pesa más cuanto más lejos está el puesto de salud** (interacción 0,054; p < 0,001). Con el colegio la interacción va en la misma dirección, pero es más débil (0,027; p = 0,10).
+
+**Lectura:** estar lejos del camino es más dañino que estar lejos del puesto de salud, y lo peor es la combinación. Es coherente con la hipótesis: el camino de todo tiempo es lo que permite llegar a los servicios cuando no están en la propia comunidad.
+
+**Cautelas:**
+- Las distancias a los servicios son en línea recta, no por camino.
+- La escuela básica sale con signo contrario (más lejos, menos privaciones). Las escuelas básicas están en casi todas las compañías, incluidas las más pobres, así que su cercanía marca comunidades rurales pequeñas más que acceso. No conviene interpretarlo como efecto.
+- Los resultados disponibles por localidad son de vivienda, servicios y bienes. No hay asistencia escolar ni uso de salud por localidad, así que no se mide directamente el acceso efectivo a la escuela o al puesto.
+
 ## Limitaciones
 
 1. **Asociación, no efecto causal.** Los caminos se pavimentan donde ya había más población y actividad; los efectos fijos de distrito y la luz 2013 ayudan, pero no resuelven la causalidad inversa.
@@ -90,5 +136,5 @@ Todos los coeficientes son significativos (p < 0,01; n = 4.785).
 ## Próximos pasos sugeridos
 
 1. Ubicar mejor las localidades con los puntos de asentamientos (COD-AB `pry_adminpoints`) o la población grillada.
-2. Agregar la **distancia a la escuela y al puesto de salud** más cercanos (capas del geoportal INE), para separar "lejos del camino" de "lejos del servicio".
+2. Medir la distancia a la escuela y al puesto de salud **por camino** (no en línea recta) y sumar resultados de uso de servicios cuando haya datos por localidad.
 3. Para causalidad: comparar localidades cerca de los tramos que el BID mejoró con las cercanas a los tramos candidatos no ejecutados.
