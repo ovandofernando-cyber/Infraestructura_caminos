@@ -19,6 +19,44 @@ Archivos: `base_localidades_2022.csv` (7.994 barrios y localidades), `resultados
 
 **Muestra:** 4.785 localidades rurales de la Región Oriental sin Asunción ni Central, con al menos 10 viviendas ocupadas (2.381 en los departamentos foco). Ponderadas por viviendas; errores agrupados por distrito (224 grupos).
 
+## Especificación econométrica
+
+**Estimador:** mínimos cuadrados ponderados (MCO ponderado), con una observación por localidad rural *l* del distrito *d*. El peso es el número de viviendas ocupadas de la localidad (Censo 2022).
+
+**Modelo principal (A):**
+
+$$
+Y_{ld} = \mu_d + \beta \ln(1 + \text{Dist}_{ld}) + X_{ld}'\theta + \varepsilon_{ld}
+$$
+
+| Término | Definición |
+|---|---|
+| $Y_{ld}$ | Condición de vida de la localidad: índice de privaciones (en desvíos estándar) o un indicador en % de viviendas (piso de tierra, cocina con leña, sin bienes, electricidad, agua corriente, internet, vehículo) |
+| $\text{Dist}_{ld}$ | Distancia en km desde un punto interior de la localidad al tramo de camino de todo tiempo más cercano |
+| $\mu_d$ | Efecto fijo de distrito: compara solo localidades del **mismo distrito** y descuenta todo lo común al distrito (municipio, mercados regionales, historia de inversión, clima general) |
+| $X_{ld}$ | Controles: log de población, log de superficie, log(1 + distancia a la capital del distrito), log(1 + luz nocturna media 2013) |
+| $\varepsilon_{ld}$ | Error |
+
+**Índice de privaciones:** promedio simple de cinco indicadores estandarizados (media 0 y desvío 1 en la muestra), orientados para que un valor más alto sea peor: % con piso de tierra, % que cocina con leña, % sin ningún bien, % sin electricidad y % sin agua corriente.
+
+**Interpretación de β:** como la distancia está en logaritmo, β mide el cambio en $Y$ asociado a un aumento **proporcional** de la distancia. Por ejemplo, para el índice (β = 0,134), duplicar la distancia al camino se asocia con unos 0,134 × ln 2 ≈ 0,09 desvíos estándar más de privaciones.
+
+**Variantes estimadas:**
+
+| Modelo | Especificación |
+|---|---|
+| B | Reemplaza $\ln(1+\text{Dist})$ por tramos de distancia (2-5, 5-10 y más de 10 km; referencia: 0-2 km) |
+| C | Agrega lluvia media 2013-2022 (en 100 mm, centrada) y la interacción $\ln(1+\text{Dist}) \times \text{Lluvia}$; usa efectos fijos de **departamento**, porque la lluvia casi no varía dentro de un distrito |
+| D | Agrega $\ln(1+\text{Dist}) \times$ (departamento foco) |
+| E0-E2 | Camino solo (E0); distancias a los cuatro servicios (escuela básica, colegio, atención primaria, hospital) solas (E1); y ambos juntos (E2) |
+| F | La distancia a cada servicio como resultado y $\ln(1+\text{Dist})$ como explicativa: ¿los servicios están donde están los caminos? |
+| G | $\ln(1+\text{Dist}) \times \ln(1+\text{distancia al servicio})$ para colegio y atención primaria |
+| H | Cuatro grupos (cerca o lejos del camino × cerca o lejos de la atención primaria, umbral 5 km); referencia: cerca de ambos |
+
+**Inferencia:** errores estándar agrupados por distrito (224 grupos), que permiten correlación entre localidades del mismo distrito.
+
+**Robustez:** definición alternativa de camino (solo pavimentado; incluye troncales sin dato de superficie) y control de luz nocturna (sin luz, 2013, 2022, ambas).
+
 ## Lo que muestran los datos (antes de regresiones)
 
 | Distancia al camino de todo tiempo | Localidades | Piso de tierra | Cocina con leña | Electricidad | Agua corriente | Vehículo |

@@ -18,11 +18,45 @@ Archivos: `base_distrital_2022.csv` (263 distritos, 52 variables), `diccionario_
 
 **Muestra:** 223 distritos de la Región Oriental sin Asunción ni Central (84 en los departamentos foco). Se excluyen 2 distritos sin datos o sin población rural.
 
-## Modelo principal (M3)
+## Especificación econométrica
 
-IPM_rural = β · Tierra + γ · Lluvia + δ · (Tierra × Lluvia) + controles + efecto del departamento + error
+**Estimador:** mínimos cuadrados ponderados (MCO ponderado), con una observación por distrito *d* del departamento *k*. El peso es la población rural del distrito (Censo 2022), para que cada distrito cuente según cuánta población rural representa.
 
-- *Tierra* en unidades de 10 puntos porcentuales; *Lluvia* en 100 mm/año. Ambas están centradas en la media, así que β es el efecto con lluvia promedio.
+**Modelo principal (M3):**
+
+$$
+\text{IPM}^{rural}_{dk} = \alpha_k + \beta\,\text{Tierra}_{dk} + \gamma\,\text{Lluvia}_{dk} + \delta\,(\text{Tierra}_{dk} \times \text{Lluvia}_{dk}) + X_{dk}'\theta + \varepsilon_{dk}
+$$
+
+| Término | Definición |
+|---|---|
+| $\text{IPM}^{rural}_{dk}$ | % de la población rural del distrito en pobreza multidimensional (INE, Censo 2022) |
+| $\text{Tierra}_{dk}$ | % de km de la red vial del distrito que no está pavimentada (GRIP 2018), en unidades de 10 puntos porcentuales y centrado en la media de la muestra |
+| $\text{Lluvia}_{dk}$ | Lluvia media anual 2013-2022 (CHIRPS), en 100 mm y centrada en la media |
+| $\alpha_k$ | Efecto fijo de departamento: compara distritos del mismo departamento y descuenta todo lo común al departamento |
+| $X_{dk}$ | Controles anteriores o fijos: log de densidad de población, % de población rural, log(1 + luz nocturna 2013 por 100 km²), log de superficie, presencia de comunidades indígenas |
+| $\varepsilon_{dk}$ | Error |
+
+**Interpretación de los coeficientes:**
+- **β:** diferencia en puntos porcentuales de IPM rural asociada a 10 puntos más de red de tierra, en un distrito con lluvia promedio (por el centrado).
+- **δ:** cuánto cambia esa asociación por cada 100 mm más de lluvia anual. Si la hipótesis es correcta, δ > 0: la lluvia agrava la brecha porque corta los caminos de tierra.
+
+**Variantes estimadas:**
+
+| Modelo | Cambio respecto de M3 |
+|---|---|
+| M1 | Solo Tierra y efectos fijos de departamento |
+| M2 | M1 + controles $X$ (sin lluvia) |
+| M4 | Lluvia como anomalía % de los 12 meses previos al censo (nov. 2021-oct. 2022) frente a 1991-2020 |
+| M5 | Agrega Tierra × (departamento foco) para medir si la asociación es distinta en los cinco departamentos foco |
+| M6 | Reemplaza Tierra por el % de población rural **sin** camino de todo tiempo a 2 km (100 − RAI, HeiGIT) |
+| Mecanismos | Especificación M3 con otros resultados: IPM M0, NBI, % viviendas con electricidad, agua corriente, leña, sin bienes, % de población con hospital a menos de 1 hora, log de luz por habitante 2022 |
+
+**Inferencia:**
+- Errores estándar agrupados por departamento.
+- Con solo 13 departamentos, los errores agrupados pueden ser poco confiables, así que para los coeficientes clave de M3 se calculó además un **wild cluster bootstrap** restringido (pesos de Webb, 999 repeticiones) y errores robustos HC1.
+- **Sensibilidad a variables omitidas (Oster, 2019):** compara β y R² de M1 y M2, con $R^2_{max} = 1{,}3 \times R^2$ de M2.
+- **Autocorrelación espacial:** I de Moran de los residuos de M3 con vecinos por contigüidad.
 
 ## Resultados
 
