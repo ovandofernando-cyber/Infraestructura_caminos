@@ -52,6 +52,7 @@ El detalle fuente por fuente (93 fuentes, con URL, licencia y notas de calidad) 
 | | Precios de alimentos | WFP / HDX | Mensual | 2010-2022 | Mercado (Asunción) | producto × fecha | `10_` |
 | | Silos y acopios | OSM | Continua | oct. 2026 | Punto / distrito | `cod_dist` | `10_` |
 | **Contexto** | Lluvia CHIRPS | CHC / WFP | Decádica / mensual | 1981-2026 | Distrito (214) | P-code | `07_` |
+| | Lluvia CHIRPS recalculada desde los rásteres | CHC | Anual / mensual | 1991-2024 | Distrito (263) | `cod_dist` + año | `07_` |
 | | Riqueza relativa, población WorldPop | Meta, WorldPop | Única | 2020-2021 | Tesela / ráster | espacial | `07_` |
 | | Luces nocturnas VIIRS (VNL V2) | EOG / Zenodo | Anual | 2012-2024 | Píxel 500 m / distrito (263) | `cod_dist` + año | `07_` |
 | **Cartografía** | Cartografía censal y códigos | INE, OCHA | Censal | 2012, 2022 | Polígono | `cod_dist` | `05_` |

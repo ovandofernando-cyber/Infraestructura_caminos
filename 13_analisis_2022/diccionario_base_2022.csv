@@ -1,0 +1,21 @@
+﻿variable,descripcion,fuente,anio
+cod_dpto / departamento / cod_dist / distrito,Códigos y nombres INE 2022,INE,2022
+foco / departamento_foco,"1/Sí = Concepción, San Pedro, Caaguazú, Caazapá o Canindeyú",Definición del estudio,-
+region_oriental_muestra,Sí = Región Oriental sin Asunción ni Central (muestra de estimación),Definición del estudio,-
+censo_pob_total / censo_pob_rural / censo_pct_rural,Población total y rural y % rural,Censo 2022 (INE),2022
+area_km2 / densidad_pob_km2 / log_densidad_pob / log_area_km2,Superficie del distrito y densidad de población,GRIP4 (superficie) + Censo 2022,2022
+ipm_H_rural / ipm_M0_rural / ipm_H_total,Pobreza multidimensional: incidencia (H) y tasa ajustada (M0); rural y total,INE IPM distrital (Censo 2022),2022
+nbi_*_pct,% de hogares con NBI (al menos una; vivienda; sanitaria; educación; subsistencia),INE NBI (Censo 2022),2022
+pct_viv_*,% de viviendas particulares ocupadas con electricidad; agua corriente; piso de tierra; cocina a leña; ningún bien; internet; vehículo,Censo 2022 indicadores por distrito (INE),2022
+luz_suma_2013 / luz_suma_2022 / luz_por_1000_hab_2022 / log_luz_pc_2022,Luces nocturnas VIIRS (nW/cm²/sr) y por 1.000 habitantes,EOG VNL V2 vía Zenodo,2013 y 2022
+log_luz_2013_km2,log(1 + luz 2013 por 100 km²): actividad económica previa (control),EOG VNL V2,2013
+grip_pct_tierra,% de km de la red vial del distrito que no está pavimentada (variable explicativa principal),GRIP4 (Global Roads Inventory Project),2018
+grip_km_total / grip_km_tierra / grip_densidad_km_100km2,Km de red total y de tierra; densidad vial,GRIP4,2018
+overture_pct_vecinal_no_pav / overture_pct_vecinal_sin_dato,% de la red rural/vecinal no pavimentada y % sin dato de superficie,Overture Maps,2026
+RAI_pct,Rural Access Index: % de población rural a menos de 2 km de un camino de todo tiempo,HeiGIT (HDX),2026
+pct_pob_acceso_*,% de población con hospital a < 1 h; atención primaria a < 30 min; escuela a < 5 km,HeiGIT (HDX),2026
+lluvia_normal_1991_2020,Lluvia media anual 1991-2020 (mm),CHIRPS v2.0 calculado por distrito,1991-2020
+lluvia_media_2013_2022,Lluvia media anual 2013-2022 (mm): exposición a cortes de caminos,CHIRPS v2.0,2013-2022
+lluvia_12m_precenso_mm / lluvia_anomalia_precenso_pct,Lluvia nov. 2021-oct. 2022 y su desvío % respecto de 1991-2020,CHIRPS v2.0,2021-2022
+n_comunidades_indigenas_INE_2022 / comunidades_indigenas,Comunidades indígenas en el distrito (cantidad y 1 = al menos una),Geoportal INE,2022
+n_locales_educativos_INE_rural / n_puestos_salud_publicos_INE_rural,Locales educativos y puestos de salud públicos en área rural,Geoportal INE,2022
