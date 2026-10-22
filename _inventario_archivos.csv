@@ -2112,12 +2112,13 @@
 13_analisis_2022,13_analisis_2022/descriptivos_muestra_2022.csv,csv,629,2026-10-22 12:15
 13_analisis_2022,13_analisis_2022/diccionario_base_2022.csv,csv,2667,2026-10-22 12:11
 13_analisis_2022,13_analisis_2022/resultados_estimaciones_2022.csv,csv,4834,2026-10-22 12:15
-14_analisis_localidad_2022,14_analisis_localidad_2022/INFORME_localidades_2022.md,md,6748,2026-10-22 12:24
+14_analisis_localidad_2022,14_analisis_localidad_2022/INFORME_localidades_2022.md,md,8546,2026-10-22 13:01
 14_analisis_localidad_2022,14_analisis_localidad_2022/_resumen_corrida.txt,txt,344,2026-10-22 12:24
 14_analisis_localidad_2022,14_analisis_localidad_2022/base_localidades_2022.csv,csv,2786011,2026-10-22 12:24
 14_analisis_localidad_2022,14_analisis_localidad_2022/descriptivos_por_distancia.csv,csv,358,2026-10-22 12:24
 14_analisis_localidad_2022,14_analisis_localidad_2022/localidades_foco_por_distancia.csv,csv,119,2026-10-22 12:24
 14_analisis_localidad_2022,14_analisis_localidad_2022/resultados_localidades_2022.csv,csv,12943,2026-10-22 12:24
+14_analisis_localidad_2022,14_analisis_localidad_2022/robustez_control_luz.csv,csv,866,2026-10-22 13:01
 ARQUITECTURA_BASE_DE_DATOS.md,ARQUITECTURA_BASE_DE_DATOS.md,md,12846,2026-10-22 12:16
 README.md,README.md,md,8875,2026-10-22 12:25
 _arquitectura,_arquitectura/claves_y_uniones.md,md,5595,2026-10-21 22:32
@@ -2131,6 +2132,7 @@ _equipo_agentes,_equipo_agentes/social.md,md,3730,2026-10-21 22:32
 _registro_descargas_datos_gov_py.csv,_registro_descargas_datos_gov_py.csv,csv,176042,2026-10-21 22:32
 _scripts,_scripts/analisis_2022.py,py,11925,2026-10-22 12:14
 _scripts,_scripts/analisis_localidad_2022.py,py,10576,2026-10-22 12:23
+_scripts,_scripts/analisis_localidad_2022_robustez_luz.py,py,3042,2026-10-22 13:01
 _scripts,_scripts/arquitectura_unir_fuentes.py,py,3982,2026-10-21 22:32
 _scripts,_scripts/base_distrital.py,py,7060,2026-10-21 22:32
 _scripts,_scripts/base_dpto.py,py,3960,2026-10-21 22:32

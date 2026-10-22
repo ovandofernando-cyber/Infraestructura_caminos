@@ -60,6 +60,25 @@ La relación es **igual de fuerte** en los departamentos foco que en el resto de
 - **Medida de camino:** se repitió con "solo pavimentado" y con "incluye rutas troncales sin dato de superficie": el coeficiente del índice no cambia (0,135). Esta prueba es **débil**: casi no hay tramos de ripio etiquetados en OSM, así que las tres medidas son casi iguales.
 - **Forma funcional:** la distancia en logaritmo (modelo A) y por tramos (modelo B) cuentan la misma historia.
 
+### Control de luz nocturna: ¿por qué 2013 y no 2022?
+
+El control de luz busca descontar que algunas localidades ya eran más prósperas **antes**, por razones ajenas al camino. Por eso se usa la luz de **2013**, el primer año completo de VIIRS. La luz de 2022 no sirve como control principal: es en parte **consecuencia del propio camino** (más comercio, más conexiones eléctricas), y además mide en buena parte electricidad, que es uno de los resultados. Controlar por ella le quitaría al camino parte de su efecto: es un "mal control".
+
+Coeficiente de log(1 + distancia) con efectos fijos de distrito, según el control de luz (`robustez_control_luz.csv`, script `_scripts/analisis_localidad_2022_robustez_luz.py`):
+
+| Control de luz | Índice de privaciones | % con electricidad | % piso de tierra |
+|---|---|---|---|
+| Sin control de luz | 0,153 | −1,65 | 4,97 |
+| **Luz 2013 (principal)** | **0,134** | **−1,55** | **4,57** |
+| Luz 2022 | 0,119 | −1,33 | 4,12 |
+| Luz 2013 y 2022 | 0,118 | −1,21 | 4,03 |
+
+Todos los coeficientes son significativos (p < 0,01; n = 4.785).
+
+- **La luz 2022 responde a la distancia al camino:** con la luz 2013 fija, las localidades más alejadas aumentaron menos su luz hasta 2022 (coeficiente −0,038; p < 0,001). Eso confirma que la luz 2022 está en el camino causal y no debe usarse como control.
+- **La conclusión no depende de la elección:** en las cuatro versiones la asociación es positiva y muy significativa; solo cambia la magnitud, entre un 10 y un 25 %.
+- **Salvedad:** la luz de 2013 tampoco es estrictamente anterior a todos los caminos. Los tramos que ya existían antes de 2013 pudieron influir en ella, así que este control también puede quitar algo de efecto. Es la mejor opción disponible, no una solución completa.
+
 ## Limitaciones
 
 1. **Asociación, no efecto causal.** Los caminos se pavimentan donde ya había más población y actividad; los efectos fijos de distrito y la luz 2013 ayudan, pero no resuelven la causalidad inversa.
