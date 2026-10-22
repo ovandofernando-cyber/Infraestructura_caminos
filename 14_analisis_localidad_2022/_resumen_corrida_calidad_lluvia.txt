@@ -1,0 +1,3 @@
+km de red por tipo (sin peatonales): tipo; asfalto               27772.0; empedrado_adoquin      4467.0; ripio                   599.0; sin_dato             125024.0; tierra_no_pav         93557.0
+muestra=4785; con red tipada en 3 km=4576
+corr(días>=50mm, lluvia total)=0.71

@@ -1,0 +1,19 @@
+﻿variable,descripcion,fuente
+adm3_pcode,Código de la localidad (P-code OCHA = PY + distrito 4 díg. + área 1 díg. + localidad 3 díg.),COD-AB OCHA / INE
+cod_dpto / departamento / cod_dist / distrito / bl / localidad,"Códigos y nombres de departamento, distrito y barrio/localidad",INE Censo 2022
+area,"urbana (código 1), rural (6) u otra (3)",COD-AB OCHA
+poblacion / viviendas_ocupadas / area_km2,"Población, viviendas particulares ocupadas y superficie de la localidad",Censo 2022 / COD-AB
+pct_electricidad / pct_agua_corriente / pct_piso_tierra / pct_cocina_lena / pct_sin_bienes / pct_internet / pct_vehiculo / pct_motocicleta / pct_rancho,% de viviendas ocupadas con cada característica,Censo 2022 (indicadores por localidad)
+dist_todo_tiempo_km,Distancia (km) desde un punto interior de la localidad al tramo pavimentado o de ripio más cercano,HeiGIT/OSM 2024
+tramo_distancia,"Tramo de dist_todo_tiempo_km: 0-2, 2-5, 5-10, > 10 km",Cálculo propio
+dist_pavimentado_km / dist_todo_tiempo_amplio_km,Distancia con definiciones alternativas: solo pavimentado; incluye troncales sin dato de superficie,HeiGIT/OSM 2024
+dist_asfalto_km / dist_empedrado_km / dist_ripio_km,"Distancia al tramo más cercano de asfalto/hormigón, de empedrado/adoquín y de ripio (el ripio está muy subregistrado en OSM)",HeiGIT/OSM 2024
+km_asfalto_3km / km_empedrado_adoquin_3km / km_ripio_3km / km_tierra_no_pav_3km / km_sin_dato_3km,Km de red de cada tipo en un radio de 3 km (solo localidades rurales),HeiGIT/OSM 2024
+pct_red_tierra_3km / pct_red_empedrado_3km / pct_red_asfalto_3km,"% de la red con superficie conocida en 3 km que es de tierra/no pavimentada, empedrado o asfalto",Cálculo propio
+pct_red_sin_dato_3km,% de la red en 3 km sin dato de superficie,Cálculo propio
+dist_capital_distrito_km,Distancia en línea recta a la capital del distrito,COD-AB OCHA
+lluvia_media_2013_2022,Lluvia total anual media 2013-2022 (mm) en el punto de la localidad,CHIRPS anual
+dias_lluvia_50mm_anual / dias_lluvia_30mm_anual,"Días por año con lluvia >= 50 mm y >= 30 mm, promedio 2013-2022",CHIRPS diario (IRI Data Library)
+dias_lluvia_50mm_2022 / dias_lluvia_30mm_2022,Días con lluvia >= 50 mm y >= 30 mm en 2022,CHIRPS diario
+luz_media_2013,Luz nocturna media 2013 en el polígono de la localidad (nW/cm²/sr),VIIRS VNL V2
+distancias a servicios,"Ver distancias_servicios_localidades_2022.csv: escuela básica, colegio, atención primaria, hospital (km, línea recta)",Geoportal INE

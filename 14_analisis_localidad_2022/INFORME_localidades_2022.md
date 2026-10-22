@@ -46,7 +46,12 @@ $$
 | Modelo | Especificación |
 |---|---|
 | B | Reemplaza $\ln(1+\text{Dist})$ por tramos de distancia (2-5, 5-10 y más de 10 km; referencia: 0-2 km) |
-| C | Agrega lluvia media 2013-2022 (en 100 mm, centrada) y la interacción $\ln(1+\text{Dist}) \times \text{Lluvia}$; usa efectos fijos de **departamento**, porque la lluvia casi no varía dentro de un distrito |
+| C | Agrega lluvia media 2013-2022 (en 100 mm, centrada) y la interacción $\ln(1+\text{Dist}) \times \text{Lluvia}$; usa efectos fijos de **departamento**, porque la lluvia casi no varía dentro de un distrito. **Reemplazado como medida principal de lluvia por L1-L3** (días de lluvia intensa) |
+| Q1 | Distancia al asfalto y distancia al empedrado/adoquín en el mismo modelo (efectos fijos de distrito): ¿qué tipo de camino importa? |
+| Q2 | % de la red vial en un radio de 3 km que es de tierra o no pavimentada (sobre los tramos con superficie conocida), con controles del % sin dato y del total de km de red en ese radio, más la distancia al camino de todo tiempo |
+| L1 / L2 | Días por año con lluvia ≥ 50 mm (promedio 2013-2022, CHIRPS diario, centrado) e interacción con $\ln(1+\text{Dist})$; L1 con efectos fijos de departamento, L2 de distrito |
+| L3 | Días ≥ 50 mm × % de red de tierra en 3 km (efectos fijos de departamento) |
+| L4 / L5 | Robustez: días ≥ 30 mm (L4) y lluvia total anual (L5) en lugar de días ≥ 50 mm |
 | D | Agrega $\ln(1+\text{Dist}) \times$ (departamento foco) |
 | E0-E2 | Camino solo (E0); distancias a los cuatro servicios (escuela básica, colegio, atención primaria, hospital) solas (E1); y ambos juntos (E2) |
 | F | La distancia a cada servicio como resultado y $\ln(1+\text{Dist})$ como explicativa: ¿los servicios están donde están los caminos? |
@@ -87,7 +92,7 @@ $$
 
 ### Lluvia (modelo C, efectos fijos de departamento)
 
-La interacción distancia × lluvia **solo es significativa para el agua corriente**: donde llueve más, la lejanía se asocia con todavía menos acceso a agua por red (−1,7 pp por 100 mm, p = 0,001). Para el resto de los indicadores no hay evidencia de que la lluvia amplifique la brecha. Con datos de un solo año, la lluvia no permite separar el efecto del camino.
+La interacción distancia × lluvia **solo es significativa para el agua corriente**: donde llueve más, la lejanía se asocia con todavía menos acceso a agua por red (−1,7 pp por 100 mm, p = 0,001). Para el resto de los indicadores no hay evidencia de que la lluvia amplifique la brecha. Con datos de un solo año, la lluvia no permite separar el efecto del camino. La versión con **días de lluvia intensa** (más abajo) confirma este resultado.
 
 ### Departamentos foco (modelo D)
 
@@ -116,6 +121,60 @@ Todos los coeficientes son significativos (p < 0,01; n = 4.785).
 - **La luz 2022 responde a la distancia al camino:** con la luz 2013 fija, las localidades más alejadas aumentaron menos su luz hasta 2022 (coeficiente −0,038; p < 0,001). Eso confirma que la luz 2022 está en el camino causal y no debe usarse como control.
 - **La conclusión no depende de la elección:** en las cuatro versiones la asociación es positiva y muy significativa; solo cambia la magnitud, entre un 10 y un 25 %.
 - **Salvedad:** la luz de 2013 tampoco es estrictamente anterior a todos los caminos. Los tramos que ya existían antes de 2013 pudieron influir en ella, así que este control también puede quitar algo de efecto. Es la mejor opción disponible, no una solución completa.
+
+## Calidad del camino con más detalle: asfalto, empedrado, ripio y tierra
+
+Se clasificó cada tramo de la capa HeiGIT/OSM según su etiqueta de superficie (`_scripts/analisis_localidad_2022_calidad_lluvia.py`; resultados en `resultados_calidad_y_lluvia_diaria.csv` y `descriptivos_calidad_y_lluvia_diaria.csv`):
+
+| Tipo | Km en Paraguay | Etiquetas OSM |
+|---|---|---|
+| Asfalto / hormigón / pavimento | 27.772 (incluye tramos sin etiqueta que la IA de HeiGIT predice pavimentados) | asphalt, concrete, paved |
+| Empedrado / adoquín | 4.467 | cobblestone, sett, paving_stones, empedrado |
+| Ripio | 599 | gravel, compacted, fine_gravel |
+| Tierra / no pavimentado | 93.557 (incluye "unpaved" genérico y la predicción de IA) | dirt, ground, earth, sand, unpaved |
+| Sin dato | 125.024 | sin etiqueta |
+
+**Qué se pudo medir y qué no:**
+- **Asfalto y empedrado sí se separan.** Distancias medianas desde las localidades rurales: 3,5 km al asfalto y 22,8 km al empedrado o adoquín.
+- **El ripio no se puede medir por localidad.** Solo hay 599 km etiquetados en OSM (la distancia mediana al ripio etiquetado es de 32 km, lo que refleja falta de etiquetas, no falta de ripio). Además, la mayoría de la red no pavimentada está etiquetada como "unpaved" genérico, que mezcla tierra y ripio. El único dato de ripio es el inventario del MOPC, por departamento.
+- **El empedrado está subregistrado en OSM** fuera de los cascos urbanos: solo el 0,4 % de la red tipada en 3 km alrededor de las localidades es empedrado.
+
+### Resultados (efectos fijos de distrito)
+
+**Q1. ¿Asfalto o empedrado?** Ambas distancias en el mismo modelo:
+
+| Resultado | Distancia al asfalto | Distancia al empedrado/adoquín |
+|---|---|---|
+| Índice de privaciones | 0,135 *** | 0,062 ** |
+| % piso de tierra | 4,66 *** | 2,01 ** |
+| % cocina con leña | 4,86 *** | 2,57 ** |
+| % con vehículo | −3,37 *** | −2,40 *** |
+| % con electricidad | −1,64 *** | −1,15 |
+| % con agua corriente | −1,27 | 1,55 |
+
+Estar lejos del asfalto es lo que más pesa, pero **estar lejos del empedrado también importa por separado**: a igual distancia del asfalto, las localidades más alejadas de un empedrado tienen más privaciones, más piso de tierra, más uso de leña y menos vehículos. Es relevante para la política, porque el empedrado es la mejora típica de los caminos vecinales. Hay que leerlo con cuidado por el subregistro del empedrado en OSM.
+
+**Q2. Composición de la red cercana.** El % de la red de tierra en 3 km agrega poco una vez que se considera la distancia al camino de todo tiempo dentro del mismo distrito: índice +0,008 por cada 10 puntos más de tierra (p = 0,08); leña +0,38 pp (p = 0,02). Con efectos fijos de departamento (L3) la asociación es más fuerte (índice +0,029, p < 0,001). La red cercana es de tierra al 100 % en la mitad de las localidades, así que esta medida varía poco.
+
+## Lluvia como exposición a días intransitables
+
+En lugar del total anual se usó la **cantidad de días por año con lluvia de 50 mm o más**, que son los que cortan los caminos de tierra. Se calculó con CHIRPS **diario** 2013-2022 (unos 3.650 días, recorte de Paraguay descargado del IRI Data Library) y se guardaron los rásteres en `07_clima_y_contexto/lluvia_CHIRPS_diaria_dias_intensos/`, más una tabla por distrito.
+
+- Las localidades rurales tienen en promedio **4,8 días por año** con ≥ 50 mm (entre 3,6 y 6,3 del percentil 10 al 90) y **17,3 días** con ≥ 30 mm. En 2022 hubo 6,8 días con ≥ 50 mm en promedio.
+- La correlación con la lluvia total anual es 0,71: miden cosas parecidas, pero no iguales.
+
+**Resultados** (interacción distancia al camino × días ≥ 50 mm):
+
+| Resultado | EF departamento (L1) | EF distrito (L2) |
+|---|---|---|
+| Índice de privaciones | +0,017 (p = 0,18) | +0,016 (p = 0,18) |
+| % con agua corriente | **−1,93 (p = 0,004)** | **−1,57 (p = 0,02)** |
+| % cocina con leña | +0,53 (p = 0,24) | +0,73 (p = 0,11) |
+| % piso de tierra, electricidad, vehículo | no significativa | no significativa |
+
+**Lectura:** los días de lluvia intensa **no amplifican en general** la brecha entre localidades cerca y lejos del camino. La excepción es el **agua corriente**: por cada día más de lluvia intensa al año, la lejanía del camino se asocia con todavía menos acceso a agua por red. El resultado se repite con días ≥ 30 mm (L4) y con la lluvia total (L5), y se mantiene comparando localidades del mismo distrito (L2). La interacción con el % de red de tierra (L3) tampoco es significativa.
+
+**Por qué la lluvia no muestra más:** con datos de un solo momento, la lluvia promedio de un lugar se mezcla con su geografía (el este más lluvioso es también más próspero: el efecto directo de los días de lluvia sobre las privaciones es negativo). Para que la lluvia sirva como "choque" haría falta medir el resultado **varias veces**, en años más y menos lluviosos, lo que el censo no permite.
 
 ## ¿Lejos del camino o lejos del servicio?
 
@@ -176,3 +235,4 @@ La interacción también lo muestra: **la distancia al camino pesa más cuanto m
 1. Ubicar mejor las localidades con los puntos de asentamientos (COD-AB `pry_adminpoints`) o la población grillada.
 2. Medir la distancia a la escuela y al puesto de salud **por camino** (no en línea recta) y sumar resultados de uso de servicios cuando haya datos por localidad.
 3. Para causalidad: comparar localidades cerca de los tramos que el BID mejoró con las cercanas a los tramos candidatos no ejecutados.
+4. Conseguir la capa SIG del inventario vial del MOPC (pedido por Ley 5282): es la única fuente que separa ripio, empedrado y tierra en la red vecinal, y resolvería el subregistro de OSM.

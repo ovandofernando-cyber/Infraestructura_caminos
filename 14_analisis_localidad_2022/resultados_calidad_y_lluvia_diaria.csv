@@ -1,0 +1,97 @@
+﻿resultado,modelo,variable,coef,ee_cluster_distrito,p,n,r2
+Índice de privaciones (desvíos estándar),Q1: distancia a asfalto y a empedrado · EF distrito,l_dist_asfalto,0.13481079249129554,0.01651837015511682,3.315345163685678e-16,4785,0.4773126186343498
+Índice de privaciones (desvíos estándar),Q1: distancia a asfalto y a empedrado · EF distrito,l_dist_empedrado,0.06178246738933767,0.02758635591052539,0.025116750341254754,4785,0.4773126186343498
+Índice de privaciones (desvíos estándar),Q2: % de red de tierra en 3 km · EF distrito,tierra10_3km,0.007835085797641953,0.00443057560667565,0.07699194904471254,4576,0.4750921446482167
+Índice de privaciones (desvíos estándar),Q2: % de red de tierra en 3 km · EF distrito,l_dist_todo_tiempo,0.10566205994299462,0.01905401526772699,2.9328963140233632e-08,4576,0.4750921446482167
+Índice de privaciones (desvíos estándar),L1: días >= 50 mm × distancia · EF departamento,l_dist_todo_tiempo,0.1402181277220069,0.014777920103664995,2.34712478084905e-21,4785,0.37127994525508967
+Índice de privaciones (desvíos estándar),L1: días >= 50 mm × distancia · EF departamento,d50,-0.06983914048910903,0.02366467138780637,0.0031654351117619377,4785,0.37127994525508967
+Índice de privaciones (desvíos estándar),L1: días >= 50 mm × distancia · EF departamento,l_dist_todo_tiempo:d50,0.017453270474549205,0.013058363102430264,0.1813666861185621,4785,0.37127994525508967
+Índice de privaciones (desvíos estándar),L2: días >= 50 mm × distancia · EF distrito,l_dist_todo_tiempo,0.1341485536970004,0.014867310788914512,1.8291672454465232e-19,4785,0.4743687599348223
+Índice de privaciones (desvíos estándar),L2: días >= 50 mm × distancia · EF distrito,l_dist_todo_tiempo:d50,0.015864799251685498,0.011914459222170184,0.18300531511178209,4785,0.4743687599348223
+Índice de privaciones (desvíos estándar),L3: días >= 50 mm × % red de tierra 3 km · EF departamento,tierra10_3km,0.028680633189433435,0.0037121091398255772,1.1077273085244242e-14,4576,0.35813150843222263
+Índice de privaciones (desvíos estándar),L3: días >= 50 mm × % red de tierra 3 km · EF departamento,d50,-0.07202350130240379,0.041322153657828826,0.0813378950512838,4576,0.35813150843222263
+Índice de privaciones (desvíos estándar),L3: días >= 50 mm × % red de tierra 3 km · EF departamento,tierra10_3km:d50,0.003529551964243322,0.004121630645637237,0.3918050762803168,4576,0.35813150843222263
+Índice de privaciones (desvíos estándar),L4 (robustez): días >= 30 mm × distancia · EF departamento,l_dist_todo_tiempo,0.1385704707300927,0.014809954248832346,8.236209627150835e-21,4785,0.36907666990132293
+Índice de privaciones (desvíos estándar),L4 (robustez): días >= 30 mm × distancia · EF departamento,l_dist_todo_tiempo:d30,0.006655948224759981,0.007187165052347135,0.354400183481704,4785,0.36907666990132293
+Índice de privaciones (desvíos estándar),L5 (comparación): lluvia total anual × distancia · EF departamento,l_dist_todo_tiempo,0.13939514504824943,0.014738660272605137,3.145219465198367e-21,4785,0.3703144304527336
+Índice de privaciones (desvíos estándar),L5 (comparación): lluvia total anual × distancia · EF departamento,l_dist_todo_tiempo:lluvia100,0.01162311028482067,0.009313511412902006,0.21203703233689708,4785,0.3703144304527336
+% viviendas con piso de tierra,Q1: distancia a asfalto y a empedrado · EF distrito,l_dist_asfalto,4.657254217185415,0.5779589222816839,7.748566140732063e-16,4785,0.40461129639891247
+% viviendas con piso de tierra,Q1: distancia a asfalto y a empedrado · EF distrito,l_dist_empedrado,2.0075591281979093,0.9130724718075932,0.027900298611693006,4785,0.40461129639891247
+% viviendas con piso de tierra,Q2: % de red de tierra en 3 km · EF distrito,tierra10_3km,0.005691976561259804,0.1593351870238597,0.9715030023299872,4576,0.39798805871007414
+% viviendas con piso de tierra,Q2: % de red de tierra en 3 km · EF distrito,l_dist_todo_tiempo,3.9205216586343203,0.6488562972703497,1.5202374104575772e-09,4576,0.39798805871007414
+% viviendas con piso de tierra,L1: días >= 50 mm × distancia · EF departamento,l_dist_todo_tiempo,5.144358048281504,0.5463364291167745,4.681576726408652e-21,4785,0.28689173919548505
+% viviendas con piso de tierra,L1: días >= 50 mm × distancia · EF departamento,d50,-1.6620718556790195,0.7670810114912949,0.030254013918081597,4785,0.28689173919548505
+% viviendas con piso de tierra,L1: días >= 50 mm × distancia · EF departamento,l_dist_todo_tiempo:d50,-0.0748746145253515,0.46478195718413395,0.8720176205864578,4785,0.28689173919548505
+% viviendas con piso de tierra,L2: días >= 50 mm × distancia · EF distrito,l_dist_todo_tiempo,4.53304280344747,0.5176035924760258,1.991865386598925e-18,4785,0.40001881259161576
+% viviendas con piso de tierra,L2: días >= 50 mm × distancia · EF distrito,l_dist_todo_tiempo:d50,-0.08542682252042502,0.37809078174336425,0.8212460474094609,4785,0.40001881259161576
+% viviendas con piso de tierra,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,tierra10_3km,0.7631314969683375,0.1251088425783591,1.0624067770639013e-09,4576,0.26860665993515387
+% viviendas con piso de tierra,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,d50,-2.043028234401671,1.2553645252156385,0.10364405532406888,4576,0.26860665993515387
+% viviendas con piso de tierra,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,tierra10_3km:d50,0.07851788349498323,0.13159816437528107,0.5507418998320994,4576,0.26860665993515387
+% viviendas con piso de tierra,L4 (robustez): días >= 30 mm × distancia · EF departamento,l_dist_todo_tiempo,5.167746937261731,0.5458919410920138,2.8906879367760217e-21,4785,0.28544527724643565
+% viviendas con piso de tierra,L4 (robustez): días >= 30 mm × distancia · EF departamento,l_dist_todo_tiempo:d30,-0.01112975628818816,0.2611343556344815,0.9660038110612806,4785,0.28544527724643565
+% viviendas con piso de tierra,L5 (comparación): lluvia total anual × distancia · EF departamento,l_dist_todo_tiempo,5.220496680008642,0.5515247342433862,2.9196073854965937e-21,4785,0.28561272872552046
+% viviendas con piso de tierra,L5 (comparación): lluvia total anual × distancia · EF departamento,l_dist_todo_tiempo:lluvia100,0.20629741081766304,0.35156360332771347,0.5573382500655839,4785,0.28561272872552046
+% viviendas que cocinan con leña,Q1: distancia a asfalto y a empedrado · EF distrito,l_dist_asfalto,4.861069890110977,0.6907233123221632,1.9550705086779627e-12,4785,0.610739576043194
+% viviendas que cocinan con leña,Q1: distancia a asfalto y a empedrado · EF distrito,l_dist_empedrado,2.5664690469029727,1.039115300596296,0.013516603718829876,4785,0.610739576043194
+% viviendas que cocinan con leña,Q2: % de red de tierra en 3 km · EF distrito,tierra10_3km,0.3830121158480218,0.16578499794843013,0.020871872944438957,4576,0.6241090114438801
+% viviendas que cocinan con leña,Q2: % de red de tierra en 3 km · EF distrito,l_dist_todo_tiempo,4.377921925744376,0.8303084492000088,1.344713130988736e-07,4576,0.6241090114438801
+% viviendas que cocinan con leña,L1: días >= 50 mm × distancia · EF departamento,l_dist_todo_tiempo,5.282629252181367,0.7200592613947869,2.1944636730890447e-13,4785,0.4657141821550086
+% viviendas que cocinan con leña,L1: días >= 50 mm × distancia · EF departamento,d50,-1.9434119161366206,1.0255599516821639,0.058095526920319406,4785,0.4657141821550086
+% viviendas que cocinan con leña,L1: días >= 50 mm × distancia · EF departamento,l_dist_todo_tiempo:d50,0.525090385236029,0.44399591772821084,0.23694912623775222,4785,0.4657141821550086
+% viviendas que cocinan con leña,L2: días >= 50 mm × distancia · EF distrito,l_dist_todo_tiempo,5.260450548451666,0.6965308941794152,4.2744815890950563e-14,4785,0.6107812643841704
+% viviendas que cocinan con leña,L2: días >= 50 mm × distancia · EF distrito,l_dist_todo_tiempo:d50,0.7249708225068423,0.4523227845769888,0.10898474274721943,4785,0.6107812643841704
+% viviendas que cocinan con leña,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,tierra10_3km,1.3225984748309811,0.15257489359559598,4.377743446231408e-18,4576,0.47281699084376727
+% viviendas que cocinan con leña,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,d50,-3.1194260322858405,1.688755031469426,0.06472178510699228,4576,0.47281699084376727
+% viviendas que cocinan con leña,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,tierra10_3km:d50,0.2382812352877631,0.15752151826548055,0.13035840503287105,4576,0.47281699084376727
+% viviendas que cocinan con leña,L4 (robustez): días >= 30 mm × distancia · EF departamento,l_dist_todo_tiempo,5.225585545087301,0.7392615380464005,1.5644135971103718e-12,4785,0.46470793730812043
+% viviendas que cocinan con leña,L4 (robustez): días >= 30 mm × distancia · EF departamento,l_dist_todo_tiempo:d30,0.1519000351088345,0.2616769481360104,0.5615863320352914,4785,0.46470793730812043
+% viviendas que cocinan con leña,L5 (comparación): lluvia total anual × distancia · EF departamento,l_dist_todo_tiempo,5.2561763387288405,0.7198938255035331,2.8495472195253295e-13,4785,0.4694300709327006
+% viviendas que cocinan con leña,L5 (comparación): lluvia total anual × distancia · EF departamento,l_dist_todo_tiempo:lluvia100,-0.11953924968376618,0.35476517990027984,0.7361522075480111,4785,0.4694300709327006
+% viviendas con electricidad,Q1: distancia a asfalto y a empedrado · EF distrito,l_dist_asfalto,-1.6351335766891715,0.5570288361964515,0.0033305796330702587,4785,0.27983376304857743
+% viviendas con electricidad,Q1: distancia a asfalto y a empedrado · EF distrito,l_dist_empedrado,-1.1459695710652376,1.2794029037736494,0.37040950701925246,4785,0.27983376304857743
+% viviendas con electricidad,Q2: % de red de tierra en 3 km · EF distrito,tierra10_3km,0.15163462724630297,0.09229060764871574,0.10038033526499922,4576,0.25559400322014125
+% viviendas con electricidad,Q2: % de red de tierra en 3 km · EF distrito,l_dist_todo_tiempo,-1.2290163304861221,0.3813393316274356,0.001269024050118729,4576,0.25559400322014125
+% viviendas con electricidad,L1: días >= 50 mm × distancia · EF departamento,l_dist_todo_tiempo,-1.5916564626178245,0.37702282678843096,2.4252606003316793e-05,4785,0.20060959098172126
+% viviendas con electricidad,L1: días >= 50 mm × distancia · EF departamento,d50,-0.07845799364802374,0.4511085340976558,0.861926248368939,4785,0.20060959098172126
+% viviendas con electricidad,L1: días >= 50 mm × distancia · EF departamento,l_dist_todo_tiempo:d50,0.07517449275846286,0.3089548247435708,0.8077585029656346,4785,0.20060959098172126
+% viviendas con electricidad,L2: días >= 50 mm × distancia · EF distrito,l_dist_todo_tiempo,-1.5377322711915398,0.4154618118793404,0.0002145313385655852,4785,0.27685474856958037
+% viviendas con electricidad,L2: días >= 50 mm × distancia · EF distrito,l_dist_todo_tiempo:d50,0.15229915923123635,0.3785292577098412,0.687430520200097,4785,0.27685474856958037
+% viviendas con electricidad,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,tierra10_3km,-0.11115325186661619,0.06433179266083935,0.0840219115036308,4576,0.17577224566253336
+% viviendas con electricidad,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,d50,-0.42087894174505636,0.5815245871745237,0.46921867974580445,4576,0.17577224566253336
+% viviendas con electricidad,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,tierra10_3km:d50,0.047346227393210094,0.06037112016545454,0.4328917175426831,4576,0.17577224566253336
+% viviendas con electricidad,L4 (robustez): días >= 30 mm × distancia · EF departamento,l_dist_todo_tiempo,-1.568843659204642,0.3715036563154554,2.411187189785528e-05,4785,0.20191581883549137
+% viviendas con electricidad,L4 (robustez): días >= 30 mm × distancia · EF departamento,l_dist_todo_tiempo:d30,0.2614548048512853,0.24635780104344895,0.2885623073965886,4785,0.20191581883549137
+% viviendas con electricidad,L5 (comparación): lluvia total anual × distancia · EF departamento,l_dist_todo_tiempo,-1.6124379813476872,0.3936629546956217,4.20375196466423e-05,4785,0.20084359352829084
+% viviendas con electricidad,L5 (comparación): lluvia total anual × distancia · EF departamento,l_dist_todo_tiempo:lluvia100,-0.16209280455522335,0.17339426902361113,0.3498799589819709,4785,0.20084359352829084
+% viviendas con agua corriente,Q1: distancia a asfalto y a empedrado · EF distrito,l_dist_asfalto,-1.2659581363252963,0.8356401436611236,0.12978352088076678,4785,0.5800168624531905
+% viviendas con agua corriente,Q1: distancia a asfalto y a empedrado · EF distrito,l_dist_empedrado,1.5512984614857752,1.4919081819779265,0.2984289874653677,4785,0.5800168624531905
+% viviendas con agua corriente,Q2: % de red de tierra en 3 km · EF distrito,tierra10_3km,-0.1008589252540764,0.27576318018733254,0.7145555779916033,4576,0.5896332615107356
+% viviendas con agua corriente,Q2: % de red de tierra en 3 km · EF distrito,l_dist_todo_tiempo,-0.4255113955096105,0.990033591361035,0.6673448378604889,4576,0.5896332615107356
+% viviendas con agua corriente,L1: días >= 50 mm × distancia · EF departamento,l_dist_todo_tiempo,-1.4261920627195344,1.0551330712965121,0.1764808017869548,4785,0.4326421383734237
+% viviendas con agua corriente,L1: días >= 50 mm × distancia · EF departamento,d50,2.818382916791044,1.3356536454768437,0.03484844353330887,4785,0.4326421383734237
+% viviendas con agua corriente,L1: días >= 50 mm × distancia · EF departamento,l_dist_todo_tiempo:d50,-1.931206346780467,0.677694731808197,0.004376461061605652,4785,0.4326421383734237
+% viviendas con agua corriente,L2: días >= 50 mm × distancia · EF distrito,l_dist_todo_tiempo,-0.7800980145104803,0.8146236190389847,0.3382555593186155,4785,0.5804495535559224
+% viviendas con agua corriente,L2: días >= 50 mm × distancia · EF distrito,l_dist_todo_tiempo:d50,-1.5690637181027416,0.6697949981013495,0.019149751564746516,4785,0.5804495535559224
+% viviendas con agua corriente,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,tierra10_3km,-0.4186977148789733,0.24235814357027025,0.08406012120305284,4576,0.4411834163655215
+% viviendas con agua corriente,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,d50,1.7674895265294444,2.2712062428770903,0.4364415589907855,4576,0.4411834163655215
+% viviendas con agua corriente,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,tierra10_3km:d50,-0.14463839662060415,0.2293099189068459,0.528200677555082,4576,0.4411834163655215
+% viviendas con agua corriente,L4 (robustez): días >= 30 mm × distancia · EF departamento,l_dist_todo_tiempo,-1.2749232779562045,1.058570486475574,0.22844195196215678,4785,0.43519063404150093
+% viviendas con agua corriente,L4 (robustez): días >= 30 mm × distancia · EF departamento,l_dist_todo_tiempo:d30,-1.1481362823790697,0.36535321742845667,0.0016749010697594594,4785,0.43519063404150093
+% viviendas con agua corriente,L5 (comparación): lluvia total anual × distancia · EF departamento,l_dist_todo_tiempo,-1.0989336952791315,1.0303547764604182,0.2861712267563422,4785,0.4444597926592435
+% viviendas con agua corriente,L5 (comparación): lluvia total anual × distancia · EF departamento,l_dist_todo_tiempo:lluvia100,-1.6737351315458389,0.5029569510700904,0.0008753781406996964,4785,0.4444597926592435
+% viviendas con vehículo,Q1: distancia a asfalto y a empedrado · EF distrito,l_dist_asfalto,-3.3698172103585042,0.5786591893064933,5.7630544139775375e-09,4785,0.5065661002053128
+% viviendas con vehículo,Q1: distancia a asfalto y a empedrado · EF distrito,l_dist_empedrado,-2.402764628989038,0.9042252017879329,0.007877784120693884,4785,0.5065661002053128
+% viviendas con vehículo,Q2: % de red de tierra en 3 km · EF distrito,tierra10_3km,-0.22150656278588168,0.14269491233466255,0.12058836227056566,4576,0.5306511785179782
+% viviendas con vehículo,Q2: % de red de tierra en 3 km · EF distrito,l_dist_todo_tiempo,-3.292591725518993,0.6301480058545593,1.7405298205586695e-07,4576,0.5306511785179782
+% viviendas con vehículo,L1: días >= 50 mm × distancia · EF departamento,l_dist_todo_tiempo,-4.307176355675928,0.5539202023261938,7.496817853805812e-15,4785,0.33037414146929645
+% viviendas con vehículo,L1: días >= 50 mm × distancia · EF departamento,d50,2.1281621489777467,0.8154656573814381,0.009060820177468086,4785,0.33037414146929645
+% viviendas con vehículo,L1: días >= 50 mm × distancia · EF departamento,l_dist_todo_tiempo:d50,0.13707106982223,0.38782587478693165,0.7237626757047225,4785,0.33037414146929645
+% viviendas con vehículo,L2: días >= 50 mm × distancia · EF distrito,l_dist_todo_tiempo,-3.8673027432692018,0.5736261106840188,1.5637958120344977e-11,4785,0.5081212743188959
+% viviendas con vehículo,L2: días >= 50 mm × distancia · EF distrito,l_dist_todo_tiempo:d50,-0.06763941807368912,0.3233648836754433,0.8343126694288434,4785,0.5081212743188959
+% viviendas con vehículo,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,tierra10_3km,-0.8412202497526627,0.12392407184593518,1.1354838748757964e-11,4576,0.3398722062680769
+% viviendas con vehículo,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,d50,1.9177752134200037,1.2847036803411447,0.13549575165509378,4576,0.3398722062680769
+% viviendas con vehículo,L3: días >= 50 mm × % red de tierra 3 km · EF departamento,tierra10_3km:d50,-0.0047625895377018945,0.1270634477851227,0.9701007083718943,4576,0.3398722062680769
+% viviendas con vehículo,L4 (robustez): días >= 30 mm × distancia · EF departamento,l_dist_todo_tiempo,-4.325526591401631,0.5548379160467052,6.389108511173072e-15,4785,0.3300149056385012
+% viviendas con vehículo,L4 (robustez): días >= 30 mm × distancia · EF departamento,l_dist_todo_tiempo:d30,0.13248673924072735,0.20458166377111117,0.5172447921343146,4785,0.3300149056385012
+% viviendas con vehículo,L5 (comparación): lluvia total anual × distancia · EF departamento,l_dist_todo_tiempo,-4.414755655403999,0.5587362799351548,2.7595916414520358e-15,4785,0.3403926600372037
+% viviendas con vehículo,L5 (comparación): lluvia total anual × distancia · EF departamento,l_dist_todo_tiempo:lluvia100,0.23091394013580163,0.29649189051780694,0.43608550431766013,4785,0.3403926600372037
