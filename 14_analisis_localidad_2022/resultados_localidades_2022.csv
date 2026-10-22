@@ -1,0 +1,75 @@
+﻿resultado,modelo,variable,coef,ee_cluster_distrito,p,n,r2
+Índice de privaciones (desvíos estándar),A: log(1+distancia) · EF distrito,log_dist,0.1344360696907274,0.015412204547581881,2.716401389217678e-18,4785,0.47303030323701656
+Índice de privaciones (desvíos estándar),B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 2-5 km,0.08038491017317016,0.015300151592378497,1.489411685139713e-07,4785,0.4673879734780969
+Índice de privaciones (desvíos estándar),B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 5-10 km,0.17414674429800764,0.027069978393566452,1.2494023068769038e-10,4785,0.4673879734780969
+Índice de privaciones (desvíos estándar),B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia > 10 km,0.25737260623573094,0.03692085689451044,3.1485884124351547e-12,4785,0.4673879734780969
+Índice de privaciones (desvíos estándar),C: + lluvia e interacción · EF departamento,log_dist,0.1393951450482492,0.014738660272605147,3.1452194651990442e-21,4785,0.3703144304527336
+Índice de privaciones (desvíos estándar),C: + lluvia e interacción · EF departamento,lluvia100,-0.04965286878532774,0.021614783195452198,0.021608975462358775,4785,0.3703144304527336
+Índice de privaciones (desvíos estándar),C: + lluvia e interacción · EF departamento,log_dist:lluvia100,0.011623110284820696,0.009313511412902018,0.21203703233689664,4785,0.3703144304527336
+Índice de privaciones (desvíos estándar),D: heterogeneidad foco · EF distrito,log_dist,0.1302602913410178,0.01855502463238093,2.2152460773512953e-12,4785,0.4730545310962262
+Índice de privaciones (desvíos estándar),D: heterogeneidad foco · EF distrito,log_dist:foco,0.007812631745468725,0.0247854662084172,0.7526020620214751,4785,0.4730545310962262
+% viviendas con piso de tierra,A: log(1+distancia) · EF distrito,log_dist,4.5699371701991796,0.5262751704518772,3.8360153110749164e-18,4785,0.39960888243872905
+% viviendas con piso de tierra,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 2-5 km,1.8067626882996206,0.495846778855342,0.00026865021046466463,4785,0.39522320449422643
+% viviendas con piso de tierra,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 5-10 km,5.766217750515922,0.8888998064024054,8.761156025044217e-11,4785,0.39522320449422643
+% viviendas con piso de tierra,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia > 10 km,9.348360301261456,1.2660378994026287,1.5366139650789594e-13,4785,0.39522320449422643
+% viviendas con piso de tierra,C: + lluvia e interacción · EF departamento,log_dist,5.220496680008636,0.5515247342433848,2.9196073854962157e-21,4785,0.28561272872552046
+% viviendas con piso de tierra,C: + lluvia e interacción · EF departamento,lluvia100,-1.496538790358917,0.7274896392475876,0.03967398323868662,4785,0.28561272872552046
+% viviendas con piso de tierra,C: + lluvia e interacción · EF departamento,log_dist:lluvia100,0.20629741081765993,0.35156360332771275,0.557338250065589,4785,0.28561272872552046
+% viviendas con piso de tierra,D: heterogeneidad foco · EF distrito,log_dist,3.7813705503549144,0.6012125358527918,3.1833895889060374e-10,4785,0.40038584538535316
+% viviendas con piso de tierra,D: heterogeneidad foco · EF distrito,log_dist:foco,1.47536102054844,0.8257474634247232,0.07398637535735399,4785,0.40038584538535316
+% viviendas que cocinan con leña,A: log(1+distancia) · EF distrito,log_dist,5.257267970950459,0.7041205467360888,8.239871108412454e-14,4785,0.6096859860235544
+% viviendas que cocinan con leña,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 2-5 km,5.324790623862228,0.6962566351957469,2.04540186104509e-14,4785,0.6059513054744746
+% viviendas que cocinan con leña,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 5-10 km,7.257901335749293,1.1788769266173618,7.431225084712084e-10,4785,0.6059513054744746
+% viviendas que cocinan con leña,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia > 10 km,8.531192312652434,1.7066756637195741,5.771239118293896e-07,4785,0.6059513054744746
+% viviendas que cocinan con leña,C: + lluvia e interacción · EF departamento,log_dist,5.256176338728835,0.7198938255035287,2.8495472195245333e-13,4785,0.4694300709327006
+% viviendas que cocinan con leña,C: + lluvia e interacción · EF departamento,lluvia100,-2.1259967634163712,0.9467295482954262,0.024728225921782258,4785,0.4694300709327006
+% viviendas que cocinan con leña,C: + lluvia e interacción · EF departamento,log_dist:lluvia100,-0.11953924968376985,0.3547651799002805,0.7361522075480038,4785,0.4694300709327006
+% viviendas que cocinan con leña,D: heterogeneidad foco · EF distrito,log_dist,5.571187747373702,0.803645644838285,4.1377939701304186e-12,4785,0.6097633061118217
+% viviendas que cocinan con leña,D: heterogeneidad foco · EF distrito,log_dist:foco,-0.5873251416671754,1.0705116052077073,0.5832527510072362,4785,0.6097633061118217
+% viviendas sin ningún bien,A: log(1+distancia) · EF distrito,log_dist,0.6304534334718145,0.18353932262834413,0.0005926031498770562,4785,0.2897364448857106
+% viviendas sin ningún bien,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 2-5 km,0.4958111491253185,0.18792188510151542,0.0083300816242564,4785,0.28918813745817196
+% viviendas sin ningún bien,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 5-10 km,1.0666404571508854,0.30378542517817947,0.00044614901803446543,4785,0.28918813745817196
+% viviendas sin ningún bien,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia > 10 km,0.764049985203978,0.4949994808906326,0.12270055132171828,4785,0.28918813745817196
+% viviendas sin ningún bien,C: + lluvia e interacción · EF departamento,log_dist,0.5057836707625528,0.18288754147605418,0.005682781633186419,4785,0.13194934266996694
+% viviendas sin ningún bien,C: + lluvia e interacción · EF departamento,lluvia100,-0.8725635039810501,0.2778000887296667,0.0016838563908090627,4785,0.13194934266996694
+% viviendas sin ningún bien,C: + lluvia e interacción · EF departamento,log_dist:lluvia100,-0.017481968045490015,0.10356231449835075,0.8659490261882,4785,0.13194934266996694
+% viviendas sin ningún bien,D: heterogeneidad foco · EF distrito,log_dist,0.6824653714345309,0.2251667132463413,0.0024379880322237847,4785,0.28977545329229293
+% viviendas sin ningún bien,D: heterogeneidad foco · EF distrito,log_dist:foco,-0.09731122766586195,0.3140290954971812,0.7566524750027466,4785,0.28977545329229293
+% viviendas con electricidad,A: log(1+distancia) · EF distrito,log_dist,-1.5450786494961193,0.432558457103318,0.00035432847599515903,4785,0.27675844520578485
+% viviendas con electricidad,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 2-5 km,-0.1727163667702399,0.3323394863203036,0.6032736607326004,4785,0.2779412655624036
+% viviendas con electricidad,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 5-10 km,-1.0677062402705269,0.5373919392185905,0.04694127733946429,4785,0.2779412655624036
+% viviendas con electricidad,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia > 10 km,-4.148527058513462,1.0845141506984253,0.00013064467750453795,4785,0.2779412655624036
+% viviendas con electricidad,C: + lluvia e interacción · EF departamento,log_dist,-1.6124379813476637,0.39366295469562,4.203751964665001e-05,4785,0.20084359352829095
+% viviendas con electricidad,C: + lluvia e interacción · EF departamento,lluvia100,0.1406173602577813,0.3083508500435763,0.6483681206890111,4785,0.20084359352829095
+% viviendas con electricidad,C: + lluvia e interacción · EF departamento,log_dist:lluvia100,-0.16209280455523115,0.17339426902361102,0.34987995898194757,4785,0.20084359352829095
+% viviendas con electricidad,D: heterogeneidad foco · EF distrito,log_dist,-1.6044980107198767,0.8512704781844334,0.059453130333094316,4785,0.27676929632213576
+% viviendas con electricidad,D: heterogeneidad foco · EF distrito,log_dist:foco,0.11117007391560613,1.0176364781027245,0.9130094340898711,4785,0.27676929632213576
+% viviendas con agua corriente,A: log(1+distancia) · EF distrito,log_dist,-0.6887720078482362,0.8169501006077355,0.39917157545721293,4785,0.5793265514801653
+% viviendas con agua corriente,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 2-5 km,0.5985167760639036,1.0118042861982472,0.5541625887663186,4785,0.5798176542369273
+% viviendas con agua corriente,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 5-10 km,-1.0963599741838075,1.600787915978951,0.4934147802552499,4785,0.5798176542369273
+% viviendas con agua corriente,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia > 10 km,-2.713317259424227,2.2906280105216097,0.23620338637398441,4785,0.5798176542369273
+% viviendas con agua corriente,C: + lluvia e interacción · EF departamento,log_dist,-1.0989336952791162,1.030354776460428,0.28617122675635365,4785,0.4444597926592435
+% viviendas con agua corriente,C: + lluvia e interacción · EF departamento,lluvia100,-2.5454102884833634,1.1767734165118404,0.030537951749574587,4785,0.4444597926592435
+% viviendas con agua corriente,C: + lluvia e interacción · EF departamento,log_dist:lluvia100,-1.6737351315458544,0.5029569510700893,0.0008753781406995782,4785,0.4444597926592435
+% viviendas con agua corriente,D: heterogeneidad foco · EF distrito,log_dist,-0.2716888365975116,1.0634760250582085,0.7983582115418546,4785,0.5793908440241969
+% viviendas con agua corriente,D: heterogeneidad foco · EF distrito,log_dist:foco,-0.7803376882875217,1.4399890961374873,0.5878837621351134,4785,0.5793908440241969
+% viviendas con internet,A: log(1+distancia) · EF distrito,log_dist,-1.8292525430948607,0.74594902823151,0.014196649896469059,4785,0.43180419765658906
+% viviendas con internet,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 2-5 km,-2.1228419634937765,0.8659085488070478,0.01422315323378291,4785,0.4316128531078912
+% viviendas con internet,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 5-10 km,-2.3250957025598185,1.4319790759806634,0.10444115177340141,4785,0.4316128531078912
+% viviendas con internet,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia > 10 km,-3.2709692467624683,1.958664093200568,0.0949193422802388,4785,0.4316128531078912
+% viviendas con internet,C: + lluvia e interacción · EF departamento,log_dist,-1.3730990590255332,0.9505935989028179,0.14860825473599265,4785,0.16266548564048255
+% viviendas con internet,C: + lluvia e interacción · EF departamento,lluvia100,2.649380027358062,1.6708126744382648,0.11281113238244922,4785,0.16266548564048255
+% viviendas con internet,C: + lluvia e interacción · EF departamento,log_dist:lluvia100,0.5744912004380194,0.5826379831650674,0.32412456509028276,4785,0.16266548564048255
+% viviendas con internet,D: heterogeneidad foco · EF distrito,log_dist,-2.2050515053329347,1.047205393404244,0.03523447808850477,4785,0.43189047516065737
+% viviendas con internet,D: heterogeneidad foco · EF distrito,log_dist:foco,0.7030974003922098,1.4215455490701023,0.6208820195352278,4785,0.43189047516065737
+% viviendas con vehículo,A: log(1+distancia) · EF distrito,log_dist,-3.918127673073413,0.5773418426500977,1.14890284750962e-11,4785,0.5064397742838946
+% viviendas con vehículo,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 2-5 km,-3.4123764737481235,0.5568968724563091,8.927977741654438e-10,4785,0.500628064376176
+% viviendas con vehículo,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia 5-10 km,-4.494376604522151,1.0614298222028697,2.292990230132123e-05,4785,0.500628064376176
+% viviendas con vehículo,B: tramos de distancia (ref. 0-2 km) · EF distrito,distancia > 10 km,-7.395297898509864,1.2738556916076549,6.419565355427287e-09,4785,0.500628064376176
+% viviendas con vehículo,C: + lluvia e interacción · EF departamento,log_dist,-4.41475565540399,0.5587362799351554,2.7595916414525628e-15,4785,0.3403926600372035
+% viviendas con vehículo,C: + lluvia e interacción · EF departamento,lluvia100,2.6719688614711323,0.7778488017699361,0.0005923901669419374,4785,0.3403926600372035
+% viviendas con vehículo,C: + lluvia e interacción · EF departamento,log_dist:lluvia100,0.23091394013579955,0.2964918905178093,0.4360855043176678,4785,0.3403926600372035
+% viviendas con vehículo,D: heterogeneidad foco · EF distrito,log_dist,-4.340117445320947,0.5842180200656711,1.0947587953174218e-13,4785,0.5067269254802317
+% viviendas con vehículo,D: heterogeneidad foco · EF distrito,log_dist:foco,0.7895176455313835,0.8108339540086954,0.33020023449853464,4785,0.5067269254802317
+Índice de privaciones (desvíos estándar),Robustez: distancia a camino solo pavimentado,log_dist,0.13457525603905524,0.015400239592927004,2.3619029112484333e-18,4785,0.47343009247760204
+Índice de privaciones (desvíos estándar),Robustez: distancia a camino incluye troncales sin dato,log_dist,0.1347629625753279,0.015419667780434307,2.33771577033962e-18,4785,0.4731233305171776

@@ -1,0 +1,3 @@
+localidades unidas censo-polígono=7994; rurales=5628; muestra=4785 (foco=2381; distritos=224)
+tramos viales usados: todo_tiempo=74731 (32660 km); pavimentado=74183; amplio=75961
+distancia rural (km): count    4785.00; mean        4.62; std         4.67; min         0.00; 25%         1.37; 50%         3.18; 75%         6.40; max        39.21
