@@ -39,7 +39,7 @@ es_obra = a.categoria.fillna('').str.startswith('Obras') | a.categoria.isna() | 
           a.txt_t.str.contains(r'construcci|rehabilit|mejoramiento|mantenimiento de caminos|pavimentaci|obras')
 a['obra_vial'] = a.txt.str.contains(VIAL) & ~a.txt_t.str.contains(NO_OBRA) & ~a.txt.str.contains(NO_VIAL) & es_obra
 # Rutas nacionales, corredores y obras urbanas mayores: no cuentan como red vecinal/departamental
-NACIONAL = (r'ruta nacional|\bpy ?0?\d{1,2}\b|crema|c\.r\.e\.m\.a|corredor|gmans|2 ?[°º]? ?(?:do )?puente|segundo puente|'
+NACIONAL = (r'ruta nacional|\bpy ?-? ?0?\d{1,2}\b|carmelo peralta|crema|c\.r\.e\.m\.a|corredor|gmans|2 ?[°º]? ?(?:do )?puente|segundo puente|'
             r'puente sobre el rio (?:parana|paraguay)|avenida|avda|circunvalaci|interseccion|acceso sur|costanera|'
             r'(?:habilitacion|rehabilitacion|mejoramiento) y mantenimiento de (?:la )?ruta|mantenimiento de carreteras|ruta n[°º]? ?\d')
 # camino_vecinal = obra en caminos vecinales o departamentales (no rutas nacionales)
@@ -52,7 +52,7 @@ DEP = {'00': r'asuncion', '01': r'concepcion', '02': r'san pedro(?! del parana)'
        '11': r'(?:departamentos?|dptos?\.?)[^|]{0,60}\bcentral\b|\bcentral\b[^|]{0,30}(?:departamento|dpto)',
        '12': r'neembucu', '13': r'amambay', '14': r'canindeyu', '15': r'presidente hayes|pdte\.? hayes',
        '16': r'boqueron', '17': r'alto paraguay'}
-CHACO = r'ruta (?:n[o°º]? ?)?9\b|transchaco|py ?09|py ?12|pioneros|paratodo|loma plata|mariscal estigarribia|nanawa|bruguez|pozo colorado'
+CHACO = r'ruta (?:n[o°º]? ?)?9\b|transchaco|py ?-? ?09|py ?-? ?12|py ?-? ?15|carmelo peralta|pioneros|paratodo|loma plata|mariscal estigarribia|nanawa|bruguez|pozo colorado'
 
 
 def deps(t): return [k for k, p in DEP.items() if re.search(p, t)]

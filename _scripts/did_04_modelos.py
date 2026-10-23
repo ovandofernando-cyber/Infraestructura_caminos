@@ -237,7 +237,79 @@ for a in lyrs:
     ES.append(dict(fuente='VIIRS', resultado='log_luz_km2', anio=a, coef=m.coef(), ee_cluster=m.se[m.j], p_cluster=m.p_cluster()))
 ES.append(dict(fuente='VIIRS', resultado='log_luz_km2', anio=2018, coef=0.0, ee_cluster=0.0, p_cluster=np.nan))
 
+# ---------------- 4. Robustez sugerida por la revisión econométrica ----------------
+from itertools import combinations
+rur = h[h.anio.isin([2018, 2024]) & (h.rural == 1)].copy()
+b17 = h[h.anio.isin([2017, 2024]) & (h.rural == 1)].copy()
+for d_ in (rur, b17):
+    d_['trat_post'] = d_.tratado * d_.post
+    d_['trat_post_d50'] = d_.trat_post * d_.d50c
+CTRL_LL = 'lluvia100 + dias_lluvia_50mm'
+
+
+def ri(nombre, resultado, formula, d, var, cols_trat):
+    """Inferencia por aleatorización exacta: las C(13,6) asignaciones posibles de 6 departamentos tratados."""
+    m = Fit(formula, d, var)
+    dptos = sorted(m.d.cod_dpto.unique()); k = int(m.d.drop_duplicates('cod_dpto').tratado.sum())
+    names = list(m.X.columns); yw = m.y * m.sw
+    dist = []
+    for comb in combinations(dptos, k):
+        tr = m.d.cod_dpto.isin(comb).astype(float).values
+        Xw = m.Xw.copy()
+        for c, f in cols_trat.items(): Xw[:, names.index(c)] = f(tr, m.d) * m.sw
+        dist.append(np.linalg.lstsq(Xw, yw, rcond=None)[0][m.j])
+    dist = np.array(dist)
+    p = (np.abs(dist) >= abs(m.coef()) - 1e-12).mean()
+    res.append(dict(modelo=nombre, resultado=resultado, variable=var, muestra=f'aleatorización exacta ({len(dist)} asignaciones)',
+                    coef=m.coef(), ee_cluster=m.se[m.j], p_cluster=m.p_cluster(), p_aleatorizacion=p, n=m.n, n_dptos=len(m.G)))
+    print(f'{nombre:28s} {resultado:20s} coef={m.coef():.4f} p_RI={p:.3f}', flush=True)
+
+
+tp = {'trat_post': lambda tr, d: tr * d.post.values}
+tpd = {'trat_post': lambda tr, d: tr * d.post.values, 'trat_post_d50': lambda tr, d: tr * d.post.values * d.d50c.values}
+ri('RI M1 DiD 2018-2024', 'pobre', f'pobre ~ trat_post + C(cod_dpto) + C(anio) + {CTRL}', rur, 'trat_post', tp)
+ri('RI M8 DiD 2017-2024', 'pobre', f'pobre ~ trat_post + C(cod_dpto) + C(anio) + {CTRL}', b17, 'trat_post', tp)
+ri('RI M4 2017/18 vs 2023/24', 'pobre', f'pobre ~ trat_post + C(cod_dpto) + C(anio) + {CTRL}', pool.assign(trat_post=pool.tratado * pool.post), 'trat_post', tp)
+ri('RI M7 lluvia base 2018', 'pobre', f'pobre ~ trat_post + trat_post_d50 + C(cod_dpto) + C(anio) + {CTRL}', rur, 'trat_post_d50', tpd)
+ri('RI M7g lluvia base 2017', 'pobre', f'pobre ~ trat_post + trat_post_d50 + C(cod_dpto) + C(anio) + {CTRL}', b17, 'trat_post_d50', tpd)
+
+# Definiciones alternativas del tratamiento (pobreza, base 2018 y base 2017)
+o = pd.read_csv(OUT + '/obras_viales_MOPC_2018_2025_clasificadas.csv', dtype={'cod_dpto_asignados': str})
+o = o[o.camino_vecinal & o.anio.le(2023) & o.cod_dpto_asignados.notna()].copy()
+txt = (o.titulo_llamado.fillna('') + ' ' + o.lotes_adjudicados.fillna('')).str.lower()
+o = o[~txt.str.contains('asfalt|alfalt|paviment')]  # sin pavimentación asfáltica
+o['d'] = o.cod_dpto_asignados.str.split(';'); o = o.explode('d'); o['m'] = o.monto_adjudicado_gs / o.n_deptos
+pobr = pd.read_csv(OUT + '/tratamiento_por_departamento.csv', dtype={'cod_dpto': str}).set_index('cod_dpto').pob_rural_2022
+sin_asf = (o.groupby('d').m.sum().reindex(MUESTRA).fillna(0) / pobr.reindex(MUESTRA))
+ints = t.set_index('cod_dpto').intensidad.reindex(MUESTRA)
+ALT = {
+    'Concepción como tratada (>= mediana)': (ints >= ints.median()).astype(int),
+    'Sin pavimentación asfáltica (> mediana)': (sin_asf > sin_asf.median()).astype(int),
+    'Tercil alto frente a tercil bajo': pd.Series(np.where(ints >= ints.quantile(2 / 3), 1, np.where(ints <= ints.quantile(1 / 3), 0, np.nan)), index=MUESTRA),
+}
+for base_n, dd in [('2018', rur), ('2017', b17)]:
+    for nom, tr in ALT.items():
+        x = dd.assign(tr_alt=dd.cod_dpto.map(tr)).dropna(subset=['tr_alt'])
+        x['trat_post'] = x.tr_alt * x.post
+        correr(f'R base {base_n}: {nom}', 'pobre', f'pobre ~ trat_post + C(cod_dpto) + C(anio) + {CTRL}', x, 'trat_post', 'rural')
+    x = dd[dd.cod_dpto != '12']
+    correr(f'R base {base_n}: sin Ñeembucú', 'pobre', f'pobre ~ trat_post + C(cod_dpto) + C(anio) + {CTRL}', x, 'trat_post', 'rural, 12 dptos')
+    x = dd.assign(lint_post=np.log1p(dd.intensidad * 10) * dd.post)
+    correr(f'R base {base_n}: log intensidad', 'pobre', f'pobre ~ lint_post + C(cod_dpto) + C(anio) + {CTRL}', x, 'lint_post', 'rural')
+    correr(f'R base {base_n}: sin controles del hogar', 'pobre', f'pobre ~ trat_post + C(cod_dpto) + C(anio) + {CTRL_LL}', dd, 'trat_post', 'rural')
+
+# Estudio de eventos de pobreza con base 2017 (muestra completa)
+yrs17 = [a for a in range(2018, 2026)]
+for a in yrs17: ev[f'tr_{a}'] = ev.tratado * (ev.anio == a)
+f = 'pobre ~ ' + ' + '.join(f'tr_{a}' for a in yrs17) + ' + C(cod_dpto) + C(anio) + miembros + edad_jefe + jefa_mujer + anios_estudio_jefe'
+for a in yrs17:
+    m = Fit(f, ev, f'tr_{a}')
+    ES.append(dict(fuente='EPHC base 2017', resultado='pobre', anio=a, coef=m.coef(), ee_cluster=m.se[m.j], p_cluster=m.p_cluster()))
+ES.append(dict(fuente='EPHC base 2017', resultado='pobre', anio=2017, coef=0.0, ee_cluster=0.0, p_cluster=np.nan))
+
 out = pd.DataFrame(res)
+# efecto mínimo detectable con 80 % de potencia y 5 % de significación (aprox. 2,8 errores estándar)
+out['efecto_minimo_detectable'] = 2.8 * out.ee_cluster
 out.to_csv(OUT + '/resultados_did.csv', index=False, encoding='utf-8-sig')
 pd.DataFrame(ES).sort_values(['fuente', 'resultado', 'anio']).to_csv(OUT + '/resultados_estudio_eventos.csv', index=False, encoding='utf-8-sig')
 

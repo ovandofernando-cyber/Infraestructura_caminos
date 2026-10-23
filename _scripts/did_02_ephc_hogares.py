@@ -55,6 +55,9 @@ hog['rural'] = (hog.AREA == 6).astype(int)
 hog['pobre'] = hog.POBREZAI.isin([1, 2]).astype(float).where(hog.POBREZAI.notna())
 hog['pobre_extremo'] = hog.POBREZAI.eq(1).astype(float).where(hog.POBREZAI.notna())
 hog['log_ingreso_linea'] = np.log((hog.IPCM / hog.LINPOBTO).clip(lower=0.05))  # ingreso per cápita en múltiplos de la línea de pobreza
+# códigos de "no responde" pasan a faltante
+for c, nr in [('V04', 99), ('V06', 99), ('V13', 9), ('V14B', 9), ('V23B', 9)]:
+    hog.loc[hog[c] == nr, c] = np.nan
 priv = pd.DataFrame({
     'priv_piso_tierra': hog.V04.eq(1),
     'priv_agua_sin_red': ~hog.V06.isin([1, 2, 3, 4]),
@@ -63,6 +66,9 @@ priv = pd.DataFrame({
     'priv_sin_internet': hog.V23B.eq(6),
     'priv_sin_vehiculo': hog.V2413.eq(6) & hog.V2414.eq(6),
 }).astype(float)
+for c, v in [('priv_piso_tierra', 'V04'), ('priv_agua_sin_red', 'V06'), ('priv_saneamiento', 'V13'), ('priv_lena_carbon', 'V14B'), ('priv_sin_internet', 'V23B')]:
+    priv.loc[hog[v].isna(), c] = np.nan
+priv.loc[hog.V2413.isna() | hog.V2414.isna(), 'priv_sin_vehiculo'] = np.nan
 hog = pd.concat([hog, priv], axis=1)
 hog['indice_privaciones'] = priv.mean(axis=1)  # 0 = ninguna privación, 1 = todas
 
