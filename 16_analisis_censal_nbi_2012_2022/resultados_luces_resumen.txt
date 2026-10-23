@@ -1,3 +1,5 @@
-Distritos tratados (primera obra 2013-2020): 67; controles (sin obra ubicada 2012-2025): 97
-Efecto promedio años 0 a 6: 0.0208 (EE 0.0377)
-Promedio años -5 a -2 (tendencia previa): 0.0397 (EE 0.0295)
+Cohortes 2015-2020 (ventana balanceada -3 a +3): 44 distritos tratados; controles sin obra ubicada 2012-2020: 99
+Base: promedio de los 3 años previos a la primera obra. Bootstrap por departamento (499 repeticiones).
+Promedio años 0 a +3: -0.0157 (EE 0.0352)
+Promedio años -3 a -1: -0.0000 (por construcción cercano a 0)
+Diferencia después - antes: -0.0157 (EE 0.0352)

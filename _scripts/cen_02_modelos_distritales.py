@@ -87,7 +87,41 @@ lim = s.drop_duplicates('cod_dpto').gs_solo_dpto_por_hab_rural.median()
 sc = s[s.gs_solo_dpto_por_hab_rural <= lim]
 correr('C9 Departamentos con pocas obras sin ubicar', f'd_nbi ~ obra + nbi_2012 + C(cod_dpto) + {CTRL}', sc, 'obra',
        'menos riesgo de que un distrito "sin obra" haya tenido una obra no ubicada')
-pd.DataFrame(res).to_csv(OUT + '/resultados_nbi_2012_2022.csv', index=False, encoding='utf-8-sig')
+s['obra_1'] = (s.n_obras_2012_2020 == 1).astype(int); s['obra_2'] = (s.n_obras_2012_2020 == 2).astype(int)
+s['obra_3mas'] = (s.n_obras_2012_2020 >= 3).astype(int)
+for v_ in ['obra_1', 'obra_2', 'obra_3mas']:
+    correr(f'C10 Dosis: {v_.replace("obra_", "")} obra(s)', f'd_nbi ~ obra_1 + obra_2 + obra_3mas + nbi_2012 + C(cod_dpto) + {CTRL}', s, v_)
+out = pd.DataFrame(res)
+
+# Intervalo de confianza 95 % con la t de Student de 12 grados de libertad (13 departamentos) y efecto mínimo detectable
+from scipy import stats
+tc = stats.t.ppf(0.975, 12)
+out['ic95_inf'] = out.coef - tc * out.ee_cluster_dpto; out['ic95_sup'] = out.coef + tc * out.ee_cluster_dpto
+out['efecto_minimo_detectable'] = 2.8 * out.ee_cluster_dpto
+
+# Inferencia por permutación: se reasigna la obra al azar entre distritos del mismo departamento (2.000 veces)
+rng = np.random.default_rng(2022)
+perm = {}
+for nombre, f in [('C1 Cambio NBI ~ obra + EF depto', 'd_nbi ~ obra + C(cod_dpto)'),
+                  ('C3 + NBI 2012 (nivel inicial)', f'd_nbi ~ obra + nbi_2012 + C(cod_dpto) + {CTRL}')]:
+    m = Fit(f, s, 'obra'); yw = m.y * m.sw; Xw = m.Xw.copy(); obs = m.coef()
+    tr = m.d.obra.values; grp = m.d.cod_dpto.values
+    dist = []
+    for _ in range(2000):
+        t2 = tr.copy()
+        for gg in np.unique(grp):
+            ix = np.where(grp == gg)[0]; t2[ix] = rng.permutation(tr[ix])
+        Xw[:, m.j] = t2 * m.sw
+        dist.append(np.linalg.lstsq(Xw, yw, rcond=None)[0][m.j])
+    perm[nombre] = (np.abs(dist) >= abs(obs)).mean()
+out['p_permutacion'] = out.modelo.map(perm)
+print('p por permutación:', perm)
+# Contaminación del control: si una fracción pi de los distritos "sin obra" tuvo una obra no ubicada, el coeficiente
+# estimado es aproximadamente (1 - pi) veces el efecto real. Límite del efecto real con el extremo del IC de C3:
+c3 = out[out.modelo.str.startswith('C3')].iloc[0]
+pd.DataFrame([dict(pi=p_, limite_reduccion_nbi_pp=c3.ic95_inf / (1 - p_)) for p_ in (0, 0.2, 0.4, 0.5)]) \
+    .to_csv(OUT + '/sensibilidad_contaminacion_control.csv', index=False, encoding='utf-8-sig')
+out.to_csv(OUT + '/resultados_nbi_2012_2022.csv', index=False, encoding='utf-8-sig')
 
 # Balance y descriptivos: distritos con y sin obra
 def fila(g, nombre):
