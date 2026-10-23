@@ -1,0 +1,14 @@
+variable,descripcion,unidad,fuente
+"cod_dpto ... lluvia_media_2013_2022","Mismas variables que 16_analisis_censal_nbi_2012_2022/base_modelo_distrital_nbi.csv (NBI 2012 y 2022, d_nbi, muestra, obras MOPC ubicadas, controles)",,Ver diccionario_base_modelo_distrital.csv
+gs_rural_2012_2020,Inversión adjudicada en caminos rurales 2012-2020 en el distrito: municipal rural + MOPC caminos vecinales ubicados,Gs corrientes,DNCP
+gs_rural_municipal_2012_2020,Obras viales municipales clasificadas como rurales 2012-2020,Gs corrientes,DNCP
+gs_rural_mopc_2012_2020,Obras de caminos vecinales del MOPC ubicadas en el distrito 2012-2020 (repartidas en partes iguales si nombran varios distritos),Gs corrientes,DNCP
+gs_urbana_municipal_2012_2020,Obras viales municipales clasificadas como urbanas 2012-2020,Gs corrientes,DNCP
+gs_sin_clasificar_municipal_2012_2020,Obras viales municipales que no se pudieron clasificar como rurales ni urbanas 2012-2020,Gs corrientes,DNCP
+T_rural,Tratamiento principal: log(1 + miles de Gs de inversión rural 2012-2020 por habitante rural 2022),log,DNCP y Censo 2022
+T_urbano,log(1 + miles de Gs de obras urbanas municipales 2012-2020 por habitante urbano 2022),log,DNCP y Censo 2022
+T_rural_municipal,Igual que T_rural solo con obras municipales rurales,log,DNCP y Censo 2022
+T_rural_mopc,Igual que T_rural solo con obras del MOPC ubicadas,log,DNCP y Censo 2022
+T_rural_2012_2016,Igual que T_rural con obras adjudicadas 2012-2016,log,DNCP y Censo 2022
+T_rural_2017_2020,Igual que T_rural con obras adjudicadas 2017-2020,log,DNCP y Censo 2022
+tiene_compras_municipales,1 = la municipalidad del distrito aparece como compradora de obras viales en la DNCP (2012-2025),0/1,DNCP
