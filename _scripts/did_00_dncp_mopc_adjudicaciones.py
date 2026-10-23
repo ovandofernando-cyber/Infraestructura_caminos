@@ -1,15 +1,17 @@
-# Paso 0 del análisis departamental: adjudicaciones del MOPC 2018-2025 desde la descarga masiva OCDS de la DNCP.
-# Uso: python3 -I did_00_dncp_mopc_adjudicaciones.py <carpeta de trabajo vacía>
-# Baja awa-masivo.zip y ten-masivo.zip de 2018 a 2026 (cada archivo trae los procesos publicados o actualizados ese año),
-# filtra el comprador MOPC y arma 08_contrataciones_DNCP/DNCP_MOPC_adjudicaciones_2018_2025.csv.
+# Paso 0: adjudicaciones del MOPC desde la descarga masiva OCDS de la DNCP (análisis departamental y censal).
+# Uso: python3 -I did_00_dncp_mopc_adjudicaciones.py <carpeta de trabajo vacía> [año_desde año_hasta]
+# Baja awa-masivo.zip y ten-masivo.zip desde 2011 hasta 2026 (cada archivo trae los procesos publicados o actualizados ese año),
+# filtra el comprador MOPC y arma 08_contrataciones_DNCP/DNCP_MOPC_adjudicaciones_<desde>_<hasta>.csv
+# (por defecto 2018-2025, la base del análisis departamental; el análisis censal usa 2012-2025).
 import os, sys, subprocess, zipfile, pandas as pd
 
 R = '/home/user/infraestructura_caminos'
 D = sys.argv[1]
+DESDE, HASTA = (int(sys.argv[2]), int(sys.argv[3])) if len(sys.argv) > 3 else (2018, 2025)
 URL = 'https://www.contrataciones.gov.py/images/opendata-v3/final/ocds/{y}/{t}-masivo.zip'
 P = 'compiledRelease/'
 recs, awas, items, lots = [], [], [], []
-for y in range(2018, 2027):
+for y in range(max(2011, DESDE - 1), 2027):
     for t in ('awa', 'ten'):
         f = f'{D}/{t}_{y}.zip'
         if not os.path.exists(f):
@@ -32,7 +34,7 @@ il = it.merge(l[[P + 'tender/lots/0/id', P + 'tender/lots/0/title']], left_on=P 
 lt = il.groupby(P + 'awards/0/id')[P + 'tender/lots/0/title'].apply(lambda s: ' | '.join(sorted(set(s.dropna()))))
 a = a.merge(r, on=P + 'id', how='left')
 a['lotes'] = a[P + 'awards/0/id'].map(lt)
-a = a[a[P + 'awards/0/date'].str[:4].astype(int).between(2018, 2025)]
+a = a[a[P + 'awards/0/date'].str[:4].astype(int).between(DESDE, HASTA)]
 o = pd.DataFrame({'ocid': 'ocds-03ad3f-' + a[P + 'id'].str.extract(r'^(\d+)')[0], 'release_id': a[P + 'id'],
                   'adjudicacion_id': a[P + 'awards/0/id'], 'fecha_adjudicacion': a[P + 'awards/0/date'].str[:10],
                   'anio_adjudicacion': a[P + 'awards/0/date'].str[:4], 'estado': a[P + 'awards/0/statusDetails'],
@@ -41,5 +43,5 @@ o = pd.DataFrame({'ocid': 'ocds-03ad3f-' + a[P + 'id'].str.extract(r'^(\d+)')[0]
                   'modalidad': a[P + 'tender/procurementMethodDetails'], 'lotes_adjudicados': a['lotes'],
                   'id_invitacion': a[P + 'awards/0/invitationID']})
 o = o[o.estado.eq('Adjudicado')]
-o.to_csv(R + '/08_contrataciones_DNCP/DNCP_MOPC_adjudicaciones_2018_2025.csv', index=False, encoding='utf-8-sig')
+o.to_csv(R + f'/08_contrataciones_DNCP/DNCP_MOPC_adjudicaciones_{DESDE}_{HASTA}.csv', index=False, encoding='utf-8-sig')
 print(len(o), 'adjudicaciones')

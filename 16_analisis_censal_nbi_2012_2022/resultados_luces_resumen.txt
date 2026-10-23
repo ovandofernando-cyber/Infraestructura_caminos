@@ -1,0 +1,3 @@
+Distritos tratados (primera obra 2013-2020): 67; controles (sin obra ubicada 2012-2025): 97
+Efecto promedio años 0 a 6: 0.0208 (EE 0.0377)
+Promedio años -5 a -2 (tendencia previa): 0.0397 (EE 0.0295)

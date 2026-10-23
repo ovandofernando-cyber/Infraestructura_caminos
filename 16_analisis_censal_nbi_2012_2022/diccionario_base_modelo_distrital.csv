@@ -1,0 +1,29 @@
+variable,descripcion,unidad,fuente
+cod_dpto,Código de departamento (texto con cero),código,INE
+departamento,Nombre del departamento,texto,INE
+cod_dist,Código de distrito INE 2022 (4 dígitos),código,INE
+distrito,Nombre del distrito,texto,INE
+departamento_foco,"1 = Concepción, San Pedro, Caaguazú, Caazapá o Canindeyú",0/1,Pregunta de investigación
+muestra,1 = entra en los modelos: Región Oriental sin Asunción ni Central; distrito estable; NBI en los dos censos,0/1,Elaboración propia
+distrito_estable,1 = el mismo código cubre al menos el 85 % del territorio del distrito en 2012 y en 2022 (excluye los 13 distritos nuevos y aquellos de los que se separaron),0/1,Límites INE 2012 (Tableau) y COD-AB 2022
+pct_area_2012_mismo_codigo,Porcentaje del territorio del distrito de 2012 que cae en el distrito 2022 con el mismo código,%,Elaboración propia
+pct_area_2022_mismo_codigo,Porcentaje del territorio del distrito de 2022 que cae en el distrito 2012 con el mismo código,%,Elaboración propia
+nbi_2012,Porcentaje de hogares con al menos una necesidad básica insatisfecha (Censo 2012),%,INE (mapa Tableau Public del Censo 2012)
+nbi_2022,Porcentaje de hogares con al menos una necesidad básica insatisfecha (Censo 2022),%,INE (Censo 2022)
+d_nbi,Cambio del NBI: nbi_2022 - nbi_2012 (resultado de los modelos),puntos porcentuales,Elaboración propia
+obra,1 = al menos una obra del MOPC en caminos vecinales o departamentales adjudicada entre 2012 y 2020 y ubicada en el distrito,0/1,DNCP (adjudicaciones MOPC)
+obra_temprana,1 = la primera obra ubicada fue adjudicada entre 2012 y 2016,0/1,DNCP
+obra_tardia,1 = la primera obra ubicada fue adjudicada entre 2017 y 2020,0/1,DNCP
+n_obras_2012_2020,Número de llamados con obra vecinal ubicada en el distrito adjudicados 2012-2020,llamados,DNCP
+gs_2012_2020,Monto adjudicado asignado al distrito 2012-2020 (si la obra abarca varios distritos se reparte en partes iguales),Gs corrientes,DNCP
+primer_anio_2012_2020,Año de la primera adjudicación ubicada en el distrito,año,DNCP
+log_intensidad,log(1 + Gs 2012-2020 por habitante rural / 100.000),log,DNCP y Censo 2022
+n_obras_2021_2025,Llamados con obra vecinal ubicada en el distrito adjudicados 2021-2025 (posteriores al censo),llamados,DNCP
+gs_2021_2025,Monto adjudicado asignado al distrito 2021-2025,Gs corrientes,DNCP
+gs_solo_dpto_por_hab_rural,Monto de obras vecinales 2012-2020 que solo se pudieron ubicar a nivel de departamento, por habitante rural del departamento,millones de Gs por habitante rural,DNCP y Censo 2022
+censo_pob_total,Población total 2022 (peso del modelo C8),personas,Censo 2022
+censo_pob_rural,Población rural 2022,personas,Censo 2022
+censo_pct_rural,Porcentaje de población rural 2022 (control),%,Censo 2022
+log_densidad_pob,Logaritmo de la densidad de población 2022 (control),log hab/km²,Censo 2022
+log_area_km2,Logaritmo de la superficie (control),log km²,COD-AB
+lluvia_media_2013_2022,Lluvia media anual 2013-2022 (control),mm,CHIRPS v2.0

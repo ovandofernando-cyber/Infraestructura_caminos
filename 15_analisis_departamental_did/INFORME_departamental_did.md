@@ -40,7 +40,7 @@ Advertencias:
 ### 1.2 Obras del MOPC (tratamiento)
 
 1. Se bajaron los archivos masivos de adjudicaciones de la DNCP (2018-2026) y se filtró el comprador MOPC con estado "Adjudicado" y fecha de adjudicación 2018-2025: **1.036 adjudicaciones**.
-2. **Tipo de obra** (por texto del llamado y del lote): 272 son **obras viales** (22,5 billones de Gs); de ellas, 206 son en **caminos vecinales o departamentales** (5,9 billones). Se excluyen consultorías, fiscalización, compras de equipos y materiales, señalización, peajes, edificios, puertos y agua y saneamiento; las rutas nacionales (CREMA, corredores, "Ruta Nacional N°", accesos al segundo puente) cuentan como obra vial pero no como camino vecinal.
+2. **Tipo de obra** (por texto del llamado y del lote): 272 son **obras viales** (22,5 billones de Gs); de ellas, 205 son en **caminos vecinales o departamentales** (5,9 billones). Se excluyen consultorías, fiscalización, compras de equipos y materiales, señalización, peajes, edificios, puertos y agua y saneamiento; las rutas nacionales (CREMA, corredores, "Ruta Nacional N°", accesos al segundo puente) cuentan como obra vial pero no como camino vecinal.
 3. **Ubicación.** La DNCP no informa el departamento de la obra. Se asignó por el texto, en este orden: departamento nombrado en el lote; un único departamento en el título; distrito del lote dentro de los departamentos del título; varios departamentos en el título (monto repartido en partes iguales); nombre de distrito único en el país. Las 10 adjudicaciones más grandes con dudas se revisaron a mano (columna `revision_manual`). Resultado: el 75 % del monto se ubica en uno o más departamentos, el 16 % son rutas del Chaco y el **8 % queda sin ubicar** (licitaciones "en varios tramos de la Región Oriental" cuyos lotes no nombran el lugar).
 4. **Intensidad** = Gs adjudicados en caminos vecinales y departamentales 2018-2023 (antes de la encuesta 2024) por habitante rural del Censo 2022.
 5. **Grupos**: muestra de 13 departamentos de la Región Oriental (sin Asunción ni Central, que casi no tiene población rural en sentido estricto). **Tratamiento** = intensidad por encima de la mediana (1,8 millones de Gs por habitante rural); **control** = el resto.
@@ -49,7 +49,7 @@ Advertencias:
 |---|---|---|---|---|
 | **San Pedro** (foco) | 1.570 | 1.173 | 4.424.804 | Tratamiento |
 | **Canindeyú** (foco) | 678 | 397 | 3.391.014 | Tratamiento |
-| **Caazapá** (foco) | 626 | 239 | 2.246.599 | Tratamiento |
+| **Caazapá** (foco) | 626 | 237 | 2.228.781 | Tratamiento |
 | Ñeembucú | 658 | 589 | 23.869.346 | Tratamiento |
 | Misiones | 356 | 192 | 4.400.595 | Tratamiento |
 | Guairá | 243 | 243 | 2.371.116 | Tratamiento |

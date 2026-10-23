@@ -1,14 +1,15 @@
 # Paso 4 del análisis departamental: base del modelo y estimaciones (diferencias en diferencias, triple diferencia,
 # intensidad continua y estudio de eventos) del efecto de las obras del MOPC en la población rural.
 # Requiere haber corrido did_01 a did_03.
-import numpy as np, pandas as pd, patsy
+import os, sys, numpy as np, pandas as pd
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import econometria
+from econometria import Fit
 
 R = '/home/user/infraestructura_caminos'
 OUT = R + '/15_analisis_departamental_did'
 MUESTRA = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '12', '13', '14']  # Región Oriental sin Asunción ni Central
 FOCO = ['01', '02', '05', '06', '14']
-rng = np.random.default_rng(2024)
-REPS = 999
 
 # ---------------- 1. Base del modelo ----------------
 t = pd.read_csv(OUT + '/tratamiento_por_departamento.csv', dtype={'cod_dpto': str})
@@ -40,57 +41,7 @@ p['w'] = 1.0
 p.drop(columns=['luz_media', 'w']).to_csv(OUT + '/base_modelo_dpto_area_anio.csv', index=False, encoding='utf-8-sig')
 
 
-# ---------------- 2. Estimador WLS con errores agrupados y wild cluster bootstrap ----------------
-class Fit:
-    def __init__(self, formula, d, var):
-        d = d.dropna(subset=[c for c in d.columns if c in formula] + ['w']).copy()
-        y, X = patsy.dmatrices(formula, d, return_type='dataframe')
-        self.d = d.loc[y.index]; self.y = y.iloc[:, 0].values; self.X = X
-        self.sw = np.sqrt(self.d.w.values)
-        self.g = self.d.cod_dpto.values; self.G = np.unique(self.g)
-        self.var = var; self.j = list(X.columns).index(var)
-        self.Xw = X.values * self.sw[:, None]
-        self.XtXi = np.linalg.pinv(self.Xw.T @ self.Xw)
-        self.idx = [np.where(self.g == gg)[0] for gg in self.G]
-        self.b, self.se = self._fit(self.y)
-        self.n = len(self.y)
-
-    def _fit(self, y, only_j=False):
-        yw = y * self.sw
-        b = self.XtXi @ (self.Xw.T @ yw)
-        u = yw - self.Xw @ b
-        n, k = self.Xw.shape; G = len(self.G)
-        A = self.XtXi[self.j] if only_j else self.XtXi
-        s = np.array([self.Xw[i].T @ u[i] for i in self.idx])  # G x k
-        if only_j:
-            v = ((s @ A) ** 2).sum()
-        else:
-            v = A @ (s.T @ s) @ A
-        c = G / (G - 1) * (n - 1) / (n - k)
-        se = np.sqrt(c * (v if only_j else np.diag(v)))
-        return b, se
-
-    def coef(self): return self.b[self.j]
-    def p_cluster(self):
-        from scipy import stats
-        return 2 * stats.t.sf(abs(self.b[self.j] / self.se[self.j]), len(self.G) - 1)
-
-    def p_wild(self, reps=REPS):
-        """Wild cluster bootstrap restringido (pesos de Webb), H0: coef = 0."""
-        Xr = np.delete(self.Xw, self.j, axis=1)
-        br = np.linalg.lstsq(Xr, self.y * self.sw, rcond=None)[0]
-        fit_r = Xr @ br; u_r = self.y * self.sw - fit_r
-        t0 = self.b[self.j] / self.se[self.j]
-        webb = np.array([-np.sqrt(1.5), -1, -np.sqrt(.5), np.sqrt(.5), 1, np.sqrt(1.5)])
-        gi = np.searchsorted(self.G, self.g)
-        cnt = 0
-        for _ in range(reps):
-            ystar = (fit_r + u_r * rng.choice(webb, len(self.G))[gi]) / self.sw
-            b, se = self._fit(ystar, only_j=True)
-            cnt += abs(b[self.j] / se) >= abs(t0)
-        return (cnt + 1) / (reps + 1)
-
-
+# ---------------- 2. Estimador: ver econometria.py ----------------
 res = []
 
 
