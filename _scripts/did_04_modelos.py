@@ -1,0 +1,250 @@
+# Paso 4 del análisis departamental: base del modelo y estimaciones (diferencias en diferencias, triple diferencia,
+# intensidad continua y estudio de eventos) del efecto de las obras del MOPC en la población rural.
+# Requiere haber corrido did_01 a did_03.
+import numpy as np, pandas as pd, patsy
+
+R = '/home/user/infraestructura_caminos'
+OUT = R + '/15_analisis_departamental_did'
+MUESTRA = ['01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '12', '13', '14']  # Región Oriental sin Asunción ni Central
+FOCO = ['01', '02', '05', '06', '14']
+rng = np.random.default_rng(2024)
+REPS = 999
+
+# ---------------- 1. Base del modelo ----------------
+t = pd.read_csv(OUT + '/tratamiento_por_departamento.csv', dtype={'cod_dpto': str})
+t['intensidad'] = t.gs_vecinal_por_hab_rural / 1e6  # millones de Gs por habitante rural, obras adjudicadas 2018-2023
+t = t[['cod_dpto', 'departamento', 'departamento_foco', 'tratado', 'intensidad']]
+cl = pd.read_csv(OUT + '/_tmp_luces_lluvia_dpto_area.csv', dtype={'cod_dpto': str})
+cl['lluvia100'] = cl.lluvia_mm / 100
+# exposición habitual a lluvias intensas: promedio 2013-2024 de días >= 50 mm en el área rural del departamento
+hab = cl[cl.rural == 1].groupby('cod_dpto').dias_lluvia_50mm.mean().rename('dias50_habitual')
+t = t.merge(hab, on='cod_dpto', how='left')
+
+h = pd.read_pickle(OUT + '/_tmp_hogares.pkl')
+h = h[h.cod_dpto.isin(MUESTRA)].merge(t, on='cod_dpto', how='left') \
+     .merge(cl[['cod_dpto', 'rural', 'anio', 'lluvia100', 'dias_lluvia_50mm']], on=['cod_dpto', 'rural', 'anio'], how='left')
+h['post'] = (h.anio >= 2023).astype(int)
+h['w'] = h.factor
+h.drop(columns='w').to_csv(OUT + '/base_modelo_hogares.csv', index=False, encoding='utf-8-sig')
+
+p = cl[cl.cod_dpto.isin(MUESTRA)].merge(t, on='cod_dpto', how='left')
+mopc = pd.read_csv(OUT + '/obras_MOPC_por_departamento_anio.csv', dtype={'cod_dpto': str})
+mopc = mopc.sort_values('anio')
+mopc['gs_vecinal_acum_por_hab_rural'] = mopc.groupby('cod_dpto').gs_camino_vecinal.cumsum() / mopc.pob_rural_2022
+# exposición acumulada al año anterior (las obras adjudicadas tardan en ejecutarse)
+mopc['intensidad_acum_t1'] = mopc.groupby('cod_dpto').gs_vecinal_acum_por_hab_rural.shift(1).fillna(0) / 1e6
+p = p.merge(mopc[['cod_dpto', 'anio', 'gs_camino_vecinal', 'intensidad_acum_t1']], on=['cod_dpto', 'anio'], how='left')
+p[['gs_camino_vecinal', 'intensidad_acum_t1']] = p[['gs_camino_vecinal', 'intensidad_acum_t1']].fillna(0)
+p['post'] = (p.anio >= 2019).astype(int)
+p['w'] = 1.0
+p.drop(columns=['luz_media', 'w']).to_csv(OUT + '/base_modelo_dpto_area_anio.csv', index=False, encoding='utf-8-sig')
+
+
+# ---------------- 2. Estimador WLS con errores agrupados y wild cluster bootstrap ----------------
+class Fit:
+    def __init__(self, formula, d, var):
+        d = d.dropna(subset=[c for c in d.columns if c in formula] + ['w']).copy()
+        y, X = patsy.dmatrices(formula, d, return_type='dataframe')
+        self.d = d.loc[y.index]; self.y = y.iloc[:, 0].values; self.X = X
+        self.sw = np.sqrt(self.d.w.values)
+        self.g = self.d.cod_dpto.values; self.G = np.unique(self.g)
+        self.var = var; self.j = list(X.columns).index(var)
+        self.Xw = X.values * self.sw[:, None]
+        self.XtXi = np.linalg.pinv(self.Xw.T @ self.Xw)
+        self.idx = [np.where(self.g == gg)[0] for gg in self.G]
+        self.b, self.se = self._fit(self.y)
+        self.n = len(self.y)
+
+    def _fit(self, y, only_j=False):
+        yw = y * self.sw
+        b = self.XtXi @ (self.Xw.T @ yw)
+        u = yw - self.Xw @ b
+        n, k = self.Xw.shape; G = len(self.G)
+        A = self.XtXi[self.j] if only_j else self.XtXi
+        s = np.array([self.Xw[i].T @ u[i] for i in self.idx])  # G x k
+        if only_j:
+            v = ((s @ A) ** 2).sum()
+        else:
+            v = A @ (s.T @ s) @ A
+        c = G / (G - 1) * (n - 1) / (n - k)
+        se = np.sqrt(c * (v if only_j else np.diag(v)))
+        return b, se
+
+    def coef(self): return self.b[self.j]
+    def p_cluster(self):
+        from scipy import stats
+        return 2 * stats.t.sf(abs(self.b[self.j] / self.se[self.j]), len(self.G) - 1)
+
+    def p_wild(self, reps=REPS):
+        """Wild cluster bootstrap restringido (pesos de Webb), H0: coef = 0."""
+        Xr = np.delete(self.Xw, self.j, axis=1)
+        br = np.linalg.lstsq(Xr, self.y * self.sw, rcond=None)[0]
+        fit_r = Xr @ br; u_r = self.y * self.sw - fit_r
+        t0 = self.b[self.j] / self.se[self.j]
+        webb = np.array([-np.sqrt(1.5), -1, -np.sqrt(.5), np.sqrt(.5), 1, np.sqrt(1.5)])
+        gi = np.searchsorted(self.G, self.g)
+        cnt = 0
+        for _ in range(reps):
+            ystar = (fit_r + u_r * rng.choice(webb, len(self.G))[gi]) / self.sw
+            b, se = self._fit(ystar, only_j=True)
+            cnt += abs(b[self.j] / se) >= abs(t0)
+        return (cnt + 1) / (reps + 1)
+
+
+res = []
+
+
+def correr(nombre, resultado, formula, d, var, muestra, wild=True, extra=None):
+    m = Fit(formula, d, var)
+    r = dict(modelo=nombre, resultado=resultado, variable=var, muestra=muestra, coef=m.coef(), ee_cluster=m.se[m.j],
+             p_cluster=m.p_cluster(), p_wild_bootstrap=m.p_wild() if wild else np.nan, n=m.n, n_dptos=len(m.G),
+             media_base=np.average(m.d.loc[m.d.anio.isin([2017, 2018]) if 'anio' in m.d else m.d.index, resultado],
+                                   weights=m.d.loc[m.d.anio.isin([2017, 2018]) if 'anio' in m.d else m.d.index, 'w']))
+    if extra: r.update(extra)
+    res.append(r)
+    print(f"{nombre:28s} {resultado:22s} {var:30s} {r['coef']:8.4f} p={r['p_cluster']:.3f} wild={r['p_wild_bootstrap']:.3f} n={r['n']}", flush=True)
+    return m
+
+
+Y_MAIN = ['pobre', 'pobre_extremo', 'log_ingreso_linea', 'indice_privaciones']
+Y_ACC = ['asiste_escuela_6_17', 'consulto_si_enfermo', 'no_consulto_lejania']
+Y_PRIV = ['priv_piso_tierra', 'priv_agua_sin_red', 'priv_saneamiento', 'priv_lena_carbon', 'priv_sin_internet', 'priv_sin_vehiculo']
+CTRL = 'miembros + edad_jefe + jefa_mujer + anios_estudio_jefe + lluvia100 + dias_lluvia_50mm'
+
+h['trat_post'] = h.tratado * h.post
+h['int_post'] = h.intensidad * h.post
+h['trat_post_rural'] = h.trat_post * h.rural
+h['int_post_rural'] = h.int_post * h.rural
+h['trat_post_foco'] = h.trat_post * h.departamento_foco
+h['d50c'] = h.dias50_habitual - h.drop_duplicates('cod_dpto').dias50_habitual.mean()
+h['trat_post_d50'] = h.trat_post * h.d50c
+
+base = h[h.anio.isin([2018, 2024])]
+rur = base[base.rural == 1]
+
+# M1: diferencias en diferencias, hogares rurales, 2018 vs 2024
+for y in Y_MAIN + Y_ACC:
+    correr('M1 DiD rural 2018-2024', y, f'{y} ~ trat_post + C(cod_dpto) + C(anio) + {CTRL}', rur, 'trat_post', 'rural, 13 dptos')
+# M2: triple diferencia (rural frente a urbano del mismo departamento y año)
+for y in Y_MAIN:
+    correr('M2 Triple diferencia', y, f'{y} ~ trat_post_rural + C(cod_dpto):C(anio) + C(cod_dpto):C(rural) + C(rural):C(anio) + {CTRL}',
+           base, 'trat_post_rural', 'rural y urbano, 13 dptos')
+# M3: intensidad continua (millones de Gs por habitante rural)
+for y in Y_MAIN:
+    correr('M3 Intensidad continua', y, f'{y} ~ int_post + C(cod_dpto) + C(anio) + {CTRL}', rur, 'int_post', 'rural, 13 dptos')
+# M4: antes y después agrupados (2017-2018 frente a 2023-2024)
+pool = h[h.anio.isin([2017, 2018, 2023, 2024]) & (h.rural == 1)]
+for y in Y_MAIN:
+    correr('M4 DiD 2017/18 vs 2023/24', y, f'{y} ~ trat_post + C(cod_dpto) + C(anio) + {CTRL}', pool, 'trat_post', 'rural, 13 dptos')
+# M5: ¿el efecto es distinto en los cinco departamentos foco?
+for y in Y_MAIN:
+    correr('M5 Heterogeneidad foco', y, f'{y} ~ trat_post + trat_post_foco + C(cod_dpto) + C(anio) + {CTRL}', rur, 'trat_post_foco', 'rural, 13 dptos')
+# M6: solo los cinco departamentos foco (San Pedro, Caazapá y Canindeyú tratados; Concepción y Caaguazú control)
+foco = rur[rur.departamento_foco == 1]
+for y in Y_MAIN:
+    correr('M6 Solo departamentos foco', y, f'{y} ~ trat_post + C(cod_dpto) + C(anio) + {CTRL}', foco, 'trat_post', 'rural, 5 dptos foco')
+# M7: ¿el efecto es mayor donde llueve fuerte más seguido?
+for y in Y_MAIN:
+    correr('M7 Heterogeneidad lluvia', y, f'{y} ~ trat_post + trat_post_d50 + C(cod_dpto) + C(anio) + {CTRL}', rur, 'trat_post_d50', 'rural, 13 dptos')
+# Robustez de M7
+h['int_post_d50'] = h.int_post * h.d50c
+llh = h[h.rural == 1].groupby('cod_dpto').apply(lambda g: g.lluvia100.mean()).rename('lluvia_hab')  # lluvia anual media en los años de la encuesta
+h['llc'] = h.cod_dpto.map(llh - llh.mean())
+h['trat_post_llc'] = h.trat_post * h.llc
+rur = h[h.anio.isin([2018, 2024]) & (h.rural == 1)]
+urb = h[h.anio.isin([2018, 2024]) & (h.rural == 0)]
+pl = h[h.anio.isin([2017, 2018]) & (h.rural == 1)].copy()
+pl['trat_fic'] = pl.tratado * (pl.anio == 2018); pl['trat_fic_d50'] = pl.trat_fic * pl.d50c
+pool = h[h.anio.isin([2017, 2018, 2023, 2024]) & (h.rural == 1)]
+for y in ['pobre', 'log_ingreso_linea']:
+    correr('M7b Intensidad x lluvia', y, f'{y} ~ int_post + int_post_d50 + C(cod_dpto) + C(anio) + {CTRL}', rur, 'int_post_d50', 'rural, 13 dptos')
+    correr('M7c Placebo 2017 vs 2018', y, f'{y} ~ trat_fic + trat_fic_d50 + C(cod_dpto) + C(anio) + {CTRL}', pl, 'trat_fic_d50', 'rural, 13 dptos')
+    correr('M7d Hogares urbanos', y, f'{y} ~ trat_post + trat_post_d50 + C(cod_dpto) + C(anio) + {CTRL}', urb, 'trat_post_d50', 'urbano, 13 dptos')
+    correr('M7e 2017/18 vs 2023/24', y, f'{y} ~ trat_post + trat_post_d50 + C(cod_dpto) + C(anio) + {CTRL}', pool, 'trat_post_d50', 'rural, 13 dptos')
+    correr('M7f Lluvia anual media', y, f'{y} ~ trat_post + trat_post_llc + C(cod_dpto) + C(anio) + {CTRL}', rur, 'trat_post_llc', 'rural, 13 dptos')
+# Línea de base 2017 (muestra completa de la EPHC, 9.570 hogares) en lugar de 2018 (4.999 hogares)
+b17 = h[h.anio.isin([2017, 2024]) & (h.rural == 1)]
+for y in Y_MAIN:
+    correr('M8 DiD rural 2017-2024', y, f'{y} ~ trat_post + C(cod_dpto) + C(anio) + {CTRL}', b17, 'trat_post', 'rural, 13 dptos')
+for y in ['pobre', 'log_ingreso_linea']:
+    correr('M7g Lluvia, base 2017', y, f'{y} ~ trat_post + trat_post_d50 + C(cod_dpto) + C(anio) + {CTRL}', b17, 'trat_post_d50', 'rural, 13 dptos')
+# M7 sacando un departamento por vez
+loo = []
+for d in MUESTRA:
+    s_ = rur[rur.cod_dpto != d]
+    for y in ['pobre', 'log_ingreso_linea']:
+        m = Fit(f'{y} ~ trat_post + trat_post_d50 + C(cod_dpto) + C(anio) + {CTRL}', s_, 'trat_post_d50')
+        loo.append(dict(dpto_excluido=d, resultado=y, coef=m.coef(), ee_cluster=m.se[m.j], p_cluster=m.p_cluster()))
+pd.DataFrame(loo).to_csv(OUT + '/robustez_M7_sin_un_departamento.csv', index=False, encoding='utf-8-sig')
+print(pd.DataFrame(loo).groupby('resultado')[['coef', 'p_cluster']].agg(['min', 'max']).round(3))
+# efecto de las obras según días de lluvia intensa: departamento con exposición baja (p25) y alta (p75)
+m = Fit(f'pobre ~ trat_post + trat_post_d50 + C(cod_dpto) + C(anio) + {CTRL}', rur, 'trat_post_d50')
+q = t[t.cod_dpto.isin(MUESTRA)].dias50_habitual
+cen = h.drop_duplicates('cod_dpto').dias50_habitual.mean()
+k0 = list(m.X.columns).index('trat_post')
+V = None
+for nombre, val in [('p25', q.quantile(.25)), ('p75', q.quantile(.75))]:
+    c = np.zeros(m.X.shape[1]); c[k0] = 1; c[m.j] = val - cen
+    est = c @ m.b
+    s = np.array([m.Xw[i].T @ ((m.y * m.sw - m.Xw @ m.b)[i]) for i in m.idx])
+    G, (n, k) = len(m.G), m.Xw.shape
+    se = np.sqrt(G / (G - 1) * (n - 1) / (n - k) * ((s @ (m.XtXi @ c)) ** 2).sum())
+    res.append(dict(modelo='M7 efecto según lluvia', resultado='pobre', variable=f'trat_post con días>=50mm en {nombre} ({val:.1f} días/año)',
+                    muestra='rural, 13 dptos', coef=est, ee_cluster=se, n=m.n, n_dptos=G))
+    print(nombre, round(val, 2), round(est, 4), round(se, 4))
+
+# Mecanismos: componentes del índice de privaciones
+rur = h[h.anio.isin([2018, 2024]) & (h.rural == 1)]
+for y in Y_PRIV:
+    correr('Mec. componentes', y, f'{y} ~ trat_post + C(cod_dpto) + C(anio) + {CTRL}', rur, 'trat_post', 'rural, 13 dptos')
+
+# Estudio de eventos EPHC (rurales, 2017-2025, base 2018; sin controles de lluvia porque 2025 no tiene dato anual completo)
+ev = h[h.rural == 1].copy()
+yrs = [a for a in range(2017, 2026) if a != 2018]
+for a in yrs: ev[f'tr_{a}'] = ev.tratado * (ev.anio == a)
+ES = []
+for y in ['pobre', 'indice_privaciones']:
+    f = f'{y} ~ ' + ' + '.join(f'tr_{a}' for a in yrs) + ' + C(cod_dpto) + C(anio) + miembros + edad_jefe + jefa_mujer + anios_estudio_jefe'
+    for a in yrs:
+        m = Fit(f, ev, f'tr_{a}')
+        ES.append(dict(fuente='EPHC', resultado=y, anio=a, coef=m.coef(), ee_cluster=m.se[m.j], p_cluster=m.p_cluster()))
+    ES.append(dict(fuente='EPHC', resultado=y, anio=2018, coef=0.0, ee_cluster=0.0, p_cluster=np.nan))
+# Estudio de eventos de la interacción tratamiento × días de lluvia intensa (M7), base 2018
+for a in yrs: ev[f'trd_{a}'] = ev[f'tr_{a}'] * ev.d50c
+for y in ['pobre', 'log_ingreso_linea']:
+    f = f'{y} ~ ' + ' + '.join(f'tr_{a} + trd_{a}' for a in yrs) + ' + C(cod_dpto) + C(anio) + miembros + edad_jefe + jefa_mujer + anios_estudio_jefe'
+    for a in yrs:
+        m = Fit(f, ev, f'trd_{a}')
+        ES.append(dict(fuente='EPHC interacción lluvia', resultado=y, anio=a, coef=m.coef(), ee_cluster=m.se[m.j], p_cluster=m.p_cluster()))
+    ES.append(dict(fuente='EPHC interacción lluvia', resultado=y, anio=2018, coef=0.0, ee_cluster=0.0, p_cluster=np.nan))
+
+# ---------------- 3. Luz nocturna por departamento × área ----------------
+p['trat_post'] = p.tratado * p.post
+p['trat_post_rural'] = p.trat_post * p.rural
+pr = p[p.rural == 1]
+correr('L1 DiD luz rural', 'log_luz_km2', 'log_luz_km2 ~ trat_post + C(cod_dpto) + C(anio) + lluvia100', pr, 'trat_post', 'rural, 13 dptos, 2013-2024')
+correr('L2 Triple diferencia luz', 'log_luz_km2', 'log_luz_km2 ~ trat_post_rural + C(cod_dpto):C(anio) + C(cod_dpto):C(rural) + C(rural):C(anio) + lluvia100',
+       p, 'trat_post_rural', 'rural y urbano, 13 dptos, 2013-2024')
+correr('L3 Intensidad acumulada luz', 'log_luz_km2', 'log_luz_km2 ~ intensidad_acum_t1 + C(cod_dpto) + C(anio) + lluvia100', pr,
+       'intensidad_acum_t1', 'rural, 13 dptos, 2013-2024')
+pre = pr[pr.anio <= 2018].copy(); pre['tend_trat'] = pre.tratado * (pre.anio - 2018)
+correr('L4 Tendencia previa luz', 'log_luz_km2', 'log_luz_km2 ~ tend_trat + C(cod_dpto) + C(anio) + lluvia100', pre, 'tend_trat', 'rural, 13 dptos, 2013-2018')
+lyrs = [a for a in range(2013, 2025) if a != 2018]
+for a in lyrs: pr[f'tr_{a}'] = pr.tratado * (pr.anio == a)
+f = 'log_luz_km2 ~ ' + ' + '.join(f'tr_{a}' for a in lyrs) + ' + C(cod_dpto) + C(anio) + lluvia100'
+for a in lyrs:
+    m = Fit(f, pr, f'tr_{a}')
+    ES.append(dict(fuente='VIIRS', resultado='log_luz_km2', anio=a, coef=m.coef(), ee_cluster=m.se[m.j], p_cluster=m.p_cluster()))
+ES.append(dict(fuente='VIIRS', resultado='log_luz_km2', anio=2018, coef=0.0, ee_cluster=0.0, p_cluster=np.nan))
+
+out = pd.DataFrame(res)
+out.to_csv(OUT + '/resultados_did.csv', index=False, encoding='utf-8-sig')
+pd.DataFrame(ES).sort_values(['fuente', 'resultado', 'anio']).to_csv(OUT + '/resultados_estudio_eventos.csv', index=False, encoding='utf-8-sig')
+
+# Descriptivos: medias ponderadas antes/después por grupo (rurales)
+def wm(g, c): return np.average(g[c].dropna(), weights=g.loc[g[c].notna(), 'w']) if g[c].notna().any() else np.nan
+desc = []
+for (tr, a), g in h[(h.rural == 1) & h.anio.isin([2018, 2024])].groupby(['tratado', 'anio']):
+    desc.append(dict(grupo='tratamiento' if tr == 1 else 'control', anio=a, hogares=len(g), **{c: wm(g, c) for c in Y_MAIN + Y_ACC}))
+pd.DataFrame(desc).to_csv(OUT + '/descriptivos_antes_despues.csv', index=False, encoding='utf-8-sig')
+print(pd.DataFrame(desc).round(3).to_string())

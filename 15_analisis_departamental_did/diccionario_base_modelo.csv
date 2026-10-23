@@ -1,0 +1,48 @@
+tabla,variable,descripcion,unidad,fuente
+base_modelo_hogares,anio,Año de la encuesta (2017-2025),año,EPHC (INE)
+base_modelo_hogares,upm,Unidad primaria de muestreo (conglomerado),código,EPHC (INE)
+base_modelo_hogares,nvivi,Número de vivienda en la UPM,código,EPHC (INE)
+base_modelo_hogares,nhoga,Número de hogar en la vivienda,código,EPHC (INE)
+base_modelo_hogares,cod_dpto,Código de departamento (texto con cero),código,EPHC (INE); 2018-2021 recuperado por UPM
+base_modelo_hogares,dpto_fuente,"Cómo se obtuvo el departamento: DPTO publicado (2017, 2022-2025), DPTOREP (2018-2021, departamentos identificados) o UPM de la muestra 2017 (2018-2021, ""Resto"")",texto,Elaboración propia
+base_modelo_hogares,rural,1 = área rural (AREA = 6); 0 = urbana,0/1,EPHC (INE)
+base_modelo_hogares,factor,Factor de expansión del hogar (proyección revisión 2025); se usa como peso,hogares,EPHC (INE)
+base_modelo_hogares,miembros,Número de miembros del hogar (control),personas,EPHC (INE)
+base_modelo_hogares,pobre,1 = hogar en pobreza monetaria total (POBREZAI 1 o 2),0/1,EPHC (INE)
+base_modelo_hogares,pobre_extremo,1 = hogar en pobreza extrema (POBREZAI 1),0/1,EPHC (INE)
+base_modelo_hogares,log_ingreso_linea,Logaritmo del ingreso per cápita dividido por la línea de pobreza total (piso 0.05),log,EPHC (INE)
+base_modelo_hogares,indice_privaciones,Proporción de las 6 privaciones del hogar (columnas priv_*): 0 = ninguna; 1 = todas,0-1,Elaboración propia con EPHC
+base_modelo_hogares,priv_piso_tierra,1 = piso de tierra (V04 = 1),0/1,EPHC (INE)
+base_modelo_hogares,priv_agua_sin_red,1 = agua no proviene de red (ESSAP; SENASA/junta; red comunitaria o privada) (V06),0/1,EPHC (INE)
+base_modelo_hogares,priv_saneamiento,1 = sin cloaca ni cámara séptica (V13 distinto de 1 y 2),0/1,EPHC (INE)
+base_modelo_hogares,priv_lena_carbon,1 = cocina con leña o carbón (V14B 1 o 3),0/1,EPHC (INE)
+base_modelo_hogares,priv_sin_internet,1 = el hogar no tiene internet (V23B = 6),0/1,EPHC (INE)
+base_modelo_hogares,priv_sin_vehiculo,1 = sin automóvil/camión ni motocicleta (V2413 = 6 y V2414 = 6),0/1,EPHC (INE)
+base_modelo_hogares,asiste_escuela_6_17,Proporción de miembros de 6 a 17 años que asisten a una institución educativa (ED08 1-18),0-1,EPHC (INE)
+base_modelo_hogares,consulto_si_enfermo,Proporción de miembros enfermos o accidentados en los últimos 90 días que consultaron (S04 = 1),0-1,EPHC (INE)
+base_modelo_hogares,no_consulto_lejania,Proporción de miembros enfermos o accidentados que no consultaron porque no hay atención cercana (S05 = 2),0-1,EPHC (INE)
+base_modelo_hogares,edad_jefe,Edad del jefe de hogar (control),años,EPHC (INE)
+base_modelo_hogares,jefa_mujer,1 = jefa de hogar mujer (control),0/1,EPHC (INE)
+base_modelo_hogares,anios_estudio_jefe,Años de estudio del jefe de hogar (control),años,EPHC (INE)
+base_modelo_hogares,departamento,Nombre del departamento,texto,INE
+base_modelo_hogares,departamento_foco,"1 = uno de los 5 departamentos foco (Concepción, San Pedro, Caaguazú, Caazapá, Canindeyú)",0/1,Pregunta de investigación
+base_modelo_hogares,tratado,1 = departamento con inversión del MOPC en caminos vecinales o departamentales 2018-2023 por habitante rural por encima de la mediana de los 13 departamentos,0/1,DNCP (adjudicaciones MOPC) y Censo 2022
+base_modelo_hogares,intensidad,Monto adjudicado por el MOPC en caminos vecinales o departamentales 2018-2023 por habitante rural,millones de Gs por habitante rural,DNCP y Censo 2022
+base_modelo_hogares,dias50_habitual,Promedio 2013-2024 de días al año con lluvia >= 50 mm en el área rural del departamento,días/año,CHIRPS v2.0 diario
+base_modelo_hogares,lluvia100,Lluvia total del año de la encuesta en el departamento × área (control),100 mm,CHIRPS v2.0
+base_modelo_hogares,dias_lluvia_50mm,Días con lluvia >= 50 mm en el año de la encuesta en el departamento × área (control),días,CHIRPS v2.0 diario
+base_modelo_hogares,post,1 = años 2023 en adelante (después de las obras),0/1,Elaboración propia
+base_modelo_dpto_area_anio,cod_dpto,Código de departamento,código,INE
+base_modelo_dpto_area_anio,rural,"1 = área rural (localidades de área 6 y suburbanas 3 de COD-AB); 0 = urbana (área 1)",0/1,COD-AB (OCHA/INE)
+base_modelo_dpto_area_anio,anio,Año (2013-2024),año,
+base_modelo_dpto_area_anio,area_km2,Superficie del área,km²,COD-AB
+base_modelo_dpto_area_anio,luz_suma,Suma de radiancia nocturna anual,nW/cm²/sr (suma de píxeles),VIIRS VNL v2
+base_modelo_dpto_area_anio,lluvia_mm,Lluvia anual media,mm,CHIRPS v2.0
+base_modelo_dpto_area_anio,dias_lluvia_50mm,Días del año con lluvia >= 50 mm (media de las celdas),días,CHIRPS v2.0 diario
+base_modelo_dpto_area_anio,luz_por_km2,Radiancia por km²,nW/cm²/sr por km²,VIIRS
+base_modelo_dpto_area_anio,log_luz_km2,Logaritmo de (1 + radiancia por 100 km²): resultado de los modelos L,log,VIIRS
+base_modelo_dpto_area_anio,lluvia100,Lluvia anual en 100 mm (control),100 mm,CHIRPS
+base_modelo_dpto_area_anio,departamento / departamento_foco / tratado / intensidad / dias50_habitual,Igual que en base_modelo_hogares,,
+base_modelo_dpto_area_anio,gs_camino_vecinal,Monto adjudicado en el año en caminos vecinales o departamentales,Gs,DNCP
+base_modelo_dpto_area_anio,intensidad_acum_t1,Monto acumulado hasta el año anterior por habitante rural (tratamiento continuo del modelo L3),millones de Gs por habitante rural,DNCP y Censo 2022
+base_modelo_dpto_area_anio,post,1 = años 2019 en adelante,0/1,Elaboración propia
