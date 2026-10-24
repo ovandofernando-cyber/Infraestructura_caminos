@@ -2195,10 +2195,16 @@
 17_inversion_vial_todas_entidades,17_inversion_vial_todas_entidades/resultados_inversion_vial.csv,csv,3153,2026-10-23 21:38
 17_inversion_vial_todas_entidades,17_inversion_vial_todas_entidades/resumen_obras_municipales_por_tipo_2012_2020.csv,csv,134,2026-10-23 21:36
 17_inversion_vial_todas_entidades,17_inversion_vial_todas_entidades/tabla_municipalidades_distritos.csv,csv,19172,2026-10-23 21:36
+18_tramos_georreferenciados,18_tramos_georreferenciados/LEEME.md,md,4022,2026-10-24 15:26
+18_tramos_georreferenciados,18_tramos_georreferenciados/escuelas_y_puestos_rurales_distancia_a_tramos.csv,csv,1444989,2026-10-24 15:26
+18_tramos_georreferenciados,18_tramos_georreferenciados/resumen_escuelas_puestos_cerca_de_tramos.csv,csv,283,2026-10-24 15:26
+18_tramos_georreferenciados,18_tramos_georreferenciados/resumen_georreferenciacion.csv,csv,192,2026-10-24 15:25
+18_tramos_georreferenciados,18_tramos_georreferenciados/tramos_obras_vecinales_MOPC_2012_2025.csv,csv,124196,2026-10-24 15:25
+18_tramos_georreferenciados,18_tramos_georreferenciados/tramos_obras_vecinales_MOPC_2012_2025.gpkg,gpkg,364544,2026-10-24 15:25
 ARQUITECTURA_BASE_DE_DATOS.md,ARQUITECTURA_BASE_DE_DATOS.md,md,12846,2026-10-22 12:16
-README.md,README.md,md,10192,2026-10-23 21:39
+README.md,README.md,md,10455,2026-10-24 15:26
 _arquitectura,_arquitectura/claves_y_uniones.md,md,5595,2026-10-21 22:32
-_arquitectura,_arquitectura/fuentes_maestro.csv,csv,56544,2026-10-23 21:39
+_arquitectura,_arquitectura/fuentes_maestro.csv,csv,57231,2026-10-24 15:26
 _arquitectura,_arquitectura/fuentes_pendientes_descarga.csv,csv,7669,2026-10-21 22:32
 _equipo_agentes,_equipo_agentes/README.md,md,1480,2026-10-23 18:34
 _equipo_agentes,_equipo_agentes/ciencia_de_datos.md,md,3119,2026-10-21 22:32
@@ -2260,6 +2266,8 @@ _scripts,_scripts/social_hrea_distrito.py,py,2142,2026-10-21 22:32
 _scripts,_scripts/social_ine_geoportal.py,py,4548,2026-10-21 22:32
 _scripts,_scripts/social_ookla.py,py,2364,2026-10-21 22:32
 _scripts,_scripts/social_poi_distrito.py,py,2206,2026-10-21 22:32
+_scripts,_scripts/tra_01_georreferenciar_tramos.py,py,14082,2026-10-24 15:24
+_scripts,_scripts/tra_02_escuelas_y_puestos_cerca_de_tramos.py,py,3400,2026-10-24 15:25
 _scripts,_scripts/viirs_clip.py,py,1245,2026-10-21 22:37
 _scripts,_scripts/viirs_distritos.py,py,1379,2026-10-21 22:37
 catalogo_bases_caminos_vecinales.xlsx,catalogo_bases_caminos_vecinales.xlsx,xlsx,26343,2026-10-21 22:38
