@@ -18,7 +18,7 @@ Scripts: `_scripts/tra_01_georreferenciar_tramos.py`, `_scripts/tra_02_escuelas_
 1. **Extremos:** de cada lote se toman los nombres de los extremos: "Tramo: Nueva Toledo - Vaquería", "La Paz - Jesús", "Santa Fe del Paraná - Mbaracayú". Se descartan números de lote, progresivas, rutas numeradas y ríos.
 2. **Ubicación de los nombres:** cada nombre se busca entre las localidades del Censo 2022 (punto interior del polígono COD-AB) y las cabeceras distritales, dentro de los departamentos asignados a la obra. Si no aparece allí, se busca en todo el país y solo se acepta si queda a menos de 80 km del otro extremo. Con nombres repetidos se elige la combinación más compacta.
 3. **Trazado:** los extremos consecutivos se unen con una **línea recta**. Es una aproximación: el camino real es más largo; en los lotes que informan longitud, la longitud declarada es en promedio 1,5 veces la recta.
-4. **Revisión manual:** se revisaron los tramos más grandes y se corrigieron o descartaron 20 (columna `revision_manual`). Por ejemplo, Villarrica - Ñumi estaba con un solo punto, y la Ruta 9 del Chaco o los "tramos alimentadores" urbanos de Central no son tramos vecinales.
+4. **Revisión manual:** se revisaron los tramos más grandes y se aplicaron 20 correcciones o descartes, que afectan a 25 lotes (columna `revision_manual`). Por ejemplo, Villarrica - Ñumi estaba con un solo punto, y la Ruta 9 del Chaco o los "tramos alimentadores" urbanos de Central no son tramos vecinales.
 
 ## Resultado
 
@@ -43,7 +43,7 @@ Alcanza para un diseño escuela por escuela: comparar, antes y después del año
 
 ## Limitaciones
 
-- **Ubicación incompleta:** solo el 39 % del monto quedó ubicado (como tramo o punto). Los lotes sin nombres de lugar no se pueden ubicar con el texto de la DNCP; harían falta los pliegos o el listado del MOPC.
+- **Ubicación incompleta:** solo el 43 % del monto quedó ubicado (29 % como tramo y 15 % como punto). Los lotes sin nombres de lugar no se pueden ubicar con el texto de la DNCP; harían falta los pliegos o el listado del MOPC.
 - **Trazado aproximado:** la línea recta no sigue el camino. Un paso siguiente es trazar el recorrido sobre la red vial de OpenStreetMap entre los dos extremos.
 - **Adjudicado no es ejecutado:** la ejecución se puede verificar con el historial de OpenStreetMap (la API ohsome responde desde este entorno) o con imágenes satelitales.
 
