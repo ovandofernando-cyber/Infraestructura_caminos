@@ -1,0 +1,7 @@
+﻿diseno,tipo,modelo,coef,ee,ic95_inf,ic95_sup,p_aleatorizacion,n,nota,p_cluster,p_wild
+A1,principal,"Luz nocturna, controles aún no habilitados: promedio años 0 a +2",0.01892583958983453,0.025711040650163452,-0.06069698886353593,0.05392741395789433,0.6505,57 segmentos de 11 tramos,999 bootstrap válidos; 2000 permutaciones,,
+A2,secundaria,"Luz nocturna, controles emparejados: promedio años 0 a +2",0.008472168797385443,0.01607380774641731,-0.01941599227981957,0.04118930744170858,,"57 segmentos tratados, 285 controles",,,
+A2,secundaria,"Persistencia: pendiente del efecto por año, años 0 a +4",0.005667521595359365,0.006206730715575539,-0.0024045506271348567,0.022397956548411584,,"57 segmentos tratados, 285 controles",,,
+A2,secundaria,Prueba de tendencias previas: promedio años -5 a -2,0.003554344549804052,0.006636869712518534,-0.010525784122107027,0.014391751555897983,,"57 segmentos tratados, 285 controles",,,
+B,principal,"consulta_profesional (EPHC rural, 4 dptos. con tramos frente a 7)",0.01107197421871052,0.011577784054937127,-0.014724936254002077,0.03686888469142312,0.5575757575757576,30264,base antes tratados 0.621,0.3614619302590879,0.389
+B,secundaria,"asiste_12_17 (EPHC rural, 4 dptos. con tramos frente a 7)",0.010477039616803685,0.016836996103151414,-0.027038125551369474,0.047992204784976844,0.6666666666666666,9167,base antes tratados 0.815,0.547694175995072,0.583
