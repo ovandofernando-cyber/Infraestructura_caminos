@@ -121,6 +121,19 @@ Ninguno cumple el criterio fijado en el plan.
 
 ## 6. Qué significa para el memorando y la presentación
 
+**Idea central de la propuesta:** el mantenimiento sostiene los beneficios logrados y, a la vez, reduce el gasto del MOPC. Los datos la respaldan en dos niveles distintos:
+
+- **Beneficios directos de los caminos (están documentados):**
+  - El informe de terminación del BID (PR-L1084, que incluye 9 de los 11 tramos) mide, antes y después de las obras: días transitables del 75 % al 100 %, costo de operación vehicular −25 %, tiempo de viaje −40 % y tránsito diario de 156 a 320 vehículos.
+  - Son exactamente los beneficios que se pierden si el camino se deteriora. En el entregable se valoran como el ahorro de los usuarios que el mantenimiento sostiene (`24_.../escenarios_beneficios_sostenidos.csv`).
+- **Ahorro para el MOPC (también está respaldado):**
+  - con lo que costó rehabilitar 1 km de estos tramos se mantienen 42 km durante un año;
+  - en 15 años, mantener cuesta unos USD 109.000 por km frente a USD 210.000 de rehabilitar cada 5 años (`22_` y `24_`).
+- **Efectos de segundo orden (luz nocturna, consulta de salud, asistencia escolar):** este análisis no los detecta en los primeros años. Es coherente con lo que dice el propio BID: esos impactos "se efectivicen a lo largo del tiempo". Por eso la propuesta no promete efectos en la pobreza; promete sostener los beneficios directos y medir el resto con el sorteo escalonado.
+
+### Notas anteriores
+
+
 - **El caso a favor del mantenimiento se apoya en el costo** (Parte A, `22_`). Mantener cuesta menos que rehabilitar en casi todos los escenarios, y eso no depende de medir efectos en la pobreza.
 - **No conviene prometer efectos en las condiciones de vida con datos de Paraguay.**
   - Los análisis del repositorio no los detectan: obras del MOPC (`15_`, `16_`, `20_`), contratos de mantenimiento (`23_`) y este análisis (`25_`).
